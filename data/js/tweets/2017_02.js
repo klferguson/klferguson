@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 15:07:42 +0000 2017",
+		"id": 829708358034800600,
+		"id_str": "829708358034800641",
+		"text": "RT @Bakari_Sellers: Most teachers in South Carolina buy their own supplies. https://t.co/bxZkXyBw3B",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bakari_Sellers",
+					"name": "Bakari Sellers",
+					"id": 241201438,
+					"id_str": "241201438",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bxZkXyBw3B",
+					"expanded_url": "https://twitter.com/betsydevos/status/829487490805460992",
+					"display_url": "twitter.com/betsydevos/sta…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1041,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11017,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41673,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 09 05:08:51 +0000 2017",
+			"id": 829557654657855500,
+			"id_str": "829557654657855488",
+			"text": "Most teachers in South Carolina buy their own supplies. https://t.co/bxZkXyBw3B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bxZkXyBw3B",
+						"expanded_url": "https://twitter.com/betsydevos/status/829487490805460992",
+						"display_url": "twitter.com/betsydevos/sta…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241201438,
+				"id_str": "241201438",
+				"name": "Bakari Sellers",
+				"screen_name": "Bakari_Sellers",
+				"location": "Denmark, SC",
+				"description": "Former SC House of Rep '06 - '14. Democratic nominee for Lt. Gov. '14. @CNN @StromLaw. Blocked by the most powerful man in the 🌎. https://t.co/uxL2xu6HuF",
+				"url": "https://t.co/s9tXSiXT4z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/s9tXSiXT4z",
+								"expanded_url": "http://www.stromlaw.com",
+								"display_url": "stromlaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uxL2xu6HuF",
+								"expanded_url": "http://bit.ly/1NfC9D5",
+								"display_url": "bit.ly/1NfC9D5",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 85939,
+				"friends_count": 3065,
+				"listed_count": 827,
+				"created_at": "Fri Jan 21 18:10:56 +0000 2011",
+				"favourites_count": 8763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 35308,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829356099405017089/qkhfaBUL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829356099405017089/qkhfaBUL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241201438/1400087154",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 829487490805461000,
+			"quoted_status_id_str": "829487490805460992",
+			"quoted_status": {
+				"created_at": "Thu Feb 09 00:30:03 +0000 2017",
+				"id": 829487490805461000,
+				"id_str": "829487490805460992",
+				"text": "Day 1 on the job is done, but we’re only getting started. Now where do I find the pencils? :) https://t.co/0vRKF1opE9",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 829487488343289900,
+							"id_str": "829487488343289857",
+							"indices": [
+								94,
+								117
+							],
+							"media_url": "http://pbs.twimg.com/media/C4LuedBVMAE3g_U.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4LuedBVMAE3g_U.jpg",
+							"url": "https://t.co/0vRKF1opE9",
+							"display_url": "pic.twitter.com/0vRKF1opE9",
+							"expanded_url": "https://twitter.com/BetsyDeVos/status/829487490805460992/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 1007,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 1007,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 571,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 829487488343289900,
+							"id_str": "829487488343289857",
+							"indices": [
+								94,
+								117
+							],
+							"media_url": "http://pbs.twimg.com/media/C4LuedBVMAE3g_U.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4LuedBVMAE3g_U.jpg",
+							"url": "https://t.co/0vRKF1opE9",
+							"display_url": "pic.twitter.com/0vRKF1opE9",
+							"expanded_url": "https://twitter.com/BetsyDeVos/status/829487490805460992/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 1007,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 1007,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 571,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 599530439,
+					"id_str": "599530439",
+					"name": "Betsy DeVos",
+					"screen_name": "BetsyDeVos",
+					"location": "",
+					"description": "Passionate about quality education for children and an advocate of school choice. Tweets from Betsy are signed \"-Betsy.\"",
+					"url": "https://t.co/YaaKRqlbR7",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/YaaKRqlbR7",
+									"expanded_url": "http://www.betsydevos.com",
+									"display_url": "betsydevos.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 99148,
+					"friends_count": 8,
+					"listed_count": 1064,
+					"created_at": "Mon Jun 04 20:18:50 +0000 2012",
+					"favourites_count": 6,
+					"utc_offset": -14400,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 31,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/801394898700148736/g86Um01a_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/801394898700148736/g86Um01a_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/599530439/1480343344",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1344,
+				"favorite_count": 5789,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 377,
+			"favorite_count": 807,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 829487490805461000,
+		"quoted_status_id_str": "829487490805460992",
+		"retweet_count": 377,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 09 14:56:22 +0000 2017",
+		"id": 829705504108724200,
+		"id_str": "829705504108724224",
+		"text": "@kristenwarner https://t.co/AUVeGm37Fu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Irascible KW, Phd",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 829705463650332700,
+					"id_str": "829705463650332672",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4O0uSUUMAAVP6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4O0uSUUMAAVP6s.jpg",
+					"url": "https://t.co/AUVeGm37Fu",
+					"display_url": "pic.twitter.com/AUVeGm37Fu",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/829705504108724224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 180,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 829705463650332700,
+					"id_str": "829705463650332672",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4O0uSUUMAAVP6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4O0uSUUMAAVP6s.jpg",
+					"url": "https://t.co/AUVeGm37Fu",
+					"display_url": "pic.twitter.com/AUVeGm37Fu",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/829705504108724224/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 180,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							18
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C4O0uSUUMAAVP6s.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1041,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11017,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41673,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Feb 09 05:12:04 +0000 2017",
 		"id": 829558460543008800,
 		"id_str": "829558460543008769",
