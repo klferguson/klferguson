@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 10 20:45:20 +0000 2017",
+		"id": 830155712382763000,
+		"id_str": "830155712382763009",
+		"text": "RT @jasonmcbride68: My @canartca story on Kathy Acker's time in Toronto is now online https://t.co/0CfELRLXDc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasonmcbride68",
+					"name": "Jason McBride",
+					"id": 38054552,
+					"id_str": "38054552",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "canartca",
+					"name": "Canadian Art",
+					"id": 213410837,
+					"id_str": "213410837",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0CfELRLXDc",
+					"expanded_url": "https://twitter.com/canartca/status/830139114892701696",
+					"display_url": "twitter.com/canartca/statu…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1041,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11030,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41704,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 10 19:49:21 +0000 2017",
+			"id": 830141626152603600,
+			"id_str": "830141626152603648",
+			"text": "My @canartca story on Kathy Acker's time in Toronto is now online https://t.co/0CfELRLXDc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "canartca",
+						"name": "Canadian Art",
+						"id": 213410837,
+						"id_str": "213410837",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0CfELRLXDc",
+						"expanded_url": "https://twitter.com/canartca/status/830139114892701696",
+						"display_url": "twitter.com/canartca/statu…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38054552,
+				"id_str": "38054552",
+				"name": "Jason McBride",
+				"screen_name": "jasonmcbride68",
+				"location": "Cherry-coloured funk, Toronto",
+				"description": "Writer, editor. Forthcoming: Kathy Acker: Her Revolutionary Life and Work (Columbia University Press)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1674,
+				"friends_count": 987,
+				"listed_count": 69,
+				"created_at": "Tue May 05 23:40:45 +0000 2009",
+				"favourites_count": 2386,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8267,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/16120087/sleepy_jack.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/16120087/sleepy_jack.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796152547518058496/HKMxDaaM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796152547518058496/HKMxDaaM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38054552/1395228805",
+				"profile_link_color": "2CCFCF",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC32",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 830139114892701700,
+			"quoted_status_id_str": "830139114892701696",
+			"quoted_status": {
+				"created_at": "Fri Feb 10 19:39:22 +0000 2017",
+				"id": 830139114892701700,
+				"id_str": "830139114892701696",
+				"text": "In 1979, literary legend Kathy Acker visited Toronto. She found a spirited art scene, a publisher and a new love.… https://t.co/siHhHOLN2J",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/siHhHOLN2J",
+							"expanded_url": "https://twitter.com/i/web/status/830139114892701696",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 213410837,
+					"id_str": "213410837",
+					"name": "Canadian Art",
+					"screen_name": "canartca",
+					"location": "Toronto, Ontario",
+					"description": "Connect with Canada’s leading visual arts magazine and its charitable foundation. Subscribe to our free weekly e-newsletter at https://t.co/EzzLX6P2nz.",
+					"url": "http://t.co/NJo6yK5uHd",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/NJo6yK5uHd",
+									"expanded_url": "http://www.canadianart.ca/",
+									"display_url": "canadianart.ca",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/EzzLX6P2nz",
+									"expanded_url": "http://canadianart.ca/weekly",
+									"display_url": "canadianart.ca/weekly",
+									"indices": [
+										127,
+										150
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 27004,
+					"friends_count": 3054,
+					"listed_count": 621,
+					"created_at": "Mon Nov 08 21:20:37 +0000 2010",
+					"favourites_count": 4421,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 11494,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431848511936548864/n1SV2MSf.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431848511936548864/n1SV2MSf.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/709769037992108032/EEL9eKZl_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/709769037992108032/EEL9eKZl_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/213410837/1480609458",
+					"profile_link_color": "3DAA7B",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9,
+				"favorite_count": 18,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 830139114892701700,
+		"quoted_status_id_str": "830139114892701696",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 10 20:12:58 +0000 2017",
+		"id": 830147567681941500,
+		"id_str": "830147567681941504",
+		"text": "RT @miriamkp: Nope. https://t.co/sxFWE7knuj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "miriamkp",
+					"name": "Miriam Posner",
+					"id": 56812711,
+					"id_str": "56812711",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sxFWE7knuj",
+					"expanded_url": "https://twitter.com/arneduncan/status/830106686723616769",
+					"display_url": "twitter.com/arneduncan/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1041,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11030,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41704,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 10 20:05:20 +0000 2017",
+			"id": 830145646115987500,
+			"id_str": "830145646115987456",
+			"text": "Nope. https://t.co/sxFWE7knuj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sxFWE7knuj",
+						"expanded_url": "https://twitter.com/arneduncan/status/830106686723616769",
+						"display_url": "twitter.com/arneduncan/sta…",
+						"indices": [
+							6,
+							29
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56812711,
+				"id_str": "56812711",
+				"name": "Miriam Posner",
+				"screen_name": "miriamkp",
+				"location": "Los Angeles, California",
+				"description": "Media & visual culture scholar, digital humanities person, own opinions haver. (It's pronounced Pose-ner.) Based at UCLA.",
+				"url": "https://t.co/UtMnDde6Sh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UtMnDde6Sh",
+								"expanded_url": "http://www.miriamposner.com",
+								"display_url": "miriamposner.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10738,
+				"friends_count": 2807,
+				"listed_count": 580,
+				"created_at": "Tue Jul 14 20:52:27 +0000 2009",
+				"favourites_count": 12318,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43938,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462482218544140288/LXJOq-rF_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462482218544140288/LXJOq-rF_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56812711/1425665846",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 830106686723616800,
+			"quoted_status_id_str": "830106686723616769",
+			"quoted_status": {
+				"created_at": "Fri Feb 10 17:30:31 +0000 2017",
+				"id": 830106686723616800,
+				"id_str": "830106686723616769",
+				"text": "Agree or disagree w @BetsyDeVos on any issue, but let's all agree she really needs to be in public schools. Please let her in.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "BetsyDeVos",
+							"name": "Betsy DeVos",
+							"id": 599530439,
+							"id_str": "599530439",
+							"indices": [
+								20,
+								31
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4662969794,
+					"id_str": "4662969794",
+					"name": "Arne Duncan",
+					"screen_name": "arneduncan",
+					"location": "Chicago, IL",
+					"description": "Managing Partner, Emerson Collective",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7758,
+					"friends_count": 164,
+					"listed_count": 159,
+					"created_at": "Sun Dec 27 19:13:22 +0000 2015",
+					"favourites_count": 370,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 1844,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/682923684063870977/Cnr0_5cg_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/682923684063870977/Cnr0_5cg_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4662969794/1451656829",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1402,
+				"favorite_count": 2824,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 830106686723616800,
+		"quoted_status_id_str": "830106686723616769",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 10 18:23:08 +0000 2017",
 		"id": 830119927738667000,
 		"id_str": "830119927738667008",
