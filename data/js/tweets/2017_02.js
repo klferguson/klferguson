@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 00:26:25 +0000 2017",
+		"id": 830573740132020200,
+		"id_str": "830573740132020225",
+		"text": "RT @mimbale: This person makes a living as an OSCAR BLOGGER. \n@20thcenturyfox &amp; @HiddenFigures pull your ads immediately! (please RT) https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mimbale",
+					"name": "Miriam Bale",
+					"id": 140503420,
+					"id_str": "140503420",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "20thcenturyfox",
+					"name": "20th Century Fox",
+					"id": 203162990,
+					"id_str": "203162990",
+					"indices": [
+						62,
+						77
+					]
+				},
+				{
+					"screen_name": "HiddenFigures",
+					"name": "Hidden Figures",
+					"id": 3742099874,
+					"id_str": "3742099874",
+					"indices": [
+						84,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1041,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11037,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 12 00:25:15 +0000 2017",
+			"id": 830573444794249200,
+			"id_str": "830573444794249216",
+			"text": "This person makes a living as an OSCAR BLOGGER. \n@20thcenturyfox &amp; @HiddenFigures pull your ads immediately! (pleas… https://t.co/6yfYuhO03y",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "20thcenturyfox",
+						"name": "20th Century Fox",
+						"id": 203162990,
+						"id_str": "203162990",
+						"indices": [
+							49,
+							64
+						]
+					},
+					{
+						"screen_name": "HiddenFigures",
+						"name": "Hidden Figures",
+						"id": 3742099874,
+						"id_str": "3742099874",
+						"indices": [
+							71,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6yfYuhO03y",
+						"expanded_url": "https://twitter.com/i/web/status/830573444794249216",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 140503420,
+				"id_str": "140503420",
+				"name": "Miriam Bale",
+				"screen_name": "mimbale",
+				"location": "",
+				"description": "miriambale@gmail.com",
+				"url": "https://t.co/iWfnkbHIUF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iWfnkbHIUF",
+								"expanded_url": "https://www.tinyletter.com/mimbale",
+								"display_url": "tinyletter.com/mimbale",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6154,
+				"friends_count": 1991,
+				"listed_count": 171,
+				"created_at": "Wed May 05 17:18:42 +0000 2010",
+				"favourites_count": 81361,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39064,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "D8D5D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/98713560/em1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/98713560/em1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800691032660869121/Xvj0MMzB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800691032660869121/Xvj0MMzB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/140503420/1479734594",
+				"profile_link_color": "F0B609",
+				"profile_sidebar_border_color": "E6C625",
+				"profile_sidebar_fill_color": "574114",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 11 22:35:49 +0000 2017",
 		"id": 830545906361589800,
 		"id_str": "830545906361589760",
