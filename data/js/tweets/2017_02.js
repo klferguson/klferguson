@@ -1,6 +1,1101 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 14:06:57 +0000 2017",
+		"id": 832229785355092000,
+		"id_str": "832229785355091968",
+		"text": "whenever we order coffee for meetings they send us stirrers. here are the stirrers we have after three meetings. https://t.co/fhQS83eq2w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 832229761795682300,
+					"id_str": "832229761795682304",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/C4ysjxtW8AAaQ7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4ysjxtW8AAaQ7q.jpg",
+					"url": "https://t.co/fhQS83eq2w",
+					"display_url": "pic.twitter.com/fhQS83eq2w",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/832229785355091968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832229761795682300,
+					"id_str": "832229761795682304",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/C4ysjxtW8AAaQ7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4ysjxtW8AAaQ7q.jpg",
+					"url": "https://t.co/fhQS83eq2w",
+					"display_url": "pic.twitter.com/fhQS83eq2w",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/832229785355091968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1043,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11091,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 14:01:38 +0000 2017",
+		"id": 832228446252183600,
+		"id_str": "832228446252183552",
+		"text": "Need that for my life",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1043,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11091,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 14:01:21 +0000 2017",
+		"id": 832228375267799000,
+		"id_str": "832228375267799040",
+		"text": "RT @AxiosVisuals: Analyzing when Trump tweets gives a window into his media diet. https://t.co/z0Z8VBKx7p https://t.co/eQ5BXcJu3u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AxiosVisuals",
+					"name": "Axios Visuals",
+					"id": 822466626515861500,
+					"id_str": "822466626515861506",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z0Z8VBKx7p",
+					"expanded_url": "https://www.axios.com/trumps-tweet-timing-is-another-look-into-his-media-diet-2259587791.html",
+					"display_url": "axios.com/trumps-tweet-t…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 832214867771801600,
+					"id_str": "832214867771801600",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+					"url": "https://t.co/eQ5BXcJu3u",
+					"display_url": "pic.twitter.com/eQ5BXcJu3u",
+					"expanded_url": "https://twitter.com/AxiosVisuals/status/832214871190204417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 806,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 806,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832214871190204400,
+					"source_status_id_str": "832214871190204417",
+					"source_user_id": 822466626515861500,
+					"source_user_id_str": "822466626515861506"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832214867771801600,
+					"id_str": "832214867771801600",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+					"url": "https://t.co/eQ5BXcJu3u",
+					"display_url": "pic.twitter.com/eQ5BXcJu3u",
+					"expanded_url": "https://twitter.com/AxiosVisuals/status/832214871190204417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 806,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 806,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832214871190204400,
+					"source_status_id_str": "832214871190204417",
+					"source_user_id": 822466626515861500,
+					"source_user_id_str": "822466626515861506"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1043,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11091,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 13:07:41 +0000 2017",
+			"id": 832214871190204400,
+			"id_str": "832214871190204417",
+			"text": "Analyzing when Trump tweets gives a window into his media diet. https://t.co/z0Z8VBKx7p https://t.co/eQ5BXcJu3u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/z0Z8VBKx7p",
+						"expanded_url": "https://www.axios.com/trumps-tweet-timing-is-another-look-into-his-media-diet-2259587791.html",
+						"display_url": "axios.com/trumps-tweet-t…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 832214867771801600,
+						"id_str": "832214867771801600",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+						"url": "https://t.co/eQ5BXcJu3u",
+						"display_url": "pic.twitter.com/eQ5BXcJu3u",
+						"expanded_url": "https://twitter.com/AxiosVisuals/status/832214871190204417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 806,
+								"h": 423,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 806,
+								"h": 423,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832214867771801600,
+						"id_str": "832214867771801600",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4yfA1JWQAAvuwN.jpg",
+						"url": "https://t.co/eQ5BXcJu3u",
+						"display_url": "pic.twitter.com/eQ5BXcJu3u",
+						"expanded_url": "https://twitter.com/AxiosVisuals/status/832214871190204417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 806,
+								"h": 423,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 806,
+								"h": 423,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822466626515861500,
+				"id_str": "822466626515861506",
+				"name": "Axios Visuals",
+				"screen_name": "AxiosVisuals",
+				"location": "",
+				"description": "Data graphics, interactive stories, photos, videos and illustrations from @Axios.",
+				"url": "https://t.co/gThDzed4Ob",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gThDzed4Ob",
+								"expanded_url": "http://www.axios.com",
+								"display_url": "axios.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1115,
+				"friends_count": 36,
+				"listed_count": 32,
+				"created_at": "Fri Jan 20 15:31:39 +0000 2017",
+				"favourites_count": 11,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 62,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827252517084004352/1qqw5qOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827252517084004352/1qqw5qOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822466626515861506/1484951417",
+				"profile_link_color": "5827AE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 16 13:21:23 +0000 2017",
+		"id": 832218317603688400,
+		"id_str": "832218317603688448",
+		"text": "RT @rtphokie: Saturn V fuel consumption expressed in elephants https://t.co/uqi9tavomR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rtphokie",
+					"name": "Tony Rice",
+					"id": 16207462,
+					"id_str": "16207462",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832094504597409800,
+					"id_str": "832094504597409792",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+					"url": "https://t.co/uqi9tavomR",
+					"display_url": "pic.twitter.com/uqi9tavomR",
+					"expanded_url": "https://twitter.com/rtphokie/status/832094873108967424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 748,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 242,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832094873108967400,
+					"source_status_id_str": "832094873108967424",
+					"source_user_id": 16207462,
+					"source_user_id_str": "16207462"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832094504597409800,
+					"id_str": "832094504597409792",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+					"url": "https://t.co/uqi9tavomR",
+					"display_url": "pic.twitter.com/uqi9tavomR",
+					"expanded_url": "https://twitter.com/rtphokie/status/832094873108967424/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 748,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 242,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832094873108967400,
+					"source_status_id_str": "832094873108967424",
+					"source_user_id": 16207462,
+					"source_user_id_str": "16207462",
+					"video_info": {
+						"aspect_ratio": [
+							187,
+							133
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C4wxixYVUAACq7h.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1043,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11091,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 05:10:51 +0000 2017",
+			"id": 832094873108967400,
+			"id_str": "832094873108967424",
+			"text": "Saturn V fuel consumption expressed in elephants https://t.co/uqi9tavomR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 832094504597409800,
+						"id_str": "832094504597409792",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+						"url": "https://t.co/uqi9tavomR",
+						"display_url": "pic.twitter.com/uqi9tavomR",
+						"expanded_url": "https://twitter.com/rtphokie/status/832094873108967424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 748,
+								"h": 532,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 242,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832094504597409800,
+						"id_str": "832094504597409792",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4wxixYVUAACq7h.jpg",
+						"url": "https://t.co/uqi9tavomR",
+						"display_url": "pic.twitter.com/uqi9tavomR",
+						"expanded_url": "https://twitter.com/rtphokie/status/832094873108967424/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 748,
+								"h": 532,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 242,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								187,
+								133
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C4wxixYVUAACq7h.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16207462,
+				"id_str": "16207462",
+				"name": "Tony Rice",
+				"screen_name": "rtphokie",
+				"location": "Raleigh, NC, USA",
+				"description": "InfoSec engineer by day, @NASAJPL Solar System Ambassador, contributor to @WRAL & @WeatherBrains on space topics by night",
+				"url": "https://t.co/Gb6N0wjfNT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gb6N0wjfNT",
+								"expanded_url": "http://about.me/tonyrice",
+								"display_url": "about.me/tonyrice",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2572,
+				"friends_count": 1059,
+				"listed_count": 194,
+				"created_at": "Tue Sep 09 19:05:54 +0000 2008",
+				"favourites_count": 1909,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11271,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453716262275645441/AoMMr_DI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453716262275645441/AoMMr_DI.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804445910667296768/dr2IIYda_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804445910667296768/dr2IIYda_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16207462/1453143090",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 865,
+			"favorite_count": 1055,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 865,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 16 12:29:02 +0000 2017",
 		"id": 832205142883708900,
 		"id_str": "832205142883708928",
