@@ -1,6 +1,787 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 02 17:02:57 +0000 2017",
+		"id": 837347507902505000,
+		"id_str": "837347507902504960",
+		"text": "RT @seanspicer: the good ole days -- what I would give to hide in a bunny costume again  https://t.co/QOlPBsMwMA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seanspicer",
+					"name": "Sean Spicer",
+					"id": 20776147,
+					"id_str": "20776147",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QOlPBsMwMA",
+					"expanded_url": "https://twitter.com/OKnox/status/714454998952910848",
+					"display_url": "twitter.com/OKnox/status/7…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 451,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11227,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42156,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 28 23:59:49 +0000 2016",
+			"id": 714602927306854400,
+			"id_str": "714602927306854400",
+			"text": "the good ole days -- what I would give to hide in a bunny costume again  https://t.co/QOlPBsMwMA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QOlPBsMwMA",
+						"expanded_url": "https://twitter.com/OKnox/status/714454998952910848",
+						"display_url": "twitter.com/OKnox/status/7…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20776147,
+				"id_str": "20776147",
+				"name": "Sean Spicer",
+				"screen_name": "seanspicer",
+				"location": "",
+				"description": "Former Chief Strategist & Comms Director @GOP , Horrable speller, Wicked @RedSox/@Patriots fan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 296170,
+				"friends_count": 977,
+				"listed_count": 3188,
+				"created_at": "Fri Feb 13 15:06:14 +0000 2009",
+				"favourites_count": 1467,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16671,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4ABFE0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/345673198/Iowa_debate_photo_5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/345673198/Iowa_debate_photo_5.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787840812683923456/m5Tcnwvs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787840812683923456/m5Tcnwvs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20776147/1469236047",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6EEF7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 714454998952910800,
+			"quoted_status_id_str": "714454998952910848",
+			"quoted_status": {
+				"created_at": "Mon Mar 28 14:12:00 +0000 2016",
+				"id": 714454998952910800,
+				"id_str": "714454998952910848",
+				"text": "#neverforget #WhiteHousebunny @seanspicer https://t.co/Fi134UjYYJ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "neverforget",
+							"indices": [
+								0,
+								12
+							]
+						},
+						{
+							"text": "WhiteHousebunny",
+							"indices": [
+								13,
+								29
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "seanspicer",
+							"name": "Sean Spicer",
+							"id": 20776147,
+							"id_str": "20776147",
+							"indices": [
+								30,
+								41
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 714454998151798800,
+							"id_str": "714454998151798785",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/CepBCRTXIAEcRyP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CepBCRTXIAEcRyP.jpg",
+							"url": "https://t.co/Fi134UjYYJ",
+							"display_url": "pic.twitter.com/Fi134UjYYJ",
+							"expanded_url": "https://twitter.com/OKnox/status/714454998952910848/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 556,
+									"h": 450,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 556,
+									"h": 450,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 275,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 714454998151798800,
+							"id_str": "714454998151798785",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/CepBCRTXIAEcRyP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CepBCRTXIAEcRyP.jpg",
+							"url": "https://t.co/Fi134UjYYJ",
+							"display_url": "pic.twitter.com/Fi134UjYYJ",
+							"expanded_url": "https://twitter.com/OKnox/status/714454998952910848/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 556,
+									"h": 450,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 556,
+									"h": 450,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 275,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 11771512,
+					"id_str": "11771512",
+					"name": "Olivier Knox",
+					"screen_name": "OKnox",
+					"location": "Washington, DC",
+					"description": "Chief Washington Correspondent, Yahoo! News. Something retweets something something. Views here are my own, not my employer's. Alleged Student of Diplomacy",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 39462,
+					"friends_count": 2245,
+					"listed_count": 1747,
+					"created_at": "Wed Jan 02 20:58:16 +0000 2008",
+					"favourites_count": 12274,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 89843,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/552580492596232192/juCAGmwU_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/552580492596232192/juCAGmwU_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/11771512/1471010256",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 70,
+				"favorite_count": 129,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 23,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 714454998952910800,
+		"quoted_status_id_str": "714454998952910848",
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 02 16:27:05 +0000 2017",
+		"id": 837338479424122900,
+		"id_str": "837338479424122881",
+		"text": "RT @social_brains: This picture has NO red pixels.  Great demo of color constancy (ht Akiyoshi Kitaoka) https://t.co/pZHvbB6QHE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "social_brains",
+					"name": "Matt Lieberman",
+					"id": 415601652,
+					"id_str": "415601652",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 836088496964026400,
+					"id_str": "836088496964026369",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+					"url": "https://t.co/pZHvbB6QHE",
+					"display_url": "pic.twitter.com/pZHvbB6QHE",
+					"expanded_url": "https://twitter.com/social_brains/status/836088599418281984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 857,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 857,
+							"h": 857,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836088599418282000,
+					"source_status_id_str": "836088599418281984",
+					"source_user_id": 415601652,
+					"source_user_id_str": "415601652"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 836088496964026400,
+					"id_str": "836088496964026369",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+					"url": "https://t.co/pZHvbB6QHE",
+					"display_url": "pic.twitter.com/pZHvbB6QHE",
+					"expanded_url": "https://twitter.com/social_brains/status/836088599418281984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 857,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 857,
+							"h": 857,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836088599418282000,
+					"source_status_id_str": "836088599418281984",
+					"source_user_id": 415601652,
+					"source_user_id_str": "415601652"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 451,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11227,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42156,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 27 05:40:30 +0000 2017",
+			"id": 836088599418282000,
+			"id_str": "836088599418281984",
+			"text": "This picture has NO red pixels.  Great demo of color constancy (ht Akiyoshi Kitaoka) https://t.co/pZHvbB6QHE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 836088496964026400,
+						"id_str": "836088496964026369",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+						"url": "https://t.co/pZHvbB6QHE",
+						"display_url": "pic.twitter.com/pZHvbB6QHE",
+						"expanded_url": "https://twitter.com/social_brains/status/836088599418281984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 857,
+								"h": 857,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 857,
+								"h": 857,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 836088496964026400,
+						"id_str": "836088496964026369",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5piDuZUwAEZl00.jpg",
+						"url": "https://t.co/pZHvbB6QHE",
+						"display_url": "pic.twitter.com/pZHvbB6QHE",
+						"expanded_url": "https://twitter.com/social_brains/status/836088599418281984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 857,
+								"h": 857,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 857,
+								"h": 857,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 415601652,
+				"id_str": "415601652",
+				"name": "Matt Lieberman",
+				"screen_name": "social_brains",
+				"location": "TEDx talk",
+				"description": "UCLA Neuroscientist, Author of 'Social', opinions are my own",
+				"url": "http://t.co/J8N7iMnTTU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/J8N7iMnTTU",
+								"expanded_url": "http://bit.ly/GExuhS",
+								"display_url": "bit.ly/GExuhS",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21939,
+				"friends_count": 1990,
+				"listed_count": 988,
+				"created_at": "Fri Nov 18 15:14:53 +0000 2011",
+				"favourites_count": 5104,
+				"utc_offset": -32400,
+				"time_zone": "Alaska",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4738,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000060773938/9fabcfd33236e35fad77ac904b17c279.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000060773938/9fabcfd33236e35fad77ac904b17c279.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1651421588/matt3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1651421588/matt3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/415601652/1377620442",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9459,
+			"favorite_count": 20129,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9459,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 02 15:24:32 +0000 2017",
 		"id": 837322739035832300,
 		"id_str": "837322739035832320",
@@ -217,7 +998,7 @@ Grailbird.data.tweets_2017_03 =
 				"name": "Kaivan Shroff",
 				"screen_name": "KaivanShroff",
 				"location": "Manhattan, NY",
-				"description": "[current]: MBA @Yale 👔, @millennial_dems [past]: digital organizing📱🙋🏼@HillaryClinton, 👨🏽‍🎓poli sci @BrownUniversity",
+				"description": "[current]: MBA @Yale 👔, @millennial_dems [past]: digital organizing📱🙋🏼@HillaryClinton, 👨🏽🎓poli sci @BrownUniversity",
 				"url": "https://t.co/4qp93h5ImL",
 				"entities": {
 					"url": {
