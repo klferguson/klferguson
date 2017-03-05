@@ -1,6 +1,811 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 14:55:31 +0000 2017",
+		"id": 838402602723332100,
+		"id_str": "838402602723332096",
+		"text": "Swastika Night by Katharine Burdekin https://t.co/9ipC29gmqt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ipC29gmqt",
+					"expanded_url": "https://www.amazon.com/dp/0935312560/ref=cm_sw_r_tw_dp_x_4AcVybYJ4CVYG",
+					"display_url": "amazon.com/dp/0935312560/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 452,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11253,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et"
+	},
+	{
+		"created_at": "Sun Mar 05 14:51:36 +0000 2017",
+		"id": 838401613970747400,
+		"id_str": "838401613970747392",
+		"text": "https://t.co/p45CEknqXv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 838401589425627100,
+					"id_str": "838401589425627136",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/C6KZzbTWYAAkzRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6KZzbTWYAAkzRe.jpg",
+					"url": "https://t.co/p45CEknqXv",
+					"display_url": "pic.twitter.com/p45CEknqXv",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/838401613970747392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 483,
+							"h": 154,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 154,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 483,
+							"h": 154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 838401589425627100,
+					"id_str": "838401589425627136",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/C6KZzbTWYAAkzRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6KZzbTWYAAkzRe.jpg",
+					"url": "https://t.co/p45CEknqXv",
+					"display_url": "pic.twitter.com/p45CEknqXv",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/838401613970747392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 483,
+							"h": 154,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 154,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 483,
+							"h": 154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 452,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11253,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Mar 05 14:28:55 +0000 2017",
+		"id": 838395908731514900,
+		"id_str": "838395908731514883",
+		"text": "RT @SimonHendriksen: The dude abides. https://t.co/dV2UjrClJ1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimonHendriksen",
+					"name": "Simon Hendriksen",
+					"id": 136636457,
+					"id_str": "136636457",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 838336720928137200,
+					"id_str": "838336720928137216",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+					"url": "https://t.co/dV2UjrClJ1",
+					"display_url": "pic.twitter.com/dV2UjrClJ1",
+					"expanded_url": "https://twitter.com/SimonHendriksen/status/838336777542852609/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 838336777542852600,
+					"source_status_id_str": "838336777542852609",
+					"source_user_id": 136636457,
+					"source_user_id_str": "136636457"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 838336720928137200,
+					"id_str": "838336720928137216",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+					"url": "https://t.co/dV2UjrClJ1",
+					"display_url": "pic.twitter.com/dV2UjrClJ1",
+					"expanded_url": "https://twitter.com/SimonHendriksen/status/838336777542852609/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 838336777542852600,
+					"source_status_id_str": "838336777542852609",
+					"source_user_id": 136636457,
+					"source_user_id_str": "136636457",
+					"video_info": {
+						"aspect_ratio": [
+							359,
+							202
+						],
+						"duration_millis": 5005,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/vid/318x180/Eo6CDUgSYGGcf0cv.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/pl/JY2fC8mlkGts8rap.mpd"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/pl/JY2fC8mlkGts8rap.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/vid/638x360/w7R5lqG-9JHXVj4G.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 136636457,
+							"id_str": "136636457",
+							"name": "Simon Hendriksen",
+							"screen_name": "SimonHendriksen",
+							"location": "Amsterdam",
+							"description": "Betrouwbaar Mannetje",
+							"url": "https://t.co/thjfl2kVWY",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/thjfl2kVWY",
+											"expanded_url": "http://betrouwbaremannetjes.com",
+											"display_url": "betrouwbaremannetjes.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1733,
+							"friends_count": 171,
+							"listed_count": 31,
+							"created_at": "Sat Apr 24 13:45:52 +0000 2010",
+							"favourites_count": 7597,
+							"utc_offset": 3600,
+							"time_zone": "Amsterdam",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 30049,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685405982/2a8098c1aa8e5d45bbe54134755b0617.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685405982/2a8098c1aa8e5d45bbe54134755b0617.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/825077585755459584/sRLsCtIf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/825077585755459584/sRLsCtIf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/136636457/1442496229",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 452,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11253,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 10:33:57 +0000 2017",
+			"id": 838336777542852600,
+			"id_str": "838336777542852609",
+			"text": "The dude abides. https://t.co/dV2UjrClJ1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 838336720928137200,
+						"id_str": "838336720928137216",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+						"url": "https://t.co/dV2UjrClJ1",
+						"display_url": "pic.twitter.com/dV2UjrClJ1",
+						"expanded_url": "https://twitter.com/SimonHendriksen/status/838336777542852609/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 838336720928137200,
+						"id_str": "838336720928137216",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/838336720928137216/pu/img/nI8WEQWKCvzHUF3f.jpg",
+						"url": "https://t.co/dV2UjrClJ1",
+						"display_url": "pic.twitter.com/dV2UjrClJ1",
+						"expanded_url": "https://twitter.com/SimonHendriksen/status/838336777542852609/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								359,
+								202
+							],
+							"duration_millis": 5005,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/vid/318x180/Eo6CDUgSYGGcf0cv.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/pl/JY2fC8mlkGts8rap.mpd"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/pl/JY2fC8mlkGts8rap.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/838336720928137216/pu/vid/638x360/w7R5lqG-9JHXVj4G.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 136636457,
+				"id_str": "136636457",
+				"name": "Simon Hendriksen",
+				"screen_name": "SimonHendriksen",
+				"location": "Amsterdam",
+				"description": "Betrouwbaar Mannetje",
+				"url": "https://t.co/thjfl2kVWY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/thjfl2kVWY",
+								"expanded_url": "http://betrouwbaremannetjes.com",
+								"display_url": "betrouwbaremannetjes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1733,
+				"friends_count": 171,
+				"listed_count": 31,
+				"created_at": "Sat Apr 24 13:45:52 +0000 2010",
+				"favourites_count": 7597,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30049,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685405982/2a8098c1aa8e5d45bbe54134755b0617.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685405982/2a8098c1aa8e5d45bbe54134755b0617.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825077585755459584/sRLsCtIf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825077585755459584/sRLsCtIf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/136636457/1442496229",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 05 13:45:25 +0000 2017",
 		"id": 838384958632779800,
 		"id_str": "838384958632779776",
