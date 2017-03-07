@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 18:33:53 +0000 2017",
+		"id": 839182330434576400,
+		"id_str": "839182330434576385",
+		"text": "RT @intjournal: From Scene to AutoCAD to Illustrator. This is our Process. https://t.co/ApOkGXY9kl... https://t.co/qXimoD5xAB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "intjournal",
+					"name": "Interiors",
+					"id": 701939430,
+					"id_str": "701939430",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ApOkGXY9kl",
+					"expanded_url": "http://INTJournal.com",
+					"display_url": "INTJournal.com",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 839182183432515600,
+					"id_str": "839182183432515584",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+					"url": "https://t.co/qXimoD5xAB",
+					"display_url": "pic.twitter.com/qXimoD5xAB",
+					"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839182187782033400,
+					"source_status_id_str": "839182187782033410",
+					"source_user_id": 701939430,
+					"source_user_id_str": "701939430"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 839182183432515600,
+					"id_str": "839182183432515584",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+					"url": "https://t.co/qXimoD5xAB",
+					"display_url": "pic.twitter.com/qXimoD5xAB",
+					"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839182187782033400,
+					"source_status_id_str": "839182187782033410",
+					"source_user_id": 701939430,
+					"source_user_id_str": "701939430"
+				},
+				{
+					"id": 839182183608655900,
+					"id_str": "839182183608655872",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C6Vfv_PUoAAPXz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6Vfv_PUoAAPXz4.jpg",
+					"url": "https://t.co/qXimoD5xAB",
+					"display_url": "pic.twitter.com/qXimoD5xAB",
+					"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839182187782033400,
+					"source_status_id_str": "839182187782033410",
+					"source_user_id": 701939430,
+					"source_user_id_str": "701939430"
+				},
+				{
+					"id": 839182184044867600,
+					"id_str": "839182184044867584",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C6VfwA3UsAAxfmh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6VfwA3UsAAxfmh.jpg",
+					"url": "https://t.co/qXimoD5xAB",
+					"display_url": "pic.twitter.com/qXimoD5xAB",
+					"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839182187782033400,
+					"source_status_id_str": "839182187782033410",
+					"source_user_id": 701939430,
+					"source_user_id_str": "701939430"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 454,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11268,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 07 18:33:19 +0000 2017",
+			"id": 839182187782033400,
+			"id_str": "839182187782033410",
+			"text": "From Scene to AutoCAD to Illustrator. This is our Process. https://t.co/ApOkGXY9kl... https://t.co/qXimoD5xAB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ApOkGXY9kl",
+						"expanded_url": "http://INTJournal.com",
+						"display_url": "INTJournal.com",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 839182183432515600,
+						"id_str": "839182183432515584",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+						"url": "https://t.co/qXimoD5xAB",
+						"display_url": "pic.twitter.com/qXimoD5xAB",
+						"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 839182183432515600,
+						"id_str": "839182183432515584",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6Vfv-lU8AAcr7X.jpg",
+						"url": "https://t.co/qXimoD5xAB",
+						"display_url": "pic.twitter.com/qXimoD5xAB",
+						"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 839182183608655900,
+						"id_str": "839182183608655872",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C6Vfv_PUoAAPXz4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6Vfv_PUoAAPXz4.jpg",
+						"url": "https://t.co/qXimoD5xAB",
+						"display_url": "pic.twitter.com/qXimoD5xAB",
+						"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 839182184044867600,
+						"id_str": "839182184044867584",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C6VfwA3UsAAxfmh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6VfwA3UsAAxfmh.jpg",
+						"url": "https://t.co/qXimoD5xAB",
+						"display_url": "pic.twitter.com/qXimoD5xAB",
+						"expanded_url": "https://twitter.com/intjournal/status/839182187782033410/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701939430,
+				"id_str": "701939430",
+				"name": "Interiors",
+				"screen_name": "intjournal",
+				"location": "Los Angeles, CA",
+				"description": "Interiors is an Online Publication about Architecture and Film. Creative Director: @mehruss Editor-in-Chief: @armenlovesmary",
+				"url": "http://www.INTjournal.com",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.INTjournal.com",
+								"expanded_url": null,
+								"indices": [
+									0,
+									25
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1502,
+				"friends_count": 2040,
+				"listed_count": 46,
+				"created_at": "Tue Jul 17 23:04:45 +0000 2012",
+				"favourites_count": 1233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1981,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2407231296/INTsecondarylogo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2407231296/INTsecondarylogo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701939430/1436586098",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 07 16:42:49 +0000 2017",
 		"id": 839154381232681000,
 		"id_str": "839154381232680960",
