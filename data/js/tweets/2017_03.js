@@ -1,6 +1,710 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 12:40:46 +0000 2017",
+		"id": 840180628159111200,
+		"id_str": "840180628159111168",
+		"text": "RT @m_pattison: At the start of this year I compiled every opening shot of Buffy the Vampire Slayer. Cheers, @joss! #buffyslays20 https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "buffyslays20",
+					"indices": [
+						116,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "m_pattison",
+					"name": "Michael Pattison",
+					"id": 103622784,
+					"id_str": "103622784",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "joss",
+					"name": "Joss Whedon",
+					"id": 776198324747575300,
+					"id_str": "776198324747575297",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 453,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11276,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 10 11:50:38 +0000 2017",
+			"id": 840168012430868500,
+			"id_str": "840168012430868480",
+			"text": "At the start of this year I compiled every opening shot of Buffy the Vampire Slayer. Cheers, @joss! #buffyslays20 https://t.co/X6B7dLp2HZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "buffyslays20",
+						"indices": [
+							100,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "joss",
+						"name": "Joss Whedon",
+						"id": 776198324747575300,
+						"id_str": "776198324747575297",
+						"indices": [
+							93,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X6B7dLp2HZ",
+						"expanded_url": "http://www.idfilm.net/2017/01/every-opening-shot-of-buffy-the-vampire-slayer.html",
+						"display_url": "idfilm.net/2017/01/every-…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103622784,
+				"id_str": "103622784",
+				"name": "Michael Pattison",
+				"screen_name": "m_pattison",
+				"location": "Gateshead, England",
+				"description": "synchronic emergent powers materialism",
+				"url": "http://t.co/k6ajB0fSoB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/k6ajB0fSoB",
+								"expanded_url": "http://www.idfilm.net/",
+								"display_url": "idfilm.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1895,
+				"friends_count": 928,
+				"listed_count": 72,
+				"created_at": "Sun Jan 10 17:43:33 +0000 2010",
+				"favourites_count": 7093,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1012,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF4000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707276875/aab315b773859e5f81b5e3e766912645.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/707276875/aab315b773859e5f81b5e3e766912645.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748534739397672960/GHVwZTAp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748534739397672960/GHVwZTAp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103622784/1467715777",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "363636",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 10 12:32:10 +0000 2017",
+		"id": 840178463881515000,
+		"id_str": "840178463881515014",
+		"text": "RT @Rivettian: This is glorious. https://t.co/mGR3eavbGL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rivettian",
+					"name": "Adam Batty",
+					"id": 14701191,
+					"id_str": "14701191",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mGR3eavbGL",
+					"expanded_url": "https://twitter.com/BBCWorld/status/840172946211627009",
+					"display_url": "twitter.com/BBCWorld/statu…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 453,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11276,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 10 12:28:04 +0000 2017",
+			"id": 840177434351804400,
+			"id_str": "840177434351804416",
+			"text": "This is glorious. https://t.co/mGR3eavbGL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mGR3eavbGL",
+						"expanded_url": "https://twitter.com/BBCWorld/status/840172946211627009",
+						"display_url": "twitter.com/BBCWorld/statu…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14701191,
+				"id_str": "14701191",
+				"name": "Adam Batty",
+				"screen_name": "Rivettian",
+				"location": "Sheffield, United Kingdom",
+				"description": "Unwavering auteurist, shut-in cinephile, Sheffield. Almost award-winning freelance writer on cinema and film programmer. Likes French movies.",
+				"url": "https://t.co/3cmLh7BDMZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3cmLh7BDMZ",
+								"expanded_url": "http://hopelies.com",
+								"display_url": "hopelies.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3391,
+				"friends_count": 641,
+				"listed_count": 169,
+				"created_at": "Thu May 08 14:59:45 +0000 2008",
+				"favourites_count": 1640,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 118151,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180724977/KuooCCdd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180724977/KuooCCdd.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/729010375979634689/xdrGAw7A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/729010375979634689/xdrGAw7A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14701191/1486404260",
+				"profile_link_color": "445566",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 840172946211627000,
+			"quoted_status_id_str": "840172946211627009",
+			"quoted_status": {
+				"created_at": "Fri Mar 10 12:10:14 +0000 2017",
+				"id": 840172946211627000,
+				"id_str": "840172946211627009",
+				"text": "This guest managed to keep his composure when his children interrupted his live @BBCWorld TV interview https://t.co/3x5tgsVR8R",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "BBCWorld",
+							"name": "BBC News (World)",
+							"id": 742143,
+							"id_str": "742143",
+							"indices": [
+								80,
+								89
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 840172793698406400,
+							"id_str": "840172793698406400",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/840172793698406400/pu/img/Sj9yefe1UpNwGOrQ.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/840172793698406400/pu/img/Sj9yefe1UpNwGOrQ.jpg",
+							"url": "https://t.co/3x5tgsVR8R",
+							"display_url": "pic.twitter.com/3x5tgsVR8R",
+							"expanded_url": "https://twitter.com/BBCWorld/status/840172946211627009/video/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 720,
+									"h": 406,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 192,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 840172793698406400,
+							"id_str": "840172793698406400",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/840172793698406400/pu/img/Sj9yefe1UpNwGOrQ.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/840172793698406400/pu/img/Sj9yefe1UpNwGOrQ.jpg",
+							"url": "https://t.co/3x5tgsVR8R",
+							"display_url": "pic.twitter.com/3x5tgsVR8R",
+							"expanded_url": "https://twitter.com/BBCWorld/status/840172946211627009/video/1",
+							"type": "video",
+							"sizes": {
+								"large": {
+									"w": 720,
+									"h": 406,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 192,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									360,
+									203
+								],
+								"duration_millis": 86920,
+								"variants": [
+									{
+										"content_type": "application/dash+xml",
+										"url": "https://video.twimg.com/ext_tw_video/840172793698406400/pu/pl/bmQQwGBWpSTPuoV3.mpd"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/840172793698406400/pu/vid/318x180/H_vEtcMGghdbZLZd.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/840172793698406400/pu/vid/638x360/sGXRxNah_EEBJbyr.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/840172793698406400/pu/pl/bmQQwGBWpSTPuoV3.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 742143,
+					"id_str": "742143",
+					"name": "BBC News (World)",
+					"screen_name": "BBCWorld",
+					"location": "London, UK",
+					"description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+					"url": "https://t.co/7NEgoMwJy3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/7NEgoMwJy3",
+									"expanded_url": "http://www.bbc.com/news",
+									"display_url": "bbc.com/news",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 18392153,
+					"friends_count": 80,
+					"listed_count": 102828,
+					"created_at": "Thu Feb 01 07:44:29 +0000 2007",
+					"favourites_count": 5,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 251644,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/694449140269518848/57ZmXva0_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/694449140269518848/57ZmXva0_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/742143/1485172490",
+					"profile_link_color": "1F527B",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "5A5A5A",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2575,
+				"favorite_count": 2618,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 840172946211627000,
+		"quoted_status_id_str": "840172946211627009",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 10 02:38:16 +0000 2017",
 		"id": 840029007152312300,
 		"id_str": "840029007152312320",
