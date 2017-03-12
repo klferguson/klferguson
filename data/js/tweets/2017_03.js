@@ -1,6 +1,985 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 16:59:31 +0000 2017",
+		"id": 840970521558822900,
+		"id_str": "840970521558822912",
+		"text": "RT @shinbowi3: sneak preview of edgar wright's new film BABY DRIVER https://t.co/3mwn6s1zkN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shinbowi3",
+					"name": "bowi3",
+					"id": 1566527528,
+					"id_str": "1566527528",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 826613427699191800,
+					"id_str": "826613427699191808",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+					"url": "https://t.co/3mwn6s1zkN",
+					"display_url": "pic.twitter.com/3mwn6s1zkN",
+					"expanded_url": "https://twitter.com/shinbowi3/status/826613447135748097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 826613447135748100,
+					"source_status_id_str": "826613447135748097",
+					"source_user_id": 1566527528,
+					"source_user_id_str": "1566527528"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 826613427699191800,
+					"id_str": "826613427699191808",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+					"url": "https://t.co/3mwn6s1zkN",
+					"display_url": "pic.twitter.com/3mwn6s1zkN",
+					"expanded_url": "https://twitter.com/shinbowi3/status/826613447135748097/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 826613447135748100,
+					"source_status_id_str": "826613447135748097",
+					"source_user_id": 1566527528,
+					"source_user_id_str": "1566527528",
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							68
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C3i4iGyUEAAjs58.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 452,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11296,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42394,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 01 02:09:38 +0000 2017",
+			"id": 826613447135748100,
+			"id_str": "826613447135748097",
+			"text": "sneak preview of edgar wright's new film BABY DRIVER https://t.co/3mwn6s1zkN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 826613427699191800,
+						"id_str": "826613427699191808",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+						"url": "https://t.co/3mwn6s1zkN",
+						"display_url": "pic.twitter.com/3mwn6s1zkN",
+						"expanded_url": "https://twitter.com/shinbowi3/status/826613447135748097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 185,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 272,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 272,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 826613427699191800,
+						"id_str": "826613427699191808",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3i4iGyUEAAjs58.jpg",
+						"url": "https://t.co/3mwn6s1zkN",
+						"display_url": "pic.twitter.com/3mwn6s1zkN",
+						"expanded_url": "https://twitter.com/shinbowi3/status/826613447135748097/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 185,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 272,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 272,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								125,
+								68
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C3i4iGyUEAAjs58.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1566527528,
+				"id_str": "1566527528",
+				"name": "bowi3",
+				"screen_name": "shinbowi3",
+				"location": "",
+				"description": "cat and film enthusiast",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 490,
+				"friends_count": 157,
+				"listed_count": 5,
+				"created_at": "Wed Jul 03 19:32:42 +0000 2013",
+				"favourites_count": 18333,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7553,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/692810089627983872/4FscjxCR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/692810089627983872/4FscjxCR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1566527528/1465018082",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 12 16:59:27 +0000 2017",
+		"id": 840970506325102600,
+		"id_str": "840970506325102592",
+		"text": "RT @FailsWork: That's impressive. https://t.co/egr0TQSoN2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FailsWork",
+					"name": "Work Safety Fails",
+					"id": 3773329635,
+					"id_str": "3773329635",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 840931032694165500,
+					"id_str": "840931032694165504",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+					"url": "https://t.co/egr0TQSoN2",
+					"display_url": "pic.twitter.com/egr0TQSoN2",
+					"expanded_url": "https://twitter.com/FailsWork/status/840931085068394496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 840931085068394500,
+					"source_status_id_str": "840931085068394496",
+					"source_user_id": 3773329635,
+					"source_user_id_str": "3773329635"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 840931032694165500,
+					"id_str": "840931032694165504",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+					"url": "https://t.co/egr0TQSoN2",
+					"display_url": "pic.twitter.com/egr0TQSoN2",
+					"expanded_url": "https://twitter.com/FailsWork/status/840931085068394496/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 840931085068394500,
+					"source_status_id_str": "840931085068394496",
+					"source_user_id": 3773329635,
+					"source_user_id_str": "3773329635",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C6uWUZxWkAAu9ex.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 452,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11296,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42394,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 14:22:49 +0000 2017",
+			"id": 840931085068394500,
+			"id_str": "840931085068394496",
+			"text": "That's impressive. https://t.co/egr0TQSoN2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 840931032694165500,
+						"id_str": "840931032694165504",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+						"url": "https://t.co/egr0TQSoN2",
+						"display_url": "pic.twitter.com/egr0TQSoN2",
+						"expanded_url": "https://twitter.com/FailsWork/status/840931085068394496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 840931032694165500,
+						"id_str": "840931032694165504",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6uWUZxWkAAu9ex.jpg",
+						"url": "https://t.co/egr0TQSoN2",
+						"display_url": "pic.twitter.com/egr0TQSoN2",
+						"expanded_url": "https://twitter.com/FailsWork/status/840931085068394496/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C6uWUZxWkAAu9ex.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3773329635,
+				"id_str": "3773329635",
+				"name": "Work Safety Fails",
+				"screen_name": "FailsWork",
+				"location": "",
+				"description": "Health and Safety isn't everyone's top priority. We are a FAN / parody * of the posts/videos and do not claim any ownership or copywrites.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23419,
+				"friends_count": 73,
+				"listed_count": 207,
+				"created_at": "Fri Sep 25 17:47:01 +0000 2015",
+				"favourites_count": 71,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 778,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718887342757515270/6Zz_QBfu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718887342757515270/6Zz_QBfu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3773329635/1460230253",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 12 16:52:21 +0000 2017",
+		"id": 840968717781590000,
+		"id_str": "840968717781590016",
+		"text": "https://t.co/ZF96uxSaff",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 840968691810426900,
+					"id_str": "840968691810426880",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6u4kc6V4AAez6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6u4kc6V4AAez6P.jpg",
+					"url": "https://t.co/ZF96uxSaff",
+					"display_url": "pic.twitter.com/ZF96uxSaff",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/840968717781590016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 435,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 247,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 840968691810426900,
+					"id_str": "840968691810426880",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6u4kc6V4AAez6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6u4kc6V4AAez6P.jpg",
+					"url": "https://t.co/ZF96uxSaff",
+					"display_url": "pic.twitter.com/ZF96uxSaff",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/840968717781590016/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 435,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 247,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 580,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							29
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C6u4kc6V4AAez6P.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 452,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11296,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42394,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Mar 12 15:30:32 +0000 2017",
 		"id": 840948129423867900,
 		"id_str": "840948129423867905",
