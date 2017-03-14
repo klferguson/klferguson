@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 13:08:44 +0000 2017",
+		"id": 841637216967356400,
+		"id_str": "841637216967356417",
+		"text": "RT @typingelbow: I look at this site (https://t.co/R6WxzRdfFg) every day, but it's particularly impressive today. https://t.co/XwFcbcgfAJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "typingelbow",
+					"name": "Elisabeth Cordova",
+					"id": 8207402,
+					"id_str": "8207402",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R6WxzRdfFg",
+					"expanded_url": "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-90.23,31.99,1176",
+					"display_url": "earth.nullschool.net/#current/wind/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 841623996680421400,
+					"id_str": "841623996680421376",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+					"url": "https://t.co/XwFcbcgfAJ",
+					"display_url": "pic.twitter.com/XwFcbcgfAJ",
+					"expanded_url": "https://twitter.com/typingelbow/status/841624027487690752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 836,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 549,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 841624027487690800,
+					"source_status_id_str": "841624027487690752",
+					"source_user_id": 8207402,
+					"source_user_id_str": "8207402"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841623996680421400,
+					"id_str": "841623996680421376",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+					"url": "https://t.co/XwFcbcgfAJ",
+					"display_url": "pic.twitter.com/XwFcbcgfAJ",
+					"expanded_url": "https://twitter.com/typingelbow/status/841624027487690752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 836,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 549,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 841624027487690800,
+					"source_status_id_str": "841624027487690752",
+					"source_user_id": 8207402,
+					"source_user_id_str": "8207402"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1040,
+			"friends_count": 453,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11314,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42435,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 12:16:19 +0000 2017",
+			"id": 841624027487690800,
+			"id_str": "841624027487690752",
+			"text": "I look at this site (https://t.co/R6WxzRdfFg) every day, but it's particularly impressive today. https://t.co/XwFcbcgfAJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R6WxzRdfFg",
+						"expanded_url": "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-90.23,31.99,1176",
+						"display_url": "earth.nullschool.net/#current/wind/…",
+						"indices": [
+							21,
+							44
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 841623996680421400,
+						"id_str": "841623996680421376",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+						"url": "https://t.co/XwFcbcgfAJ",
+						"display_url": "pic.twitter.com/XwFcbcgfAJ",
+						"expanded_url": "https://twitter.com/typingelbow/status/841624027487690752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 836,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 836,
+								"h": 549,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841623996680421400,
+						"id_str": "841623996680421376",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64MkNyUwAAwVdC.jpg",
+						"url": "https://t.co/XwFcbcgfAJ",
+						"display_url": "pic.twitter.com/XwFcbcgfAJ",
+						"expanded_url": "https://twitter.com/typingelbow/status/841624027487690752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 836,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 836,
+								"h": 549,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8207402,
+				"id_str": "8207402",
+				"name": "Elisabeth Cordova",
+				"screen_name": "typingelbow",
+				"location": "Brooklyn, NY",
+				"description": "Elisabeth Butler Cordova, a Southerner living in Brooklyn. Wife, mama and assistant managing editor (news!) for @cnbc.com. Opinions are mine. #Binders #WPS",
+				"url": "https://t.co/OPub4Um863",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OPub4Um863",
+								"expanded_url": "http://www.cnbc.com",
+								"display_url": "cnbc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 883,
+				"friends_count": 872,
+				"listed_count": 32,
+				"created_at": "Wed Aug 15 16:50:02 +0000 2007",
+				"favourites_count": 2050,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4850,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/598487257725669377/2bjJE3g1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/598487257725669377/2bjJE3g1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8207402/1472824883",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 14 01:34:41 +0000 2017",
 		"id": 841462554954203100,
 		"id_str": "841462554954203136",
