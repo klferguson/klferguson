@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 14:02:45 +0000 2017",
+		"id": 842013198593232900,
+		"id_str": "842013198593232896",
+		"text": "RT @paulcorupe: Happy birthday David Cronenbarg! https://t.co/dUPGaIxjGh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulcorupe",
+					"name": "Paul Corupe",
+					"id": 30003814,
+					"id_str": "30003814",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 842002131569770500,
+					"id_str": "842002131569770496",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+					"url": "https://t.co/dUPGaIxjGh",
+					"display_url": "pic.twitter.com/dUPGaIxjGh",
+					"expanded_url": "https://twitter.com/paulcorupe/status/842007673516175363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 696,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842007673516175400,
+					"source_status_id_str": "842007673516175363",
+					"source_user_id": 30003814,
+					"source_user_id_str": "30003814"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 842002131569770500,
+					"id_str": "842002131569770496",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+					"url": "https://t.co/dUPGaIxjGh",
+					"display_url": "pic.twitter.com/dUPGaIxjGh",
+					"expanded_url": "https://twitter.com/paulcorupe/status/842007673516175363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 696,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842007673516175400,
+					"source_status_id_str": "842007673516175363",
+					"source_user_id": 30003814,
+					"source_user_id_str": "30003814"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1040,
+			"friends_count": 453,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11318,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 15 13:40:47 +0000 2017",
+			"id": 842007673516175400,
+			"id_str": "842007673516175363",
+			"text": "Happy birthday David Cronenbarg! https://t.co/dUPGaIxjGh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 842002131569770500,
+						"id_str": "842002131569770496",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+						"url": "https://t.co/dUPGaIxjGh",
+						"display_url": "pic.twitter.com/dUPGaIxjGh",
+						"expanded_url": "https://twitter.com/paulcorupe/status/842007673516175363/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 653,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 696,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 842002131569770500,
+						"id_str": "842002131569770496",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C69kekBWgAAjFh2.jpg",
+						"url": "https://t.co/dUPGaIxjGh",
+						"display_url": "pic.twitter.com/dUPGaIxjGh",
+						"expanded_url": "https://twitter.com/paulcorupe/status/842007673516175363/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 653,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 696,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30003814,
+				"id_str": "30003814",
+				"name": "Paul Corupe",
+				"screen_name": "paulcorupe",
+				"location": "Toronto",
+				"description": "Writer, editor, salvager of cultural detritus. See: @Canuxploitation.com, SpectacularOptical.ca, @BlackMuseumTO lecture series, @RueMorgue magazine.",
+				"url": "http://t.co/Jlx3fU7mGN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jlx3fU7mGN",
+								"expanded_url": "http://www.canuxploitation.com",
+								"display_url": "canuxploitation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 846,
+				"friends_count": 371,
+				"listed_count": 39,
+				"created_at": "Thu Apr 09 15:24:20 +0000 2009",
+				"favourites_count": 1090,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3336,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/600988669/xbvmxak8jjipbqo37jlt.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/600988669/xbvmxak8jjipbqo37jlt.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/654697612767969280/jgds91k2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/654697612767969280/jgds91k2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30003814/1407433872",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 15 13:27:49 +0000 2017",
+		"id": 842004410561634300,
+		"id_str": "842004410561634304",
+		"text": "RT @jmittell: For a good overview of academic videographic criticism &amp; @inTransitionCMS, check out this @MovImArchNews piece: https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jmittell",
+					"name": "Jason Mittell",
+					"id": 35295295,
+					"id_str": "35295295",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "inTransitionCMS",
+					"name": "inTransition",
+					"id": 2413071554,
+					"id_str": "2413071554",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"screen_name": "MovImArchNews",
+					"name": "MovImageArchiveNews",
+					"id": 606459336,
+					"id_str": "606459336",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1040,
+			"friends_count": 453,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11318,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 15 13:16:10 +0000 2017",
+			"id": 842001477908480000,
+			"id_str": "842001477908480000",
+			"text": "For a good overview of academic videographic criticism &amp; @inTransitionCMS, check out this @MovImArchNews piece: https://t.co/fyaJF3UWAD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "inTransitionCMS",
+						"name": "inTransition",
+						"id": 2413071554,
+						"id_str": "2413071554",
+						"indices": [
+							61,
+							77
+						]
+					},
+					{
+						"screen_name": "MovImArchNews",
+						"name": "MovImageArchiveNews",
+						"id": 606459336,
+						"id_str": "606459336",
+						"indices": [
+							94,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fyaJF3UWAD",
+						"expanded_url": "http://www.movingimagearchivenews.org/has-the-video-essay-arrived/",
+						"display_url": "movingimagearchivenews.org/has-the-video-…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35295295,
+				"id_str": "35295295",
+				"name": "Jason Mittell",
+				"screen_name": "jmittell",
+				"location": "Middlebury, VT",
+				"description": "Media studies prof at @Middlebury, Peabody Fellow, father of 3, proud Vermonter, team @intransitionCMS, author of books about TV. #Resist",
+				"url": "http://t.co/4g1ONVcBQm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4g1ONVcBQm",
+								"expanded_url": "http://justtv.wordpress.com",
+								"display_url": "justtv.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4550,
+				"friends_count": 1525,
+				"listed_count": 323,
+				"created_at": "Sat Apr 25 19:58:58 +0000 2009",
+				"favourites_count": 100,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28668,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10394076/TVAmCult_web.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10394076/TVAmCult_web.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798671509279612928/UiE5nK6e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798671509279612928/UiE5nK6e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35295295/1443194837",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 15 13:25:34 +0000 2017",
+		"id": 842003842699001900,
+		"id_str": "842003842699001856",
+		"text": "(still thinking about how dumb the ending was.)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 841820556076953600,
+		"in_reply_to_status_id_str": "841820556076953600",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1040,
+			"friends_count": 453,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11318,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826963635578736641/ywA0ooH__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 15 11:50:06 +0000 2017",
 		"id": 841979817230774300,
 		"id_str": "841979817230774273",
