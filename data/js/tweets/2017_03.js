@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 03:26:02 +0000 2017",
+		"id": 845114456778584000,
+		"id_str": "845114456778584066",
+		"text": "RT @jmittell: Tomorrow morning at #scms17 at 9am, come see me, @chouxsalad @medieninitiativ @KevinLFerguson @vkuhn &amp; @samplereality do #Wei…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scms17",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jmittell",
+					"name": "Jason Mittell",
+					"id": 35295295,
+					"id_str": "35295295",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "chouxsalad",
+					"name": "Stephanie Boluk",
+					"id": 14399899,
+					"id_str": "14399899",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "medieninitiativ",
+					"name": "Shane Denson",
+					"id": 331543096,
+					"id_str": "331543096",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"screen_name": "KevinLFerguson",
+					"name": "Kevin L. Ferguson",
+					"id": 359023788,
+					"id_str": "359023788",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "vkuhn",
+					"name": "Virginia Kuhn",
+					"id": 3953211,
+					"id_str": "3953211",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"screen_name": "samplereality",
+					"name": "Mark Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1046,
+			"friends_count": 455,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11422,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 24 03:24:13 +0000 2017",
+			"id": 845114000786493400,
+			"id_str": "845114000786493440",
+			"text": "Tomorrow morning at #scms17 at 9am, come see me, @chouxsalad @medieninitiativ @KevinLFerguson @vkuhn &amp;… https://t.co/Njnu4jtTzt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "scms17",
+						"indices": [
+							20,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chouxsalad",
+						"name": "Stephanie Boluk",
+						"id": 14399899,
+						"id_str": "14399899",
+						"indices": [
+							49,
+							60
+						]
+					},
+					{
+						"screen_name": "medieninitiativ",
+						"name": "Shane Denson",
+						"id": 331543096,
+						"id_str": "331543096",
+						"indices": [
+							61,
+							77
+						]
+					},
+					{
+						"screen_name": "KevinLFerguson",
+						"name": "Kevin L. Ferguson",
+						"id": 359023788,
+						"id_str": "359023788",
+						"indices": [
+							78,
+							93
+						]
+					},
+					{
+						"screen_name": "vkuhn",
+						"name": "Virginia Kuhn",
+						"id": 3953211,
+						"id_str": "3953211",
+						"indices": [
+							94,
+							100
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Njnu4jtTzt",
+						"expanded_url": "https://twitter.com/i/web/status/845114000786493440",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35295295,
+				"id_str": "35295295",
+				"name": "Jason Mittell",
+				"screen_name": "jmittell",
+				"location": "Middlebury, VT",
+				"description": "Media studies prof at @Middlebury, Peabody Fellow, father of 3, proud Vermonter, team @intransitionCMS, author of books about TV. #Resist",
+				"url": "http://t.co/4g1ONVcBQm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4g1ONVcBQm",
+								"expanded_url": "http://justtv.wordpress.com",
+								"display_url": "justtv.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4556,
+				"friends_count": 1529,
+				"listed_count": 324,
+				"created_at": "Sat Apr 25 19:58:58 +0000 2009",
+				"favourites_count": 103,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28710,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10394076/TVAmCult_web.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10394076/TVAmCult_web.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798671509279612928/UiE5nK6e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798671509279612928/UiE5nK6e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35295295/1443194837",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 24 00:04:10 +0000 2017",
 		"id": 845063656702382100,
 		"id_str": "845063656702382081",
