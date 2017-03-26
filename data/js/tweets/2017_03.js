@@ -1,6 +1,1037 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 26 00:23:25 +0000 2017",
+		"id": 845793274321391600,
+		"id_str": "845793274321391616",
+		"text": "RT @markboynz: #SCMS18 bingo sheet to include \"This question is answered in the longer paper\", and \"I really need to finish writing...\" #sc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCMS18",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markboynz",
+					"name": "Mark Stewart",
+					"id": 22984616,
+					"id_str": "22984616",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 455,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11461,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 23:35:26 +0000 2017",
+			"id": 845781198928592900,
+			"id_str": "845781198928592896",
+			"text": "#SCMS18 bingo sheet to include \"This question is answered in the longer paper\", and \"I really need to finish writing...\" #scms17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SCMS18",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "scms17",
+						"indices": [
+							121,
+							128
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22984616,
+				"id_str": "22984616",
+				"name": "Mark Stewart",
+				"screen_name": "markboynz",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Assistant Professor of Television Studies at Universiteit van Amsterdam, PhD in tv & new media, wandering Kiwi, Expert in Embarrassing Self-Disclosure",
+				"url": "https://t.co/N32SC4Uz2N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N32SC4Uz2N",
+								"expanded_url": "http://televisionftw.wordpress.com/",
+								"display_url": "televisionftw.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1514,
+				"friends_count": 1637,
+				"listed_count": 75,
+				"created_at": "Thu Mar 05 21:46:49 +0000 2009",
+				"favourites_count": 9209,
+				"utc_offset": 46800,
+				"time_zone": "Auckland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954609592/me_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954609592/me_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22984616/1423727306",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 26 00:23:06 +0000 2017",
+		"id": 845793196533862400,
+		"id_str": "845793196533862401",
+		"text": "RT @CJSCMSlt: Making female pleasure legible via smiles in MMXXL.\n#scms17 #p17 klf https://t.co/FhyXglRY5t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scms17",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "p17",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CJSCMSlt",
+					"name": "CJ@SCMS Live-Tweets",
+					"id": 1183205048,
+					"id_str": "1183205048",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 845715026111455200,
+					"id_str": "845715026111455232",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+					"url": "https://t.co/FhyXglRY5t",
+					"display_url": "pic.twitter.com/FhyXglRY5t",
+					"expanded_url": "https://twitter.com/CJSCMSlt/status/845715036538634241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845715036538634200,
+					"source_status_id_str": "845715036538634241",
+					"source_user_id": 1183205048,
+					"source_user_id_str": "1183205048"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 845715026111455200,
+					"id_str": "845715026111455232",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+					"url": "https://t.co/FhyXglRY5t",
+					"display_url": "pic.twitter.com/FhyXglRY5t",
+					"expanded_url": "https://twitter.com/CJSCMSlt/status/845715036538634241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845715036538634200,
+					"source_status_id_str": "845715036538634241",
+					"source_user_id": 1183205048,
+					"source_user_id_str": "1183205048"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 455,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11461,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 19:12:31 +0000 2017",
+			"id": 845715036538634200,
+			"id_str": "845715036538634241",
+			"text": "Making female pleasure legible via smiles in MMXXL.\n#scms17 #p17 klf https://t.co/FhyXglRY5t",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "scms17",
+						"indices": [
+							52,
+							59
+						]
+					},
+					{
+						"text": "p17",
+						"indices": [
+							60,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 845715026111455200,
+						"id_str": "845715026111455232",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+						"url": "https://t.co/FhyXglRY5t",
+						"display_url": "pic.twitter.com/FhyXglRY5t",
+						"expanded_url": "https://twitter.com/CJSCMSlt/status/845715036538634241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845715026111455200,
+						"id_str": "845715026111455232",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7yVVeCVYAA5qTP.jpg",
+						"url": "https://t.co/FhyXglRY5t",
+						"display_url": "pic.twitter.com/FhyXglRY5t",
+						"expanded_url": "https://twitter.com/CJSCMSlt/status/845715036538634241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1183205048,
+				"id_str": "1183205048",
+				"name": "CJ@SCMS Live-Tweets",
+				"screen_name": "CJSCMSlt",
+				"location": "Chicago, IL",
+				"description": "@CinemaJournal #SCMS17 live-tweets @kristenwarner @_mesk @markboynz @kevinlferguson @justinbhorton @virtualcasey @taycole For observations follow @CJSCMS.",
+				"url": "http://t.co/HFOgPKAIkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HFOgPKAIkd",
+								"expanded_url": "http://www.cmstudies.org/?page=upcoming_conference",
+								"display_url": "cmstudies.org/?page=upcoming…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 890,
+				"friends_count": 934,
+				"listed_count": 28,
+				"created_at": "Fri Feb 15 17:03:38 +0000 2013",
+				"favourites_count": 455,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3731,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000179482471/Hs6DmbBQ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000179482471/Hs6DmbBQ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843585566637723649/i9O-PCeN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843585566637723649/i9O-PCeN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1183205048/1489961180",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 26 00:22:59 +0000 2017",
+		"id": 845793163944099800,
+		"id_str": "845793163944099842",
+		"text": "RT @Sierra_OffLine: Absolutely not an #scms17 panel https://t.co/AY9D34ck8z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scms17",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sierra_OffLine",
+					"name": "Laine Nooney 📺 SCMS",
+					"id": 720799154,
+					"id_str": "720799154",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 845646923012943900,
+					"id_str": "845646923012943872",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+					"url": "https://t.co/AY9D34ck8z",
+					"display_url": "pic.twitter.com/AY9D34ck8z",
+					"expanded_url": "https://twitter.com/Sierra_OffLine/status/845647003996639232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845647003996639200,
+					"source_status_id_str": "845647003996639232",
+					"source_user_id": 720799154,
+					"source_user_id_str": "720799154"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 845646923012943900,
+					"id_str": "845646923012943872",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+					"url": "https://t.co/AY9D34ck8z",
+					"display_url": "pic.twitter.com/AY9D34ck8z",
+					"expanded_url": "https://twitter.com/Sierra_OffLine/status/845647003996639232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845647003996639200,
+					"source_status_id_str": "845647003996639232",
+					"source_user_id": 720799154,
+					"source_user_id_str": "720799154"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 455,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11461,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844553589863469056/Afyd-xDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 14:42:11 +0000 2017",
+			"id": 845647003996639200,
+			"id_str": "845647003996639232",
+			"text": "Absolutely not an #scms17 panel https://t.co/AY9D34ck8z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "scms17",
+						"indices": [
+							18,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 845646923012943900,
+						"id_str": "845646923012943872",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+						"url": "https://t.co/AY9D34ck8z",
+						"display_url": "pic.twitter.com/AY9D34ck8z",
+						"expanded_url": "https://twitter.com/Sierra_OffLine/status/845647003996639232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845646923012943900,
+						"id_str": "845646923012943872",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7xXZWOWsAAYHwn.jpg",
+						"url": "https://t.co/AY9D34ck8z",
+						"display_url": "pic.twitter.com/AY9D34ck8z",
+						"expanded_url": "https://twitter.com/Sierra_OffLine/status/845647003996639232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720799154,
+				"id_str": "720799154",
+				"name": "Laine Nooney 📺 SCMS",
+				"screen_name": "Sierra_OffLine",
+				"location": "Brooklyn + Altanta",
+				"description": "games + computing, historical speculator, memory strategist / writing: history of Sierra On-Line / asst prof @ GT / cofounder @ROMchip_Journal",
+				"url": "https://t.co/lqMmx6ui67",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lqMmx6ui67",
+								"expanded_url": "http://www.lainenooney.com/",
+								"display_url": "lainenooney.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1954,
+				"friends_count": 859,
+				"listed_count": 126,
+				"created_at": "Fri Jul 27 20:15:25 +0000 2012",
+				"favourites_count": 3827,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17545,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F3E5B8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619911247/x4177d1bf2865d1c3f96fc44764e5b6f.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619911247/x4177d1bf2865d1c3f96fc44764e5b6f.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/521015847712608257/6tImajWy_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/521015847712608257/6tImajWy_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720799154/1485751169",
+				"profile_link_color": "AA0CE8",
+				"profile_sidebar_border_color": "53AB8D",
+				"profile_sidebar_fill_color": "291C0D",
+				"profile_text_color": "53AB8D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 25 21:29:40 +0000 2017",
 		"id": 845749550929363000,
 		"id_str": "845749550929362945",
