@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 22:12:25 +0000 2017",
+		"id": 846847472160952300,
+		"id_str": "846847472160952321",
+		"text": "RT @redroomrantings: I'd like to introduce all of you to my children https://t.co/inOjejcocR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "redroomrantings",
+					"name": "Justine Smith",
+					"id": 78740665,
+					"id_str": "78740665",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 846846328076456000,
+					"id_str": "846846328076455937",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+					"url": "https://t.co/inOjejcocR",
+					"display_url": "pic.twitter.com/inOjejcocR",
+					"expanded_url": "https://twitter.com/redroomrantings/status/846846370896134145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 846846370896134100,
+					"source_status_id_str": "846846370896134145",
+					"source_user_id": 78740665,
+					"source_user_id_str": "78740665"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846846328076456000,
+					"id_str": "846846328076455937",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+					"url": "https://t.co/inOjejcocR",
+					"display_url": "pic.twitter.com/inOjejcocR",
+					"expanded_url": "https://twitter.com/redroomrantings/status/846846370896134145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 846846370896134100,
+					"source_status_id_str": "846846370896134145",
+					"source_user_id": 78740665,
+					"source_user_id_str": "78740665"
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1059,
+			"friends_count": 459,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11555,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 22:08:03 +0000 2017",
+			"id": 846846370896134100,
+			"id_str": "846846370896134145",
+			"text": "I'd like to introduce all of you to my children https://t.co/inOjejcocR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 846846328076456000,
+						"id_str": "846846328076455937",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+						"url": "https://t.co/inOjejcocR",
+						"display_url": "pic.twitter.com/inOjejcocR",
+						"expanded_url": "https://twitter.com/redroomrantings/status/846846370896134145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 598,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 599,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 598,
+								"h": 599,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846846328076456000,
+						"id_str": "846846328076455937",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8CaP6RXUAEmHHI.jpg",
+						"url": "https://t.co/inOjejcocR",
+						"display_url": "pic.twitter.com/inOjejcocR",
+						"expanded_url": "https://twitter.com/redroomrantings/status/846846370896134145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 598,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 599,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 598,
+								"h": 599,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78740665,
+				"id_str": "78740665",
+				"name": "Justine Smith",
+				"screen_name": "redroomrantings",
+				"location": "Westmount, Québec",
+				"description": "Writer for Hire. Freelance film and cultural writing at @lwlies, @ebertvoices, @vicecanada and more   contact me: smith.justinea@gmail.com",
+				"url": "https://t.co/YH5pJNtvWx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YH5pJNtvWx",
+								"expanded_url": "https://justineasmith.com/",
+								"display_url": "justineasmith.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9839,
+				"friends_count": 5010,
+				"listed_count": 246,
+				"created_at": "Wed Sep 30 23:34:41 +0000 2009",
+				"favourites_count": 58850,
+				"utc_offset": -14400,
+				"time_zone": "America/New_York",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84738,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/611410897727307776/Irf9_nTF.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/611410897727307776/Irf9_nTF.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845476797701652480/YKiCkd-N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845476797701652480/YKiCkd-N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78740665/1490647745",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3376992a082d67c7",
+				"url": "https://api.twitter.com/1.1/geo/id/3376992a082d67c7.json",
+				"place_type": "country",
+				"name": "Canada",
+				"full_name": "Canada",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-141.5610942,
+								41.676329
+							],
+							[
+								-51.053519,
+								41.676329
+							],
+							[
+								-51.053519,
+								89.9999
+							],
+							[
+								-141.5610942,
+								89.9999
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 28 22:12:12 +0000 2017",
+		"id": 846847417823776800,
+		"id_str": "846847417823776768",
+		"text": "RT @d_kompare: NOW can we Kickstart an app that doxes the search history of everyone in Congress?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "d_kompare",
+					"name": "Derek Kompare",
+					"id": 18060747,
+					"id_str": "18060747",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1059,
+			"friends_count": 459,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11555,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 22:08:56 +0000 2017",
+			"id": 846846592938315800,
+			"id_str": "846846592938315776",
+			"text": "NOW can we Kickstart an app that doxes the search history of everyone in Congress?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18060747,
+				"id_str": "18060747",
+				"name": "Derek Kompare",
+				"screen_name": "d_kompare",
+				"location": "Dallas, TX",
+				"description": "media scholar/apologist, teacher, parent, fan, feminist, American, human, est'd 1969. Tweets are my own. Don't stop / Chalang alang alang. #resist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1540,
+				"friends_count": 1863,
+				"listed_count": 122,
+				"created_at": "Thu Dec 11 21:20:55 +0000 2008",
+				"favourites_count": 12145,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17580,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447294988/DW_-_Pertwee_titles.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447294988/DW_-_Pertwee_titles.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839864388290924548/qKOU1BYB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839864388290924548/qKOU1BYB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18060747/1484977218",
+				"profile_link_color": "C34242",
+				"profile_sidebar_border_color": "BFBFBF",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 28 20:05:24 +0000 2017",
 		"id": 846815508460683300,
 		"id_str": "846815508460683264",
