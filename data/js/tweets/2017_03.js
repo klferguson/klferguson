@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 29 19:31:16 +0000 2017",
+		"id": 847169304382640100,
+		"id_str": "847169304382640128",
+		"text": "RT @EddieMarsAttack: On my way to volunteer at the immigration project. Help me help others. Buy a book!\nhttps://t.co/atofflUvke",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EddieMarsAttack",
+					"name": "Eddie Mars Attacks!",
+					"id": 179738703,
+					"id_str": "179738703",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/atofflUvke",
+					"expanded_url": "https://www.amazon.com/False-Ransom-Mike-Chance-Book-ebook/dp/B00I9K2QL4",
+					"display_url": "amazon.com/False-Ransom-M…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1059,
+			"friends_count": 459,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11587,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42904,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 29 19:07:27 +0000 2017",
+			"id": 847163308901748700,
+			"id_str": "847163308901748736",
+			"text": "On my way to volunteer at the immigration project. Help me help others. Buy a book!\nhttps://t.co/atofflUvke",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/atofflUvke",
+						"expanded_url": "https://www.amazon.com/False-Ransom-Mike-Chance-Book-ebook/dp/B00I9K2QL4",
+						"display_url": "amazon.com/False-Ransom-M…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 179738703,
+				"id_str": "179738703",
+				"name": "Eddie Mars Attacks!",
+				"screen_name": "EddieMarsAttack",
+				"location": "Highland Park, Los Angeles",
+				"description": "Film, pulp fiction, vintage noir and Los Angeles.\nI wrote FALSE RANSOM & FIXED FIGHT.",
+				"url": "http://t.co/hPtGDkk8GJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hPtGDkk8GJ",
+								"expanded_url": "http://ivaninfantewrites.com/",
+								"display_url": "ivaninfantewrites.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 934,
+				"friends_count": 754,
+				"listed_count": 34,
+				"created_at": "Wed Aug 18 00:47:15 +0000 2010",
+				"favourites_count": 12205,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37525,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111214",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616728685702287360/OLLwAX-_.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/616728685702287360/OLLwAX-_.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739952693821607936/NjUcw1qz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739952693821607936/NjUcw1qz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/179738703/1488617321",
+				"profile_link_color": "2A46D1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 29 19:07:27 +0000 2017",
 		"id": 847163312500604900,
 		"id_str": "847163312500604929",
@@ -244,7 +476,7 @@ Grailbird.data.tweets_2017_03 =
 		"created_at": "Wed Mar 29 19:03:42 +0000 2017",
 		"id": 847162366156574700,
 		"id_str": "847162366156574720",
-		"text": "[deleted​, but also: difference between campus groups who roll their sleeves up and get to work and those who want to self-promote]",
+		"text": "[deleted, but also: difference between campus groups who roll their sleeves up and get to work and those who want to self-promote]",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
