@@ -1,6 +1,980 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 03:44:04 +0000 2017",
+		"id": 849467647859331100,
+		"id_str": "849467647859331073",
+		"text": "RT @LuvKittensDaily: Cats don't always make the best dogs https://t.co/CUVx9PgAmQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LuvKittensDaily",
+					"name": "Luv Kittens Daily",
+					"id": 1726076226,
+					"id_str": "1726076226",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849064098062979100,
+					"id_str": "849064098062979072",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+					"url": "https://t.co/CUVx9PgAmQ",
+					"display_url": "pic.twitter.com/CUVx9PgAmQ",
+					"expanded_url": "https://twitter.com/LuvKittensDaily/status/849064131932160005/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849064131932160000,
+					"source_status_id_str": "849064131932160005",
+					"source_user_id": 1726076226,
+					"source_user_id_str": "1726076226"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849064098062979100,
+					"id_str": "849064098062979072",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+					"url": "https://t.co/CUVx9PgAmQ",
+					"display_url": "pic.twitter.com/CUVx9PgAmQ",
+					"expanded_url": "https://twitter.com/LuvKittensDaily/status/849064131932160005/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849064131932160000,
+					"source_status_id_str": "849064131932160005",
+					"source_user_id": 1726076226,
+					"source_user_id_str": "1726076226",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 4000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/849064098062979072/pu/vid/480x480/bQa0WuIbEpgc0Hju.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/849064098062979072/pu/vid/240x240/N9mK4UO6Ka5SviSz.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/849064098062979072/pu/pl/S356on9oznuqMwme.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1726076226,
+							"id_str": "1726076226",
+							"name": "Luv Kittens Daily",
+							"screen_name": "LuvKittensDaily",
+							"location": "",
+							"description": "Reposting the best 🐱 pics on the internet! | ✉: hntwitterbiz@gmail.com | We do not own any of the pics we tweet.",
+							"url": "https://t.co/x54ayKRhqF",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/x54ayKRhqF",
+											"expanded_url": "https://www.instagram.com/luvkittens_daily/",
+											"display_url": "instagram.com/luvkittens_dai…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 234307,
+							"friends_count": 210212,
+							"listed_count": 439,
+							"created_at": "Tue Sep 03 17:11:33 +0000 2013",
+							"favourites_count": 1,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 9204,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/578073915693494273/Kvm9b-aX_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/578073915693494273/Kvm9b-aX_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1726076226/1488251400",
+							"profile_link_color": "7FDBB6",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 460,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11716,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 01:00:38 +0000 2017",
+			"id": 849064131932160000,
+			"id_str": "849064131932160005",
+			"text": "Cats don't always make the best dogs https://t.co/CUVx9PgAmQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849064098062979100,
+						"id_str": "849064098062979072",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+						"url": "https://t.co/CUVx9PgAmQ",
+						"display_url": "pic.twitter.com/CUVx9PgAmQ",
+						"expanded_url": "https://twitter.com/LuvKittensDaily/status/849064131932160005/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849064098062979100,
+						"id_str": "849064098062979072",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849064098062979072/pu/img/EIGBIaHtN6ihMEwn.jpg",
+						"url": "https://t.co/CUVx9PgAmQ",
+						"display_url": "pic.twitter.com/CUVx9PgAmQ",
+						"expanded_url": "https://twitter.com/LuvKittensDaily/status/849064131932160005/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 4000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849064098062979072/pu/vid/480x480/bQa0WuIbEpgc0Hju.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849064098062979072/pu/vid/240x240/N9mK4UO6Ka5SviSz.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/849064098062979072/pu/pl/S356on9oznuqMwme.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1726076226,
+				"id_str": "1726076226",
+				"name": "Luv Kittens Daily",
+				"screen_name": "LuvKittensDaily",
+				"location": "",
+				"description": "Reposting the best 🐱 pics on the internet! | ✉: hntwitterbiz@gmail.com | We do not own any of the pics we tweet.",
+				"url": "https://t.co/x54ayKRhqF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x54ayKRhqF",
+								"expanded_url": "https://www.instagram.com/luvkittens_daily/",
+								"display_url": "instagram.com/luvkittens_dai…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 234307,
+				"friends_count": 210212,
+				"listed_count": 439,
+				"created_at": "Tue Sep 03 17:11:33 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9204,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/578073915693494273/Kvm9b-aX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/578073915693494273/Kvm9b-aX_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1726076226/1488251400",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4899,
+			"favorite_count": 6061,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4899,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 03:30:04 +0000 2017",
+		"id": 849464123964477400,
+		"id_str": "849464123964477441",
+		"text": "\"Timothy Spall or a 4-star review: your pick\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 460,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11716,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 03:29:50 +0000 2017",
+		"id": 849464068016672800,
+		"id_str": "849464068016672768",
+		"text": "RT @bmrow: https://t.co/nNsUp9Pach",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bmrow",
+					"name": "Bront",
+					"id": 487649494,
+					"id_str": "487649494",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849458281168998400,
+					"id_str": "849458281168998401",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+					"url": "https://t.co/nNsUp9Pach",
+					"display_url": "pic.twitter.com/nNsUp9Pach",
+					"expanded_url": "https://twitter.com/bmrow/status/849458300886413312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 706,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849458300886413300,
+					"source_status_id_str": "849458300886413312",
+					"source_user_id": 487649494,
+					"source_user_id_str": "487649494"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849458281168998400,
+					"id_str": "849458281168998401",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+					"url": "https://t.co/nNsUp9Pach",
+					"display_url": "pic.twitter.com/nNsUp9Pach",
+					"expanded_url": "https://twitter.com/bmrow/status/849458300886413312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 706,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849458300886413300,
+					"source_status_id_str": "849458300886413312",
+					"source_user_id": 487649494,
+					"source_user_id_str": "487649494"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 460,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11716,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 03:06:55 +0000 2017",
+			"id": 849458300886413300,
+			"id_str": "849458300886413312",
+			"text": "https://t.co/nNsUp9Pach",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849458281168998400,
+						"id_str": "849458281168998401",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+						"url": "https://t.co/nNsUp9Pach",
+						"display_url": "pic.twitter.com/nNsUp9Pach",
+						"expanded_url": "https://twitter.com/bmrow/status/849458300886413312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 706,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 706,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849458281168998400,
+						"id_str": "849458281168998401",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8nhzlyXkAEeTkV.jpg",
+						"url": "https://t.co/nNsUp9Pach",
+						"display_url": "pic.twitter.com/nNsUp9Pach",
+						"expanded_url": "https://twitter.com/bmrow/status/849458300886413312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 706,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 706,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 487649494,
+				"id_str": "487649494",
+				"name": "Bront",
+				"screen_name": "bmrow",
+				"location": "Australia",
+				"description": "probably misses his old glasses",
+				"url": "https://t.co/hpR887ScA0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hpR887ScA0",
+								"expanded_url": "http://bmtr.wordpress.com/",
+								"display_url": "bmtr.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1102,
+				"friends_count": 640,
+				"listed_count": 25,
+				"created_at": "Thu Feb 09 15:59:59 +0000 2012",
+				"favourites_count": 15196,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42598,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111111",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509003418942189568/hgtfC5-N.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509003418942189568/hgtfC5-N.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/514293327928102912/OXtYlqCT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/514293327928102912/OXtYlqCT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/487649494/1487493761",
+				"profile_link_color": "2C7A70",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Apr 05 03:11:33 +0000 2017",
 		"id": 849459466923909100,
 		"id_str": "849459466923909122",
