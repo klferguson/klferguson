@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 23:36:01 +0000 2017",
+		"id": 851579550769311700,
+		"id_str": "851579550769311744",
+		"text": "RT @mattblaze: I hope if I'm ever violently dragged from a plane, other passengers will have the decency to video it in landscape rather th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattblaze",
+					"name": "matt blaze",
+					"id": 26567591,
+					"id_str": "26567591",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1064,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11847,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 20:29:30 +0000 2017",
+			"id": 851532614913597400,
+			"id_str": "851532614913597442",
+			"text": "I hope if I'm ever violently dragged from a plane, other passengers will have the decency to video it in landscape rather than portrait",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26567591,
+				"id_str": "26567591",
+				"name": "matt blaze",
+				"screen_name": "mattblaze",
+				"location": "Philadelphia and elsewhere",
+				"description": "Scientist, safecracker, professor, writer.\n140 is the new 1536.",
+				"url": "http://t.co/iffuyXGyTC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iffuyXGyTC",
+								"expanded_url": "http://www.crypto.com/blog/",
+								"display_url": "crypto.com/blog/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32068,
+				"friends_count": 573,
+				"listed_count": 1289,
+				"created_at": "Wed Mar 25 19:18:25 +0000 2009",
+				"favourites_count": 2612,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25193,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768501370118889472/kxf7xGoc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768501370118889472/kxf7xGoc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26567591/1353718304",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 343,
+			"favorite_count": 1016,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 10 23:30:43 +0000 2017",
+		"id": 851578219094577200,
+		"id_str": "851578219094577152",
+		"text": "RT @morocco21: https://t.co/AlanXDPVTs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "morocco21",
+					"name": "モロッコ@けもケL-26",
+					"id": 71255110,
+					"id_str": "71255110",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 846390793237540900,
+					"id_str": "846390793237540864",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+					"url": "https://t.co/AlanXDPVTs",
+					"display_url": "pic.twitter.com/AlanXDPVTs",
+					"expanded_url": "https://twitter.com/morocco21/status/846391015741149184/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846391015741149200,
+					"source_status_id_str": "846391015741149184",
+					"source_user_id": 71255110,
+					"source_user_id_str": "71255110"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846390793237540900,
+					"id_str": "846390793237540864",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+					"url": "https://t.co/AlanXDPVTs",
+					"display_url": "pic.twitter.com/AlanXDPVTs",
+					"expanded_url": "https://twitter.com/morocco21/status/846391015741149184/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846391015741149200,
+					"source_status_id_str": "846391015741149184",
+					"source_user_id": 71255110,
+					"source_user_id_str": "71255110",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10093,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/846390793237540864/pu/pl/xXMnQb6E5vqPmYez.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/846390793237540864/pu/vid/640x360/186p4ZqOTAu3jws9.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/846390793237540864/pu/vid/320x180/mkAVvhDYrOWTozk9.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 71255110,
+							"id_str": "71255110",
+							"name": "モロッコ@けもケL-26",
+							"screen_name": "morocco21",
+							"location": "Ino Head Park",
+							"description": "精通済み https://t.co/I9tkjNCR39 undertale sb69 zootopia @ccomoro キャトバスにハマる",
+							"url": "https://t.co/C1LG2W5xY2",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/C1LG2W5xY2",
+											"expanded_url": "https://soundcloud.com/moroccco",
+											"display_url": "soundcloud.com/moroccco",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/I9tkjNCR39",
+											"expanded_url": "http://pixiv.me/mor",
+											"display_url": "pixiv.me/mor",
+											"indices": [
+												5,
+												28
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 2134,
+							"friends_count": 1853,
+							"listed_count": 126,
+							"created_at": "Thu Sep 03 13:40:20 +0000 2009",
+							"favourites_count": 30481,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 148626,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/418123336/smile_Mosaic02.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/418123336/smile_Mosaic02.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/848217428706316288/jSkyG7Uy_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/848217428706316288/jSkyG7Uy_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/71255110/1480255816",
+							"profile_link_color": "FF667C",
+							"profile_sidebar_border_color": "D9EBE3",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "312D47",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1064,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11847,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 27 15:58:37 +0000 2017",
+			"id": 846391015741149200,
+			"id_str": "846391015741149184",
+			"text": "https://t.co/AlanXDPVTs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 846390793237540900,
+						"id_str": "846390793237540864",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+						"url": "https://t.co/AlanXDPVTs",
+						"display_url": "pic.twitter.com/AlanXDPVTs",
+						"expanded_url": "https://twitter.com/morocco21/status/846391015741149184/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846390793237540900,
+						"id_str": "846390793237540864",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/846390793237540864/pu/img/uO62PWzXBuys-JTW.jpg",
+						"url": "https://t.co/AlanXDPVTs",
+						"display_url": "pic.twitter.com/AlanXDPVTs",
+						"expanded_url": "https://twitter.com/morocco21/status/846391015741149184/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 10093,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/846390793237540864/pu/pl/xXMnQb6E5vqPmYez.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/846390793237540864/pu/vid/640x360/186p4ZqOTAu3jws9.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/846390793237540864/pu/vid/320x180/mkAVvhDYrOWTozk9.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71255110,
+				"id_str": "71255110",
+				"name": "モロッコ@けもケL-26",
+				"screen_name": "morocco21",
+				"location": "Ino Head Park",
+				"description": "精通済み https://t.co/I9tkjNCR39 undertale sb69 zootopia @ccomoro キャトバスにハマる",
+				"url": "https://t.co/C1LG2W5xY2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C1LG2W5xY2",
+								"expanded_url": "https://soundcloud.com/moroccco",
+								"display_url": "soundcloud.com/moroccco",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/I9tkjNCR39",
+								"expanded_url": "http://pixiv.me/mor",
+								"display_url": "pixiv.me/mor",
+								"indices": [
+									5,
+									28
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2134,
+				"friends_count": 1853,
+				"listed_count": 126,
+				"created_at": "Thu Sep 03 13:40:20 +0000 2009",
+				"favourites_count": 30481,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 148626,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/418123336/smile_Mosaic02.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/418123336/smile_Mosaic02.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848217428706316288/jSkyG7Uy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848217428706316288/jSkyG7Uy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71255110/1480255816",
+				"profile_link_color": "FF667C",
+				"profile_sidebar_border_color": "D9EBE3",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "312D47",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49572,
+			"favorite_count": 60955,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49572,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Apr 10 22:23:17 +0000 2017",
 		"id": 851561249871720400,
 		"id_str": "851561249871720449",
