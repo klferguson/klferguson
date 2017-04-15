@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 05:11:29 +0000 2017",
+		"id": 853113526679941100,
+		"id_str": "853113526679941121",
+		"text": "*extreme the color of money* https://t.co/PB4zSaVCEm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 853113460636303400,
+					"id_str": "853113460636303360",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9beLCZUwAAsonJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9beLCZUwAAsonJ.jpg",
+					"url": "https://t.co/PB4zSaVCEm",
+					"display_url": "pic.twitter.com/PB4zSaVCEm",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/853113526679941121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 486,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 183,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853113460636303400,
+					"id_str": "853113460636303360",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9beLCZUwAAsonJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9beLCZUwAAsonJ.jpg",
+					"url": "https://t.co/PB4zSaVCEm",
+					"display_url": "pic.twitter.com/PB4zSaVCEm",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/853113526679941121/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 486,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 183,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							243,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C9beLCZUwAAsonJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1066,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 15 05:10:56 +0000 2017",
+		"id": 853113389723385900,
+		"id_str": "853113389723385860",
+		"text": "RT @TyleKurner: In Competition: 3/18\nUn Certain Regard: 4/16 \nOut of Competition: 1/4\nSp Events: 2/5\nSp Screenings: 2.5/8\nMidnight: 0/3\nTot…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TyleKurner",
+					"name": "Kyle Turner",
+					"id": 23201559,
+					"id_str": "23201559",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1066,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 11949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846069863231766529/IslE-rlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 03:06:10 +0000 2017",
+			"id": 853081988919697400,
+			"id_str": "853081988919697408",
+			"text": "In Competition: 3/18\nUn Certain Regard: 4/16 \nOut of Competition: 1/4\nSp Events: 2/5\nSp Screenings: 2.5/8\nMidnight:… https://t.co/6sKjdl0JFS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6sKjdl0JFS",
+						"expanded_url": "https://twitter.com/i/web/status/853081988919697408",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23201559,
+				"id_str": "23201559",
+				"name": "Kyle Turner",
+				"screen_name": "TyleKurner",
+				"location": "Brooklyn, NY",
+				"description": "Trying to monetize my mommy issues. Writer/film baby/queer/worst millennial. Words: @BkMagFilm @Flavorwire @Playboy @LWLies @Slate etc. rots28@gmail",
+				"url": "https://t.co/fyrfVTUbvC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fyrfVTUbvC",
+								"expanded_url": "http://tylekurner.tumblr.com/",
+								"display_url": "tylekurner.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3061,
+				"friends_count": 1992,
+				"listed_count": 89,
+				"created_at": "Sat Mar 07 15:26:02 +0000 2009",
+				"favourites_count": 83676,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 213227,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6EADCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000149644562/be5KR37u.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000149644562/be5KR37u.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819092218094977024/-hpt1Ai-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819092218094977024/-hpt1Ai-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23201559/1418931192",
+				"profile_link_color": "005675",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 853065591111864300,
+			"quoted_status_id_str": "853065591111864320",
+			"quoted_status": {
+				"created_at": "Sat Apr 15 02:01:00 +0000 2017",
+				"id": 853065591111864300,
+				"id_str": "853065591111864320",
+				"text": "#Cannes embraces the power of female filmmakers https://t.co/9EinsWuWtY https://t.co/ssrsKDt5zb",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Cannes",
+							"indices": [
+								0,
+								7
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9EinsWuWtY",
+							"expanded_url": "http://bit.ly/2owz3aP",
+							"display_url": "bit.ly/2owz3aP",
+							"indices": [
+								48,
+								71
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 853044988338348000,
+							"id_str": "853044988338348032",
+							"indices": [
+								72,
+								95
+							],
+							"media_url": "http://pbs.twimg.com/media/C9af5bNVoAABBXm.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C9af5bNVoAABBXm.jpg",
+							"url": "https://t.co/ssrsKDt5zb",
+							"display_url": "pic.twitter.com/ssrsKDt5zb",
+							"expanded_url": "https://twitter.com/Variety/status/853065591111864320/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 670,
+									"h": 377,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 670,
+									"h": 377,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 670,
+									"h": 377,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 853044988338348000,
+							"id_str": "853044988338348032",
+							"indices": [
+								72,
+								95
+							],
+							"media_url": "http://pbs.twimg.com/media/C9af5bNVoAABBXm.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C9af5bNVoAABBXm.jpg",
+							"url": "https://t.co/ssrsKDt5zb",
+							"display_url": "pic.twitter.com/ssrsKDt5zb",
+							"expanded_url": "https://twitter.com/Variety/status/853065591111864320/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 670,
+									"h": 377,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 670,
+									"h": 377,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 670,
+									"h": 377,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17525171,
+					"id_str": "17525171",
+					"name": "Variety",
+					"screen_name": "Variety",
+					"location": "Los Angeles, CA",
+					"description": "The business of entertainment.",
+					"url": "http://t.co/N2tQIv1LIY",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/N2tQIv1LIY",
+									"expanded_url": "http://www.variety.com",
+									"display_url": "variety.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1842370,
+					"friends_count": 292777,
+					"listed_count": 15934,
+					"created_at": "Thu Nov 20 23:02:29 +0000 2008",
+					"favourites_count": 303,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 170373,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441379937711185920/iySGzZJv.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441379937711185920/iySGzZJv.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/718457704189001728/xN83wlqp_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/718457704189001728/xN83wlqp_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17525171/1492021945",
+					"profile_link_color": "60728A",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 50,
+				"favorite_count": 85,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 18,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 853065591111864300,
+		"quoted_status_id_str": "853065591111864320",
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 15 03:00:44 +0000 2017",
 		"id": 853080621312331800,
 		"id_str": "853080621312331776",
