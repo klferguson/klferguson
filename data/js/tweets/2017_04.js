@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 23 19:57:53 +0000 2017",
+		"id": 856235699024126000,
+		"id_str": "856235699024125954",
+		"text": "RT @mkgold: Please fill out! \"survey will assess the extent to which community colleges engage w/DH pedagogies, practices, tools, &amp; methods…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkgold",
+					"name": "Matt Gold",
+					"id": 12876812,
+					"id_str": "12876812",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1068,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12139,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 23 19:06:05 +0000 2017",
+			"id": 856222665534832600,
+			"id_str": "856222665534832643",
+			"text": "Please fill out! \"survey will assess the extent to which community colleges engage w/DH pedagogies, practices, tool… https://t.co/1vmJbw3gKD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1vmJbw3gKD",
+						"expanded_url": "https://twitter.com/i/web/status/856222665534832643",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12876812,
+				"id_str": "12876812",
+				"name": "Matt Gold",
+				"screen_name": "mkgold",
+				"location": "New York",
+				"description": "Associate Prof of English & Digital Humanities, @GC_CUNY. Director, @cunycommons @cunygcdi. Co-Editor @dhdebates. Co-PI, @manifoldscholar. VP @achdotorg #resist",
+				"url": "https://t.co/2xzACocApv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2xzACocApv",
+								"expanded_url": "http://www.mkgold.net",
+								"display_url": "mkgold.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6038,
+				"friends_count": 781,
+				"listed_count": 315,
+				"created_at": "Wed Jan 30 17:01:20 +0000 2008",
+				"favourites_count": 13448,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644367485085581313/lT3w0aFz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644367485085581313/lT3w0aFz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12876812/1420870123",
+				"profile_link_color": "0A5D7B",
+				"profile_sidebar_border_color": "021C3A",
+				"profile_sidebar_fill_color": "C9D4FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 856218508497010700,
+			"quoted_status_id_str": "856218508497010688",
+			"quoted_status": {
+				"created_at": "Sun Apr 23 18:49:34 +0000 2017",
+				"id": 856218508497010700,
+				"id_str": "856218508497010688",
+				"text": "Follow-up Survey #DHattheCC Please share! @jenterysayers @mkgold @csdanforth @roopikarisam @elotroalex @JenServenti \nhttps://t.co/kTOSt8PHZj",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "DHattheCC",
+							"indices": [
+								17,
+								27
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "jenterysayers",
+							"name": "Jentery Sayers",
+							"id": 98890966,
+							"id_str": "98890966",
+							"indices": [
+								42,
+								56
+							]
+						},
+						{
+							"screen_name": "mkgold",
+							"name": "Matt Gold",
+							"id": 12876812,
+							"id_str": "12876812",
+							"indices": [
+								57,
+								64
+							]
+						},
+						{
+							"screen_name": "csdanforth",
+							"name": "Courtney S. Danforth",
+							"id": 3238231,
+							"id_str": "3238231",
+							"indices": [
+								65,
+								76
+							]
+						},
+						{
+							"screen_name": "roopikarisam",
+							"name": "Roopika Risam",
+							"id": 24075855,
+							"id_str": "24075855",
+							"indices": [
+								77,
+								90
+							]
+						},
+						{
+							"screen_name": "elotroalex",
+							"name": "Alex Gil",
+							"id": 91438333,
+							"id_str": "91438333",
+							"indices": [
+								91,
+								102
+							]
+						},
+						{
+							"screen_name": "JenServenti",
+							"name": "Jennifer Serventi",
+							"id": 15842692,
+							"id_str": "15842692",
+							"indices": [
+								103,
+								115
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/kTOSt8PHZj",
+							"expanded_url": "https://www.surveymonkey.com/r/59YBFK6",
+							"display_url": "surveymonkey.com/r/59YBFK6",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 52936162,
+					"id_str": "52936162",
+					"name": "anne mcgrail",
+					"screen_name": "annemcgrail",
+					"location": "PacNW",
+					"description": "digital humanities, equity in community colleges",
+					"url": "https://t.co/o65cYAVzJH",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/o65cYAVzJH",
+									"expanded_url": "https://blogs.lanecc.edu/dhatthecc/",
+									"display_url": "blogs.lanecc.edu/dhatthecc/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 370,
+					"friends_count": 553,
+					"listed_count": 29,
+					"created_at": "Thu Jul 02 02:14:58 +0000 2009",
+					"favourites_count": 938,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2176,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9153BD",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/831547970944262144/m2mKvUQ4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/831547970944262144/m2mKvUQ4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/52936162/1487091461",
+					"profile_link_color": "FF0000",
+					"profile_sidebar_border_color": "65B0DA",
+					"profile_sidebar_fill_color": "7AC3EE",
+					"profile_text_color": "3D1957",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 856218508497010700,
+		"quoted_status_id_str": "856218508497010688",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 23 17:21:13 +0000 2017",
 		"id": 856196271937392600,
 		"id_str": "856196271937392640",
