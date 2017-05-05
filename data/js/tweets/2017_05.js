@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 05 02:29:45 +0000 2017",
+		"id": 860320583724216300,
+		"id_str": "860320583724216324",
+		"text": "alma mater! https://t.co/xgysJSCmXb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xgysJSCmXb",
+					"expanded_url": "https://twitter.com/icpetrie/status/860316470722658304",
+					"display_url": "twitter.com/icpetrie/statu…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1068,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12353,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 860316470722658300,
+		"quoted_status_id_str": "860316470722658304",
+		"quoted_status": {
+			"created_at": "Fri May 05 02:13:25 +0000 2017",
+			"id": 860316470722658300,
+			"id_str": "860316470722658304",
+			"text": "Students seeking to steal exam caught by professor getting a midnight meal.\nhttps://t.co/M9Bz5CkeGC https://t.co/56V2VqdrLC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/M9Bz5CkeGC",
+						"expanded_url": "https://mobile.nytimes.com/2017/05/04/us/university-of-kentucky-stolen-test.html?smid=fb-nytimes&smtyp=cur&referer=https://m.facebook.com/",
+						"display_url": "mobile.nytimes.com/2017/05/04/us/…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 860316385599205400,
+						"id_str": "860316385599205377",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/C_B1Mc4WsAEO6Ve.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_B1Mc4WsAEO6Ve.jpg",
+						"url": "https://t.co/56V2VqdrLC",
+						"display_url": "pic.twitter.com/56V2VqdrLC",
+						"expanded_url": "https://twitter.com/icpetrie/status/860316470722658304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 594,
+								"h": 448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 594,
+								"h": 448,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860316385599205400,
+						"id_str": "860316385599205377",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/C_B1Mc4WsAEO6Ve.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_B1Mc4WsAEO6Ve.jpg",
+						"url": "https://t.co/56V2VqdrLC",
+						"display_url": "pic.twitter.com/56V2VqdrLC",
+						"expanded_url": "https://twitter.com/icpetrie/status/860316470722658304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 594,
+								"h": 448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 448,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 594,
+								"h": 448,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 703202143,
+				"id_str": "703202143",
+				"name": "Ian Petrie",
+				"screen_name": "icpetrie",
+				"location": "Philadelphia",
+				"description": "Sometime historian, homesick Canadian, West Philadelphian. Higher ed, PHL, urban biking, books, #phled parent.   Work at UPenn's CTL, not representing them.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1456,
+				"friends_count": 1108,
+				"listed_count": 71,
+				"created_at": "Wed Jul 18 14:55:26 +0000 2012",
+				"favourites_count": 17715,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25618,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C1DCEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607684751/xwz2a29ucexfcgg7cmqk.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607684751/xwz2a29ucexfcgg7cmqk.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705407776248471554/Uy3tTQbm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705407776248471554/Uy3tTQbm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/703202143/1432232905",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 05 01:21:37 +0000 2017",
 		"id": 860303437120098300,
 		"id_str": "860303437120098304",
