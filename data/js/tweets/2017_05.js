@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 07 14:00:55 +0000 2017",
+		"id": 861219297439481900,
+		"id_str": "861219297439481856",
+		"text": "RT @MarshsLibrary: Not mad about the design, but fascinated by 18th century wallpaper surviving as book cover..... https://t.co/cEXGaHt0vU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarshsLibrary",
+					"name": "Marsh's Library",
+					"id": 391304657,
+					"id_str": "391304657",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 860901682510798800,
+					"id_str": "860901682510798850",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+					"url": "https://t.co/cEXGaHt0vU",
+					"display_url": "pic.twitter.com/cEXGaHt0vU",
+					"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860902111781027800,
+					"source_status_id_str": "860902111781027840",
+					"source_user_id": 391304657,
+					"source_user_id_str": "391304657"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 860901682510798800,
+					"id_str": "860901682510798850",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+					"url": "https://t.co/cEXGaHt0vU",
+					"display_url": "pic.twitter.com/cEXGaHt0vU",
+					"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860902111781027800,
+					"source_status_id_str": "860902111781027840",
+					"source_user_id": 391304657,
+					"source_user_id_str": "391304657"
+				},
+				{
+					"id": 860901682498195500,
+					"id_str": "860901682498195456",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C_KJhNvXUAAgLON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_KJhNvXUAAgLON.jpg",
+					"url": "https://t.co/cEXGaHt0vU",
+					"display_url": "pic.twitter.com/cEXGaHt0vU",
+					"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 860902111781027800,
+					"source_status_id_str": "860902111781027840",
+					"source_user_id": 391304657,
+					"source_user_id_str": "391304657"
+				},
+				{
+					"id": 860901682498109400,
+					"id_str": "860901682498109441",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C_KJhNvWAAEjYG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_KJhNvWAAEjYG5.jpg",
+					"url": "https://t.co/cEXGaHt0vU",
+					"display_url": "pic.twitter.com/cEXGaHt0vU",
+					"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860902111781027800,
+					"source_status_id_str": "860902111781027840",
+					"source_user_id": 391304657,
+					"source_user_id_str": "391304657"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1072,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12372,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44301,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 06 17:00:32 +0000 2017",
+			"id": 860902111781027800,
+			"id_str": "860902111781027840",
+			"text": "Not mad about the design, but fascinated by 18th century wallpaper surviving as book cover..... https://t.co/cEXGaHt0vU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860901682510798800,
+						"id_str": "860901682510798850",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+						"url": "https://t.co/cEXGaHt0vU",
+						"display_url": "pic.twitter.com/cEXGaHt0vU",
+						"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860901682510798800,
+						"id_str": "860901682510798850",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_KJhNyXoAILExi.jpg",
+						"url": "https://t.co/cEXGaHt0vU",
+						"display_url": "pic.twitter.com/cEXGaHt0vU",
+						"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 860901682498195500,
+						"id_str": "860901682498195456",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C_KJhNvXUAAgLON.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_KJhNvXUAAgLON.jpg",
+						"url": "https://t.co/cEXGaHt0vU",
+						"display_url": "pic.twitter.com/cEXGaHt0vU",
+						"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 860901682498109400,
+						"id_str": "860901682498109441",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C_KJhNvWAAEjYG5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_KJhNvWAAEjYG5.jpg",
+						"url": "https://t.co/cEXGaHt0vU",
+						"display_url": "pic.twitter.com/cEXGaHt0vU",
+						"expanded_url": "https://twitter.com/MarshsLibrary/status/860902111781027840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391304657,
+				"id_str": "391304657",
+				"name": "Marsh's Library",
+				"screen_name": "MarshsLibrary",
+				"location": "Dublin",
+				"description": "Perfectly preserved library of the early Enlightenment in central Dublin. Opened in 1707; still welcoming visitors, tourists and scholars.",
+				"url": "http://t.co/ZFxYqstjPL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZFxYqstjPL",
+								"expanded_url": "http://www.marshlibrary.ie",
+								"display_url": "marshlibrary.ie",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5386,
+				"friends_count": 1023,
+				"listed_count": 148,
+				"created_at": "Sat Oct 15 11:06:57 +0000 2011",
+				"favourites_count": 1022,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2648,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "38332A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/834432618/eb311a04559f20846df9659ff26c627b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/834432618/eb311a04559f20846df9659ff26c627b.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1600742658/thearchnmbutton_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1600742658/thearchnmbutton_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391304657/1360955348",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 07 02:19:06 +0000 2017",
 		"id": 861042677466509300,
 		"id_str": "861042677466509312",
