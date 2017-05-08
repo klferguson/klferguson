@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 01:05:14 +0000 2017",
+		"id": 861386478013878300,
+		"id_str": "861386478013878273",
+		"text": "RT @dnharper: Today I learned:1) we have a secret space shuttle. 2): it's been in space for about two years. 3:) this is its fourth mission…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dnharper",
+					"name": "Derek Harper",
+					"id": 7564862,
+					"id_str": "7564862",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1072,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12374,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 07 15:07:29 +0000 2017",
+			"id": 861236046805258200,
+			"id_str": "861236046805258240",
+			"text": "Today I learned:1) we have a secret space shuttle. 2): it's been in space for about two years. 3:) this is its four… https://t.co/tHmiLTlbRK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tHmiLTlbRK",
+						"expanded_url": "https://twitter.com/i/web/status/861236046805258240",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7564862,
+				"id_str": "7564862",
+				"name": "Derek Harper",
+				"screen_name": "dnharper",
+				"location": "Philly",
+				"description": "Used to be a journalist before the internet ate my job. Chumps get The Block.",
+				"url": "https://t.co/zGO7SHcqef",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zGO7SHcqef",
+								"expanded_url": "http://www.facebook.com/dnharper",
+								"display_url": "facebook.com/dnharper",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1041,
+				"friends_count": 710,
+				"listed_count": 42,
+				"created_at": "Wed Jul 18 17:12:54 +0000 2007",
+				"favourites_count": 4641,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2210,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823963873715900418/Sqlak3Kn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823963873715900418/Sqlak3Kn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7564862/1479777208",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e4a0d228eb6be76b",
+				"url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+				"place_type": "city",
+				"name": "Philadelphia",
+				"full_name": "Philadelphia, PA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-75.280284,
+								39.871811
+							],
+							[
+								-74.955712,
+								39.871811
+							],
+							[
+								-74.955712,
+								40.13792
+							],
+							[
+								-75.280284,
+								40.13792
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 861206575901544400,
+			"quoted_status_id_str": "861206575901544450",
+			"quoted_status": {
+				"created_at": "Sun May 07 13:10:22 +0000 2017",
+				"id": 861206575901544400,
+				"id_str": "861206575901544450",
+				"text": "Sonic boom rattles Central Florida as secret military space shuttle lands at Kennedy Space Center https://t.co/UABCaCusaG",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/UABCaCusaG",
+							"expanded_url": "http://fw.to/wKxw2pW",
+							"display_url": "fw.to/wKxw2pW",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 353879106,
+					"id_str": "353879106",
+					"name": "Steven Lemongello",
+					"screen_name": "SteveLemongello",
+					"location": "Orlando, FL",
+					"description": "Politics reporter at @orlandosentinel • Covering presidential, congressional, Fla. & Orange Co. politics • Jersey native, Florida convert",
+					"url": "https://t.co/tpHIrcTKBX",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/tpHIrcTKBX",
+									"expanded_url": "http://www.orlandosentinel.com/os-steven-lemongello-bio-staff.html",
+									"display_url": "orlandosentinel.com/os-steven-lemo…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3954,
+					"friends_count": 4762,
+					"listed_count": 209,
+					"created_at": "Fri Aug 12 19:45:17 +0000 2011",
+					"favourites_count": 25280,
+					"utc_offset": -10800,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 36019,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/516997052975161344/zc_VsZln.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/516997052975161344/zc_VsZln.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/422945701765468160/aEwqZG_N_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/422945701765468160/aEwqZG_N_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/353879106/1425413621",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 63,
+				"favorite_count": 59,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 130,
+			"favorite_count": 145,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 861206575901544400,
+		"quoted_status_id_str": "861206575901544450",
+		"retweet_count": 130,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 07 23:48:43 +0000 2017",
 		"id": 861367219762204700,
 		"id_str": "861367219762204672",
