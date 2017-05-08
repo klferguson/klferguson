@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 22:37:29 +0000 2017",
+		"id": 861711681457725400,
+		"id_str": "861711681457725441",
+		"text": "RT @RoyBRip: Those Venn diagrams are helpful! https://t.co/TAeswAlcUK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoyBRip",
+					"name": "Timothy",
+					"id": 65392820,
+					"id_str": "65392820",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 861709226690846700,
+					"id_str": "861709226690846720",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+					"url": "https://t.co/TAeswAlcUK",
+					"display_url": "pic.twitter.com/TAeswAlcUK",
+					"expanded_url": "https://twitter.com/RoyBRip/status/861709403376033793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 999,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 999,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861709403376033800,
+					"source_status_id_str": "861709403376033793",
+					"source_user_id": 65392820,
+					"source_user_id_str": "65392820"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861709226690846700,
+					"id_str": "861709226690846720",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+					"url": "https://t.co/TAeswAlcUK",
+					"display_url": "pic.twitter.com/TAeswAlcUK",
+					"expanded_url": "https://twitter.com/RoyBRip/status/861709403376033793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 999,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 999,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861709403376033800,
+					"source_status_id_str": "861709403376033793",
+					"source_user_id": 65392820,
+					"source_user_id_str": "65392820"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1071,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12385,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 22:28:26 +0000 2017",
+			"id": 861709403376033800,
+			"id_str": "861709403376033793",
+			"text": "Those Venn diagrams are helpful! https://t.co/TAeswAlcUK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 861709226690846700,
+						"id_str": "861709226690846720",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+						"url": "https://t.co/TAeswAlcUK",
+						"display_url": "pic.twitter.com/TAeswAlcUK",
+						"expanded_url": "https://twitter.com/RoyBRip/status/861709403376033793/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 999,
+								"h": 667,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 999,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861709226690846700,
+						"id_str": "861709226690846720",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Vn-eSVoAAt9x1.jpg",
+						"url": "https://t.co/TAeswAlcUK",
+						"display_url": "pic.twitter.com/TAeswAlcUK",
+						"expanded_url": "https://twitter.com/RoyBRip/status/861709403376033793/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 999,
+								"h": 667,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 999,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65392820,
+				"id_str": "65392820",
+				"name": "Timothy",
+				"screen_name": "RoyBRip",
+				"location": "",
+				"description": "Okay then",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65,
+				"friends_count": 97,
+				"listed_count": 0,
+				"created_at": "Thu Aug 13 15:48:31 +0000 2009",
+				"favourites_count": 3701,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 760,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94D487",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/708335032079753216/I3ZJvtCh.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/708335032079753216/I3ZJvtCh.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/479116676298833920/PHUTyq1d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/479116676298833920/PHUTyq1d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65392820/1457715816",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 08 21:40:51 +0000 2017",
 		"id": 861697429602783200,
 		"id_str": "861697429602783232",
