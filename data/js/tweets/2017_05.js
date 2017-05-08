@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 21:40:51 +0000 2017",
+		"id": 861697429602783200,
+		"id_str": "861697429602783232",
+		"text": "(people say Iggy's PARTY album sucks, but I kind of like it) https://t.co/TyArbTBDoP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TyArbTBDoP",
+					"expanded_url": "https://www.youtube.com/watch?v=HZQdmihb_Kc",
+					"display_url": "youtube.com/watch?v=HZQdmi…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1071,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12385,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44332,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 21:35:23 +0000 2017",
+		"id": 861696053053194200,
+		"id_str": "861696053053194241",
+		"text": "RT @Ceilidhann: Dude, you're the one name searching yourself on Twitter. Go watch some Cheers and see what romantic chemistry in fiction ac…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ceilidhann",
+					"name": "Kayleigh Anne",
+					"id": 19132177,
+					"id_str": "19132177",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1071,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12385,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44332,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 00:04:08 +0000 2017",
+			"id": 861371100843978800,
+			"id_str": "861371100843978752",
+			"text": "Dude, you're the one name searching yourself on Twitter. Go watch some Cheers and see what romantic chemistry in fi… https://t.co/0eR1hRrHwM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0eR1hRrHwM",
+						"expanded_url": "https://twitter.com/i/web/status/861371100843978752",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19132177,
+				"id_str": "19132177",
+				"name": "Kayleigh Anne",
+				"screen_name": "Ceilidhann",
+				"location": "Perthshire, Scotland, UK.",
+				"description": "Writer. @ScreenRant features team. Team @Pajiba. @Bibliodaze co-editor. Host of @AngloFilles & @Bloodsuckingfem podcasts. Views are my own.",
+				"url": "https://t.co/TlGPL0V9ZQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TlGPL0V9ZQ",
+								"expanded_url": "http://www.bibliodaze.com",
+								"display_url": "bibliodaze.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4356,
+				"friends_count": 767,
+				"listed_count": 195,
+				"created_at": "Sun Jan 18 01:45:42 +0000 2009",
+				"favourites_count": 1181,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 208052,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623232315897024512/IiPSUCUW.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623232315897024512/IiPSUCUW.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675034287406718976/khTkDW-R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675034287406718976/khTkDW-R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19132177/1478648999",
+				"profile_link_color": "088263",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 861370695787270100,
+			"quoted_status_id_str": "861370695787270144",
+			"quoted_status": {
+				"created_at": "Mon May 08 00:02:32 +0000 2017",
+				"id": 861370695787270100,
+				"id_str": "861370695787270144",
+				"text": "@Ceilidhann Wow you really took this personally.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Ceilidhann",
+							"name": "Kayleigh Anne",
+							"id": 19132177,
+							"id_str": "19132177",
+							"indices": [
+								0,
+								11
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 861367480589180900,
+				"in_reply_to_status_id_str": "861367480589180933",
+				"in_reply_to_user_id": 19132177,
+				"in_reply_to_user_id_str": "19132177",
+				"in_reply_to_screen_name": "Ceilidhann",
+				"user": {
+					"id": 83112392,
+					"id_str": "83112392",
+					"name": "Max Landis",
+					"screen_name": "Uptomyknees",
+					"location": "Los Angeles.",
+					"description": "#screenwriter. sometimes a bad 1st impression. FOUND: volatile opinions, girlishly excited confusion, advice on writing and wildly personal introspection.",
+					"url": "http://t.co/mGNnGBRbun",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/mGNnGBRbun",
+									"expanded_url": "http://youtube.com/uptomyknees",
+									"display_url": "youtube.com/uptomyknees",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 92184,
+					"friends_count": 66,
+					"listed_count": 987,
+					"created_at": "Sat Oct 17 11:29:33 +0000 2009",
+					"favourites_count": 33788,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 70297,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "696969",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/850861189/6a8d3eb2a22b3ddd957956b1bba162f3.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/850861189/6a8d3eb2a22b3ddd957956b1bba162f3.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/820906137037901824/ev6VllB-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/820906137037901824/ev6VllB-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/83112392/1481588657",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F7D00D",
+					"profile_text_color": "FF740A",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "1e5cb4d0509db554",
+					"url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
+					"place_type": "city",
+					"name": "Vancouver",
+					"full_name": "Vancouver, British Columbia",
+					"country_code": "CA",
+					"country": "Canada",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-123.224215,
+									49.19854
+								],
+								[
+									-123.022947,
+									49.19854
+								],
+								[
+									-123.022947,
+									49.316738
+								],
+								[
+									-123.224215,
+									49.316738
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": true,
+				"lang": "en"
+			},
+			"retweet_count": 33,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 861370695787270100,
+		"quoted_status_id_str": "861370695787270144",
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 08 17:46:49 +0000 2017",
 		"id": 861638533764841500,
 		"id_str": "861638533764841472",
