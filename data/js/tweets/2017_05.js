@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 12 01:41:08 +0000 2017",
+		"id": 862845061557628900,
+		"id_str": "862845061557628929",
+		"text": "RT @thatgirlsalina: the US paying for college tuition vs. paying for prisons https://t.co/nWAFZvuh2P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatgirlsalina",
+					"name": "mama africa",
+					"id": 92631130,
+					"id_str": "92631130",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862547291646840800,
+					"id_str": "862547291646840832",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+					"url": "https://t.co/nWAFZvuh2P",
+					"display_url": "pic.twitter.com/nWAFZvuh2P",
+					"expanded_url": "https://twitter.com/thatgirlsalina/status/862547296109510656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 549,
+							"h": 644,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 549,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 549,
+							"h": 644,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862547296109510700,
+					"source_status_id_str": "862547296109510656",
+					"source_user_id": 92631130,
+					"source_user_id_str": "92631130"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862547291646840800,
+					"id_str": "862547291646840832",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+					"url": "https://t.co/nWAFZvuh2P",
+					"display_url": "pic.twitter.com/nWAFZvuh2P",
+					"expanded_url": "https://twitter.com/thatgirlsalina/status/862547296109510656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 549,
+							"h": 644,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 549,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 549,
+							"h": 644,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862547296109510700,
+					"source_status_id_str": "862547296109510656",
+					"source_user_id": 92631130,
+					"source_user_id_str": "92631130"
+				},
+				{
+					"id": 862547291642576900,
+					"id_str": "862547291642576896",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/C_hiMRhUwAABXBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_hiMRhUwAABXBP.jpg",
+					"url": "https://t.co/nWAFZvuh2P",
+					"display_url": "pic.twitter.com/nWAFZvuh2P",
+					"expanded_url": "https://twitter.com/thatgirlsalina/status/862547296109510656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 563,
+							"h": 629,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 563,
+							"h": 629,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 629,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862547296109510700,
+					"source_status_id_str": "862547296109510656",
+					"source_user_id": 92631130,
+					"source_user_id_str": "92631130"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1071,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12459,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 05:57:55 +0000 2017",
+			"id": 862547296109510700,
+			"id_str": "862547296109510656",
+			"text": "the US paying for college tuition vs. paying for prisons https://t.co/nWAFZvuh2P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862547291646840800,
+						"id_str": "862547291646840832",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+						"url": "https://t.co/nWAFZvuh2P",
+						"display_url": "pic.twitter.com/nWAFZvuh2P",
+						"expanded_url": "https://twitter.com/thatgirlsalina/status/862547296109510656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 549,
+								"h": 644,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 549,
+								"h": 644,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 549,
+								"h": 644,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862547291646840800,
+						"id_str": "862547291646840832",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_hiMRiV0AAelAQ.jpg",
+						"url": "https://t.co/nWAFZvuh2P",
+						"display_url": "pic.twitter.com/nWAFZvuh2P",
+						"expanded_url": "https://twitter.com/thatgirlsalina/status/862547296109510656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 549,
+								"h": 644,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 549,
+								"h": 644,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 549,
+								"h": 644,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 862547291642576900,
+						"id_str": "862547291642576896",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C_hiMRhUwAABXBP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_hiMRhUwAABXBP.jpg",
+						"url": "https://t.co/nWAFZvuh2P",
+						"display_url": "pic.twitter.com/nWAFZvuh2P",
+						"expanded_url": "https://twitter.com/thatgirlsalina/status/862547296109510656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 563,
+								"h": 629,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 563,
+								"h": 629,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 563,
+								"h": 629,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 92631130,
+				"id_str": "92631130",
+				"name": "mama africa",
+				"screen_name": "thatgirlsalina",
+				"location": "",
+				"description": "im like mango juice it's hard not to love me instagram:thatgirlsalina // DM for promo$",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23118,
+				"friends_count": 997,
+				"listed_count": 383,
+				"created_at": "Wed Nov 25 22:49:07 +0000 2009",
+				"favourites_count": 111125,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 92105,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519417715207843841/49abSp5O.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519417715207843841/49abSp5O.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849877277135339521/_CWLFlEj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849877277135339521/_CWLFlEj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/92631130/1494552181",
+				"profile_link_color": "041212",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4533,
+			"favorite_count": 6219,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4533,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 12 01:38:20 +0000 2017",
+		"id": 862844357921177600,
+		"id_str": "862844357921177601",
+		"text": "in order for New Jersey to approve my New Jersey state tax return they just asked me for a copy of . . . my state tax return.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1071,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12459,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 12 01:02:52 +0000 2017",
 		"id": 862835432861691900,
 		"id_str": "862835432861691904",
