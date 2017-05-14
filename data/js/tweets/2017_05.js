@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 14 03:46:03 +0000 2017",
+		"id": 863601272804581400,
+		"id_str": "863601272804581376",
+		"text": "joey waronker fill https://t.co/iKEVWafdBM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iKEVWafdBM",
+					"expanded_url": "https://twitter.com/ReadingThePix/status/863589200297422848",
+					"display_url": "twitter.com/ReadingThePix/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1070,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12478,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 863589200297422800,
+		"quoted_status_id_str": "863589200297422848",
+		"quoted_status": {
+			"created_at": "Sun May 14 02:58:04 +0000 2017",
+			"id": 863589200297422800,
+			"id_str": "863589200297422848",
+			"text": "Doing best to keep up, but was caught unaware by Trump's latest move. 📷@b_smialowski #tarmac https://t.co/yaiQUTTOfA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tarmac",
+						"indices": [
+							85,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "b_smialowski",
+						"name": "Brendan Smialowski",
+						"id": 135916160,
+						"id_str": "135916160",
+						"indices": [
+							71,
+							84
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 863589197575315500,
+						"id_str": "863589197575315456",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C_wVzLlXYAAoCaK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_wVzLlXYAAoCaK.jpg",
+						"url": "https://t.co/yaiQUTTOfA",
+						"display_url": "pic.twitter.com/yaiQUTTOfA",
+						"expanded_url": "https://twitter.com/ReadingThePix/status/863589200297422848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863589197575315500,
+						"id_str": "863589197575315456",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C_wVzLlXYAAoCaK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_wVzLlXYAAoCaK.jpg",
+						"url": "https://t.co/yaiQUTTOfA",
+						"display_url": "pic.twitter.com/yaiQUTTOfA",
+						"expanded_url": "https://twitter.com/ReadingThePix/status/863589200297422848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15939644,
+				"id_str": "15939644",
+				"name": "Reading The Pictures",
+				"screen_name": "ReadingThePix",
+				"location": "",
+				"description": "Dedicated to the daily analysis of news photos and media images. Official feed of the non-profit Reading The Pictures. Also writing for @CJR.",
+				"url": "https://t.co/8FK3AOHyM9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8FK3AOHyM9",
+								"expanded_url": "http://www.readingthepictures.org",
+								"display_url": "readingthepictures.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10903,
+				"friends_count": 3140,
+				"listed_count": 646,
+				"created_at": "Fri Aug 22 01:21:56 +0000 2008",
+				"favourites_count": 1872,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12302,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589676718/rn2ry37rdr797sj71wsj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589676718/rn2ry37rdr797sj71wsj.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641367298041778177/CwGvscmS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641367298041778177/CwGvscmS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15939644/1489384702",
+				"profile_link_color": "120D07",
+				"profile_sidebar_border_color": "B7C2A8",
+				"profile_sidebar_fill_color": "979A8D",
+				"profile_text_color": "0C0D0D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 14 00:04:31 +0000 2017",
 		"id": 863545525269913600,
 		"id_str": "863545525269913600",
