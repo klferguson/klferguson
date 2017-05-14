@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 14 00:04:31 +0000 2017",
+		"id": 863545525269913600,
+		"id_str": "863545525269913600",
+		"text": "RT @Bryainiac: People call NYC dirty but excuse me. https://t.co/hluHniYAo5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bryainiac",
+					"name": "Short Cutie",
+					"id": 147417008,
+					"id_str": "147417008",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 863154159993987100,
+					"id_str": "863154159993987072",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+					"url": "https://t.co/hluHniYAo5",
+					"display_url": "pic.twitter.com/hluHniYAo5",
+					"expanded_url": "https://twitter.com/Bryainiac/status/863154168877518852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 874,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 863154168877518800,
+					"source_status_id_str": "863154168877518852",
+					"source_user_id": 147417008,
+					"source_user_id_str": "147417008"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 863154159993987100,
+					"id_str": "863154159993987072",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+					"url": "https://t.co/hluHniYAo5",
+					"display_url": "pic.twitter.com/hluHniYAo5",
+					"expanded_url": "https://twitter.com/Bryainiac/status/863154168877518852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 874,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 863154168877518800,
+					"source_status_id_str": "863154168877518852",
+					"source_user_id": 147417008,
+					"source_user_id_str": "147417008"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1070,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12477,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 12 22:09:25 +0000 2017",
+			"id": 863154168877518800,
+			"id_str": "863154168877518852",
+			"text": "People call NYC dirty but excuse me. https://t.co/hluHniYAo5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 863154159993987100,
+						"id_str": "863154159993987072",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+						"url": "https://t.co/hluHniYAo5",
+						"display_url": "pic.twitter.com/hluHniYAo5",
+						"expanded_url": "https://twitter.com/Bryainiac/status/863154168877518852/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 874,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 874,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863154159993987100,
+						"id_str": "863154159993987072",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_qKIqTXoAA5G5E.jpg",
+						"url": "https://t.co/hluHniYAo5",
+						"display_url": "pic.twitter.com/hluHniYAo5",
+						"expanded_url": "https://twitter.com/Bryainiac/status/863154168877518852/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 874,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 874,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147417008,
+				"id_str": "147417008",
+				"name": "Short Cutie",
+				"screen_name": "Bryainiac",
+				"location": "Ba Sing Se, Eastern Hemisphere",
+				"description": "I was born from a powerful Honduran woman, I call her mom.",
+				"url": "https://t.co/VYKcKPcLh4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VYKcKPcLh4",
+								"expanded_url": "http://snapchat.com/add/bryainiac",
+								"display_url": "snapchat.com/add/bryainiac",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 608,
+				"friends_count": 586,
+				"listed_count": 26,
+				"created_at": "Mon May 24 02:48:59 +0000 2010",
+				"favourites_count": 64057,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40635,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453922982025392128/N11YNyQ5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453922982025392128/N11YNyQ5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861009561330868225/zv2issxQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861009561330868225/zv2issxQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147417008/1492646129",
+				"profile_link_color": "610B0B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "9D582E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 551,
+			"favorite_count": 1198,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 13 22:03:46 +0000 2017",
 		"id": 863515137768083500,
 		"id_str": "863515137768083457",
