@@ -1,6 +1,867 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 27 19:35:44 +0000 2017",
+		"id": 868551313424093200,
+		"id_str": "868551313424093189",
+		"text": "RT @NitrateStock: John Sayles’ THE BROTHER FROM ANOTHER PLANET (1984) 5pm at the Quad Cinema. #ImmigrantSongs @QuadCinema",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ImmigrantSongs",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NitrateStock",
+					"name": "Joseph Walsh",
+					"id": 879702607,
+					"id_str": "879702607",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "QuadCinema",
+					"name": "Quad Cinema",
+					"id": 180901458,
+					"id_str": "180901458",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1079,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12742,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 19:30:25 +0000 2017",
+			"id": 868549975617175600,
+			"id_str": "868549975617175553",
+			"text": "John Sayles’ THE BROTHER FROM ANOTHER PLANET (1984) 5pm at the Quad Cinema. #ImmigrantSongs @QuadCinema",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ImmigrantSongs",
+						"indices": [
+							76,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "QuadCinema",
+						"name": "Quad Cinema",
+						"id": 180901458,
+						"id_str": "180901458",
+						"indices": [
+							92,
+							103
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 879702607,
+				"id_str": "879702607",
+				"name": "Joseph Walsh",
+				"screen_name": "NitrateStock",
+				"location": "",
+				"description": "Covering the repertory film scene in NYC.",
+				"url": "https://t.co/JtL0YdLWsV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JtL0YdLWsV",
+								"expanded_url": "http://www.nitratestock.net",
+								"display_url": "nitratestock.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1209,
+				"friends_count": 1119,
+				"listed_count": 67,
+				"created_at": "Sun Oct 14 09:01:20 +0000 2012",
+				"favourites_count": 18814,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36077,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850827197451558912/1DdCCTbb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850827197451558912/1DdCCTbb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/879702607/1414999257",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 27 19:35:06 +0000 2017",
+		"id": 868551153230938100,
+		"id_str": "868551153230938112",
+		"text": "RT @kibblesmith: CAN SOMEONE PLEASE EXPLAIN TO ME THE PHYSICS OF CASPER https://t.co/k4KxjgMvPI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kibblesmith",
+					"name": "Kibblesmith ⚔️",
+					"id": 14641347,
+					"id_str": "14641347",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 868550201577013200,
+					"id_str": "868550201577013249",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+					"url": "https://t.co/k4KxjgMvPI",
+					"display_url": "pic.twitter.com/k4KxjgMvPI",
+					"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868550207201579000,
+					"source_status_id_str": "868550207201579011",
+					"source_user_id": 14641347,
+					"source_user_id_str": "14641347"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 868550201577013200,
+					"id_str": "868550201577013249",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+					"url": "https://t.co/k4KxjgMvPI",
+					"display_url": "pic.twitter.com/k4KxjgMvPI",
+					"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868550207201579000,
+					"source_status_id_str": "868550207201579011",
+					"source_user_id": 14641347,
+					"source_user_id_str": "14641347"
+				},
+				{
+					"id": 868550201476350000,
+					"id_str": "868550201476349956",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DA21znSXgAQABSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA21znSXgAQABSg.jpg",
+					"url": "https://t.co/k4KxjgMvPI",
+					"display_url": "pic.twitter.com/k4KxjgMvPI",
+					"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 545,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 545,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868550207201579000,
+					"source_status_id_str": "868550207201579011",
+					"source_user_id": 14641347,
+					"source_user_id_str": "14641347"
+				},
+				{
+					"id": 868550201493114900,
+					"id_str": "868550201493114881",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DA21znWXUAEB2ZJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA21znWXUAEB2ZJ.jpg",
+					"url": "https://t.co/k4KxjgMvPI",
+					"display_url": "pic.twitter.com/k4KxjgMvPI",
+					"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 894,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 894,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868550207201579000,
+					"source_status_id_str": "868550207201579011",
+					"source_user_id": 14641347,
+					"source_user_id_str": "14641347"
+				},
+				{
+					"id": 868550201585393700,
+					"id_str": "868550201585393664",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DA21znsXYAAW8Qf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA21znsXYAAW8Qf.jpg",
+					"url": "https://t.co/k4KxjgMvPI",
+					"display_url": "pic.twitter.com/k4KxjgMvPI",
+					"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 274,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 274,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 274,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868550207201579000,
+					"source_status_id_str": "868550207201579011",
+					"source_user_id": 14641347,
+					"source_user_id_str": "14641347"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1079,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12742,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 19:31:20 +0000 2017",
+			"id": 868550207201579000,
+			"id_str": "868550207201579011",
+			"text": "CAN SOMEONE PLEASE EXPLAIN TO ME THE PHYSICS OF CASPER https://t.co/k4KxjgMvPI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 868550201577013200,
+						"id_str": "868550201577013249",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+						"url": "https://t.co/k4KxjgMvPI",
+						"display_url": "pic.twitter.com/k4KxjgMvPI",
+						"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 414,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 414,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 414,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868550201577013200,
+						"id_str": "868550201577013249",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA21znqXgAENTkO.jpg",
+						"url": "https://t.co/k4KxjgMvPI",
+						"display_url": "pic.twitter.com/k4KxjgMvPI",
+						"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 414,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 414,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 414,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 868550201476350000,
+						"id_str": "868550201476349956",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DA21znSXgAQABSg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA21znSXgAQABSg.jpg",
+						"url": "https://t.co/k4KxjgMvPI",
+						"display_url": "pic.twitter.com/k4KxjgMvPI",
+						"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 545,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 463,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 545,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 868550201493114900,
+						"id_str": "868550201493114881",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DA21znWXUAEB2ZJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA21znWXUAEB2ZJ.jpg",
+						"url": "https://t.co/k4KxjgMvPI",
+						"display_url": "pic.twitter.com/k4KxjgMvPI",
+						"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 894,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 894,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 868550201585393700,
+						"id_str": "868550201585393664",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DA21znsXYAAW8Qf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA21znsXYAAW8Qf.jpg",
+						"url": "https://t.co/k4KxjgMvPI",
+						"display_url": "pic.twitter.com/k4KxjgMvPI",
+						"expanded_url": "https://twitter.com/kibblesmith/status/868550207201579011/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 274,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 274,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 274,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14641347,
+				"id_str": "14641347",
+				"name": "Kibblesmith ⚔️",
+				"screen_name": "kibblesmith",
+				"location": "NYC, U.S.A.",
+				"description": "Writer, @ColbertLateShow | Comics (VALIANT, HEAVY METAL) | Books: https://t.co/zvkE1ADEbY (SANTA'S HUSBAND, HOW TO WIN AT EVERYTHING) | Actual Swamp Monster",
+				"url": "https://t.co/Z25TBxhAML",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z25TBxhAML",
+								"expanded_url": "http://www.kibblesmith.com",
+								"display_url": "kibblesmith.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zvkE1ADEbY",
+								"expanded_url": "http://bit.ly/Kibblesmith",
+								"display_url": "bit.ly/Kibblesmith",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 38908,
+				"friends_count": 3051,
+				"listed_count": 941,
+				"created_at": "Sat May 03 20:42:01 +0000 2008",
+				"favourites_count": 62096,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/831270815/3735ac019702c05bc2d1e6b72787ab09.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/831270815/3735ac019702c05bc2d1e6b72787ab09.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866491429950029824/ILTPb-xQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866491429950029824/ILTPb-xQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14641347/1495639958",
+				"profile_link_color": "ADADAD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 247,
+			"favorite_count": 733,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 27 18:45:17 +0000 2017",
 		"id": 868538615361679400,
 		"id_str": "868538615361679360",
