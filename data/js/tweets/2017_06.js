@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 17 02:04:06 +0000 2017",
+		"id": 875896807099912200,
+		"id_str": "875896807099912196",
+		"text": "movie night earlier with kiddos: watched first half hour of HONEY I SHRUNK THE KIDS. Jim Carrey = Matt Frewer (Max Headroom).",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1087,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12976,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 17 01:21:59 +0000 2017",
+		"id": 875886207464611800,
+		"id_str": "875886207464611841",
+		"text": "RT @starfishncoffee: Dear @NYGovCuomo https://t.co/qUOxUIkm89",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "starfishncoffee",
+					"name": "Aunt Clara's Magicks",
+					"id": 18003520,
+					"id_str": "18003520",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "NYGovCuomo",
+					"name": "Andrew Cuomo",
+					"id": 232268199,
+					"id_str": "232268199",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 875873756337537000,
+					"id_str": "875873756337537025",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+					"url": "https://t.co/qUOxUIkm89",
+					"display_url": "pic.twitter.com/qUOxUIkm89",
+					"expanded_url": "https://twitter.com/starfishncoffee/status/875873792924495873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1962,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875873792924495900,
+					"source_status_id_str": "875873792924495873",
+					"source_user_id": 18003520,
+					"source_user_id_str": "18003520"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 875873756337537000,
+					"id_str": "875873756337537025",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+					"url": "https://t.co/qUOxUIkm89",
+					"display_url": "pic.twitter.com/qUOxUIkm89",
+					"expanded_url": "https://twitter.com/starfishncoffee/status/875873792924495873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1962,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875873792924495900,
+					"source_status_id_str": "875873792924495873",
+					"source_user_id": 18003520,
+					"source_user_id_str": "18003520"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1087,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 12976,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 17 00:32:39 +0000 2017",
+			"id": 875873792924495900,
+			"id_str": "875873792924495873",
+			"text": "Dear @NYGovCuomo https://t.co/qUOxUIkm89",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYGovCuomo",
+						"name": "Andrew Cuomo",
+						"id": 232268199,
+						"id_str": "232268199",
+						"indices": [
+							5,
+							16
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 875873756337537000,
+						"id_str": "875873756337537025",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+						"url": "https://t.co/qUOxUIkm89",
+						"display_url": "pic.twitter.com/qUOxUIkm89",
+						"expanded_url": "https://twitter.com/starfishncoffee/status/875873792924495873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1150,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1962,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 651,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875873756337537000,
+						"id_str": "875873756337537025",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCe6inKWAAE5g1s.jpg",
+						"url": "https://t.co/qUOxUIkm89",
+						"display_url": "pic.twitter.com/qUOxUIkm89",
+						"expanded_url": "https://twitter.com/starfishncoffee/status/875873792924495873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1150,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1962,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 651,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18003520,
+				"id_str": "18003520",
+				"name": "Aunt Clara's Magicks",
+				"screen_name": "starfishncoffee",
+				"location": "TX to BK",
+				"description": "Culture, Society, Shenanigans : Chaos Muppet : Rap Game Jo March : Advanced Studies in Spinsterism : The Cheese Stands Alone",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4321,
+				"friends_count": 5001,
+				"listed_count": 235,
+				"created_at": "Tue Dec 09 21:43:35 +0000 2008",
+				"favourites_count": 52848,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 251923,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479778438354456577/2spgAoGX.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479778438354456577/2spgAoGX.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874010012401582080/efsQDN35_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874010012401582080/efsQDN35_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18003520/1491182958",
+				"profile_link_color": "47201B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9c93674082004",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9c93674082004.json",
+				"place_type": "poi",
+				"name": "MTA Subway - Delancey St/Essex St (F/J/M/Z)",
+				"full_name": "MTA Subway - Delancey St/Essex St (F/J/M/Z)",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.98811340332031,
+								40.71860727913039
+							],
+							[
+								-73.98811340332031,
+								40.71860727913039
+							],
+							[
+								-73.98811340332031,
+								40.71860727913039
+							],
+							[
+								-73.98811340332031,
+								40.71860727913039
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 17 00:11:26 +0000 2017",
 		"id": 875868453420314600,
 		"id_str": "875868453420314624",
