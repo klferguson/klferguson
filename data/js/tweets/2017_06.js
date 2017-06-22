@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 22 01:25:13 +0000 2017",
+		"id": 877698957916295200,
+		"id_str": "877698957916295169",
+		"text": "RT @suspirialex: TIME IS RUNNING OUT, CUTIES! SEND YOUR ACADEMIC ISHTAR FANFIC POST HASTE OR FOREVER BE CONDEMNED TO BE AN ACCORDIONIST IN…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suspirialex",
+					"name": "Alex Heller-Nicholas",
+					"id": 2439113024,
+					"id_str": "2439113024",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1086,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13012,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 01:22:24 +0000 2017",
+			"id": 877698251536740400,
+			"id_str": "877698251536740352",
+			"text": "TIME IS RUNNING OUT, CUTIES! SEND YOUR ACADEMIC ISHTAR FANFIC POST HASTE OR FOREVER BE CONDEMNED TO BE AN ACCORDION… https://t.co/dKwZt3TqOj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dKwZt3TqOj",
+						"expanded_url": "https://twitter.com/i/web/status/877698251536740352",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2439113024,
+				"id_str": "2439113024",
+				"name": "Alex Heller-Nicholas",
+				"screen_name": "suspirialex",
+				"location": "Melbourne ▾ Australia ",
+				"description": "Editor at @SensesOfCinema ▾ Film critic @3RRRFM @PlatosCaveFilm ▾ 2017 @AFIRC Research Fellow ▾ Wrote some books about cult film ▾ Opinions my own",
+				"url": "https://t.co/zvm6eAC3GT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zvm6eAC3GT",
+								"expanded_url": "http://www.thebluelenses.com/",
+								"display_url": "thebluelenses.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5058,
+				"friends_count": 553,
+				"listed_count": 183,
+				"created_at": "Fri Apr 11 21:39:25 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Yakutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8125,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "A0A0A0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675602825737469953/BFVwUnnq.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675602825737469953/BFVwUnnq.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823454744152834048/_0OPZOxi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823454744152834048/_0OPZOxi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2439113024/1493967940",
+				"profile_link_color": "236B8E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 855227419371987000,
+			"quoted_status_id_str": "855227419371986944",
+			"quoted_status": {
+				"created_at": "Fri Apr 21 01:11:20 +0000 2017",
+				"id": 855227419371987000,
+				"id_str": "855227419371986944",
+				"text": "Twitter darlings!  I'm editing a book of academic essays on Elaine May's film work with my chum @dbrandum. CFP here… https://t.co/FomjZG9Q1P",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "dbrandum",
+							"name": "techniyawn",
+							"id": 3790297573,
+							"id_str": "3790297573",
+							"indices": [
+								96,
+								105
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/FomjZG9Q1P",
+							"expanded_url": "https://twitter.com/i/web/status/855227419371986944",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2439113024,
+					"id_str": "2439113024",
+					"name": "Alex Heller-Nicholas",
+					"screen_name": "suspirialex",
+					"location": "Melbourne ▾ Australia ",
+					"description": "Editor at @SensesOfCinema ▾ Film critic @3RRRFM @PlatosCaveFilm ▾ 2017 @AFIRC Research Fellow ▾ Wrote some books about cult film ▾ Opinions my own",
+					"url": "https://t.co/zvm6eAC3GT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zvm6eAC3GT",
+									"expanded_url": "http://www.thebluelenses.com/",
+									"display_url": "thebluelenses.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5058,
+					"friends_count": 553,
+					"listed_count": 183,
+					"created_at": "Fri Apr 11 21:39:25 +0000 2014",
+					"favourites_count": 0,
+					"utc_offset": 32400,
+					"time_zone": "Yakutsk",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 8125,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "A0A0A0",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675602825737469953/BFVwUnnq.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675602825737469953/BFVwUnnq.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823454744152834048/_0OPZOxi_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823454744152834048/_0OPZOxi_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2439113024/1493967940",
+					"profile_link_color": "236B8E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 82,
+				"favorite_count": 204,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 855227419371987000,
+		"quoted_status_id_str": "855227419371986944",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 22 00:59:08 +0000 2017",
 		"id": 877692396397633500,
 		"id_str": "877692396397633536",
