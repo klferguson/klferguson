@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 23 11:45:31 +0000 2017",
+		"id": 878217450738679800,
+		"id_str": "878217450738679808",
+		"text": "aw, our porter has his name inscribed on the hand truck he let me borrow 😍 😍 😍 https://t.co/1IxA6ACPsT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 878217297826988000,
+					"id_str": "878217297826988032",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DDAN-riUwAA-ssH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDAN-riUwAA-ssH.jpg",
+					"url": "https://t.co/1IxA6ACPsT",
+					"display_url": "pic.twitter.com/1IxA6ACPsT",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/878217450738679808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 878217297826988000,
+					"id_str": "878217297826988032",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DDAN-riUwAA-ssH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDAN-riUwAA-ssH.jpg",
+					"url": "https://t.co/1IxA6ACPsT",
+					"display_url": "pic.twitter.com/1IxA6ACPsT",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/878217450738679808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1089,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13017,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45553,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 23 11:44:01 +0000 2017",
+		"id": 878217074568564700,
+		"id_str": "878217074568564736",
+		"text": "RT @hopeblossom_: Illustration by Japanese manga artist Taiyō Matsumoto https://t.co/jDm35W1Eyb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hopeblossom_",
+					"name": "리듬",
+					"id": 2252227897,
+					"id_str": "2252227897",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 877840790306734100,
+					"id_str": "877840790306734080",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+					"url": "https://t.co/jDm35W1Eyb",
+					"display_url": "pic.twitter.com/jDm35W1Eyb",
+					"expanded_url": "https://twitter.com/hopeblossom_/status/877840836490219521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 586,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 586,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877840836490219500,
+					"source_status_id_str": "877840836490219521",
+					"source_user_id": 2252227897,
+					"source_user_id_str": "2252227897"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 877840790306734100,
+					"id_str": "877840790306734080",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+					"url": "https://t.co/jDm35W1Eyb",
+					"display_url": "pic.twitter.com/jDm35W1Eyb",
+					"expanded_url": "https://twitter.com/hopeblossom_/status/877840836490219521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 586,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 586,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877840836490219500,
+					"source_status_id_str": "877840836490219521",
+					"source_user_id": 2252227897,
+					"source_user_id_str": "2252227897"
+				},
+				{
+					"id": 877840816118485000,
+					"id_str": "877840816118484996",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DC63kj4U0AQ7ll1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC63kj4U0AQ7ll1.jpg",
+					"url": "https://t.co/jDm35W1Eyb",
+					"display_url": "pic.twitter.com/jDm35W1Eyb",
+					"expanded_url": "https://twitter.com/hopeblossom_/status/877840836490219521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 564,
+							"h": 826,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 564,
+							"h": 826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877840836490219500,
+					"source_status_id_str": "877840836490219521",
+					"source_user_id": 2252227897,
+					"source_user_id_str": "2252227897"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1089,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13017,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45553,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 10:48:59 +0000 2017",
+			"id": 877840836490219500,
+			"id_str": "877840836490219521",
+			"text": "Illustration by Japanese manga artist Taiyō Matsumoto https://t.co/jDm35W1Eyb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 877840790306734100,
+						"id_str": "877840790306734080",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+						"url": "https://t.co/jDm35W1Eyb",
+						"display_url": "pic.twitter.com/jDm35W1Eyb",
+						"expanded_url": "https://twitter.com/hopeblossom_/status/877840836490219521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 586,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 586,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877840790306734100,
+						"id_str": "877840790306734080",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC63jDuUwAAfB2n.jpg",
+						"url": "https://t.co/jDm35W1Eyb",
+						"display_url": "pic.twitter.com/jDm35W1Eyb",
+						"expanded_url": "https://twitter.com/hopeblossom_/status/877840836490219521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 586,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 586,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 877840816118485000,
+						"id_str": "877840816118484996",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DC63kj4U0AQ7ll1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC63kj4U0AQ7ll1.jpg",
+						"url": "https://t.co/jDm35W1Eyb",
+						"display_url": "pic.twitter.com/jDm35W1Eyb",
+						"expanded_url": "https://twitter.com/hopeblossom_/status/877840836490219521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 564,
+								"h": 826,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 564,
+								"h": 826,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2252227897,
+				"id_str": "2252227897",
+				"name": "리듬",
+				"screen_name": "hopeblossom_",
+				"location": "in God",
+				"description": "삶이 진실에 베이는 순간",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8159,
+				"friends_count": 175,
+				"listed_count": 132,
+				"created_at": "Wed Dec 18 16:21:29 +0000 2013",
+				"favourites_count": 14214,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3569,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451330764999634945/7_Gx7oJb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451330764999634945/7_Gx7oJb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862341803424571393/eTeqrY53_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862341803424571393/eTeqrY53_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2252227897/1496397192",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2665,
+			"favorite_count": 4560,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fi"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2665,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fi"
+	},
+	{
 		"created_at": "Fri Jun 23 04:04:36 +0000 2017",
 		"id": 878101457337069600,
 		"id_str": "878101457337069568",
