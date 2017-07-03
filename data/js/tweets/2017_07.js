@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 03 21:27:31 +0000 2017",
+		"id": 881987794029207600,
+		"id_str": "881987794029207555",
+		"text": "RT @LaFamiliaFilm: Bob Gale: “During filming we had one executive keep asking us to change the title to Spaceman From Pluto.” https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaFamiliaFilm",
+					"name": "Cinephilia & Beyond",
+					"id": 171719023,
+					"id_str": "171719023",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1090,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13108,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 03 20:49:10 +0000 2017",
+			"id": 881978145326469100,
+			"id_str": "881978145326469121",
+			"text": "Bob Gale: “During filming we had one executive keep asking us to change the title to Spaceman From Pluto.” https://t.co/DILAcGQvco",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 881978015391076400,
+						"id_str": "881978015391076352",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DD1qVQMW0AAu3CN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD1qVQMW0AAu3CN.jpg",
+						"url": "https://t.co/DILAcGQvco",
+						"display_url": "pic.twitter.com/DILAcGQvco",
+						"expanded_url": "https://twitter.com/LaFamiliaFilm/status/881978145326469121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1539,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 881978015391076400,
+						"id_str": "881978015391076352",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DD1qVQMW0AAu3CN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD1qVQMW0AAu3CN.jpg",
+						"url": "https://t.co/DILAcGQvco",
+						"display_url": "pic.twitter.com/DILAcGQvco",
+						"expanded_url": "https://twitter.com/LaFamiliaFilm/status/881978145326469121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1539,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 881974013286916100,
+			"in_reply_to_status_id_str": "881974013286916097",
+			"in_reply_to_user_id": 171719023,
+			"in_reply_to_user_id_str": "171719023",
+			"in_reply_to_screen_name": "LaFamiliaFilm",
+			"user": {
+				"id": 171719023,
+				"id_str": "171719023",
+				"name": "Cinephilia & Beyond",
+				"screen_name": "LaFamiliaFilm",
+				"location": "Zagreb, Croatia",
+				"description": "Author, Screenwriter, Filmmaker. A child of Marx and Coca Cola who strives to be Terrence Malick when he grows up (or @David_Lynch, I haven't decided yet).",
+				"url": "https://t.co/FOC7YMHAqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FOC7YMHAqy",
+								"expanded_url": "https://cinephiliabeyond.org/",
+								"display_url": "cinephiliabeyond.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58427,
+				"friends_count": 8770,
+				"listed_count": 1779,
+				"created_at": "Wed Jul 28 00:49:37 +0000 2010",
+				"favourites_count": 2811,
+				"utc_offset": 7200,
+				"time_zone": "Zagreb",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C1B1C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/142269866/rsz_1rsz_2orson-welles_citizen-kane.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/142269866/rsz_1rsz_2orson-welles_citizen-kane.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856318779432857600/a2NwXQJq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856318779432857600/a2NwXQJq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/171719023/1398692904",
+				"profile_link_color": "134E61",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "242124",
+				"profile_text_color": "6B6E73",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 03 20:47:17 +0000 2017",
 		"id": 881977671219109900,
 		"id_str": "881977671219109890",
