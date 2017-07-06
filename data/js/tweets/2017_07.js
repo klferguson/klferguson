@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 06 14:49:32 +0000 2017",
+		"id": 882974800947368000,
+		"id_str": "882974800947367938",
+		"text": "RT @RollingStone: A NYC bomb scare turned out to be a 1980s time capsule from legendary club Danceteria https://t.co/V6UmKMOxUb https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RollingStone",
+					"name": "Rolling Stone",
+					"id": 14780915,
+					"id_str": "14780915",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V6UmKMOxUb",
+					"expanded_url": "http://rol.st/2sKfbVo",
+					"display_url": "rol.st/2sKfbVo",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1089,
+			"friends_count": 463,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13138,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45784,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 06 14:39:04 +0000 2017",
+			"id": 882972170091102200,
+			"id_str": "882972170091102209",
+			"text": "A NYC bomb scare turned out to be a 1980s time capsule from legendary club Danceteria https://t.co/V6UmKMOxUb https://t.co/AI5a9QJVYF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V6UmKMOxUb",
+						"expanded_url": "http://rol.st/2sKfbVo",
+						"display_url": "rol.st/2sKfbVo",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 882972167658500100,
+						"id_str": "882972167658500098",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DEDygh_XcAI2zAw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEDygh_XcAI2zAw.jpg",
+						"url": "https://t.co/AI5a9QJVYF",
+						"display_url": "pic.twitter.com/AI5a9QJVYF",
+						"expanded_url": "https://twitter.com/RollingStone/status/882972170091102209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882972167658500100,
+						"id_str": "882972167658500098",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DEDygh_XcAI2zAw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEDygh_XcAI2zAw.jpg",
+						"url": "https://t.co/AI5a9QJVYF",
+						"display_url": "pic.twitter.com/AI5a9QJVYF",
+						"expanded_url": "https://twitter.com/RollingStone/status/882972170091102209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14780915,
+				"id_str": "14780915",
+				"name": "Rolling Stone",
+				"screen_name": "RollingStone",
+				"location": "New York, New York",
+				"description": "The latest news and more from Rolling Stone magazine and http://t.co/P631jaSEDh.",
+				"url": "http://t.co/zhpWt9kvuA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zhpWt9kvuA",
+								"expanded_url": "http://www.rollingstone.com",
+								"display_url": "rollingstone.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/P631jaSEDh",
+								"expanded_url": "http://RollingStone.com",
+								"display_url": "RollingStone.com",
+								"indices": [
+									57,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6033553,
+				"friends_count": 254,
+				"listed_count": 37441,
+				"created_at": "Thu May 15 02:52:27 +0000 2008",
+				"favourites_count": 5,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 77368,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0B0B0E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433012998307729408/m8vgpwYl.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433012998307729408/m8vgpwYl.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875453682170576896/KDcOPtgI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875453682170576896/KDcOPtgI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1492546845",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 06 14:04:20 +0000 2017",
 		"id": 882963428775735300,
 		"id_str": "882963428775735297",
