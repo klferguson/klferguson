@@ -1,6 +1,1015 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 11 19:11:13 +0000 2017",
+		"id": 884852596732825600,
+		"id_str": "884852596732825601",
+		"text": "@melisser3  https://t.co/OXlU55ofrl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 884852584573423600,
+					"id_str": "884852584573423616",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEegvM4V0AAylFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEegvM4V0AAylFw.jpg",
+					"url": "https://t.co/OXlU55ofrl",
+					"display_url": "pic.twitter.com/OXlU55ofrl",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/884852596732825601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 128,
+							"h": 128,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 884852584573423600,
+					"id_str": "884852584573423616",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEegvM4V0AAylFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEegvM4V0AAylFw.jpg",
+					"url": "https://t.co/OXlU55ofrl",
+					"display_url": "pic.twitter.com/OXlU55ofrl",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/884852596732825601/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 128,
+							"h": 128,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							16
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DEegvM4V0AAylFw.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 884851925782581200,
+		"in_reply_to_status_id_str": "884851925782581249",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13191,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jul 11 18:58:46 +0000 2017",
+		"id": 884849461910011900,
+		"id_str": "884849461910011904",
+		"text": "@melisser3 seashells in your pants?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 884847681151144000,
+		"in_reply_to_status_id_str": "884847681151143937",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13191,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 11 18:57:34 +0000 2017",
+		"id": 884849159932698600,
+		"id_str": "884849159932698624",
+		"text": "RT @Gossenphilosoph: Using salt circle runes to trap an A.I. car is possibly the most cyberpunk thing ever. https://t.co/4ckbQlMyBS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gossenphilosoph",
+					"name": "Kasper Hawser",
+					"id": 165049808,
+					"id_str": "165049808",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 884766800839413800,
+					"id_str": "884766800839413763",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+					"url": "https://t.co/4ckbQlMyBS",
+					"display_url": "pic.twitter.com/4ckbQlMyBS",
+					"expanded_url": "https://twitter.com/Gossenphilosoph/status/884769533810143237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 538,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 538,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 538,
+							"h": 509,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 884769533810143200,
+					"source_status_id_str": "884769533810143237",
+					"source_user_id": 165049808,
+					"source_user_id_str": "165049808"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 884766800839413800,
+					"id_str": "884766800839413763",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+					"url": "https://t.co/4ckbQlMyBS",
+					"display_url": "pic.twitter.com/4ckbQlMyBS",
+					"expanded_url": "https://twitter.com/Gossenphilosoph/status/884769533810143237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 538,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 538,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 538,
+							"h": 509,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 884769533810143200,
+					"source_status_id_str": "884769533810143237",
+					"source_user_id": 165049808,
+					"source_user_id_str": "165049808"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13191,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 11 13:41:09 +0000 2017",
+			"id": 884769533810143200,
+			"id_str": "884769533810143237",
+			"text": "Using salt circle runes to trap an A.I. car is possibly the most cyberpunk thing ever. https://t.co/4ckbQlMyBS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 884766800839413800,
+						"id_str": "884766800839413763",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+						"url": "https://t.co/4ckbQlMyBS",
+						"display_url": "pic.twitter.com/4ckbQlMyBS",
+						"expanded_url": "https://twitter.com/Gossenphilosoph/status/884769533810143237/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 538,
+								"h": 509,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 538,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 538,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 884766800839413800,
+						"id_str": "884766800839413763",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEdSt7kXkAMeCcC.jpg",
+						"url": "https://t.co/4ckbQlMyBS",
+						"display_url": "pic.twitter.com/4ckbQlMyBS",
+						"expanded_url": "https://twitter.com/Gossenphilosoph/status/884769533810143237/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 538,
+								"h": 509,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 538,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 538,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 165049808,
+				"id_str": "165049808",
+				"name": "Kasper Hawser",
+				"screen_name": "Gossenphilosoph",
+				"location": "",
+				"description": "Epistemic Hygiene Enthusiast // Unorthodox Hereditarian Leftism // NRx-Observer // A.I. Supremacist // Human nature is a design constraint for human society",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 479,
+				"friends_count": 172,
+				"listed_count": 19,
+				"created_at": "Sat Jul 10 13:06:02 +0000 2010",
+				"favourites_count": 29016,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12458,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819025561469198337/QNj2WRil_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819025561469198337/QNj2WRil_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/165049808/1492896490",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3543,
+			"favorite_count": 4776,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3543,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 11 18:35:46 +0000 2017",
+		"id": 884843673745334300,
+		"id_str": "884843673745334274",
+		"text": "RT @GriffLightning: Only a stone cold sociopath would call it \"TMN Turtles\" and just move on with the rest of his tweet like nothing catast…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GriffLightning",
+					"name": "Griffin Newman",
+					"id": 19227177,
+					"id_str": "19227177",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13191,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 11 16:22:56 +0000 2017",
+			"id": 884810245494767600,
+			"id_str": "884810245494767621",
+			"text": "Only a stone cold sociopath would call it \"TMN Turtles\" and just move on with the rest of his tweet like nothing ca… https://t.co/QqL4nZvVAW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QqL4nZvVAW",
+						"expanded_url": "https://twitter.com/i/web/status/884810245494767621",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19227177,
+				"id_str": "19227177",
+				"name": "Griffin Newman",
+				"screen_name": "GriffLightning",
+				"location": "Grifftopia",
+				"description": "Small, dramatic boy. Flying moth man on @TheTickTV. Co-host of @BlankCheckPod.",
+				"url": "https://t.co/1CUffyKIIg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1CUffyKIIg",
+								"expanded_url": "http://bit.ly/FastGriffFurious",
+								"display_url": "bit.ly/FastGriffFurio…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6025,
+				"friends_count": 1734,
+				"listed_count": 111,
+				"created_at": "Tue Jan 20 10:31:44 +0000 2009",
+				"favourites_count": 92162,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/521165178/485844_388632321157520_107349155952506_1349679_470839356_n.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/521165178/485844_388632321157520_107349155952506_1349679_470839356_n.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844261374125654019/BuUCBDNY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844261374125654019/BuUCBDNY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19227177/1499798721",
+				"profile_link_color": "E645C8",
+				"profile_sidebar_border_color": "52F000",
+				"profile_sidebar_fill_color": "0EA412",
+				"profile_text_color": "28FF00",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 84718394762465280,
+			"quoted_status_id_str": "84718394762465281",
+			"quoted_status": {
+				"created_at": "Sat Jun 25 20:23:33 +0000 2011",
+				"id": 84718394762465280,
+				"id_str": "84718394762465281",
+				"text": "Cant believe its been 2 yrs since Michael Jackson passed. I remember playing TMN Turtles on Nintendo w/ him as a kid like it was yesterday!",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 39344374,
+					"id_str": "39344374",
+					"name": "Donald Trump Jr.",
+					"screen_name": "DonaldJTrumpJr",
+					"location": "",
+					"description": "EVP of Development & Acquisitions @Trump Organization and Boardroom Advisor on the Apprentice.",
+					"url": "https://t.co/L8emHxSDPh",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/L8emHxSDPh",
+									"expanded_url": null,
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1812828,
+					"friends_count": 1151,
+					"listed_count": 7171,
+					"created_at": "Mon May 11 21:18:33 +0000 2009",
+					"favourites_count": 6805,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 19328,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/156371754/TIGL_Scotland_SMALL.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/156371754/TIGL_Scotland_SMALL.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+					"profile_link_color": "15317E",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 493,
+				"favorite_count": 502,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 16,
+			"favorite_count": 103,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 84718394762465280,
+		"quoted_status_id_str": "84718394762465281",
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 11 17:36:29 +0000 2017",
 		"id": 884828755167981600,
 		"id_str": "884828755167981568",
