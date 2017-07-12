@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 12 12:05:31 +0000 2017",
+		"id": 885107851827576800,
+		"id_str": "885107851827576832",
+		"text": "RT @ClausWilke: Over the years, movies have converged to a length of ~100 min.\n\n4 lines of code with ggjoy. #rstats https://t.co/2xRoRPqVvg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rstats",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClausWilke",
+					"name": "Claus Wilke",
+					"id": 1679260675,
+					"id_str": "1679260675",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 885085218906005500,
+					"id_str": "885085218906005505",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+					"url": "https://t.co/2xRoRPqVvg",
+					"display_url": "pic.twitter.com/2xRoRPqVvg",
+					"expanded_url": "https://twitter.com/ClausWilke/status/885085499987304448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885085499987304400,
+					"source_status_id_str": "885085499987304448",
+					"source_user_id": 1679260675,
+					"source_user_id_str": "1679260675"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 885085218906005500,
+					"id_str": "885085218906005505",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+					"url": "https://t.co/2xRoRPqVvg",
+					"display_url": "pic.twitter.com/2xRoRPqVvg",
+					"expanded_url": "https://twitter.com/ClausWilke/status/885085499987304448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885085499987304400,
+					"source_status_id_str": "885085499987304448",
+					"source_user_id": 1679260675,
+					"source_user_id_str": "1679260675"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13202,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 12 10:36:41 +0000 2017",
+			"id": 885085499987304400,
+			"id_str": "885085499987304448",
+			"text": "Over the years, movies have converged to a length of ~100 min.\n\n4 lines of code with ggjoy. #rstats https://t.co/2xRoRPqVvg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rstats",
+						"indices": [
+							92,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 885085218906005500,
+						"id_str": "885085218906005505",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+						"url": "https://t.co/2xRoRPqVvg",
+						"display_url": "pic.twitter.com/2xRoRPqVvg",
+						"expanded_url": "https://twitter.com/ClausWilke/status/885085499987304448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 828,
+								"h": 834,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 675,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 834,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885085218906005500,
+						"id_str": "885085218906005505",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEh0UTTXYAEy2N7.jpg",
+						"url": "https://t.co/2xRoRPqVvg",
+						"display_url": "pic.twitter.com/2xRoRPqVvg",
+						"expanded_url": "https://twitter.com/ClausWilke/status/885085499987304448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 828,
+								"h": 834,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 675,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 834,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1679260675,
+				"id_str": "1679260675",
+				"name": "Claus Wilke",
+				"screen_name": "ClausWilke",
+				"location": "Austin, TX",
+				"description": "Professor of Integrative Biology. Lead organizer of #SMBE17. Opinions are my own and do not represent The University of Texas at Austin.",
+				"url": "https://t.co/LFvhqylEl6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LFvhqylEl6",
+								"expanded_url": "http://serialmentor.com",
+								"display_url": "serialmentor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2015,
+				"friends_count": 351,
+				"listed_count": 75,
+				"created_at": "Sat Aug 17 22:01:20 +0000 2013",
+				"favourites_count": 109,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7980,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827033797199683584/XSbfJHEE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827033797199683584/XSbfJHEE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1679260675/1491512807",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 118,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 12 02:09:11 +0000 2017",
 		"id": 884957781572374500,
 		"id_str": "884957781572374529",
