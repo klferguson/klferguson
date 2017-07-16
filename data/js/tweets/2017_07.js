@@ -1,6 +1,788 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 16 16:45:55 +0000 2017",
+		"id": 886627970982522900,
+		"id_str": "886627970982522881",
+		"text": "RT @Grady_Booch: Some men just want to watch the world burn. https://t.co/O5feSe7fLu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Grady_Booch",
+					"name": "Grady Booch",
+					"id": 397689316,
+					"id_str": "397689316",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O5feSe7fLu",
+					"expanded_url": "https://twitter.com/benphillips76/status/886563930147098624",
+					"display_url": "twitter.com/benphillips76/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1095,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13259,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 16 16:39:11 +0000 2017",
+			"id": 886626274281537500,
+			"id_str": "886626274281537536",
+			"text": "Some men just want to watch the world burn. https://t.co/O5feSe7fLu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/O5feSe7fLu",
+						"expanded_url": "https://twitter.com/benphillips76/status/886563930147098624",
+						"display_url": "twitter.com/benphillips76/…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397689316,
+				"id_str": "397689316",
+				"name": "Grady Booch",
+				"screen_name": "Grady_Booch",
+				"location": "Maui",
+				"description": "scientist, storyteller, philosopher",
+				"url": "https://t.co/FoLx8K2rs7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FoLx8K2rs7",
+								"expanded_url": "http://computingthehumanexperience.com",
+								"display_url": "computingthehumanexperience.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19250,
+				"friends_count": 512,
+				"listed_count": 790,
+				"created_at": "Tue Oct 25 01:21:41 +0000 2011",
+				"favourites_count": 40,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22783,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034408182728/0ef2f851591193ddb911b925bf3c790f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034408182728/0ef2f851591193ddb911b925bf3c790f.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572672019255140352/4NQeAcEo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572672019255140352/4NQeAcEo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397689316/1412125381",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "386eee0c027ac681",
+				"url": "https://api.twitter.com/1.1/geo/id/386eee0c027ac681.json",
+				"place_type": "city",
+				"name": "Kaanapali",
+				"full_name": "Kaanapali, HI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-156.696704,
+								20.911087
+							],
+							[
+								-156.674143,
+								20.911087
+							],
+							[
+								-156.674143,
+								20.950546
+							],
+							[
+								-156.696704,
+								20.950546
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 886563930147098600,
+			"quoted_status_id_str": "886563930147098624",
+			"quoted_status": {
+				"created_at": "Sun Jul 16 12:31:27 +0000 2017",
+				"id": 886563930147098600,
+				"id_str": "886563930147098624",
+				"text": "There should be an app to watch all Trump interviews like this https://t.co/sthgw5kuKK",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 825140163466629100,
+							"id_str": "825140163466629121",
+							"indices": [
+								63,
+								86
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/825140163466629121/pu/img/5N6rU6feoUXWgVvk.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/825140163466629121/pu/img/5N6rU6feoUXWgVvk.jpg",
+							"url": "https://t.co/sthgw5kuKK",
+							"display_url": "pic.twitter.com/sthgw5kuKK",
+							"expanded_url": "https://twitter.com/mike22p/status/825140416425115648/video/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 825140416425115600,
+							"source_status_id_str": "825140416425115648",
+							"source_user_id": 774005480821780500,
+							"source_user_id_str": "774005480821780480"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 825140163466629100,
+							"id_str": "825140163466629121",
+							"indices": [
+								63,
+								86
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/825140163466629121/pu/img/5N6rU6feoUXWgVvk.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/825140163466629121/pu/img/5N6rU6feoUXWgVvk.jpg",
+							"url": "https://t.co/sthgw5kuKK",
+							"display_url": "pic.twitter.com/sthgw5kuKK",
+							"expanded_url": "https://twitter.com/mike22p/status/825140416425115648/video/1",
+							"type": "video",
+							"sizes": {
+								"large": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 825140416425115600,
+							"source_status_id_str": "825140416425115648",
+							"source_user_id": 774005480821780500,
+							"source_user_id_str": "774005480821780480",
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 15360,
+								"variants": [
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/825140163466629121/pu/vid/320x180/AUeAkZKXxAGDODn_.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/825140163466629121/pu/pl/3guTualrkWT3K-ej.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/825140163466629121/pu/vid/640x360/wue3g_0oeA6gm485.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false,
+								"source_user": {
+									"id": 774005480821780500,
+									"id_str": "774005480821780480",
+									"name": "Mike Palo",
+									"screen_name": "mike22p",
+									"location": "planet earth",
+									"description": "A Human rights activist",
+									"url": null,
+									"entities": {
+										"description": {
+											"urls": []
+										}
+									},
+									"protected": false,
+									"followers_count": 2908,
+									"friends_count": 4116,
+									"listed_count": 11,
+									"created_at": "Thu Sep 08 22:04:21 +0000 2016",
+									"favourites_count": 1599,
+									"utc_offset": null,
+									"time_zone": null,
+									"geo_enabled": false,
+									"verified": false,
+									"statuses_count": 1366,
+									"lang": "en",
+									"contributors_enabled": false,
+									"is_translator": false,
+									"is_translation_enabled": false,
+									"profile_background_color": "000000",
+									"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_tile": false,
+									"profile_image_url": "http://pbs.twimg.com/profile_images/776135047825031168/nQZIt009_normal.jpg",
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/776135047825031168/nQZIt009_normal.jpg",
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/774005480821780480/1474173638",
+									"profile_link_color": "ABB8C2",
+									"profile_sidebar_border_color": "000000",
+									"profile_sidebar_fill_color": "000000",
+									"profile_text_color": "000000",
+									"profile_use_background_image": false,
+									"has_extended_profile": false,
+									"default_profile": false,
+									"default_profile_image": false,
+									"following": false,
+									"follow_request_sent": false,
+									"notifications": false,
+									"translator_type": "none"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 172325520,
+					"id_str": "172325520",
+					"name": "Ben Phillips",
+					"screen_name": "benphillips76",
+					"location": "Cover the world from Nairobi.",
+					"description": "Co-founder, #FightInequality alliance. Dad, husband, activist, bad Swahili student. This is personal.",
+					"url": "https://t.co/kcIMGrjYWv",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/kcIMGrjYWv",
+									"expanded_url": "http://www.globaldashboard.org/author/ben-phillips/",
+									"display_url": "globaldashboard.org/author/ben-phi…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 14203,
+					"friends_count": 1709,
+					"listed_count": 413,
+					"created_at": "Thu Jul 29 12:46:34 +0000 2010",
+					"favourites_count": 2000,
+					"utc_offset": 10800,
+					"time_zone": "Nairobi",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 27320,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "BADFCD",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/879277989149757440/Ir1tWjY2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/879277989149757440/Ir1tWjY2_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/172325520/1418290722",
+					"profile_link_color": "FF0000",
+					"profile_sidebar_border_color": "F2E195",
+					"profile_sidebar_fill_color": "FFF7CC",
+					"profile_text_color": "0C3E53",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "00fa17aa00b810c9",
+					"url": "https://api.twitter.com/1.1/geo/id/00fa17aa00b810c9.json",
+					"place_type": "admin",
+					"name": "Central",
+					"full_name": "Central, Kenya",
+					"country_code": "KE",
+					"country": "Kenya",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									36.2020726,
+									-1.3027912
+								],
+								[
+									38.2704494,
+									-1.3027912
+								],
+								[
+									38.2704494,
+									1.456831
+								],
+								[
+									36.2020726,
+									1.456831
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3432,
+				"favorite_count": 5566,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 886563930147098600,
+		"quoted_status_id_str": "886563930147098624",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 16 16:36:36 +0000 2017",
+		"id": 886625624017731600,
+		"id_str": "886625624017731585",
+		"text": "like: what is going on in that chef's mind?! but also: check out that dope lighting.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 886625399328960500,
+		"in_reply_to_status_id_str": "886625399328960512",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1095,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13259,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 16 16:35:42 +0000 2017",
+		"id": 886625399328960500,
+		"id_str": "886625399328960512",
+		"text": "so much good stuff in ENEMY OF THE STATE, but my fave shot is this quick pan where Jason Lee escapes through a kitc… https://t.co/FcNMkbEHZW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FcNMkbEHZW",
+					"expanded_url": "https://twitter.com/i/web/status/886625399328960512",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1095,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13259,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 16 16:05:44 +0000 2017",
 		"id": 886617858863661000,
 		"id_str": "886617858863661056",
