@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 27 17:17:21 +0000 2017",
+		"id": 890622145948131300,
+		"id_str": "890622145948131328",
+		"text": "RT @QC_News: $6 #food and #fun w/o #CUNY student ID; $5 with CUNY ID--until 3 pm today. #ADA #celebratethecause #BBQ https://t.co/CjyXkOqWgn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "food",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "fun",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "CUNY",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "ADA",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "celebratethecause",
+					"indices": [
+						93,
+						111
+					]
+				},
+				{
+					"text": "BBQ",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QC_News",
+					"name": "Queens College|CUNY",
+					"id": 176878617,
+					"id_str": "176878617",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CjyXkOqWgn",
+					"expanded_url": "https://twitter.com/QCToday/status/890605939497213952",
+					"display_url": "twitter.com/QCToday/status…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1097,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13302,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854531265030008832/L7jORAZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 27 16:50:39 +0000 2017",
+			"id": 890615429038846000,
+			"id_str": "890615429038845956",
+			"text": "$6 #food and #fun w/o #CUNY student ID; $5 with CUNY ID--until 3 pm today. #ADA #celebratethecause #BBQ https://t.co/CjyXkOqWgn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "food",
+						"indices": [
+							3,
+							8
+						]
+					},
+					{
+						"text": "fun",
+						"indices": [
+							13,
+							17
+						]
+					},
+					{
+						"text": "CUNY",
+						"indices": [
+							22,
+							27
+						]
+					},
+					{
+						"text": "ADA",
+						"indices": [
+							75,
+							79
+						]
+					},
+					{
+						"text": "celebratethecause",
+						"indices": [
+							80,
+							98
+						]
+					},
+					{
+						"text": "BBQ",
+						"indices": [
+							99,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CjyXkOqWgn",
+						"expanded_url": "https://twitter.com/QCToday/status/890605939497213952",
+						"display_url": "twitter.com/QCToday/status…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 176878617,
+				"id_str": "176878617",
+				"name": "Queens College|CUNY",
+				"screen_name": "QC_News",
+				"location": "65-30 Kissena Blvd | Queens NY",
+				"description": "Highlighting initiatives, expert faculty commentary, and student and alumni news for the media, college community and neighbors worldwide. QC/CUNY, est. 1937.",
+				"url": "https://t.co/C3XuEBb9YR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C3XuEBb9YR",
+								"expanded_url": "http://www.qc.cuny.edu",
+								"display_url": "qc.cuny.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7253,
+				"friends_count": 2198,
+				"listed_count": 156,
+				"created_at": "Tue Aug 10 17:46:19 +0000 2010",
+				"favourites_count": 4020,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5087,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876815974435094528/y4tHsy_q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876815974435094528/y4tHsy_q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/176878617/1497969382",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 890605939497214000,
+			"quoted_status_id_str": "890605939497213952",
+			"quoted_status": {
+				"created_at": "Thu Jul 27 16:12:57 +0000 2017",
+				"id": 890605939497214000,
+				"id_str": "890605939497213952",
+				"text": "Our annual #ADA BBQ is happening now thru 3pm. Stop by &amp; support a good cause! @QC_CDS https://t.co/FUKbOAB48T",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ADA",
+							"indices": [
+								11,
+								15
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "QC_CDS",
+							"name": "Queens College CDS",
+							"id": 3458745562,
+							"id_str": "3458745562",
+							"indices": [
+								83,
+								90
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 890605822891446300,
+							"id_str": "890605822891446272",
+							"indices": [
+								91,
+								114
+							],
+							"media_url": "http://pbs.twimg.com/media/DFwRRvxW0AAlxw4.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DFwRRvxW0AAlxw4.jpg",
+							"url": "https://t.co/FUKbOAB48T",
+							"display_url": "pic.twitter.com/FUKbOAB48T",
+							"expanded_url": "https://twitter.com/QCToday/status/890605939497213952/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 890605822891446300,
+							"id_str": "890605822891446272",
+							"indices": [
+								91,
+								114
+							],
+							"media_url": "http://pbs.twimg.com/media/DFwRRvxW0AAlxw4.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DFwRRvxW0AAlxw4.jpg",
+							"url": "https://t.co/FUKbOAB48T",
+							"display_url": "pic.twitter.com/FUKbOAB48T",
+							"expanded_url": "https://twitter.com/QCToday/status/890605939497213952/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 890605822895693800,
+							"id_str": "890605822895693824",
+							"indices": [
+								91,
+								114
+							],
+							"media_url": "http://pbs.twimg.com/media/DFwRRvyXoAA6bjF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DFwRRvyXoAA6bjF.jpg",
+							"url": "https://t.co/FUKbOAB48T",
+							"display_url": "pic.twitter.com/FUKbOAB48T",
+							"expanded_url": "https://twitter.com/QCToday/status/890605939497213952/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 890605823176716300,
+							"id_str": "890605823176716288",
+							"indices": [
+								91,
+								114
+							],
+							"media_url": "http://pbs.twimg.com/media/DFwRRw1XsAACPZQ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DFwRRw1XsAACPZQ.jpg",
+							"url": "https://t.co/FUKbOAB48T",
+							"display_url": "pic.twitter.com/FUKbOAB48T",
+							"expanded_url": "https://twitter.com/QCToday/status/890605939497213952/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 890605834660720600,
+							"id_str": "890605834660720640",
+							"indices": [
+								91,
+								114
+							],
+							"media_url": "http://pbs.twimg.com/media/DFwRSbnXsAAfWpP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DFwRSbnXsAAfWpP.jpg",
+							"url": "https://t.co/FUKbOAB48T",
+							"display_url": "pic.twitter.com/FUKbOAB48T",
+							"expanded_url": "https://twitter.com/QCToday/status/890605939497213952/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 715269352241684500,
+					"id_str": "715269352241684485",
+					"name": "Queens College Today",
+					"screen_name": "QCToday",
+					"location": "65-30 Kissena Blvd | Queens NY",
+					"description": "Founded in 1937, Queens College of the City University of New York offers 170+ undergrad, grad & certificate programs. Students, follow us to learn more.",
+					"url": "https://t.co/C3XuEBb9YR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/C3XuEBb9YR",
+									"expanded_url": "http://www.qc.cuny.edu",
+									"display_url": "qc.cuny.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 472,
+					"friends_count": 328,
+					"listed_count": 14,
+					"created_at": "Wed Mar 30 20:07:57 +0000 2016",
+					"favourites_count": 1286,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1671,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/717004629368815616/OTEyPUtB_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/717004629368815616/OTEyPUtB_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/715269352241684485/1492696803",
+					"profile_link_color": "E71939",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "07d9db06d6885001",
+					"url": "https://api.twitter.com/1.1/geo/id/07d9db06d6885001.json",
+					"place_type": "poi",
+					"name": "Queens College",
+					"full_name": "Queens College",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-73.81698168930947,
+									40.73595149499768
+								],
+								[
+									-73.81698168930947,
+									40.73595149499768
+								],
+								[
+									-73.81698168930947,
+									40.73595149499768
+								],
+								[
+									-73.81698168930947,
+									40.73595149499768
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 890605939497214000,
+		"quoted_status_id_str": "890605939497213952",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 27 04:31:53 +0000 2017",
 		"id": 890429511870840800,
 		"id_str": "890429511870840840",
