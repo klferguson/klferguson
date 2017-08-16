@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 15:21:21 +0000 2017",
+		"id": 897840712825417700,
+		"id_str": "897840712825417728",
+		"text": "RT @stevensantos: https://t.co/5cYkuENxp1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevensantos",
+					"name": "Steven Santos",
+					"id": 19288213,
+					"id_str": "19288213",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897830940784853000,
+					"id_str": "897830940784852992",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+					"url": "https://t.co/5cYkuENxp1",
+					"display_url": "pic.twitter.com/5cYkuENxp1",
+					"expanded_url": "https://twitter.com/stevensantos/status/897830964214337536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 259,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897830964214337500,
+					"source_status_id_str": "897830964214337536",
+					"source_user_id": 19288213,
+					"source_user_id_str": "19288213"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897830940784853000,
+					"id_str": "897830940784852992",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+					"url": "https://t.co/5cYkuENxp1",
+					"display_url": "pic.twitter.com/5cYkuENxp1",
+					"expanded_url": "https://twitter.com/stevensantos/status/897830964214337536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 259,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897830964214337500,
+					"source_status_id_str": "897830964214337536",
+					"source_user_id": 19288213,
+					"source_user_id_str": "19288213"
+				},
+				{
+					"id": 897830948984819700,
+					"id_str": "897830948984819712",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DHW8fb6XkAAw5Dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHW8fb6XkAAw5Dz.jpg",
+					"url": "https://t.co/5cYkuENxp1",
+					"display_url": "pic.twitter.com/5cYkuENxp1",
+					"expanded_url": "https://twitter.com/stevensantos/status/897830964214337536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 229,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 229,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 229,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897830964214337500,
+					"source_status_id_str": "897830964214337536",
+					"source_user_id": 19288213,
+					"source_user_id_str": "19288213"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1104,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13465,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 14:42:37 +0000 2017",
+			"id": 897830964214337500,
+			"id_str": "897830964214337536",
+			"text": "https://t.co/5cYkuENxp1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897830940784853000,
+						"id_str": "897830940784852992",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+						"url": "https://t.co/5cYkuENxp1",
+						"display_url": "pic.twitter.com/5cYkuENxp1",
+						"expanded_url": "https://twitter.com/stevensantos/status/897830964214337536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 250,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 704,
+								"h": 259,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 704,
+								"h": 259,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897830940784853000,
+						"id_str": "897830940784852992",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHW8e9XWAAAcRbW.jpg",
+						"url": "https://t.co/5cYkuENxp1",
+						"display_url": "pic.twitter.com/5cYkuENxp1",
+						"expanded_url": "https://twitter.com/stevensantos/status/897830964214337536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 250,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 704,
+								"h": 259,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 704,
+								"h": 259,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 897830948984819700,
+						"id_str": "897830948984819712",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DHW8fb6XkAAw5Dz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHW8fb6XkAAw5Dz.jpg",
+						"url": "https://t.co/5cYkuENxp1",
+						"display_url": "pic.twitter.com/5cYkuENxp1",
+						"expanded_url": "https://twitter.com/stevensantos/status/897830964214337536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 229,
+								"h": 220,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 229,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 229,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19288213,
+				"id_str": "19288213",
+				"name": "Steven Santos",
+				"screen_name": "stevensantos",
+				"location": "Park Slope, Brooklyn",
+				"description": "Freelance television editor. Hoping to be a television writer/producer. \nThe revolution may still be televised.",
+				"url": "http://t.co/j1gJwrpJFC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j1gJwrpJFC",
+								"expanded_url": "http://www.stevenedits.com",
+								"display_url": "stevenedits.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2563,
+				"friends_count": 1207,
+				"listed_count": 188,
+				"created_at": "Wed Jan 21 14:01:45 +0000 2009",
+				"favourites_count": 51698,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77941,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780179166243262465/__0VEjBD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780179166243262465/__0VEjBD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19288213/1498402728",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Aug 16 15:03:56 +0000 2017",
 		"id": 897836327185653800,
 		"id_str": "897836327185653761",
