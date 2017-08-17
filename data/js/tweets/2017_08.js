@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 20:50:26 +0000 2017",
+		"id": 898285918263558100,
+		"id_str": "898285918263558144",
+		"text": "RT @pintsize73: He's got the moves..... kind of 😜 https://t.co/m8cmJZ2gKh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pintsize73",
+					"name": "Marie",
+					"id": 2613143381,
+					"id_str": "2613143381",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 895893151843573800,
+					"id_str": "895893151843573760",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+					"url": "https://t.co/m8cmJZ2gKh",
+					"display_url": "pic.twitter.com/m8cmJZ2gKh",
+					"expanded_url": "https://twitter.com/pintsize73/status/895893271037317120/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895893271037317100,
+					"source_status_id_str": "895893271037317120",
+					"source_user_id": 2613143381,
+					"source_user_id_str": "2613143381"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895893151843573800,
+					"id_str": "895893151843573760",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+					"url": "https://t.co/m8cmJZ2gKh",
+					"display_url": "pic.twitter.com/m8cmJZ2gKh",
+					"expanded_url": "https://twitter.com/pintsize73/status/895893271037317120/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895893271037317100,
+					"source_status_id_str": "895893271037317120",
+					"source_user_id": 2613143381,
+					"source_user_id_str": "2613143381",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14950,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/vid/720x720/fEksJSADdleKmrBo.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/pl/Abr6luXHA84FKk_v.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/vid/480x480/a_50h4LgmSKGkMud.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/vid/240x240/K3wU7TKShzZL7gc2.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2613143381,
+							"id_str": "2613143381",
+							"name": "Marie",
+							"screen_name": "pintsize73",
+							"location": "England, United Kingdom",
+							"description": "Life isn't about waiting for the storm to pass, it's about learning to dance in the rain. Love all, trust few 💗",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 222363,
+							"friends_count": 149759,
+							"listed_count": 1577,
+							"created_at": "Mon Jun 16 03:57:47 +0000 2014",
+							"favourites_count": 348771,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 358698,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/877031425131851776/n7U7E-mV_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/877031425131851776/n7U7E-mV_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2613143381/1492751056",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13490,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 06:22:55 +0000 2017",
+			"id": 895893271037317100,
+			"id_str": "895893271037317120",
+			"text": "He's got the moves..... kind of 😜 https://t.co/m8cmJZ2gKh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 895893151843573800,
+						"id_str": "895893151843573760",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+						"url": "https://t.co/m8cmJZ2gKh",
+						"display_url": "pic.twitter.com/m8cmJZ2gKh",
+						"expanded_url": "https://twitter.com/pintsize73/status/895893271037317120/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895893151843573800,
+						"id_str": "895893151843573760",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895893151843573760/pu/img/hVEml08BgOiAaU58.jpg",
+						"url": "https://t.co/m8cmJZ2gKh",
+						"display_url": "pic.twitter.com/m8cmJZ2gKh",
+						"expanded_url": "https://twitter.com/pintsize73/status/895893271037317120/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 14950,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/vid/720x720/fEksJSADdleKmrBo.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/pl/Abr6luXHA84FKk_v.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/vid/480x480/a_50h4LgmSKGkMud.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/895893151843573760/pu/vid/240x240/K3wU7TKShzZL7gc2.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2613143381,
+				"id_str": "2613143381",
+				"name": "Marie",
+				"screen_name": "pintsize73",
+				"location": "England, United Kingdom",
+				"description": "Life isn't about waiting for the storm to pass, it's about learning to dance in the rain. Love all, trust few 💗",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222363,
+				"friends_count": 149759,
+				"listed_count": 1577,
+				"created_at": "Mon Jun 16 03:57:47 +0000 2014",
+				"favourites_count": 348771,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 358698,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877031425131851776/n7U7E-mV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877031425131851776/n7U7E-mV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2613143381/1492751056",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1214,
+			"favorite_count": 1855,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1214,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 17 15:57:46 +0000 2017",
 		"id": 898212263101964300,
 		"id_str": "898212263101964289",
