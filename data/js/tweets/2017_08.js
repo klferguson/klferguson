@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 18 14:57:17 +0000 2017",
+		"id": 898559429456646100,
+		"id_str": "898559429456646144",
+		"text": "mine's \"Twitter\" https://t.co/TpgYU5yUXN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TpgYU5yUXN",
+					"expanded_url": "https://twitter.com/ReLynnWrites/status/898334863375319040",
+					"display_url": "twitter.com/ReLynnWrites/s…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1102,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13497,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 898334863375319000,
+		"quoted_status_id_str": "898334863375319040",
+		"quoted_status": {
+			"created_at": "Fri Aug 18 00:04:56 +0000 2017",
+			"id": 898334863375319000,
+			"id_str": "898334863375319040",
+			"text": "Bad writing habit is now your band name. Mine's \"Accidental POV Shift.\"  Name yours. #PitchWars #OnThePorch #AmWriting",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PitchWars",
+						"indices": [
+							85,
+							95
+						]
+					},
+					{
+						"text": "OnThePorch",
+						"indices": [
+							96,
+							107
+						]
+					},
+					{
+						"text": "AmWriting",
+						"indices": [
+							108,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 742806460346830800,
+				"id_str": "742806460346830848",
+				"name": "ReLynn Vaughn",
+				"screen_name": "ReLynnWrites",
+				"location": "The American Upper South",
+				"description": "Bi-girl, History Nerd, Amateur Chef, Cat lady. Writing about witches, curses, magic, and all that jazz. #PitchWars '16 Alum.",
+				"url": "https://t.co/w0QUaIptw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w0QUaIptw0",
+								"expanded_url": "http://relynnvaughnwrites.wordpress.com",
+								"display_url": "relynnvaughnwrites.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1669,
+				"friends_count": 2027,
+				"listed_count": 46,
+				"created_at": "Tue Jun 14 19:50:35 +0000 2016",
+				"favourites_count": 12257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7257,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/889531131149910020/UJfXAKOx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/889531131149910020/UJfXAKOx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/742806460346830848/1501201197",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6ffcf3b0b904bbcb",
+				"url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json",
+				"place_type": "admin",
+				"name": "Kentucky",
+				"full_name": "Kentucky, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-89.57151,
+								36.497129
+							],
+							[
+								-81.964971,
+								36.497129
+							],
+							[
+								-81.964971,
+								39.147359
+							],
+							[
+								-89.57151,
+								39.147359
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 13:48:34 +0000 2017",
 		"id": 898542136668368900,
 		"id_str": "898542136668368898",
