@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 21 23:59:36 +0000 2017",
+		"id": 899783075411787800,
+		"id_str": "899783075411787776",
+		"text": "me and the ladies of twitter dot com https://t.co/NE05spP3sk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NE05spP3sk",
+					"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/899757587100336129",
+					"display_url": "twitter.com/CUTEFUNNYANIMA…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1104,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13550,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 899757587100336100,
+		"quoted_status_id_str": "899757587100336129",
+		"quoted_status": {
+			"created_at": "Mon Aug 21 22:18:20 +0000 2017",
+			"id": 899757587100336100,
+			"id_str": "899757587100336129",
+			"text": "'OK grumpy whatever, geez Louise' https://t.co/6dZQqAS4lZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 899757090146844700,
+						"id_str": "899757090146844672",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHyUTm5XgAA82Hi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHyUTm5XgAA82Hi.jpg",
+						"url": "https://t.co/6dZQqAS4lZ",
+						"display_url": "pic.twitter.com/6dZQqAS4lZ",
+						"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/899757587100336129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 526,
+								"h": 262,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 262,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 169,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 899757090146844700,
+						"id_str": "899757090146844672",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DHyUTm5XgAA82Hi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHyUTm5XgAA82Hi.jpg",
+						"url": "https://t.co/6dZQqAS4lZ",
+						"display_url": "pic.twitter.com/6dZQqAS4lZ",
+						"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/899757587100336129/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 526,
+								"h": 262,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 262,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 169,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								263,
+								131
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DHyUTm5XgAA82Hi.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2370627199,
+				"id_str": "2370627199",
+				"name": "HUMOROUS ANIMALS",
+				"screen_name": "CUTEFUNNYANIMAL",
+				"location": "",
+				"description": "#Cute #funny #animal lovers please follow.\nMoney can't buy you love #Adopt\n(Spam free)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92073,
+				"friends_count": 80887,
+				"listed_count": 690,
+				"created_at": "Mon Mar 03 16:02:57 +0000 2014",
+				"favourites_count": 15557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5136,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541156532507779072/vdqWw9SK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541156532507779072/vdqWw9SK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370627199/1400671817",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 164,
+			"favorite_count": 466,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 21 22:23:53 +0000 2017",
 		"id": 899758986630770700,
 		"id_str": "899758986630770688",
