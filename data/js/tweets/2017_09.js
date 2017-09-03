@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 03 13:10:38 +0000 2017",
+		"id": 904330796844150800,
+		"id_str": "904330796844150784",
+		"text": "RT @McJesse: No, YOU spent Labor Day weekend putting Michael Meyers into the background of Activia commercials. https://t.co/kdtNF2PvbK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McJesse",
+					"name": "Jesse McLaren",
+					"id": 27782837,
+					"id_str": "27782837",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 904176123927564300,
+					"id_str": "904176123927564291",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+					"url": "https://t.co/kdtNF2PvbK",
+					"display_url": "pic.twitter.com/kdtNF2PvbK",
+					"expanded_url": "https://twitter.com/McJesse/status/904176164251545601/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904176164251545600,
+					"source_status_id_str": "904176164251545601",
+					"source_user_id": 27782837,
+					"source_user_id_str": "27782837"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 904176123927564300,
+					"id_str": "904176123927564291",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+					"url": "https://t.co/kdtNF2PvbK",
+					"display_url": "pic.twitter.com/kdtNF2PvbK",
+					"expanded_url": "https://twitter.com/McJesse/status/904176164251545601/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904176164251545600,
+					"source_status_id_str": "904176164251545601",
+					"source_user_id": 27782837,
+					"source_user_id_str": "27782837",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7881,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/pl/8oWvWXkRTKOm3dYT.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/vid/1280x720/E90bYCsAz_2ZeekU.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/vid/320x180/PFwYxtnodjwRqdA0.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/vid/640x360/qs6omOKZxH5IviX9.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 27782837,
+							"id_str": "27782837",
+							"name": "Jesse McLaren",
+							"screen_name": "McJesse",
+							"location": "",
+							"description": "Humorist (I study bodily fluids). former TV person @ColbertReport- Emmy nominated, Found 2 Webby awards in a dumpster. Currently @BuzzFeed. Tweets are my own.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 535791,
+							"friends_count": 648,
+							"listed_count": 674,
+							"created_at": "Tue Mar 31 01:38:38 +0000 2009",
+							"favourites_count": 9451,
+							"utc_offset": -18000,
+							"time_zone": "Quito",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 8195,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13543,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 03 02:56:10 +0000 2017",
+			"id": 904176164251545600,
+			"id_str": "904176164251545601",
+			"text": "No, YOU spent Labor Day weekend putting Michael Meyers into the background of Activia commercials. https://t.co/kdtNF2PvbK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 904176123927564300,
+						"id_str": "904176123927564291",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+						"url": "https://t.co/kdtNF2PvbK",
+						"display_url": "pic.twitter.com/kdtNF2PvbK",
+						"expanded_url": "https://twitter.com/McJesse/status/904176164251545601/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 904176123927564300,
+						"id_str": "904176123927564291",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/904176123927564291/pu/img/Nhyd7y119eh1p6f5.jpg",
+						"url": "https://t.co/kdtNF2PvbK",
+						"display_url": "pic.twitter.com/kdtNF2PvbK",
+						"expanded_url": "https://twitter.com/McJesse/status/904176164251545601/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 7881,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/pl/8oWvWXkRTKOm3dYT.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/vid/1280x720/E90bYCsAz_2ZeekU.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/vid/320x180/PFwYxtnodjwRqdA0.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/904176123927564291/pu/vid/640x360/qs6omOKZxH5IviX9.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27782837,
+				"id_str": "27782837",
+				"name": "Jesse McLaren",
+				"screen_name": "McJesse",
+				"location": "",
+				"description": "Humorist (I study bodily fluids). former TV person @ColbertReport- Emmy nominated, Found 2 Webby awards in a dumpster. Currently @BuzzFeed. Tweets are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 535791,
+				"friends_count": 648,
+				"listed_count": 674,
+				"created_at": "Tue Mar 31 01:38:38 +0000 2009",
+				"favourites_count": 9451,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8195,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4502,
+			"favorite_count": 11004,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4502,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 03 02:59:28 +0000 2017",
 		"id": 904176991854878700,
 		"id_str": "904176991854878721",
