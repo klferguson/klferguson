@@ -1,6 +1,804 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 03 13:22:26 +0000 2017",
+		"id": 904333765668896800,
+		"id_str": "904333765668896768",
+		"text": "RT @ptak: Early typewriter art (1899)  Advertising vehicle for Hammond typewriter / Adm. Dewey uses one.!  #books #design https://t.co/7kJS…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "books",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "design",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ptak",
+					"name": "JF Ptak",
+					"id": 19286911,
+					"id_str": "19286911",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13544,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47212,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 02 23:03:18 +0000 2017",
+			"id": 904117558659440600,
+			"id_str": "904117558659440640",
+			"text": "Early typewriter art (1899)  Advertising vehicle for Hammond typewriter / Adm. Dewey uses one.!  #books #design https://t.co/7kJSDE6P1U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "books",
+						"indices": [
+							97,
+							103
+						]
+					},
+					{
+						"text": "design",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 904117536576467000,
+						"id_str": "904117536576466944",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DIwSG_rXcAA9Y3p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIwSG_rXcAA9Y3p.jpg",
+						"url": "https://t.co/7kJSDE6P1U",
+						"display_url": "pic.twitter.com/7kJSDE6P1U",
+						"expanded_url": "https://twitter.com/ptak/status/904117558659440640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 913,
+								"h": 1193,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 913,
+								"h": 1193,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 904117536576467000,
+						"id_str": "904117536576466944",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DIwSG_rXcAA9Y3p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIwSG_rXcAA9Y3p.jpg",
+						"url": "https://t.co/7kJSDE6P1U",
+						"display_url": "pic.twitter.com/7kJSDE6P1U",
+						"expanded_url": "https://twitter.com/ptak/status/904117558659440640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 913,
+								"h": 1193,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 913,
+								"h": 1193,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19286911,
+				"id_str": "19286911",
+				"name": "JF Ptak",
+				"screen_name": "ptak",
+				"location": "Hendersonville, NC",
+				"description": "History of science+tech+ideas | bookseller/writer | visual culture| display of info | formal+outsider logic+image | interesting odd",
+				"url": "http://t.co/uuO6CtI96J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uuO6CtI96J",
+								"expanded_url": "http://historyofideasblog.com",
+								"display_url": "historyofideasblog.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4295,
+				"friends_count": 165,
+				"listed_count": 493,
+				"created_at": "Wed Jan 21 13:22:41 +0000 2009",
+				"favourites_count": 1049,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19729,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/22410666/blog__june_28_chaplin.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/22410666/blog__june_28_chaplin.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3007446479/9633adf3cc225094d3c88e3b333bed2b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3007446479/9633adf3cc225094d3c88e3b333bed2b_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19286911/1434387820",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 03 13:22:21 +0000 2017",
+		"id": 904333745989222400,
+		"id_str": "904333745989222400",
+		"text": "RT @fakeshoredrive: 12 years ago today\n\nSeptember 2nd, 2005 https://t.co/p0ZlAhDVA5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fakeshoredrive",
+					"name": "Andrew Barber",
+					"id": 16302129,
+					"id_str": "16302129",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903954766086230000,
+					"id_str": "903954766086230016",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+					"url": "https://t.co/p0ZlAhDVA5",
+					"display_url": "pic.twitter.com/p0ZlAhDVA5",
+					"expanded_url": "https://twitter.com/fakeshoredrive/status/903954866262990848/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903954866262990800,
+					"source_status_id_str": "903954866262990848",
+					"source_user_id": 16302129,
+					"source_user_id_str": "16302129"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903954766086230000,
+					"id_str": "903954766086230016",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+					"url": "https://t.co/p0ZlAhDVA5",
+					"display_url": "pic.twitter.com/p0ZlAhDVA5",
+					"expanded_url": "https://twitter.com/fakeshoredrive/status/903954866262990848/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903954866262990800,
+					"source_status_id_str": "903954866262990848",
+					"source_user_id": 16302129,
+					"source_user_id_str": "16302129",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 107426,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/903954766086230016/pu/vid/240x180/g7cqZ0WnS6npXJq9.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/903954766086230016/pu/pl/f3b4Nd5FR-WIW9nh.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 16302129,
+							"id_str": "16302129",
+							"name": "Andrew Barber",
+							"screen_name": "fakeshoredrive",
+							"location": "Chicago, IL",
+							"description": "Owner + Creator Fake Shore Drive® / fakeshoredrive@gmail.com / #TheDriveSXM on @Shade45 / @1realvalee / @rbsoundselect / @RecordingAcad / @AppleMusic",
+							"url": "https://t.co/nbWqf5aZeM",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/nbWqf5aZeM",
+											"expanded_url": "https://www.fakeshoredrive.com",
+											"display_url": "fakeshoredrive.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 71127,
+							"friends_count": 849,
+							"listed_count": 1117,
+							"created_at": "Mon Sep 15 21:11:19 +0000 2008",
+							"favourites_count": 10317,
+							"utc_offset": -18000,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 78887,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "DD2E44",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/522209984625381376/3uKmt1Cj.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/522209984625381376/3uKmt1Cj.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/885512523092545536/hmNUyyxq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/885512523092545536/hmNUyyxq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/16302129/1433546675",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13544,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47212,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 02 12:16:49 +0000 2017",
+			"id": 903954866262990800,
+			"id_str": "903954866262990848",
+			"text": "12 years ago today\n\nSeptember 2nd, 2005 https://t.co/p0ZlAhDVA5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 903954766086230000,
+						"id_str": "903954766086230016",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+						"url": "https://t.co/p0ZlAhDVA5",
+						"display_url": "pic.twitter.com/p0ZlAhDVA5",
+						"expanded_url": "https://twitter.com/fakeshoredrive/status/903954866262990848/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 903954766086230000,
+						"id_str": "903954766086230016",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903954766086230016/pu/img/-hs5qhZMFxIopFMv.jpg",
+						"url": "https://t.co/p0ZlAhDVA5",
+						"display_url": "pic.twitter.com/p0ZlAhDVA5",
+						"expanded_url": "https://twitter.com/fakeshoredrive/status/903954866262990848/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 107426,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/903954766086230016/pu/vid/240x180/g7cqZ0WnS6npXJq9.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/903954766086230016/pu/pl/f3b4Nd5FR-WIW9nh.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16302129,
+				"id_str": "16302129",
+				"name": "Andrew Barber",
+				"screen_name": "fakeshoredrive",
+				"location": "Chicago, IL",
+				"description": "Owner + Creator Fake Shore Drive® / fakeshoredrive@gmail.com / #TheDriveSXM on @Shade45 / @1realvalee / @rbsoundselect / @RecordingAcad / @AppleMusic",
+				"url": "https://t.co/nbWqf5aZeM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nbWqf5aZeM",
+								"expanded_url": "https://www.fakeshoredrive.com",
+								"display_url": "fakeshoredrive.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71127,
+				"friends_count": 849,
+				"listed_count": 1117,
+				"created_at": "Mon Sep 15 21:11:19 +0000 2008",
+				"favourites_count": 10317,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78887,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DD2E44",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/522209984625381376/3uKmt1Cj.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/522209984625381376/3uKmt1Cj.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885512523092545536/hmNUyyxq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885512523092545536/hmNUyyxq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16302129/1433546675",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42521,
+			"favorite_count": 73163,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42521,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 03 13:10:38 +0000 2017",
 		"id": 904330796844150800,
 		"id_str": "904330796844150784",
