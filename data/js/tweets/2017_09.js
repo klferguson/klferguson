@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 09 13:36:32 +0000 2017",
+		"id": 906511643009482800,
+		"id_str": "906511643009482752",
+		"text": "RT @seasonaIvibes: everyone: sucks that summer is ending \n\nme: https://t.co/MAecdmhSYt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seasonaIvibes",
+					"name": "Fall 🍂",
+					"id": 881719200980639700,
+					"id_str": "881719200980639744",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 905899578251022300,
+					"id_str": "905899578251022336",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+					"url": "https://t.co/MAecdmhSYt",
+					"display_url": "pic.twitter.com/MAecdmhSYt",
+					"expanded_url": "https://twitter.com/seasonaIvibes/status/905899587315093504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 592,
+							"h": 395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 592,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 905899587315093500,
+					"source_status_id_str": "905899587315093504",
+					"source_user_id": 881719200980639700,
+					"source_user_id_str": "881719200980639744"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 905899578251022300,
+					"id_str": "905899578251022336",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+					"url": "https://t.co/MAecdmhSYt",
+					"display_url": "pic.twitter.com/MAecdmhSYt",
+					"expanded_url": "https://twitter.com/seasonaIvibes/status/905899587315093504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 592,
+							"h": 395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 592,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 905899587315093500,
+					"source_status_id_str": "905899587315093504",
+					"source_user_id": 881719200980639700,
+					"source_user_id_str": "881719200980639744"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1107,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13611,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 07 21:04:27 +0000 2017",
+			"id": 905899587315093500,
+			"id_str": "905899587315093504",
+			"text": "everyone: sucks that summer is ending \n\nme: https://t.co/MAecdmhSYt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 905899578251022300,
+						"id_str": "905899578251022336",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+						"url": "https://t.co/MAecdmhSYt",
+						"display_url": "pic.twitter.com/MAecdmhSYt",
+						"expanded_url": "https://twitter.com/seasonaIvibes/status/905899587315093504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 592,
+								"h": 395,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 592,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 592,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 905899578251022300,
+						"id_str": "905899578251022336",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJJm3ePUEAA0Hbx.jpg",
+						"url": "https://t.co/MAecdmhSYt",
+						"display_url": "pic.twitter.com/MAecdmhSYt",
+						"expanded_url": "https://twitter.com/seasonaIvibes/status/905899587315093504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 592,
+								"h": 395,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 592,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 592,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 881719200980639700,
+				"id_str": "881719200980639744",
+				"name": "Fall 🍂",
+				"screen_name": "seasonaIvibes",
+				"location": "",
+				"description": "halloween movies & chill??",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12352,
+				"friends_count": 0,
+				"listed_count": 55,
+				"created_at": "Mon Jul 03 03:40:13 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905648647928512512/-HPfxujU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905648647928512512/-HPfxujU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/881719200980639744/1504758450",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33767,
+			"favorite_count": 58047,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33767,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 09 13:03:26 +0000 2017",
 		"id": 906503314321395700,
 		"id_str": "906503314321395712",
