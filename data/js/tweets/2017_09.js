@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 13:51:47 +0000 2017",
+		"id": 906877867673485300,
+		"id_str": "906877867673485314",
+		"text": "RT @InternetPalace: A clock clock https://t.co/cQtfKVRIV9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InternetPalace",
+					"name": "Internet Palace",
+					"id": 3020168556,
+					"id_str": "3020168556",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 906663272446795800,
+					"id_str": "906663272446795776",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+					"url": "https://t.co/cQtfKVRIV9",
+					"display_url": "pic.twitter.com/cQtfKVRIV9",
+					"expanded_url": "https://twitter.com/InternetPalace/status/906663401291730949/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 896,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906663401291731000,
+					"source_status_id_str": "906663401291730949",
+					"source_user_id": 3020168556,
+					"source_user_id_str": "3020168556"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 906663272446795800,
+					"id_str": "906663272446795776",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+					"url": "https://t.co/cQtfKVRIV9",
+					"display_url": "pic.twitter.com/cQtfKVRIV9",
+					"expanded_url": "https://twitter.com/InternetPalace/status/906663401291730949/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 896,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906663401291731000,
+					"source_status_id_str": "906663401291730949",
+					"source_user_id": 3020168556,
+					"source_user_id_str": "3020168556",
+					"video_info": {
+						"aspect_ratio": [
+							359,
+							448
+						],
+						"duration_millis": 14000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/906663272446795776/pu/pl/yKDLaT6j1gTkOjwf.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/906663272446795776/pu/vid/512x640/5DovS0TcSHjc6pMS.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/906663272446795776/pu/vid/256x320/ATTquF27PAVFogKv.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3020168556,
+							"id_str": "3020168556",
+							"name": "Internet Palace",
+							"screen_name": "InternetPalace",
+							"location": "",
+							"description": "Everything awesome the internet has to offer in one place. Follow for more incredible content.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 7853,
+							"friends_count": 0,
+							"listed_count": 181,
+							"created_at": "Sat Feb 14 23:19:57 +0000 2015",
+							"favourites_count": 6,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 14892,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3020168556/1423957434",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1110,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13632,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 09 23:39:34 +0000 2017",
+			"id": 906663401291731000,
+			"id_str": "906663401291730949",
+			"text": "A clock clock https://t.co/cQtfKVRIV9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 906663272446795800,
+						"id_str": "906663272446795776",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+						"url": "https://t.co/cQtfKVRIV9",
+						"display_url": "pic.twitter.com/cQtfKVRIV9",
+						"expanded_url": "https://twitter.com/InternetPalace/status/906663401291730949/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 718,
+								"h": 896,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 749,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906663272446795800,
+						"id_str": "906663272446795776",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906663272446795776/pu/img/cSBam2nAn8x81tYN.jpg",
+						"url": "https://t.co/cQtfKVRIV9",
+						"display_url": "pic.twitter.com/cQtfKVRIV9",
+						"expanded_url": "https://twitter.com/InternetPalace/status/906663401291730949/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 718,
+								"h": 896,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 749,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 424,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								359,
+								448
+							],
+							"duration_millis": 14000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/906663272446795776/pu/pl/yKDLaT6j1gTkOjwf.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/906663272446795776/pu/vid/512x640/5DovS0TcSHjc6pMS.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/906663272446795776/pu/vid/256x320/ATTquF27PAVFogKv.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3020168556,
+				"id_str": "3020168556",
+				"name": "Internet Palace",
+				"screen_name": "InternetPalace",
+				"location": "",
+				"description": "Everything awesome the internet has to offer in one place. Follow for more incredible content.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7853,
+				"friends_count": 0,
+				"listed_count": 181,
+				"created_at": "Sat Feb 14 23:19:57 +0000 2015",
+				"favourites_count": 6,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14892,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3020168556/1423957434",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 264,
+			"favorite_count": 511,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 10 02:14:33 +0000 2017",
 		"id": 906702402262315000,
 		"id_str": "906702402262315010",
