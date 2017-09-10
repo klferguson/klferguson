@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 02:14:33 +0000 2017",
+		"id": 906702402262315000,
+		"id_str": "906702402262315010",
+		"text": "RT @vrmetokyo: How can we stay cyberpunk without cables. Wireless is not the answer lol https://t.co/hVRymTO9Vj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vrmetokyo",
+					"name": "VRMETOKYO",
+					"id": 759063152294109200,
+					"id_str": "759063152294109184",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 905988064056451100,
+					"id_str": "905988064056451072",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+					"url": "https://t.co/hVRymTO9Vj",
+					"display_url": "pic.twitter.com/hVRymTO9Vj",
+					"expanded_url": "https://twitter.com/vrmetokyo/status/905988066568962048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 905988066568962000,
+					"source_status_id_str": "905988066568962048",
+					"source_user_id": 759063152294109200,
+					"source_user_id_str": "759063152294109184"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 905988064056451100,
+					"id_str": "905988064056451072",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+					"url": "https://t.co/hVRymTO9Vj",
+					"display_url": "pic.twitter.com/hVRymTO9Vj",
+					"expanded_url": "https://twitter.com/vrmetokyo/status/905988066568962048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 905988066568962000,
+					"source_status_id_str": "905988066568962048",
+					"source_user_id": 759063152294109200,
+					"source_user_id_str": "759063152294109184"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1109,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13629,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 08 02:56:02 +0000 2017",
+			"id": 905988066568962000,
+			"id_str": "905988066568962048",
+			"text": "How can we stay cyberpunk without cables. Wireless is not the answer lol https://t.co/hVRymTO9Vj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 905988064056451100,
+						"id_str": "905988064056451072",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+						"url": "https://t.co/hVRymTO9Vj",
+						"display_url": "pic.twitter.com/hVRymTO9Vj",
+						"expanded_url": "https://twitter.com/vrmetokyo/status/905988066568962048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 656,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 905988064056451100,
+						"id_str": "905988064056451072",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJK3WBjUIAAHVfD.jpg",
+						"url": "https://t.co/hVRymTO9Vj",
+						"display_url": "pic.twitter.com/hVRymTO9Vj",
+						"expanded_url": "https://twitter.com/vrmetokyo/status/905988066568962048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 656,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759063152294109200,
+				"id_str": "759063152294109184",
+				"name": "VRMETOKYO",
+				"screen_name": "vrmetokyo",
+				"location": "Tokyo-to, Japan",
+				"description": "VR Cyberpunk Savage! I Break Binary for Banter and Rampage Realities to Ruin! 🙃😜 Find me everywhere @VRMETOKYO META-NINJAZ UNITE! ✊⚡ #MetaNiNjA",
+				"url": "https://t.co/17QPbwKT7P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/17QPbwKT7P",
+								"expanded_url": "https://www.youtube.com/c/vrmetokyo",
+								"display_url": "youtube.com/c/vrmetokyo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8610,
+				"friends_count": 6448,
+				"listed_count": 118,
+				"created_at": "Fri Jul 29 16:28:53 +0000 2016",
+				"favourites_count": 6555,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2184,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/896781895815409664/FleKunac_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/896781895815409664/FleKunac_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759063152294109184/1497545653",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 10 01:28:23 +0000 2017",
 		"id": 906690786690990100,
 		"id_str": "906690786690990080",
