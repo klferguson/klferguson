@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 17:17:43 +0000 2017",
+		"id": 906929695274541000,
+		"id_str": "906929695274541059",
+		"text": "RT @DickKingSmith: Terminator 2: Judgment Day (1991). https://t.co/T9TL02iTcL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DickKingSmith",
+					"name": "Dick King-Smith HQ",
+					"id": 2275883743,
+					"id_str": "2275883743",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 906831702433177600,
+					"id_str": "906831702433177600",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+					"url": "https://t.co/T9TL02iTcL",
+					"display_url": "pic.twitter.com/T9TL02iTcL",
+					"expanded_url": "https://twitter.com/DickKingSmith/status/906831810600030208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 382,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 382,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906831810600030200,
+					"source_status_id_str": "906831810600030208",
+					"source_user_id": 2275883743,
+					"source_user_id_str": "2275883743"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 906831702433177600,
+					"id_str": "906831702433177600",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+					"url": "https://t.co/T9TL02iTcL",
+					"display_url": "pic.twitter.com/T9TL02iTcL",
+					"expanded_url": "https://twitter.com/DickKingSmith/status/906831810600030208/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 382,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 382,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906831810600030200,
+					"source_status_id_str": "906831810600030208",
+					"source_user_id": 2275883743,
+					"source_user_id_str": "2275883743",
+					"video_info": {
+						"aspect_ratio": [
+							191,
+							250
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJW2oPaXoAA7rja.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1110,
+			"friends_count": 4,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13632,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 10 10:48:46 +0000 2017",
+			"id": 906831810600030200,
+			"id_str": "906831810600030208",
+			"text": "Terminator 2: Judgment Day (1991). https://t.co/T9TL02iTcL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 906831702433177600,
+						"id_str": "906831702433177600",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+						"url": "https://t.co/T9TL02iTcL",
+						"display_url": "pic.twitter.com/T9TL02iTcL",
+						"expanded_url": "https://twitter.com/DickKingSmith/status/906831810600030208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 382,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 445,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 382,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906831702433177600,
+						"id_str": "906831702433177600",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJW2oPaXoAA7rja.jpg",
+						"url": "https://t.co/T9TL02iTcL",
+						"display_url": "pic.twitter.com/T9TL02iTcL",
+						"expanded_url": "https://twitter.com/DickKingSmith/status/906831810600030208/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 382,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 445,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 382,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								191,
+								250
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DJW2oPaXoAA7rja.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2275883743,
+				"id_str": "2275883743",
+				"name": "Dick King-Smith HQ",
+				"screen_name": "DickKingSmith",
+				"location": "",
+				"description": "Dick King-Smith is the author of over 130 children's books including The Sheep-Pig, which the film Babe is based on. This account is a tribute by the K-S family",
+				"url": "http://t.co/7IxQkD5dJr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7IxQkD5dJr",
+								"expanded_url": "http://www.dickkingsmith.com",
+								"display_url": "dickkingsmith.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34781,
+				"friends_count": 23405,
+				"listed_count": 448,
+				"created_at": "Sat Jan 04 09:50:34 +0000 2014",
+				"favourites_count": 26138,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12399,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561496061433217024/MPfmRpPe.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561496061433217024/MPfmRpPe.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/650626555991998464/iYH9jea4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/650626555991998464/iYH9jea4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2275883743/1422631456",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 342,
+			"favorite_count": 688,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 10 17:16:13 +0000 2017",
+		"id": 906929314272346100,
+		"id_str": "906929314272346112",
+		"text": "hey it's @Jon_Favreau rocking a @QC_News t-shirt in SWINGERS. nice. https://t.co/03S8AVz0XA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jon_Favreau",
+					"name": "Jon Favreau",
+					"id": 22677790,
+					"id_str": "22677790",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "QC_News",
+					"name": "Queens College|CUNY",
+					"id": 176878617,
+					"id_str": "176878617",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 906929226456064000,
+					"id_str": "906929226456064000",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DJYPU4tVYAAwA8D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJYPU4tVYAAwA8D.jpg",
+					"url": "https://t.co/03S8AVz0XA",
+					"display_url": "pic.twitter.com/03S8AVz0XA",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/906929314272346112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 906929226456064000,
+					"id_str": "906929226456064000",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DJYPU4tVYAAwA8D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJYPU4tVYAAwA8D.jpg",
+					"url": "https://t.co/03S8AVz0XA",
+					"display_url": "pic.twitter.com/03S8AVz0XA",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/906929314272346112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1110,
+			"friends_count": 4,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13632,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 10 13:51:47 +0000 2017",
 		"id": 906877867673485300,
 		"id_str": "906877867673485314",
