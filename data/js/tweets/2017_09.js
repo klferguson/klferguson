@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 23:38:07 +0000 2017",
+		"id": 907025422646472700,
+		"id_str": "907025422646472706",
+		"text": "RT @Shake_Well: RT if you have literally never texted or tweeted while watching a movie in a theatre. https://t.co/2qzQ7vkGt1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shake_Well",
+					"name": "Joe D.",
+					"id": 52462278,
+					"id_str": "52462278",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2qzQ7vkGt1",
+					"expanded_url": "https://twitter.com/jamescharles/status/906753573072990208",
+					"display_url": "twitter.com/jamescharles/s…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1111,
+			"friends_count": 4,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13633,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 10 06:23:10 +0000 2017",
+			"id": 906764970536439800,
+			"id_str": "906764970536439808",
+			"text": "RT if you have literally never texted or tweeted while watching a movie in a theatre. https://t.co/2qzQ7vkGt1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2qzQ7vkGt1",
+						"expanded_url": "https://twitter.com/jamescharles/status/906753573072990208",
+						"display_url": "twitter.com/jamescharles/s…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52462278,
+				"id_str": "52462278",
+				"name": "Joe D.",
+				"screen_name": "Shake_Well",
+				"location": "D.C. by way of Mil-ROCK-ee",
+				"description": "Actor, filmmaker, wrestler, product support guru. Co-founder @OnTheStick, @what_a_maneuver & @KillAllMovies. Makes videos about retrogames.",
+				"url": "https://t.co/Mf1vqhGbXk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mf1vqhGbXk",
+								"expanded_url": "http://onthestick.com",
+								"display_url": "onthestick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1248,
+				"friends_count": 1241,
+				"listed_count": 75,
+				"created_at": "Tue Jun 30 17:44:17 +0000 2009",
+				"favourites_count": 587,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74182,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/401850126/IMG-20110930-00077.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/401850126/IMG-20110930-00077.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897211002231697408/sn7ShsEJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897211002231697408/sn7ShsEJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52462278/1462668581",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 906753573072990200,
+			"quoted_status_id_str": "906753573072990208",
+			"quoted_status": {
+				"created_at": "Sun Sep 10 05:37:53 +0000 2017",
+				"id": 906753573072990200,
+				"id_str": "906753573072990208",
+				"text": "@belababyyy literally everyone has at some point, stop pretending like you don't just to get likes for disagreeing with me",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "belababyyy",
+							"name": "♡",
+							"id": 4250929939,
+							"id_str": "4250929939",
+							"indices": [
+								0,
+								11
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 906752853515042800,
+				"in_reply_to_status_id_str": "906752853515042816",
+				"in_reply_to_user_id": 4250929939,
+				"in_reply_to_user_id_str": "4250929939",
+				"in_reply_to_screen_name": "belababyyy",
+				"user": {
+					"id": 1117786405,
+					"id_str": "1117786405",
+					"name": "James Charles",
+					"screen_name": "jamescharles",
+					"location": "jcharlesbeauty@gmail.com",
+					"description": "Just an 18 year old kid with a few blending brushes Instagram: jamescharles • Snapchat: jamescharless",
+					"url": "https://t.co/r7jVwEX3bi",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/r7jVwEX3bi",
+									"expanded_url": "http://youtube.com/jamescharles",
+									"display_url": "youtube.com/jamescharles",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 291113,
+					"friends_count": 894,
+					"listed_count": 547,
+					"created_at": "Thu Jan 24 21:22:38 +0000 2013",
+					"favourites_count": 55335,
+					"utc_offset": -10800,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 18663,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/904134268057772032/E8jiEQFe_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/904134268057772032/E8jiEQFe_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117786405/1504812248",
+					"profile_link_color": "FF8CD3",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 19,
+				"favorite_count": 266,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 10049,
+			"favorite_count": 5260,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 906753573072990200,
+		"quoted_status_id_str": "906753573072990208",
+		"retweet_count": 10049,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 10 18:22:32 +0000 2017",
 		"id": 906946004787789800,
 		"id_str": "906946004787789824",
