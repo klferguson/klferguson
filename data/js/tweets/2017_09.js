@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 15:09:30 +0000 2017",
+		"id": 908346976722411500,
+		"id_str": "908346976722411523",
+		"text": "RT @rajsivaraman: DO NOT HELP GOOGLE FIND SARAH CONNER. https://t.co/Iz3ruqbGGs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajsivaraman",
+					"name": "Raj Sivaraman",
+					"id": 214226070,
+					"id_str": "214226070",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Iz3ruqbGGs",
+					"expanded_url": "https://twitter.com/todbot/status/907335250195374081",
+					"display_url": "twitter.com/todbot/status/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 460,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13691,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 13 19:59:32 +0000 2017",
+			"id": 908057580546793500,
+			"id_str": "908057580546793473",
+			"text": "DO NOT HELP GOOGLE FIND SARAH CONNER. https://t.co/Iz3ruqbGGs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Iz3ruqbGGs",
+						"expanded_url": "https://twitter.com/todbot/status/907335250195374081",
+						"display_url": "twitter.com/todbot/status/…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214226070,
+				"id_str": "214226070",
+				"name": "Raj Sivaraman",
+				"screen_name": "rajsivaraman",
+				"location": "",
+				"description": "Part-time genius, full-time hyperbolizer. Co-host of @universecitypod. https://t.co/VrHmfPI0RI",
+				"url": "https://t.co/4WLwpeNcHC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4WLwpeNcHC",
+								"expanded_url": "http://www.rajsivaraman.com",
+								"display_url": "rajsivaraman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VrHmfPI0RI",
+								"expanded_url": "http://bit.ly/UCPod",
+								"display_url": "bit.ly/UCPod",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2050,
+				"friends_count": 947,
+				"listed_count": 27,
+				"created_at": "Wed Nov 10 22:00:23 +0000 2010",
+				"favourites_count": 3047,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3896,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/724587141490171904/qD73Y-m__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/724587141490171904/qD73Y-m__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214226070/1416066141",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 907335250195374100,
+			"quoted_status_id_str": "907335250195374081",
+			"quoted_status": {
+				"created_at": "Mon Sep 11 20:09:15 +0000 2017",
+				"id": 907335250195374100,
+				"id_str": "907335250195374081",
+				"text": "uh oh this google captcha... https://t.co/bWh6StUR1v",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 907335229605478400,
+							"id_str": "907335229605478400",
+							"indices": [
+								29,
+								52
+							],
+							"media_url": "http://pbs.twimg.com/media/DJeAlYTVAAAk7Lp.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DJeAlYTVAAAk7Lp.jpg",
+							"url": "https://t.co/bWh6StUR1v",
+							"display_url": "pic.twitter.com/bWh6StUR1v",
+							"expanded_url": "https://twitter.com/todbot/status/907335250195374081/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 478,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 496,
+									"h": 706,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 496,
+									"h": 706,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 907335229605478400,
+							"id_str": "907335229605478400",
+							"indices": [
+								29,
+								52
+							],
+							"media_url": "http://pbs.twimg.com/media/DJeAlYTVAAAk7Lp.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DJeAlYTVAAAk7Lp.jpg",
+							"url": "https://t.co/bWh6StUR1v",
+							"display_url": "pic.twitter.com/bWh6StUR1v",
+							"expanded_url": "https://twitter.com/todbot/status/907335250195374081/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 478,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 496,
+									"h": 706,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 496,
+									"h": 706,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 38213,
+					"id_str": "38213",
+					"name": "Tod E. Kurt",
+					"screen_name": "todbot",
+					"location": "Pasadena, California",
+					"description": "multi geek, runs @thingm, maker of blink(1) USB LED & BlinkM, co-founder @CrashSpaceLA hackerspace. https://t.co/7NWHU0EknQ",
+					"url": "https://t.co/4ilemU4yks",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/4ilemU4yks",
+									"expanded_url": "http://todbot.com/blog/",
+									"display_url": "todbot.com/blog/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/7NWHU0EknQ",
+									"expanded_url": "http://blink1.thingm.com",
+									"display_url": "blink1.thingm.com",
+									"indices": [
+										100,
+										123
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 4376,
+					"friends_count": 731,
+					"listed_count": 276,
+					"created_at": "Sun Dec 03 02:04:42 +0000 2006",
+					"favourites_count": 2445,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 6461,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/597841211680952320/6cipJuuz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/597841211680952320/6cipJuuz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/38213/1394394837",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2456,
+				"favorite_count": 4122,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 665,
+			"favorite_count": 973,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 907335250195374100,
+		"quoted_status_id_str": "907335250195374081",
+		"retweet_count": 665,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 14:54:01 +0000 2017",
+		"id": 908343080339812400,
+		"id_str": "908343080339812354",
+		"text": "@acbleach just start making an extra copy of every administrative email you write and you'll be halfway there by November.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acbleach",
+					"name": "Tony Bleach",
+					"id": 28865914,
+					"id_str": "28865914",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 908340333674713100,
+		"in_reply_to_status_id_str": "908340333674713088",
+		"in_reply_to_user_id": 28865914,
+		"in_reply_to_user_id_str": "28865914",
+		"in_reply_to_screen_name": "acbleach",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 460,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13691,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 14 14:04:58 +0000 2017",
 		"id": 908330737312702500,
 		"id_str": "908330737312702464",
