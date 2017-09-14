@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 11:21:03 +0000 2017",
+		"id": 908289484957110300,
+		"id_str": "908289484957110279",
+		"text": "RT @dzondunkellicht: https://t.co/nJ4JSDO04Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dzondunkellicht",
+					"name": "Dzona",
+					"id": 784337892,
+					"id_str": "784337892",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nJ4JSDO04Q",
+					"expanded_url": "https://twitter.com/tanyadonelly/status/908276321364701184",
+					"display_url": "twitter.com/tanyadonelly/s…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1113,
+			"friends_count": 6,
+			"listed_count": 0,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13682,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 10:55:13 +0000 2017",
+			"id": 908282986348421100,
+			"id_str": "908282986348421122",
+			"text": "https://t.co/nJ4JSDO04Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nJ4JSDO04Q",
+						"expanded_url": "https://twitter.com/tanyadonelly/status/908276321364701184",
+						"display_url": "twitter.com/tanyadonelly/s…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 908276260895256600,
+			"in_reply_to_status_id_str": "908276260895256576",
+			"in_reply_to_user_id": 784337892,
+			"in_reply_to_user_id_str": "784337892",
+			"in_reply_to_screen_name": "dzondunkellicht",
+			"user": {
+				"id": 784337892,
+				"id_str": "784337892",
+				"name": "Dzona",
+				"screen_name": "dzondunkellicht",
+				"location": "",
+				"description": "I can no longer think what I want to think. The moving images have located themselves in place of my thoughts. - Duhamel",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 731,
+				"friends_count": 975,
+				"listed_count": 26,
+				"created_at": "Mon Aug 27 10:19:33 +0000 2012",
+				"favourites_count": 2244,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3367,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648165028/ndpcucyzkfjsyylvaj3l.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648165028/ndpcucyzkfjsyylvaj3l.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762007060510756864/6rwKumTW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762007060510756864/6rwKumTW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/784337892/1439972038",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 908276321364701200,
+			"quoted_status_id_str": "908276321364701184",
+			"quoted_status": {
+				"created_at": "Thu Sep 14 10:28:44 +0000 2017",
+				"id": 908276321364701200,
+				"id_str": "908276321364701184",
+				"text": "Incredibly sad waking up to this news of Grant Hart -- RIP amazing musician/songwriter 💔Turn On The News - Hüsker Dü https://t.co/Ell5ZLhXHf",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Ell5ZLhXHf",
+							"expanded_url": "https://m.youtube.com/watch?v=PS7vu0IQhqE",
+							"display_url": "m.youtube.com/watch?v=PS7vu0…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1454315358,
+					"id_str": "1454315358",
+					"name": "Tanya Donelly",
+					"screen_name": "TanyaDonelly",
+					"location": "Massachusetts",
+					"description": "Belly, Throwing Muses, Breeders, Solo Artist. #Resist",
+					"url": "https://t.co/HhS8Wc46JT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HhS8Wc46JT",
+									"expanded_url": "http://facebook.com/tanyadonellymusic",
+									"display_url": "facebook.com/tanyadonellymu…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 10952,
+					"friends_count": 628,
+					"listed_count": 175,
+					"created_at": "Fri May 24 14:13:36 +0000 2013",
+					"favourites_count": 10199,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 5208,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "352726",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/854299214557446144/K6RrXlnK_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/854299214557446144/K6RrXlnK_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1454315358/1498833053",
+					"profile_link_color": "D02B55",
+					"profile_sidebar_border_color": "829D5E",
+					"profile_sidebar_fill_color": "99CC33",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 55,
+				"favorite_count": 103,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 908276321364701200,
+		"quoted_status_id_str": "908276321364701184",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Sep 14 03:13:54 +0000 2017",
 		"id": 908166892841570300,
 		"id_str": "908166892841570304",
