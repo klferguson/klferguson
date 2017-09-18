@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 18 12:35:16 +0000 2017",
+		"id": 909757714909286400,
+		"id_str": "909757714909286401",
+		"text": "RT @ultrabrilliant: https://t.co/tFmXeIG0OS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ultrabrilliant",
+					"name": "Andy Kelly",
+					"id": 16719596,
+					"id_str": "16719596",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 909692772847845400,
+					"id_str": "909692772847845376",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+					"url": "https://t.co/tFmXeIG0OS",
+					"display_url": "pic.twitter.com/tFmXeIG0OS",
+					"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 909692794880630800,
+					"source_status_id_str": "909692794880630784",
+					"source_user_id": 16719596,
+					"source_user_id_str": "16719596"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 909692772847845400,
+					"id_str": "909692772847845376",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+					"url": "https://t.co/tFmXeIG0OS",
+					"display_url": "pic.twitter.com/tFmXeIG0OS",
+					"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 909692794880630800,
+					"source_status_id_str": "909692794880630784",
+					"source_user_id": 16719596,
+					"source_user_id_str": "16719596"
+				},
+				{
+					"id": 909692781307859000,
+					"id_str": "909692781307858944",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_gw8yXkAAE_Tr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_gw8yXkAAE_Tr.jpg",
+					"url": "https://t.co/tFmXeIG0OS",
+					"display_url": "pic.twitter.com/tFmXeIG0OS",
+					"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909692794880630800,
+					"source_status_id_str": "909692794880630784",
+					"source_user_id": 16719596,
+					"source_user_id_str": "16719596"
+				},
+				{
+					"id": 909692787288879100,
+					"id_str": "909692787288879104",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_gxTEWsAATod0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_gxTEWsAATod0.jpg",
+					"url": "https://t.co/tFmXeIG0OS",
+					"display_url": "pic.twitter.com/tFmXeIG0OS",
+					"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 767,
+							"h": 519,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909692794880630800,
+					"source_status_id_str": "909692794880630784",
+					"source_user_id": 16719596,
+					"source_user_id_str": "16719596"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1116,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13796,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 18 08:17:18 +0000 2017",
+			"id": 909692794880630800,
+			"id_str": "909692794880630784",
+			"text": "https://t.co/tFmXeIG0OS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 909692772847845400,
+						"id_str": "909692772847845376",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+						"url": "https://t.co/tFmXeIG0OS",
+						"display_url": "pic.twitter.com/tFmXeIG0OS",
+						"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 909692772847845400,
+						"id_str": "909692772847845376",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_gwdRWAAA3xC2.jpg",
+						"url": "https://t.co/tFmXeIG0OS",
+						"display_url": "pic.twitter.com/tFmXeIG0OS",
+						"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 909692781307859000,
+						"id_str": "909692781307858944",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_gw8yXkAAE_Tr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_gw8yXkAAE_Tr.jpg",
+						"url": "https://t.co/tFmXeIG0OS",
+						"display_url": "pic.twitter.com/tFmXeIG0OS",
+						"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 909692787288879100,
+						"id_str": "909692787288879104",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_gxTEWsAATod0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_gxTEWsAATod0.jpg",
+						"url": "https://t.co/tFmXeIG0OS",
+						"display_url": "pic.twitter.com/tFmXeIG0OS",
+						"expanded_url": "https://twitter.com/ultrabrilliant/status/909692794880630784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 767,
+								"h": 519,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16719596,
+				"id_str": "16719596",
+				"name": "Andy Kelly",
+				"screen_name": "ultrabrilliant",
+				"location": "UK",
+				"description": "Writer for PC Gamer ⚡ Contributor to Edge, Vice, The Guardian, GamesRadar, Kotaku ⚡ Creator of @darkstockphotos and @other_places_",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16113,
+				"friends_count": 1635,
+				"listed_count": 349,
+				"created_at": "Mon Oct 13 11:32:33 +0000 2008",
+				"favourites_count": 52194,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 58579,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458708787977662466/XSQVbqn6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458708787977662466/XSQVbqn6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875708951177900032/I0DD5cO6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875708951177900032/I0DD5cO6_normal.jpg",
+				"profile_link_color": "F7A4B9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2293,
+			"favorite_count": 5757,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2293,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Sep 18 11:31:29 +0000 2017",
 		"id": 909741662380941300,
 		"id_str": "909741662380941312",
