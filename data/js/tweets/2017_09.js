@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 21 22:04:26 +0000 2017",
+		"id": 910988113782206500,
+		"id_str": "910988113782206467",
+		"text": "RT @weorchard: #lovecraft #repost https://t.co/T8uXotucCd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lovecraft",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "repost",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weorchard",
+					"name": "William Orchard",
+					"id": 124810486,
+					"id_str": "124810486",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 910983512899018800,
+					"id_str": "910983512899018753",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+					"url": "https://t.co/T8uXotucCd",
+					"display_url": "pic.twitter.com/T8uXotucCd",
+					"expanded_url": "https://twitter.com/weorchard/status/910983519270252545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910983519270252500,
+					"source_status_id_str": "910983519270252545",
+					"source_user_id": 124810486,
+					"source_user_id_str": "124810486"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 910983512899018800,
+					"id_str": "910983512899018753",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+					"url": "https://t.co/T8uXotucCd",
+					"display_url": "pic.twitter.com/T8uXotucCd",
+					"expanded_url": "https://twitter.com/weorchard/status/910983519270252545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910983519270252500,
+					"source_status_id_str": "910983519270252545",
+					"source_user_id": 124810486,
+					"source_user_id_str": "124810486"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1118,
+			"friends_count": 462,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13857,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47743,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 21 21:46:10 +0000 2017",
+			"id": 910983519270252500,
+			"id_str": "910983519270252545",
+			"text": "#lovecraft #repost https://t.co/T8uXotucCd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lovecraft",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "repost",
+						"indices": [
+							11,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 910983512899018800,
+						"id_str": "910983512899018753",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+						"url": "https://t.co/T8uXotucCd",
+						"display_url": "pic.twitter.com/T8uXotucCd",
+						"expanded_url": "https://twitter.com/weorchard/status/910983519270252545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 551,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 608,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 608,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 910983512899018800,
+						"id_str": "910983512899018753",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKR2raqVYAELIt3.jpg",
+						"url": "https://t.co/T8uXotucCd",
+						"display_url": "pic.twitter.com/T8uXotucCd",
+						"expanded_url": "https://twitter.com/weorchard/status/910983519270252545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 551,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 608,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 608,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124810486,
+				"id_str": "124810486",
+				"name": "William Orchard",
+				"screen_name": "weorchard",
+				"location": "New York City | Providence, RI",
+				"description": "I write & teach about Latinx lit, queer studies, and the graphic novel. https://t.co/nGkuG8Yxwa",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nGkuG8Yxwa",
+								"expanded_url": "https://qc-cuny.academia.edu/WilliamOrchard",
+								"display_url": "qc-cuny.academia.edu/WilliamOrchard",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 576,
+				"friends_count": 1120,
+				"listed_count": 36,
+				"created_at": "Sat Mar 20 16:59:05 +0000 2010",
+				"favourites_count": 3654,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6172,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262511502/img-01-4707867b-5891-4666-b0e3-da3c0d9f6299.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262511502/img-01-4707867b-5891-4666-b0e3-da3c0d9f6299.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899018228021768192/m1Ll_jEA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899018228021768192/m1Ll_jEA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124810486/1496670865",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Sep 21 21:12:46 +0000 2017",
 		"id": 910975111750135800,
 		"id_str": "910975111750135809",
