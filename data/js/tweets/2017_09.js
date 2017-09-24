@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 24 00:53:35 +0000 2017",
+		"id": 911755460088299500,
+		"id_str": "911755460088299520",
+		"text": "\"do you have any idea how uncomfortable this is for a 47-yo jewish man with a bad back and shin splints?\" 😂 https://t.co/mIbInQYPLB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mIbInQYPLB",
+					"expanded_url": "https://twitter.com/MichaelRapaport/status/911625396537274368",
+					"display_url": "twitter.com/MichaelRapapor…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/PpwQ9i80xQ • https://t.co/nMrHfpkwlb",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpwQ9i80xQ",
+							"expanded_url": "http://palgrave.com/us/book/9781137586384",
+							"display_url": "palgrave.com/us/book/978113…",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfpkwlb",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 464,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 13898,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47855,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894909259384627201/209KlCWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 911625396537274400,
+		"quoted_status_id_str": "911625396537274368",
+		"quoted_status": {
+			"created_at": "Sat Sep 23 16:16:46 +0000 2017",
+			"id": 911625396537274400,
+			"id_str": "911625396537274368",
+			"text": "The Knee is taken!\n\n#stephcurry ##kapernick #KneeIsTaken https://t.co/g5POifTYHF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stephcurry",
+						"indices": [
+							20,
+							31
+						]
+					},
+					{
+						"text": "kapernick",
+						"indices": [
+							33,
+							43
+						]
+					},
+					{
+						"text": "KneeIsTaken",
+						"indices": [
+							44,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 911625204014579700,
+						"id_str": "911625204014579712",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/911625204014579712/pu/img/TyuH3GKPbf5OEzkl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/911625204014579712/pu/img/TyuH3GKPbf5OEzkl.jpg",
+						"url": "https://t.co/g5POifTYHF",
+						"display_url": "pic.twitter.com/g5POifTYHF",
+						"expanded_url": "https://twitter.com/MichaelRapaport/status/911625396537274368/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911625204014579700,
+						"id_str": "911625204014579712",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/911625204014579712/pu/img/TyuH3GKPbf5OEzkl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/911625204014579712/pu/img/TyuH3GKPbf5OEzkl.jpg",
+						"url": "https://t.co/g5POifTYHF",
+						"display_url": "pic.twitter.com/g5POifTYHF",
+						"expanded_url": "https://twitter.com/MichaelRapaport/status/911625396537274368/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 56857,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/911625204014579712/pu/pl/d_mQLt8-WaXVYJM0.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/911625204014579712/pu/vid/512x640/WZEijeeLrJHf_fS-.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/911625204014579712/pu/vid/256x320/gAjz6I5vVJGupyDW.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241204643,
+				"id_str": "241204643",
+				"name": "MichaelRapaport",
+				"screen_name": "MichaelRapaport",
+				"location": "",
+				"description": "Butter T's: https://t.co/sGPwWQkxIR Snapchat: MichaelRapaport. Subscribe: @iamrapaport & @FantasyFollies. My book:",
+				"url": "https://t.co/cec9arKXtw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cec9arKXtw",
+								"expanded_url": "http://ThisBookHasBalls.com",
+								"display_url": "ThisBookHasBalls.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sGPwWQkxIR",
+								"expanded_url": "https://store.barstoolsports.com/collections/michael-rapaport",
+								"display_url": "store.barstoolsports.com/collections/mi…",
+								"indices": [
+									12,
+									35
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 286604,
+				"friends_count": 1909,
+				"listed_count": 1450,
+				"created_at": "Fri Jan 21 18:20:19 +0000 2011",
+				"favourites_count": 33067,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 41166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9266CC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/525470563221782528/nJoVTtis.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/525470563221782528/nJoVTtis.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829959195143254016/CRoJT0FN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829959195143254016/CRoJT0FN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241204643/1501792826",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21670,
+			"favorite_count": 35440,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 23 23:32:27 +0000 2017",
 		"id": 911735039850926100,
 		"id_str": "911735039850926114",
