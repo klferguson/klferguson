@@ -1,6 +1,653 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 04 15:26:22 +0000 2017",
+		"id": 915598982075834400,
+		"id_str": "915598982075834373",
+		"text": "these are the kinds of attachments I get from work-related email these days. have i leveled up or down? https://t.co/oTRfSUxwqu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 915598875708264400,
+					"id_str": "915598875708264450",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DLTcU49WkAIfxaq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLTcU49WkAIfxaq.jpg",
+					"url": "https://t.co/oTRfSUxwqu",
+					"display_url": "pic.twitter.com/oTRfSUxwqu",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/915598982075834373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 577,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 577,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 915598875708264400,
+					"id_str": "915598875708264450",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DLTcU49WkAIfxaq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLTcU49WkAIfxaq.jpg",
+					"url": "https://t.co/oTRfSUxwqu",
+					"display_url": "pic.twitter.com/oTRfSUxwqu",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/915598982075834373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 577,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 577,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1118,
+			"friends_count": 464,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14077,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48180,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 04 15:15:53 +0000 2017",
+		"id": 915596340956205000,
+		"id_str": "915596340956205056",
+		"text": "RT @senatorshoshana: SCREAMING. A+ troll \n\nh/t @EvanSparks via #equifaxbreach hearing https://t.co/rggknj8hlw https://t.co/3Hawi3RmGh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "equifaxbreach",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "senatorshoshana",
+					"name": "Shoshana Weissmann",
+					"id": 38445467,
+					"id_str": "38445467",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "EvanSparks",
+					"name": "Evan Sparks",
+					"id": 4228782735,
+					"id_str": "4228782735",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rggknj8hlw",
+					"expanded_url": "https://www.banking.senate.gov/public/index.cfm/hearings?ID=B61BB78D-CF34-4D54-B7F2-F7F982D77D6F",
+					"display_url": "banking.senate.gov/public/index.c…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 915587153718952000,
+					"id_str": "915587153718951943",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+					"url": "https://t.co/3Hawi3RmGh",
+					"display_url": "pic.twitter.com/3Hawi3RmGh",
+					"expanded_url": "https://twitter.com/senatorshoshana/status/915587190276714496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915587190276714500,
+					"source_status_id_str": "915587190276714496",
+					"source_user_id": 38445467,
+					"source_user_id_str": "38445467"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 915587153718952000,
+					"id_str": "915587153718951943",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+					"url": "https://t.co/3Hawi3RmGh",
+					"display_url": "pic.twitter.com/3Hawi3RmGh",
+					"expanded_url": "https://twitter.com/senatorshoshana/status/915587190276714496/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915587190276714500,
+					"source_status_id_str": "915587190276714496",
+					"source_user_id": 38445467,
+					"source_user_id_str": "38445467",
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DLTRqlJUQAcpD32.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1118,
+			"friends_count": 464,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14077,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48180,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 04 14:39:31 +0000 2017",
+			"id": 915587190276714500,
+			"id_str": "915587190276714496",
+			"text": "SCREAMING. A+ troll \n\nh/t @EvanSparks via #equifaxbreach hearing https://t.co/rggknj8hlw https://t.co/3Hawi3RmGh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "equifaxbreach",
+						"indices": [
+							42,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EvanSparks",
+						"name": "Evan Sparks",
+						"id": 4228782735,
+						"id_str": "4228782735",
+						"indices": [
+							26,
+							37
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rggknj8hlw",
+						"expanded_url": "https://www.banking.senate.gov/public/index.cfm/hearings?ID=B61BB78D-CF34-4D54-B7F2-F7F982D77D6F",
+						"display_url": "banking.senate.gov/public/index.c…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 915587153718952000,
+						"id_str": "915587153718951943",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+						"url": "https://t.co/3Hawi3RmGh",
+						"display_url": "pic.twitter.com/3Hawi3RmGh",
+						"expanded_url": "https://twitter.com/senatorshoshana/status/915587190276714496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 250,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 250,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 170,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 915587153718952000,
+						"id_str": "915587153718951943",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLTRqlJUQAcpD32.jpg",
+						"url": "https://t.co/3Hawi3RmGh",
+						"display_url": "pic.twitter.com/3Hawi3RmGh",
+						"expanded_url": "https://twitter.com/senatorshoshana/status/915587190276714496/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 250,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 250,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 170,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DLTRqlJUQAcpD32.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38445467,
+				"id_str": "38445467",
+				"name": "Shoshana Weissmann",
+				"screen_name": "senatorshoshana",
+				"location": "Sodosopa, DC.",
+				"description": "Manage @RSI Digital. @CityGOP E.D. Consultant. Write @weeklystandard @NRO. Meme expert. Sew, hike, mentor. 💗 licensing reform, judicial engagement @IJ @volokhc",
+				"url": "https://t.co/kOOOQSqgqd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kOOOQSqgqd",
+								"expanded_url": "https://about.me/senatorshoshana",
+								"display_url": "about.me/senatorshoshana",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19657,
+				"friends_count": 4710,
+				"listed_count": 552,
+				"created_at": "Thu May 07 14:55:30 +0000 2009",
+				"favourites_count": 87554,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 120166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B3B3B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457977850704830466/MlHOZggk.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457977850704830466/MlHOZggk.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876560345715888128/hRhwEweM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876560345715888128/hRhwEweM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38445467/1497022369",
+				"profile_link_color": "CC0099",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F03967",
+				"profile_text_color": "D60326",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1474,
+			"favorite_count": 2438,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1474,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 04 15:04:23 +0000 2017",
 		"id": 915593445875609600,
 		"id_str": "915593445875609601",
