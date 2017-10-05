@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 05 12:15:30 +0000 2017",
+		"id": 915913333458513900,
+		"id_str": "915913333458513920",
+		"text": "(both Christopher Columbi) https://t.co/pQzKuSGhpL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pQzKuSGhpL",
+					"expanded_url": "https://twitter.com/SoualiganAmazon/status/915212792055156737",
+					"display_url": "twitter.com/SoualiganAmazo…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1118,
+			"friends_count": 465,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14090,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 915212792055156700,
+		"quoted_status_id_str": "915212792055156737",
+		"quoted_status": {
+			"created_at": "Tue Oct 03 13:51:48 +0000 2017",
+			"id": 915212792055156700,
+			"id_str": "915212792055156737",
+			"text": "If my kids ain't shading Christopher Columbus by the age of 5 I have failed them as a parent.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47839801,
+				"id_str": "47839801",
+				"name": "3rd World Misandrist",
+				"screen_name": "SoualiganAmazon",
+				"location": "In this DANCERY, Saint Maarten",
+				"description": "9 ether Caribbean water nymph & Amazonian warrior. Victim's advocate. Place offerings of maple syrup at the shrine.",
+				"url": "https://t.co/mvk7TCLjJv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mvk7TCLjJv",
+								"expanded_url": "https://curiouscat.me/SoualiganAmazon",
+								"display_url": "curiouscat.me/SoualiganAmazon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7737,
+				"friends_count": 778,
+				"listed_count": 185,
+				"created_at": "Wed Jun 17 03:25:14 +0000 2009",
+				"favourites_count": 9497,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 202040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471891232369553408/8D_OWI93.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471891232369553408/8D_OWI93.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913893143719956480/n4X_nD2W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913893143719956480/n4X_nD2W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47839801/1502835417",
+				"profile_link_color": "71058C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6945,
+			"favorite_count": 17760,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 05 12:07:08 +0000 2017",
 		"id": 915911227255263200,
 		"id_str": "915911227255263232",
