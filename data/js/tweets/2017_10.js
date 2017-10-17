@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 17 18:32:45 +0000 2017",
+		"id": 920356927749619700,
+		"id_str": "920356927749619722",
+		"text": "@AmandaAnnKlein @kristenwarner  https://t.co/ZOzRwO7uMg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "EarsUpFull♥️CantLose",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "kristenwarner",
+					"name": "Irascible KW, Phd",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 920356913547792400,
+					"id_str": "920356913547792390",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMXDvJKXUAYAbW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMXDvJKXUAYAbW9.jpg",
+					"url": "https://t.co/ZOzRwO7uMg",
+					"display_url": "pic.twitter.com/ZOzRwO7uMg",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/920356927749619722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 294,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 294,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 294,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 920356913547792400,
+					"id_str": "920356913547792390",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMXDvJKXUAYAbW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMXDvJKXUAYAbW9.jpg",
+					"url": "https://t.co/ZOzRwO7uMg",
+					"display_url": "pic.twitter.com/ZOzRwO7uMg",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/920356927749619722/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 294,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 294,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 294,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							49,
+							45
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DMXDvJKXUAYAbW9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 920354695104880600,
+		"in_reply_to_status_id_str": "920354695104880640",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1114,
+			"friends_count": 14,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14276,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Oct 17 18:21:20 +0000 2017",
+		"id": 920354052239654900,
+		"id_str": "920354052239654912",
+		"text": "RT @iheartfatapollo: Help needed, aca-friends...has anyone been/seen writing on white fragility in a media studies context? Thanks in advan…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iheartfatapollo",
+					"name": "Suzanne Scott",
+					"id": 7548622,
+					"id_str": "7548622",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1114,
+			"friends_count": 14,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14276,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 17 18:02:49 +0000 2017",
+			"id": 920349392523145200,
+			"id_str": "920349392523145216",
+			"text": "Help needed, aca-friends...has anyone been/seen writing on white fragility in a media studies context? Thanks in advance for any leads.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7548622,
+				"id_str": "7548622",
+				"name": "Suzanne Scott",
+				"screen_name": "iheartfatapollo",
+				"location": "ATX",
+				"description": "Acafan, Asst. Professor of Media Studies at UT Austin, doctor who can only prescribe TV shows and comic books.",
+				"url": "https://t.co/r6Hnk9F6DX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r6Hnk9F6DX",
+								"expanded_url": "http://www.suzanne-scott.com",
+								"display_url": "suzanne-scott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1841,
+				"friends_count": 1670,
+				"listed_count": 91,
+				"created_at": "Wed Jul 18 03:48:51 +0000 2007",
+				"favourites_count": 6977,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12810,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/306020825/mike_mitchell_crazy_4_cult_4_show_poster.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/306020825/mike_mitchell_crazy_4_cult_4_show_poster.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758386645439610880/s_0TJg5j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758386645439610880/s_0TJg5j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7548622/1484331361",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c3f37afa9efcf94b",
+				"url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+				"place_type": "city",
+				"name": "Austin",
+				"full_name": "Austin, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.928935,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.5187994
+							],
+							[
+								-97.928935,
+								30.5187994
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 17 18:10:52 +0000 2017",
 		"id": 920351419080872000,
 		"id_str": "920351419080871936",
