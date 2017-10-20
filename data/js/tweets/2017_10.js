@@ -1,6 +1,986 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 15:16:00 +0000 2017",
+		"id": 921394575012454400,
+		"id_str": "921394575012454401",
+		"text": "RT @NifMuhammad: lmao https://t.co/MH7RWSV758",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NifMuhammad",
+					"name": "Hanif Abdurraqib",
+					"id": 227452515,
+					"id_str": "227452515",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921387803732213800,
+					"id_str": "921387803732213760",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+					"url": "https://t.co/MH7RWSV758",
+					"display_url": "pic.twitter.com/MH7RWSV758",
+					"expanded_url": "https://twitter.com/NifMuhammad/status/921387813416861697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1019,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921387813416861700,
+					"source_status_id_str": "921387813416861697",
+					"source_user_id": 227452515,
+					"source_user_id_str": "227452515"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921387803732213800,
+					"id_str": "921387803732213760",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+					"url": "https://t.co/MH7RWSV758",
+					"display_url": "pic.twitter.com/MH7RWSV758",
+					"expanded_url": "https://twitter.com/NifMuhammad/status/921387813416861697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1019,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921387813416861700,
+					"source_status_id_str": "921387813416861697",
+					"source_user_id": 227452515,
+					"source_user_id_str": "227452515"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1110,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14329,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 14:49:07 +0000 2017",
+			"id": 921387813416861700,
+			"id_str": "921387813416861697",
+			"text": "lmao https://t.co/MH7RWSV758",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921387803732213800,
+						"id_str": "921387803732213760",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+						"url": "https://t.co/MH7RWSV758",
+						"display_url": "pic.twitter.com/MH7RWSV758",
+						"expanded_url": "https://twitter.com/NifMuhammad/status/921387813416861697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921387803732213800,
+						"id_str": "921387803732213760",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMltU2XWAAA8YMt.jpg",
+						"url": "https://t.co/MH7RWSV758",
+						"display_url": "pic.twitter.com/MH7RWSV758",
+						"expanded_url": "https://twitter.com/NifMuhammad/status/921387813416861697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 227452515,
+				"id_str": "227452515",
+				"name": "Hanif Abdurraqib",
+				"screen_name": "NifMuhammad",
+				"location": "Columbus, OH",
+				"description": "Poet. Writer. Author. | Poetry editor @MuzzleMagazine. | The Crown Ain't Worth Much (@buttonpoetry) | Essay Book 11/17 (@twodollarradio) | Relentless Ohioan.",
+				"url": "https://t.co/Eu42ponpNM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Eu42ponpNM",
+								"expanded_url": "http://www.abdurraqib.com",
+								"display_url": "abdurraqib.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25044,
+				"friends_count": 1045,
+				"listed_count": 367,
+				"created_at": "Thu Dec 16 21:44:35 +0000 2010",
+				"favourites_count": 29812,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 55259,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/182361001/6a00d8345191c469e200e54f31220d8833-640wi.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/182361001/6a00d8345191c469e200e54f31220d8833-640wi.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894650199242489858/ooQs4Qh-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894650199242489858/ooQs4Qh-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/227452515/1494515200",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ht"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht"
+	},
+	{
+		"created_at": "Fri Oct 20 15:15:31 +0000 2017",
+		"id": 921394456032575500,
+		"id_str": "921394456032575493",
+		"text": "RT @paulcorupe: Some more amazing art from pre-1964 Halloween sound effects LPs. https://t.co/dOKTzkmm0g",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulcorupe",
+					"name": "Paul Corupe",
+					"id": 30003814,
+					"id_str": "30003814",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921393555972685800,
+					"id_str": "921393555972685825",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+					"url": "https://t.co/dOKTzkmm0g",
+					"display_url": "pic.twitter.com/dOKTzkmm0g",
+					"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 660,
+							"h": 654,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 654,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 654,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921394068562702300,
+					"source_status_id_str": "921394068562702336",
+					"source_user_id": 30003814,
+					"source_user_id_str": "30003814"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921393555972685800,
+					"id_str": "921393555972685825",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+					"url": "https://t.co/dOKTzkmm0g",
+					"display_url": "pic.twitter.com/dOKTzkmm0g",
+					"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 660,
+							"h": 654,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 654,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 654,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921394068562702300,
+					"source_status_id_str": "921394068562702336",
+					"source_user_id": 30003814,
+					"source_user_id_str": "30003814"
+				},
+				{
+					"id": 921393555960188900,
+					"id_str": "921393555960188928",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DMlyjrFXUAAO6NN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMlyjrFXUAAO6NN.jpg",
+					"url": "https://t.co/dOKTzkmm0g",
+					"display_url": "pic.twitter.com/dOKTzkmm0g",
+					"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921394068562702300,
+					"source_status_id_str": "921394068562702336",
+					"source_user_id": 30003814,
+					"source_user_id_str": "30003814"
+				},
+				{
+					"id": 921393555968548900,
+					"id_str": "921393555968548864",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DMlyjrHW4AANUTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMlyjrHW4AANUTz.jpg",
+					"url": "https://t.co/dOKTzkmm0g",
+					"display_url": "pic.twitter.com/dOKTzkmm0g",
+					"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 630,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 630,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921394068562702300,
+					"source_status_id_str": "921394068562702336",
+					"source_user_id": 30003814,
+					"source_user_id_str": "30003814"
+				},
+				{
+					"id": 921394012841480200,
+					"id_str": "921394012841480192",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DMly-RGWkAA1rP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMly-RGWkAA1rP7.jpg",
+					"url": "https://t.co/dOKTzkmm0g",
+					"display_url": "pic.twitter.com/dOKTzkmm0g",
+					"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921394068562702300,
+					"source_status_id_str": "921394068562702336",
+					"source_user_id": 30003814,
+					"source_user_id_str": "30003814"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1110,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14329,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912352002537013249/vKgGDCZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "1500FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 15:13:59 +0000 2017",
+			"id": 921394068562702300,
+			"id_str": "921394068562702336",
+			"text": "Some more amazing art from pre-1964 Halloween sound effects LPs. https://t.co/dOKTzkmm0g",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921393555972685800,
+						"id_str": "921393555972685825",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+						"url": "https://t.co/dOKTzkmm0g",
+						"display_url": "pic.twitter.com/dOKTzkmm0g",
+						"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 660,
+								"h": 654,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 660,
+								"h": 654,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 660,
+								"h": 654,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921393555972685800,
+						"id_str": "921393555972685825",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMlyjrIWAAEt60X.jpg",
+						"url": "https://t.co/dOKTzkmm0g",
+						"display_url": "pic.twitter.com/dOKTzkmm0g",
+						"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 660,
+								"h": 654,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 660,
+								"h": 654,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 660,
+								"h": 654,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 921393555960188900,
+						"id_str": "921393555960188928",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DMlyjrFXUAAO6NN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMlyjrFXUAAO6NN.jpg",
+						"url": "https://t.co/dOKTzkmm0g",
+						"display_url": "pic.twitter.com/dOKTzkmm0g",
+						"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 921393555968548900,
+						"id_str": "921393555968548864",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DMlyjrHW4AANUTz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMlyjrHW4AANUTz.jpg",
+						"url": "https://t.co/dOKTzkmm0g",
+						"display_url": "pic.twitter.com/dOKTzkmm0g",
+						"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 630,
+								"h": 660,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 630,
+								"h": 660,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 630,
+								"h": 660,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 921394012841480200,
+						"id_str": "921394012841480192",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DMly-RGWkAA1rP7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMly-RGWkAA1rP7.jpg",
+						"url": "https://t.co/dOKTzkmm0g",
+						"display_url": "pic.twitter.com/dOKTzkmm0g",
+						"expanded_url": "https://twitter.com/paulcorupe/status/921394068562702336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 576,
+								"h": 578,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 576,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 576,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30003814,
+				"id_str": "30003814",
+				"name": "Paul Corupe",
+				"screen_name": "paulcorupe",
+				"location": "Toronto",
+				"description": "Writer, editor, salvager of cultural detritus. See: @Canuxploitation.com, SpectacularOptical.ca, @BlackMuseumTO lecture series, @RueMorgue magazine.",
+				"url": "http://t.co/Jlx3fU7mGN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jlx3fU7mGN",
+								"expanded_url": "http://www.canuxploitation.com",
+								"display_url": "canuxploitation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 913,
+				"friends_count": 397,
+				"listed_count": 41,
+				"created_at": "Thu Apr 09 15:24:20 +0000 2009",
+				"favourites_count": 1271,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3448,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/600988669/xbvmxak8jjipbqo37jlt.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/600988669/xbvmxak8jjipbqo37jlt.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/654697612767969280/jgds91k2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/654697612767969280/jgds91k2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30003814/1407433872",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 20 15:08:35 +0000 2017",
 		"id": 921392712187809800,
 		"id_str": "921392712187809792",
