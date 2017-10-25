@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 25 20:01:53 +0000 2017",
+		"id": 923278461959012400,
+		"id_str": "923278461959012352",
+		"text": "RT @presentcorrect: Floppy Disks in anime.\nA new Tumblr https://t.co/g4YC5BmDuv https://t.co/qS72B5V8vs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "presentcorrect",
+					"name": "Present & Correct",
+					"id": 20228975,
+					"id_str": "20228975",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g4YC5BmDuv",
+					"expanded_url": "https://animefloppies.tumblr.com",
+					"display_url": "animefloppies.tumblr.com",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 922883125377749000,
+					"id_str": "922883125377748993",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+					"url": "https://t.co/qS72B5V8vs",
+					"display_url": "pic.twitter.com/qS72B5V8vs",
+					"expanded_url": "https://twitter.com/presentcorrect/status/922883232366030850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 922883232366030800,
+					"source_status_id_str": "922883232366030850",
+					"source_user_id": 20228975,
+					"source_user_id_str": "20228975"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 922883125377749000,
+					"id_str": "922883125377748993",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+					"url": "https://t.co/qS72B5V8vs",
+					"display_url": "pic.twitter.com/qS72B5V8vs",
+					"expanded_url": "https://twitter.com/presentcorrect/status/922883232366030850/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 922883232366030800,
+					"source_status_id_str": "922883232366030850",
+					"source_user_id": 20228975,
+					"source_user_id_str": "20228975",
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							84
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DM69UBlX0AEXUlg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "👻🎃🔪👻🎃🔪👻🎃🔪👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1116,
+			"friends_count": 460,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14415,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922242286154481664/BkNLZCYV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922242286154481664/BkNLZCYV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 24 17:51:23 +0000 2017",
+			"id": 922883232366030800,
+			"id_str": "922883232366030850",
+			"text": "Floppy Disks in anime.\nA new Tumblr https://t.co/g4YC5BmDuv https://t.co/qS72B5V8vs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g4YC5BmDuv",
+						"expanded_url": "https://animefloppies.tumblr.com",
+						"display_url": "animefloppies.tumblr.com",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 922883125377749000,
+						"id_str": "922883125377748993",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+						"url": "https://t.co/qS72B5V8vs",
+						"display_url": "pic.twitter.com/qS72B5V8vs",
+						"expanded_url": "https://twitter.com/presentcorrect/status/922883232366030850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 228,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 922883125377749000,
+						"id_str": "922883125377748993",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM69UBlX0AEXUlg.jpg",
+						"url": "https://t.co/qS72B5V8vs",
+						"display_url": "pic.twitter.com/qS72B5V8vs",
+						"expanded_url": "https://twitter.com/presentcorrect/status/922883232366030850/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 228,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 336,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								125,
+								84
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DM69UBlX0AEXUlg.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20228975,
+				"id_str": "20228975",
+				"name": "Present & Correct",
+				"screen_name": "presentcorrect",
+				"location": "London, England",
+				"description": "Office sundries for the modern workspace. Tue-Sat at 23 Arlington Way, London EC1R https://t.co/GJEpCvONvl",
+				"url": "https://t.co/GJEpCvONvl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJEpCvONvl",
+								"expanded_url": "http://www.presentandcorrect.com",
+								"display_url": "presentandcorrect.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GJEpCvONvl",
+								"expanded_url": "http://www.presentandcorrect.com",
+								"display_url": "presentandcorrect.com",
+								"indices": [
+									83,
+									106
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 39605,
+				"friends_count": 891,
+				"listed_count": 900,
+				"created_at": "Fri Feb 06 10:49:40 +0000 2009",
+				"favourites_count": 2374,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37859,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDEDED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/192717054/twitter5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/192717054/twitter5.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20228975/1427463162",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 843,
+			"favorite_count": 2007,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 843,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 25 18:38:29 +0000 2017",
 		"id": 923257472734974000,
 		"id_str": "923257472734973953",
