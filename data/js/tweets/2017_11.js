@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 02 21:44:32 +0000 2017",
+		"id": 926203397098926100,
+		"id_str": "926203397098926085",
+		"text": "RT @LuvPug: Just got my DNA test back \n\n 💤　☕️\n   💤🍕\n　 🍕\n　☕️💤\n 🧀   💤 \n🧀      💤\n☕️     💤\n 🍕　💤\n   🧀💤\n　  💤\n　💤 🍩\n 💤　 ☕️\n💤　　🧀\n💤　　 🍕\n 💤　  🍤\n　💤🌮…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LuvPug",
+					"name": "Pugnado",
+					"id": 7406952,
+					"id_str": "7406952",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1121,
+			"friends_count": 461,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14570,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49148,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 02 11:57:59 +0000 2017",
+			"id": 926055788661149700,
+			"id_str": "926055788661149696",
+			"text": "Just got my DNA test back \n\n 💤　☕️\n   💤🍕\n　 🍕\n　☕️💤\n 🧀   💤 \n🧀      💤\n☕️     💤\n 🍕　💤\n   🧀💤\n　  💤\n　💤 🍩\n 💤　 ☕️\n💤　　🧀\n💤　　 🍕\n 💤　  🍤\n　💤🌮\n     🧀\n  🍰    💤",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7406952,
+				"id_str": "7406952",
+				"name": "Pugnado",
+				"screen_name": "LuvPug",
+				"location": "somewhere in a playlist",
+				"description": "At least your right to be stupid hasn't been taken away. Avi is me, but filtered AF",
+				"url": "https://t.co/VTKbbWgUsm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VTKbbWgUsm",
+								"expanded_url": "http://favstar.fm/users/LuvPug/awarded",
+								"display_url": "favstar.fm/users/LuvPug/a…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84402,
+				"friends_count": 18046,
+				"listed_count": 2359,
+				"created_at": "Wed Jul 11 17:14:50 +0000 2007",
+				"favourites_count": 538321,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 165534,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/79868565/pug_angel.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/79868565/pug_angel.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921342716117700608/tRDj-SSE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921342716117700608/tRDj-SSE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7406952/1488431259",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 413,
+			"favorite_count": 1169,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 413,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 02 19:57:27 +0000 2017",
 		"id": 926176446783115300,
 		"id_str": "926176446783115266",
