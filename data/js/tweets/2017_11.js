@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 09 01:28:31 +0000 2017",
+		"id": 928434091623616500,
+		"id_str": "928434091623616513",
+		"text": "RT @iw_popular: #8 Willow Creek (2014): Alexie Gilmore, Bryce Johnson #AmazonVideo #AmazonPrime https://t.co/fRqsCznpTq https://t.co/GrE1wA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AmazonVideo",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"text": "AmazonPrime",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iw_popular",
+					"name": "IW Popular",
+					"id": 276102984,
+					"id_str": "276102984",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fRqsCznpTq",
+					"expanded_url": "http://instantwatcher.com/a/title/85883",
+					"display_url": "instantwatcher.com/a/title/85883",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "Asst Prof English, Queens College/CUNY • DH + media studies, 1980s, Acker, horror • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 462,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14706,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 01:15:43 +0000 2017",
+			"id": 928430868393332700,
+			"id_str": "928430868393332736",
+			"text": "#8 Willow Creek (2014): Alexie Gilmore, Bryce Johnson #AmazonVideo #AmazonPrime https://t.co/fRqsCznpTq https://t.co/GrE1wAeL67",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AmazonVideo",
+						"indices": [
+							54,
+							66
+						]
+					},
+					{
+						"text": "AmazonPrime",
+						"indices": [
+							67,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fRqsCznpTq",
+						"expanded_url": "http://instantwatcher.com/a/title/85883",
+						"display_url": "instantwatcher.com/a/title/85883",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 928430866564571100,
+						"id_str": "928430866564571138",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DOJy9EAW4AIKYjE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOJy9EAW4AIKYjE.jpg",
+						"url": "https://t.co/GrE1wAeL67",
+						"display_url": "pic.twitter.com/GrE1wAeL67",
+						"expanded_url": "https://twitter.com/iw_popular/status/928430868393332736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 160,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 160,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 160,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928430866564571100,
+						"id_str": "928430866564571138",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DOJy9EAW4AIKYjE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOJy9EAW4AIKYjE.jpg",
+						"url": "https://t.co/GrE1wAeL67",
+						"display_url": "pic.twitter.com/GrE1wAeL67",
+						"expanded_url": "https://twitter.com/iw_popular/status/928430868393332736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 160,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 160,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 160,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://instantwatcher.com\" rel=\"nofollow\">Instantwatcher Popular</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 276102984,
+				"id_str": "276102984",
+				"name": "IW Popular",
+				"screen_name": "iw_popular",
+				"location": "",
+				"description": "The most popular instant streaming #Netflix movies in the last 24 hrs, updated daily at 8pm EDT.",
+				"url": "http://t.co/8enfbvaBwh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8enfbvaBwh",
+								"expanded_url": "http://instantwatcher.com",
+								"display_url": "instantwatcher.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9586,
+				"friends_count": 8,
+				"listed_count": 312,
+				"created_at": "Sat Apr 02 17:14:11 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43154,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747150583367405568/PPuNzaeu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747150583367405568/PPuNzaeu_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 08 19:23:29 +0000 2017",
 		"id": 928342226085691400,
 		"id_str": "928342226085691393",
