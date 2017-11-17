@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 17 18:08:41 +0000 2017",
+		"id": 931584893833891800,
+		"id_str": "931584893833891841",
+		"text": "(nooo​) https://t.co/IsLe8ukOeI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 931584876364492800,
+					"id_str": "931584876364492800",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2ngmHU8AAQrXd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2ngmHU8AAQrXd.jpg",
+					"url": "https://t.co/IsLe8ukOeI",
+					"display_url": "pic.twitter.com/IsLe8ukOeI",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/931584893833891841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 859,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931584876364492800,
+					"id_str": "931584876364492800",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2ngmHU8AAQrXd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2ngmHU8AAQrXd.jpg",
+					"url": "https://t.co/IsLe8ukOeI",
+					"display_url": "pic.twitter.com/IsLe8ukOeI",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/931584893833891841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 859,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 18,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14820,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Nov 17 17:22:44 +0000 2017",
+		"id": 931573332377555000,
+		"id_str": "931573332377554944",
+		"text": "RT @drewtoothpaste: this is the only good skate vid i have seen in my entire life https://t.co/BaTXhbe6jY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drewtoothpaste",
+					"name": "drewtoothpaste",
+					"id": 14248784,
+					"id_str": "14248784",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931569630874812400,
+					"id_str": "931569630874812416",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+					"url": "https://t.co/BaTXhbe6jY",
+					"display_url": "pic.twitter.com/BaTXhbe6jY",
+					"expanded_url": "https://twitter.com/drewtoothpaste/status/931569797418115072/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931569797418115100,
+					"source_status_id_str": "931569797418115072",
+					"source_user_id": 14248784,
+					"source_user_id_str": "14248784"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931569630874812400,
+					"id_str": "931569630874812416",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+					"url": "https://t.co/BaTXhbe6jY",
+					"display_url": "pic.twitter.com/BaTXhbe6jY",
+					"expanded_url": "https://twitter.com/drewtoothpaste/status/931569797418115072/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931569797418115100,
+					"source_status_id_str": "931569797418115072",
+					"source_user_id": 14248784,
+					"source_user_id_str": "14248784",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9100,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/931569630874812416/pu/vid/240x240/Sbv7B5p5ebCAuceG.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/931569630874812416/pu/pl/CehapS6hfXKuuUUq.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 14248784,
+							"id_str": "14248784",
+							"name": "drewtoothpaste",
+							"screen_name": "drewtoothpaste",
+							"location": "Columbus, OH",
+							"description": "Screenshots posted here ARE NOT REAL. They are fake. Read my blog The Worst Things For Sale: http://t.co/v3nx0XTGds / @TWTFSale / drew@toothpastefordinner.com",
+							"url": "http://t.co/v3nx0XTGds",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/v3nx0XTGds",
+											"expanded_url": "http://theworstthingsforsale.com",
+											"display_url": "theworstthingsforsale.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "http://t.co/v3nx0XTGds",
+											"expanded_url": "http://theworstthingsforsale.com",
+											"display_url": "theworstthingsforsale.com",
+											"indices": [
+												93,
+												115
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 65647,
+							"friends_count": 189,
+							"listed_count": 1811,
+							"created_at": "Sat Mar 29 02:33:11 +0000 2008",
+							"favourites_count": 19872,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 12558,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C1E6C1",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431805125057728512/4ob7Se1_.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431805125057728512/4ob7Se1_.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1484619295/drew-twit-avatar-2011_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484619295/drew-twit-avatar-2011_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14248784/1355936860",
+							"profile_link_color": "08269E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "6CD470",
+							"profile_text_color": "100D09",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 18,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14820,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 17:08:42 +0000 2017",
+			"id": 931569797418115100,
+			"id_str": "931569797418115072",
+			"text": "this is the only good skate vid i have seen in my entire life https://t.co/BaTXhbe6jY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 931569630874812400,
+						"id_str": "931569630874812416",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+						"url": "https://t.co/BaTXhbe6jY",
+						"display_url": "pic.twitter.com/BaTXhbe6jY",
+						"expanded_url": "https://twitter.com/drewtoothpaste/status/931569797418115072/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931569630874812400,
+						"id_str": "931569630874812416",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931569630874812416/pu/img/hcWwWMOGIUi3tJy9.jpg",
+						"url": "https://t.co/BaTXhbe6jY",
+						"display_url": "pic.twitter.com/BaTXhbe6jY",
+						"expanded_url": "https://twitter.com/drewtoothpaste/status/931569797418115072/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 9100,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/931569630874812416/pu/vid/240x240/Sbv7B5p5ebCAuceG.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/931569630874812416/pu/pl/CehapS6hfXKuuUUq.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14248784,
+				"id_str": "14248784",
+				"name": "drewtoothpaste",
+				"screen_name": "drewtoothpaste",
+				"location": "Columbus, OH",
+				"description": "Screenshots posted here ARE NOT REAL. They are fake. Read my blog The Worst Things For Sale: http://t.co/v3nx0XTGds / @TWTFSale / drew@toothpastefordinner.com",
+				"url": "http://t.co/v3nx0XTGds",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/v3nx0XTGds",
+								"expanded_url": "http://theworstthingsforsale.com",
+								"display_url": "theworstthingsforsale.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/v3nx0XTGds",
+								"expanded_url": "http://theworstthingsforsale.com",
+								"display_url": "theworstthingsforsale.com",
+								"indices": [
+									93,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 65647,
+				"friends_count": 189,
+				"listed_count": 1811,
+				"created_at": "Sat Mar 29 02:33:11 +0000 2008",
+				"favourites_count": 19872,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12558,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C1E6C1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431805125057728512/4ob7Se1_.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431805125057728512/4ob7Se1_.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1484619295/drew-twit-avatar-2011_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484619295/drew-twit-avatar-2011_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14248784/1355936860",
+				"profile_link_color": "08269E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "6CD470",
+				"profile_text_color": "100D09",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2098,
+			"favorite_count": 3477,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2098,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 17 17:02:44 +0000 2017",
 		"id": 931568296150884400,
 		"id_str": "931568296150884352",
