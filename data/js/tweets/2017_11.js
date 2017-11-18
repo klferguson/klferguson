@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 18 17:38:55 +0000 2017",
+		"id": 931939790035017700,
+		"id_str": "931939790035017729",
+		"text": "RT @NeilBhatiya: I'm shocked-shocked!-to learn that NY politicians used transit $ to bail out upstaters https://t.co/LnZgRBsn2Z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilBhatiya",
+					"name": "Neil Bhatiya",
+					"id": 71643557,
+					"id_str": "71643557",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LnZgRBsn2Z",
+					"expanded_url": "https://twitter.com/tomgara/status/931904148202770434",
+					"display_url": "twitter.com/tomgara/status…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1132,
+			"friends_count": 462,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14832,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 17:00:45 +0000 2017",
+			"id": 931930185930178600,
+			"id_str": "931930185930178565",
+			"text": "I'm shocked-shocked!-to learn that NY politicians used transit $ to bail out upstaters https://t.co/LnZgRBsn2Z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LnZgRBsn2Z",
+						"expanded_url": "https://twitter.com/tomgara/status/931904148202770434",
+						"display_url": "twitter.com/tomgara/status…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71643557,
+				"id_str": "71643557",
+				"name": "Neil Bhatiya",
+				"screen_name": "NeilBhatiya",
+				"location": "Washington, DC",
+				"description": "Research Associate, Energy, Economics, and Security Program, Center for a New American Security (@cnasdc). Opinions mine alone. Pronounced BAH-tee-uh.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3980,
+				"friends_count": 3711,
+				"listed_count": 238,
+				"created_at": "Fri Sep 04 21:26:40 +0000 2009",
+				"favourites_count": 3581,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52329,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453984558745014272/e4Lfa5r4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453984558745014272/e4Lfa5r4.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3481580690/711ee74a237dc91f05affbea269c283d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3481580690/711ee74a237dc91f05affbea269c283d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71643557/1502221634",
+				"profile_link_color": "352FEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 931904148202770400,
+			"quoted_status_id_str": "931904148202770434",
+			"quoted_status": {
+				"created_at": "Sat Nov 18 15:17:17 +0000 2017",
+				"id": 931904148202770400,
+				"id_str": "931904148202770434",
+				"text": "Cuomo “forced the MTA to send $5 million to bail out state-run ski resorts that were struggling after a warm winter\" https://t.co/3srw3FDBEC",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/3srw3FDBEC",
+							"expanded_url": "https://nyti.ms/2hIU01N",
+							"display_url": "nyti.ms/2hIU01N",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 5845492,
+					"id_str": "5845492",
+					"name": "Tom Gara",
+					"screen_name": "tomgara",
+					"location": "PGP: http://bit.ly/1Nja4jP",
+					"description": "through meditation i program my heart to beat breakbeats and hum basslines upon exhalation. (Opinion Editor, BuzzFeed News)",
+					"url": "http://t.co/LW3FqfTaxu",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/LW3FqfTaxu",
+									"expanded_url": "http://about.me/tomgara",
+									"display_url": "about.me/tomgara",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 40274,
+					"friends_count": 1278,
+					"listed_count": 1569,
+					"created_at": "Mon May 07 22:22:59 +0000 2007",
+					"favourites_count": 641,
+					"utc_offset": -14400,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 96434,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4266370/1984593_a40da6ca79_b.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4266370/1984593_a40da6ca79_b.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/559127959093514240/mGO4_wbi_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/559127959093514240/mGO4_wbi_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/5845492/1402263872",
+					"profile_link_color": "FF3300",
+					"profile_sidebar_border_color": "86A4A6",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 48,
+				"favorite_count": 23,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 931904148202770400,
+		"quoted_status_id_str": "931904148202770434",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 18 16:01:50 +0000 2017",
 		"id": 931915359254384600,
 		"id_str": "931915359254384640",
