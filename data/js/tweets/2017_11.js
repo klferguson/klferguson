@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 27 20:54:48 +0000 2017",
+		"id": 935250577096953900,
+		"id_str": "935250577096953858",
+		"text": "RT @CinemaScopeMag: !!! https://t.co/WeeftGThdw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CinemaScopeMag",
+					"name": "Cinema Scope",
+					"id": 273416711,
+					"id_str": "273416711",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 935248555765370900,
+					"id_str": "935248555765370880",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+					"url": "https://t.co/WeeftGThdw",
+					"display_url": "pic.twitter.com/WeeftGThdw",
+					"expanded_url": "https://twitter.com/CinemaScopeMag/status/935248566762819586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 935248566762819600,
+					"source_status_id_str": "935248566762819586",
+					"source_user_id": 273416711,
+					"source_user_id_str": "273416711"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 935248555765370900,
+					"id_str": "935248555765370880",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+					"url": "https://t.co/WeeftGThdw",
+					"display_url": "pic.twitter.com/WeeftGThdw",
+					"expanded_url": "https://twitter.com/CinemaScopeMag/status/935248566762819586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 935248566762819600,
+					"source_status_id_str": "935248566762819586",
+					"source_user_id": 273416711,
+					"source_user_id_str": "273416711"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 18,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14908,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 27 20:46:49 +0000 2017",
+			"id": 935248566762819600,
+			"id_str": "935248566762819586",
+			"text": "!!! https://t.co/WeeftGThdw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 935248555765370900,
+						"id_str": "935248555765370880",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+						"url": "https://t.co/WeeftGThdw",
+						"display_url": "pic.twitter.com/WeeftGThdw",
+						"expanded_url": "https://twitter.com/CinemaScopeMag/status/935248566762819586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 935248555765370900,
+						"id_str": "935248555765370880",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPqrmzcXkAAE9_M.jpg",
+						"url": "https://t.co/WeeftGThdw",
+						"display_url": "pic.twitter.com/WeeftGThdw",
+						"expanded_url": "https://twitter.com/CinemaScopeMag/status/935248566762819586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273416711,
+				"id_str": "273416711",
+				"name": "Cinema Scope",
+				"screen_name": "CinemaScopeMag",
+				"location": "",
+				"description": "Expanding the frame on int'l cinema, tweeting relevantly for Cinema Scope Magazine and Cinema Scope Online: http://t.co/IggMoLsjrU. #LUP4EVER",
+				"url": "http://t.co/SoyfzZZgdm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SoyfzZZgdm",
+								"expanded_url": "http://cinema-scope.com/",
+								"display_url": "cinema-scope.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/IggMoLsjrU",
+								"expanded_url": "http://cinema-scope.com/",
+								"display_url": "cinema-scope.com",
+								"indices": [
+									108,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17139,
+				"friends_count": 346,
+				"listed_count": 420,
+				"created_at": "Mon Mar 28 13:10:00 +0000 2011",
+				"favourites_count": 1529,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10720,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/674748328672960513/kT-fbglp.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/674748328672960513/kT-fbglp.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903920895865090048/31i4dmTQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903920895865090048/31i4dmTQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273416711/1401928206",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "786666",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Nov 27 18:11:19 +0000 2017",
 		"id": 935209435189993500,
 		"id_str": "935209435189993473",
