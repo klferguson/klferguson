@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 30 15:11:23 +0000 2017",
+		"id": 936251316191612900,
+		"id_str": "936251316191612929",
+		"text": "RT @hayleycscott: This message from Mark E Smith has got me all emotional. https://t.co/jMaAn33G0w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hayleycscott",
+					"name": "Hayley Scott",
+					"id": 29494569,
+					"id_str": "29494569",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 936198847986126800,
+					"id_str": "936198847986126848",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+					"url": "https://t.co/jMaAn33G0w",
+					"display_url": "pic.twitter.com/jMaAn33G0w",
+					"expanded_url": "https://twitter.com/hayleycscott/status/936198924091707393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 596,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 936198924091707400,
+					"source_status_id_str": "936198924091707393",
+					"source_user_id": 29494569,
+					"source_user_id_str": "29494569"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 936198847986126800,
+					"id_str": "936198847986126848",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+					"url": "https://t.co/jMaAn33G0w",
+					"display_url": "pic.twitter.com/jMaAn33G0w",
+					"expanded_url": "https://twitter.com/hayleycscott/status/936198924091707393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 596,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 936198924091707400,
+					"source_status_id_str": "936198924091707393",
+					"source_user_id": 29494569,
+					"source_user_id_str": "29494569"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1130,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 14931,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 30 11:43:11 +0000 2017",
+			"id": 936198924091707400,
+			"id_str": "936198924091707393",
+			"text": "This message from Mark E Smith has got me all emotional. https://t.co/jMaAn33G0w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 936198847986126800,
+						"id_str": "936198847986126848",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+						"url": "https://t.co/jMaAn33G0w",
+						"display_url": "pic.twitter.com/jMaAn33G0w",
+						"expanded_url": "https://twitter.com/hayleycscott/status/936198924091707393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 596,
+								"h": 421,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 596,
+								"h": 421,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 596,
+								"h": 421,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 936198847986126800,
+						"id_str": "936198847986126848",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DP4L5F1X0AAq4ca.jpg",
+						"url": "https://t.co/jMaAn33G0w",
+						"display_url": "pic.twitter.com/jMaAn33G0w",
+						"expanded_url": "https://twitter.com/hayleycscott/status/936198924091707393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 596,
+								"h": 421,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 596,
+								"h": 421,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 596,
+								"h": 421,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29494569,
+				"id_str": "29494569",
+				"name": "Hayley Scott",
+				"screen_name": "hayleycscott",
+				"location": "",
+				"description": "Writer @theQuietus @clash_music @LoudAndQuietMag @theskinnymag & more. DIY gig promoter. Also @fallcaps.",
+				"url": "https://t.co/A6LV0HMkW0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A6LV0HMkW0",
+								"expanded_url": "http://www.hayley-scott.com",
+								"display_url": "hayley-scott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2308,
+				"friends_count": 2163,
+				"listed_count": 38,
+				"created_at": "Tue Apr 07 17:23:29 +0000 2009",
+				"favourites_count": 3659,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8716,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930840094801645568/WZ0VnLsv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930840094801645568/WZ0VnLsv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29494569/1501116201",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 30 13:15:41 +0000 2017",
 		"id": 936222199995883500,
 		"id_str": "936222199995883520",
