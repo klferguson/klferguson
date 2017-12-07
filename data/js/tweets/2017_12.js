@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 07 04:32:44 +0000 2017",
+		"id": 938627310558892000,
+		"id_str": "938627310558892032",
+		"text": "RT @deray: I haven’t laughed this hard in a while. I needed this. https://t.co/2aQFpugdis",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deray",
+					"name": "deray",
+					"id": 29417304,
+					"id_str": "29417304",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 936241568444330000,
+					"id_str": "936241568444329984",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+					"url": "https://t.co/2aQFpugdis",
+					"display_url": "pic.twitter.com/2aQFpugdis",
+					"expanded_url": "https://twitter.com/itsKARY_/status/936242092468293633/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 936242092468293600,
+					"source_status_id_str": "936242092468293633",
+					"source_user_id": 58397932,
+					"source_user_id_str": "58397932"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 936241568444330000,
+					"id_str": "936241568444329984",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+					"url": "https://t.co/2aQFpugdis",
+					"display_url": "pic.twitter.com/2aQFpugdis",
+					"expanded_url": "https://twitter.com/itsKARY_/status/936242092468293633/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 936242092468293600,
+					"source_status_id_str": "936242092468293633",
+					"source_user_id": 58397932,
+					"source_user_id_str": "58397932",
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 124599,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/936241568444329984/pu/vid/640x360/wBPJdiwja-Y1vDrb.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/936241568444329984/pu/vid/320x180/OwKLuiaQ-3vw1Qqq.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/936241568444329984/pu/pl/xQZdmcrSSXjNDOwB.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 58397932,
+							"id_str": "58397932",
+							"name": "K a r y .",
+							"screen_name": "itsKARY_",
+							"location": " Houston",
+							"description": "https://t.co/ubeDmpAhbh Instagram : its.kary RIP @BrandoSays",
+							"url": "https://t.co/5l0ZVIhil4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/5l0ZVIhil4",
+											"expanded_url": "http://Instagram.com/its.kary",
+											"display_url": "Instagram.com/its.kary",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/ubeDmpAhbh",
+											"expanded_url": "https://vine.co/v/eOpeeqXlYl2",
+											"display_url": "vine.co/v/eOpeeqXlYl2",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 9383,
+							"friends_count": 849,
+							"listed_count": 276,
+							"created_at": "Mon Jul 20 05:19:14 +0000 2009",
+							"favourites_count": 1318,
+							"utc_offset": -21600,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 375983,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/937687447961554944/sJlcBdx__normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/937687447961554944/sJlcBdx__normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/58397932/1510277855",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "8F8C8F",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1129,
+			"friends_count": 20,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15032,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925912547038969856/51DKTe_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 07 02:20:54 +0000 2017",
+			"id": 938594135094673400,
+			"id_str": "938594135094673408",
+			"text": "I haven’t laughed this hard in a while. I needed this. https://t.co/2aQFpugdis",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 936241568444330000,
+						"id_str": "936241568444329984",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+						"url": "https://t.co/2aQFpugdis",
+						"display_url": "pic.twitter.com/2aQFpugdis",
+						"expanded_url": "https://twitter.com/itsKARY_/status/936242092468293633/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 936242092468293600,
+						"source_status_id_str": "936242092468293633",
+						"source_user_id": 58397932,
+						"source_user_id_str": "58397932"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 936241568444330000,
+						"id_str": "936241568444329984",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936241568444329984/pu/img/Ssf9ru1runuPmO_0.jpg",
+						"url": "https://t.co/2aQFpugdis",
+						"display_url": "pic.twitter.com/2aQFpugdis",
+						"expanded_url": "https://twitter.com/itsKARY_/status/936242092468293633/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 936242092468293600,
+						"source_status_id_str": "936242092468293633",
+						"source_user_id": 58397932,
+						"source_user_id_str": "58397932",
+						"video_info": {
+							"aspect_ratio": [
+								180,
+								101
+							],
+							"duration_millis": 124599,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/936241568444329984/pu/vid/640x360/wBPJdiwja-Y1vDrb.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/936241568444329984/pu/vid/320x180/OwKLuiaQ-3vw1Qqq.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/936241568444329984/pu/pl/xQZdmcrSSXjNDOwB.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 58397932,
+								"id_str": "58397932",
+								"name": "K a r y .",
+								"screen_name": "itsKARY_",
+								"location": " Houston",
+								"description": "https://t.co/ubeDmpAhbh Instagram : its.kary RIP @BrandoSays",
+								"url": "https://t.co/5l0ZVIhil4",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/5l0ZVIhil4",
+												"expanded_url": "http://Instagram.com/its.kary",
+												"display_url": "Instagram.com/its.kary",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/ubeDmpAhbh",
+												"expanded_url": "https://vine.co/v/eOpeeqXlYl2",
+												"display_url": "vine.co/v/eOpeeqXlYl2",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 9383,
+								"friends_count": 849,
+								"listed_count": 276,
+								"created_at": "Mon Jul 20 05:19:14 +0000 2009",
+								"favourites_count": 1318,
+								"utc_offset": -21600,
+								"time_zone": "Central Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 375983,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/937687447961554944/sJlcBdx__normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/937687447961554944/sJlcBdx__normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/58397932/1510277855",
+								"profile_link_color": "3B94D9",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "8F8C8F",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29417304,
+				"id_str": "29417304",
+				"name": "deray",
+				"screen_name": "deray",
+				"location": "Wakanda",
+				"description": "I will never betray my heart. Activist. Organizer. Educator. Bowdoin. TFA. Bmore. @PodSaveThePpl. IG: iamderay 👻: derayderay (deray@thisisthemovement.org)",
+				"url": "https://t.co/hdFZz8caY1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hdFZz8caY1",
+								"expanded_url": "https://itunes.apple.com/us/podcast/pod-save-the-people/id1230148653?mt=2",
+								"display_url": "itunes.apple.com/us/podcast/pod…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1016933,
+				"friends_count": 893,
+				"listed_count": 7580,
+				"created_at": "Tue Apr 07 09:38:56 +0000 2009",
+				"favourites_count": 44390,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 212062,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935660517145923584/BCFXMrZl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935660517145923584/BCFXMrZl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29417304/1410129495",
+				"profile_link_color": "0C090A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5014,
+			"favorite_count": 12045,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5014,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 07 03:40:52 +0000 2017",
 		"id": 938614256521621500,
 		"id_str": "938614256521621504",
