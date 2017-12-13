@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 13 13:33:41 +0000 2017",
+		"id": 940937774202531800,
+		"id_str": "940937774202531840",
+		"text": "RT @jermainedesign: RT if you want to see more gay superheroes on film. https://t.co/RSM6eCrhEf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jermainedesign",
+					"name": "Jermaine 🏳️‍🌈",
+					"id": 1967710746,
+					"id_str": "1967710746",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RSM6eCrhEf",
+					"expanded_url": "https://twitter.com/waterss_/status/940774452366856192",
+					"display_url": "twitter.com/waterss_/statu…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1131,
+			"friends_count": 461,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15108,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940456642256105473/fhPX0ZGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940456642256105473/fhPX0ZGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 13 02:47:04 +0000 2017",
+			"id": 940775047437979600,
+			"id_str": "940775047437979648",
+			"text": "RT if you want to see more gay superheroes on film. https://t.co/RSM6eCrhEf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RSM6eCrhEf",
+						"expanded_url": "https://twitter.com/waterss_/status/940774452366856192",
+						"display_url": "twitter.com/waterss_/statu…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1967710746,
+				"id_str": "1967710746",
+				"name": "Jermaine 🏳️‍🌈",
+				"screen_name": "jermainedesign",
+				"location": "Ypsilanti,MI",
+				"description": "Graphic Designer | Illustrator | Superhero | Creator and founder of @HeroNationYpsi",
+				"url": "https://t.co/qNno4FCdz9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qNno4FCdz9",
+								"expanded_url": "http://www.jermainedesign.com/",
+								"display_url": "jermainedesign.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5023,
+				"friends_count": 2112,
+				"listed_count": 215,
+				"created_at": "Thu Oct 17 23:12:51 +0000 2013",
+				"favourites_count": 80132,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 93473,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923543504684494848/u0qcOX9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923543504684494848/u0qcOX9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1967710746/1505420576",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 940774452366856200,
+			"quoted_status_id_str": "940774452366856192",
+			"quoted_status": {
+				"created_at": "Wed Dec 13 02:44:42 +0000 2017",
+				"id": 940774452366856200,
+				"id_str": "940774452366856192",
+				"text": "Literally nobody wants a gay superhero bro. Comics are fine as it is https://t.co/PzjRfQiqTY",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/PzjRfQiqTY",
+							"expanded_url": "https://twitter.com/jermainedesign/status/940774176725635101",
+							"display_url": "twitter.com/jermainedesign…",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 60473331,
+					"id_str": "60473331",
+					"name": "B.",
+					"screen_name": "waterss_",
+					"location": "Gyalhattan NY",
+					"description": "let’s go full throttle.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2128,
+					"friends_count": 999,
+					"listed_count": 82,
+					"created_at": "Mon Jul 27 03:15:05 +0000 2009",
+					"favourites_count": 2505,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 178289,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "808C96",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199773513/ps1.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199773513/ps1.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/934869459847741442/3fbSEord_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/934869459847741442/3fbSEord_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/60473331/1500036156",
+					"profile_link_color": "088FF7",
+					"profile_sidebar_border_color": "ED00ED",
+					"profile_sidebar_fill_color": "F7FAF5",
+					"profile_text_color": "362720",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 940774176725635100,
+				"quoted_status_id_str": "940774176725635101",
+				"retweet_count": 2,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": true,
+				"lang": "en"
+			},
+			"retweet_count": 5849,
+			"favorite_count": 3300,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 940774452366856200,
+		"quoted_status_id_str": "940774452366856192",
+		"retweet_count": 5849,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 13 05:58:52 +0000 2017",
 		"id": 940823316645974000,
 		"id_str": "940823316645974016",
