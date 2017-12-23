@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 23 03:49:19 +0000 2017",
+		"id": 944414592922521600,
+		"id_str": "944414592922521600",
+		"text": "RT @Dan_Cassaro: Thread of Bruce and Clarence kissing (they did it at every show). \n\nMute as needed. https://t.co/cDGPiPLjRP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dan_Cassaro",
+					"name": "Dan Cassaro",
+					"id": 41724295,
+					"id_str": "41724295",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 944227984281690100,
+					"id_str": "944227984281690117",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+					"url": "https://t.co/cDGPiPLjRP",
+					"display_url": "pic.twitter.com/cDGPiPLjRP",
+					"expanded_url": "https://twitter.com/Dan_Cassaro/status/944227994566103040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944227994566103000,
+					"source_status_id_str": "944227994566103040",
+					"source_user_id": 41724295,
+					"source_user_id_str": "41724295"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 944227984281690100,
+					"id_str": "944227984281690117",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+					"url": "https://t.co/cDGPiPLjRP",
+					"display_url": "pic.twitter.com/cDGPiPLjRP",
+					"expanded_url": "https://twitter.com/Dan_Cassaro/status/944227994566103040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 944227994566103000,
+					"source_status_id_str": "944227994566103040",
+					"source_user_id": 41724295,
+					"source_user_id_str": "41724295"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 460,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15185,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940456642256105473/fhPX0ZGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940456642256105473/fhPX0ZGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 22 15:27:51 +0000 2017",
+			"id": 944227994566103000,
+			"id_str": "944227994566103040",
+			"text": "Thread of Bruce and Clarence kissing (they did it at every show). \n\nMute as needed. https://t.co/cDGPiPLjRP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 944227984281690100,
+						"id_str": "944227984281690117",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+						"url": "https://t.co/cDGPiPLjRP",
+						"display_url": "pic.twitter.com/cDGPiPLjRP",
+						"expanded_url": "https://twitter.com/Dan_Cassaro/status/944227994566103040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 389,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 944227984281690100,
+						"id_str": "944227984281690117",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRqSWVYX4AUw9gk.jpg",
+						"url": "https://t.co/cDGPiPLjRP",
+						"display_url": "pic.twitter.com/cDGPiPLjRP",
+						"expanded_url": "https://twitter.com/Dan_Cassaro/status/944227994566103040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 389,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41724295,
+				"id_str": "41724295",
+				"name": "Dan Cassaro",
+				"screen_name": "Dan_Cassaro",
+				"location": "Brooklyn, NY",
+				"description": "Hi, I'm Dan. I'm your new Dad.  Driving the ship with the other Dan (@beeteeth) over at Young Jerks.",
+				"url": "http://t.co/CZNQdNaCD3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CZNQdNaCD3",
+								"expanded_url": "http://YoungJerks.com",
+								"display_url": "YoungJerks.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20862,
+				"friends_count": 573,
+				"listed_count": 586,
+				"created_at": "Fri May 22 01:40:48 +0000 2009",
+				"favourites_count": 8245,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23430,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/348248872/Dan-Cassaro-1440x900.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/348248872/Dan-Cassaro-1440x900.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878634138244337664/L5OPMGyy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878634138244337664/L5OPMGyy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41724295/1487717751",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "50BBD1",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 136,
+			"favorite_count": 356,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 23 03:12:58 +0000 2017",
+		"id": 944405444419838000,
+		"id_str": "944405444419837952",
+		"text": "RT @catspaperbacks: Retweet if you’re an adult who uses the library https://t.co/aGXhiz609K",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "catspaperbacks",
+					"name": "Tasha 🏳️‍🌈 #SapphicAThon is here!",
+					"id": 734633274,
+					"id_str": "734633274",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aGXhiz609K",
+					"expanded_url": "https://twitter.com/andrejpwalker/status/922628584619085824",
+					"display_url": "twitter.com/andrejpwalker/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "Kevin L. Ferguson, but now with added tenure",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 460,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15185,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940456642256105473/fhPX0ZGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940456642256105473/fhPX0ZGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 19 23:11:24 +0000 2017",
+			"id": 943257486420615200,
+			"id_str": "943257486420615168",
+			"text": "Retweet if you’re an adult who uses the library https://t.co/aGXhiz609K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aGXhiz609K",
+						"expanded_url": "https://twitter.com/andrejpwalker/status/922628584619085824",
+						"display_url": "twitter.com/andrejpwalker/…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 734633274,
+				"id_str": "734633274",
+				"name": "Tasha 🏳️‍🌈 #SapphicAThon is here!",
+				"screen_name": "catspaperbacks",
+				"location": "slytherin common room",
+				"description": "book blogger, gay icon, all of the Descendants kids are queer, she/her, host/creator of @sapphicathon 👭 📩 tash-97@live.com",
+				"url": "https://t.co/fsobj0kGaH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fsobj0kGaH",
+								"expanded_url": "https://catsandpaperbacks.wordpress.com/",
+								"display_url": "catsandpaperbacks.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1398,
+				"friends_count": 315,
+				"listed_count": 35,
+				"created_at": "Fri Aug 03 10:24:27 +0000 2012",
+				"favourites_count": 56417,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21279,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455169879289503745/Irrv5Tpt.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455169879289503745/Irrv5Tpt.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940905348143005696/3953o0pL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940905348143005696/3953o0pL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/734633274/1510408916",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 922628584619085800,
+			"quoted_status_id_str": "922628584619085824",
+			"quoted_status": {
+				"created_at": "Tue Oct 24 00:59:30 +0000 2017",
+				"id": 922628584619085800,
+				"id_str": "922628584619085824",
+				"text": "@pdykhuis I'm serious, what adults use libraries. Almost none.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "pdykhuis",
+							"name": "Peter Dykhuis",
+							"id": 28720888,
+							"id_str": "28720888",
+							"indices": [
+								0,
+								9
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": 922628008908861400,
+				"in_reply_to_status_id_str": "922628008908861440",
+				"in_reply_to_user_id": 28720888,
+				"in_reply_to_user_id_str": "28720888",
+				"in_reply_to_screen_name": "pdykhuis",
+				"user": {
+					"id": 20830344,
+					"id_str": "20830344",
+					"name": "Andre Walker",
+					"screen_name": "andrejpwalker",
+					"location": "London, England",
+					"description": "New York Observer Columnist. Lobby Correspondent based in the UK House of Commons.\n\nContact: email@andrewalker.uk\n\ntel: +19142060445",
+					"url": "https://t.co/HBAF32ywj8",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HBAF32ywj8",
+									"expanded_url": "http://www.andrewalker.uk",
+									"display_url": "andrewalker.uk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 58999,
+					"friends_count": 53681,
+					"listed_count": 508,
+					"created_at": "Sat Feb 14 04:06:27 +0000 2009",
+					"favourites_count": 4436,
+					"utc_offset": 0,
+					"time_zone": "Lisbon",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 32011,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/697313282093400064/sguLetYF_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/697313282093400064/sguLetYF_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20830344/1503309549",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "C6E2EE",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 195,
+				"favorite_count": 187,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 46037,
+			"favorite_count": 24134,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 922628584619085800,
+		"quoted_status_id_str": "922628584619085824",
+		"retweet_count": 46037,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 23 03:06:41 +0000 2017",
 		"id": 944403862785613800,
 		"id_str": "944403862785613824",
