@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 09 23:07:03 +0000 2018",
+		"id": 950866538709573600,
+		"id_str": "950866538709573633",
+		"text": "RT @mkgold: Please help us spread the word about this great opportunity, part of an @NEH_ODH-funded DH summer institute @cunygcdi @GC_CUNY…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkgold",
+					"name": "Matt Gold",
+					"id": 12876812,
+					"id_str": "12876812",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "NEH_ODH",
+					"name": "NEH Dig Humanities",
+					"id": 158445401,
+					"id_str": "158445401",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"screen_name": "cunygcdi",
+					"name": "CUNYGCDI",
+					"id": 478889932,
+					"id_str": "478889932",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"screen_name": "GC_CUNY",
+					"name": "The Graduate Center",
+					"id": 89479750,
+					"id_str": "89479750",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "still kevin, still not marguerite duras",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15341,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 22:52:01 +0000 2018",
+			"id": 950862754574938100,
+			"id_str": "950862754574938112",
+			"text": "Please help us spread the word about this great opportunity, part of an @NEH_ODH-funded DH summer institute… https://t.co/M2GlAdza1B",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NEH_ODH",
+						"name": "NEH Dig Humanities",
+						"id": 158445401,
+						"id_str": "158445401",
+						"indices": [
+							72,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/M2GlAdza1B",
+						"expanded_url": "https://twitter.com/i/web/status/950862754574938112",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12876812,
+				"id_str": "12876812",
+				"name": "Matt Gold",
+				"screen_name": "mkgold",
+				"location": "New York",
+				"description": "Associate Prof of English & Digital Humanities, @GC_CUNY. Director, @cunycommons @cunygcdi. Co-Editor @dhdebates. Co-PI, @manifoldscholar. VP @achdotorg #resist",
+				"url": "https://t.co/2xzACocApv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2xzACocApv",
+								"expanded_url": "http://www.mkgold.net",
+								"display_url": "mkgold.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6515,
+				"friends_count": 739,
+				"listed_count": 321,
+				"created_at": "Wed Jan 30 17:01:20 +0000 2008",
+				"favourites_count": 25654,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644367485085581313/lT3w0aFz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644367485085581313/lT3w0aFz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12876812/1420870123",
+				"profile_link_color": "0A5D7B",
+				"profile_sidebar_border_color": "021C3A",
+				"profile_sidebar_fill_color": "C9D4FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950789196695916500,
+			"quoted_status_id_str": "950789196695916544",
+			"quoted_status": {
+				"created_at": "Tue Jan 09 17:59:43 +0000 2018",
+				"id": 950789196695916500,
+				"id_str": "950789196695916544",
+				"text": "Opportunity: Are you interested in helping scholars learn new skills? Do you want to help build a network of DH ins… https://t.co/wK7FrvhWNZ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/wK7FrvhWNZ",
+							"expanded_url": "https://twitter.com/i/web/status/950789196695916544",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 242410169,
+					"id_str": "242410169",
+					"name": "Lisa Marie Rhody",
+					"screen_name": "lmrhody",
+					"location": "in a hurry... somewhere",
+					"description": "Deputy Director, Digital Initiatives | The Graduate Center, CUNY\nTweets about poetry & visual art, technology, higher/graduate education, writing & hockey",
+					"url": "http://t.co/ibdgnELwlq",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ibdgnELwlq",
+									"expanded_url": "http://lisarhody.com",
+									"display_url": "lisarhody.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1383,
+					"friends_count": 850,
+					"listed_count": 70,
+					"created_at": "Mon Jan 24 18:32:51 +0000 2011",
+					"favourites_count": 4503,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3315,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0D0AF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443373838332477440/JXb5XWIg.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443373838332477440/JXb5XWIg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/628440147307053056/LgIyHuEE_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/628440147307053056/LgIyHuEE_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/242410169/1438666879",
+					"profile_link_color": "7FDBB6",
+					"profile_sidebar_border_color": "152049",
+					"profile_sidebar_fill_color": "DF0C80",
+					"profile_text_color": "F1794F",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 950789196695916500,
+		"quoted_status_id_str": "950789196695916544",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 23:01:03 +0000 2018",
+		"id": 950865029225746400,
+		"id_str": "950865029225746433",
+		"text": "@acbleach I got mine renewed. You need passport or passport card.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acbleach",
+					"name": "Tony Bleach",
+					"id": 28865914,
+					"id_str": "28865914",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 950726955124576300,
+		"in_reply_to_status_id_str": "950726955124576256",
+		"in_reply_to_user_id": 28865914,
+		"in_reply_to_user_id_str": "28865914",
+		"in_reply_to_screen_name": "acbleach",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "still kevin, still not marguerite duras",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15341,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 09 20:43:40 +0000 2018",
 		"id": 950830452427894800,
 		"id_str": "950830452427894795",
