@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 19 13:14:37 +0000 2018",
+		"id": 954341324391665700,
+		"id_str": "954341324391665665",
+		"text": "RT @yuruhuwa_kdenpa: このシーンコミケで完全再現してた\n\n#カリオストロの城 https://t.co/w5tiR7jE5U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "カリオストロの城",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yuruhuwa_kdenpa",
+					"name": "ゆるふわ怪電波☆埼玉",
+					"id": 201969770,
+					"id_str": "201969770",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 954323888875294700,
+					"id_str": "954323888875294720",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+					"url": "https://t.co/w5tiR7jE5U",
+					"display_url": "pic.twitter.com/w5tiR7jE5U",
+					"expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/954326821037731840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954326821037731800,
+					"source_status_id_str": "954326821037731840",
+					"source_user_id": 201969770,
+					"source_user_id_str": "201969770"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 954323888875294700,
+					"id_str": "954323888875294720",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+					"url": "https://t.co/w5tiR7jE5U",
+					"display_url": "pic.twitter.com/w5tiR7jE5U",
+					"expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/954326821037731840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954326821037731800,
+					"source_status_id_str": "954326821037731840",
+					"source_user_id": 201969770,
+					"source_user_id_str": "201969770"
+				},
+				{
+					"id": 954326587989573600,
+					"id_str": "954326587989573632",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DT5y-bzUQAAgAQM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT5y-bzUQAAgAQM.jpg",
+					"url": "https://t.co/w5tiR7jE5U",
+					"display_url": "pic.twitter.com/w5tiR7jE5U",
+					"expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/954326821037731840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954326821037731800,
+					"source_status_id_str": "954326821037731840",
+					"source_user_id": 201969770,
+					"source_user_id_str": "201969770"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin rides blade on curb",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1131,
+			"friends_count": 460,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15436,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50868,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 19 12:16:59 +0000 2018",
+			"id": 954326821037731800,
+			"id_str": "954326821037731840",
+			"text": "このシーンコミケで完全再現してた\n\n#カリオストロの城 https://t.co/w5tiR7jE5U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "カリオストロの城",
+						"indices": [
+							18,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 954323888875294700,
+						"id_str": "954323888875294720",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+						"url": "https://t.co/w5tiR7jE5U",
+						"display_url": "pic.twitter.com/w5tiR7jE5U",
+						"expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/954326821037731840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 954323888875294700,
+						"id_str": "954323888875294720",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT5whU0U0AAlp2G.jpg",
+						"url": "https://t.co/w5tiR7jE5U",
+						"display_url": "pic.twitter.com/w5tiR7jE5U",
+						"expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/954326821037731840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 954326587989573600,
+						"id_str": "954326587989573632",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DT5y-bzUQAAgAQM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT5y-bzUQAAgAQM.jpg",
+						"url": "https://t.co/w5tiR7jE5U",
+						"display_url": "pic.twitter.com/w5tiR7jE5U",
+						"expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/954326821037731840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 201969770,
+				"id_str": "201969770",
+				"name": "ゆるふわ怪電波☆埼玉",
+				"screen_name": "yuruhuwa_kdenpa",
+				"location": "アナル開発実験団",
+				"description": "政府の役人が私の脳に照射してくる怪電波に苦しんでいます。 国民の管理に必要な全ての情報が思考盗聴によって監視されています。政府の電波はラジオ テレビ ネットあらゆる物を介して侵入してきます。警告します。政府の電磁波攻撃によって国民の思考操作があります。全治2年7ヶ月 療養中",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29350,
+				"friends_count": 729,
+				"listed_count": 424,
+				"created_at": "Wed Oct 13 01:08:31 +0000 2010",
+				"favourites_count": 1353,
+				"utc_offset": 32400,
+				"time_zone": "Asia/Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48648,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000001",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623816465930563584/A3Rr6FJN.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623816465930563584/A3Rr6FJN.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870618181882175488/UgfSSXYK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870618181882175488/UgfSSXYK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/201969770/1480002674",
+				"profile_link_color": "000001",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 956,
+			"favorite_count": 1570,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 956,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Jan 19 13:00:09 +0000 2018",
 		"id": 954337683052089300,
 		"id_str": "954337683052089345",
