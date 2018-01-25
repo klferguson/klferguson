@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 25 01:04:32 +0000 2018",
+		"id": 956331921549783000,
+		"id_str": "956331921549783042",
+		"text": "RT @olsonpower: AND JUST LIKE THAT THE GREATEST BAND EVER ENDS \nRIP M.E.S https://t.co/yWTumTp5R8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "olsonpower",
+					"name": "John OlsonJOHN FORCE",
+					"id": 98487499,
+					"id_str": "98487499",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 956331279221313500,
+					"id_str": "956331279221313536",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+					"url": "https://t.co/yWTumTp5R8",
+					"display_url": "pic.twitter.com/yWTumTp5R8",
+					"expanded_url": "https://twitter.com/olsonpower/status/956331300000092160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956331300000092200,
+					"source_status_id_str": "956331300000092160",
+					"source_user_id": 98487499,
+					"source_user_id_str": "98487499"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 956331279221313500,
+					"id_str": "956331279221313536",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+					"url": "https://t.co/yWTumTp5R8",
+					"display_url": "pic.twitter.com/yWTumTp5R8",
+					"expanded_url": "https://twitter.com/olsonpower/status/956331300000092160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956331300000092200,
+					"source_status_id_str": "956331300000092160",
+					"source_user_id": 98487499,
+					"source_user_id_str": "98487499"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 459,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15475,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 01:02:04 +0000 2018",
+			"id": 956331300000092200,
+			"id_str": "956331300000092160",
+			"text": "AND JUST LIKE THAT THE GREATEST BAND EVER ENDS \nRIP M.E.S https://t.co/yWTumTp5R8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 956331279221313500,
+						"id_str": "956331279221313536",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+						"url": "https://t.co/yWTumTp5R8",
+						"display_url": "pic.twitter.com/yWTumTp5R8",
+						"expanded_url": "https://twitter.com/olsonpower/status/956331300000092160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956331279221313500,
+						"id_str": "956331279221313536",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUWSO0mU0AA2fiE.jpg",
+						"url": "https://t.co/yWTumTp5R8",
+						"display_url": "pic.twitter.com/yWTumTp5R8",
+						"expanded_url": "https://twitter.com/olsonpower/status/956331300000092160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98487499,
+				"id_str": "98487499",
+				"name": "John OlsonJOHN FORCE",
+				"screen_name": "olsonpower",
+				"location": "",
+				"description": "JUMP OUT A WINDOW WITH A SAXOPHONE CUH= #psychojazz",
+				"url": "https://t.co/SxCZ28LN8j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SxCZ28LN8j",
+								"expanded_url": "http://wolfeyes.net",
+								"display_url": "wolfeyes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4158,
+				"friends_count": 3394,
+				"listed_count": 77,
+				"created_at": "Mon Dec 21 22:38:38 +0000 2009",
+				"favourites_count": 12391,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24470,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/61186446/logo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/61186446/logo.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608452591773736961/k4fM4Ngd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608452591773736961/k4fM4Ngd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98487499/1447127959",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "aeca883f15e2aa85",
+				"url": "https://api.twitter.com/1.1/geo/id/aeca883f15e2aa85.json",
+				"place_type": "city",
+				"name": "East Lansing",
+				"full_name": "East Lansing, MI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.515906,
+								42.704505
+							],
+							[
+								-84.447347,
+								42.704505
+							],
+							[
+								-84.447347,
+								42.788935
+							],
+							[
+								-84.515906,
+								42.788935
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 24 21:33:39 +0000 2018",
 		"id": 956278852678029300,
 		"id_str": "956278852678029314",
