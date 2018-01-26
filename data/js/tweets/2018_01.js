@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 26 17:20:20 +0000 2018",
+		"id": 956939877093990400,
+		"id_str": "956939877093990400",
+		"text": "RT @SidizenKane: This is the best thing on the internet in 2018 https://t.co/caPJwvCP8P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SidizenKane",
+					"name": "Siddhant Adlakha",
+					"id": 228500021,
+					"id_str": "228500021",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/caPJwvCP8P",
+					"expanded_url": "https://twitter.com/kassyapple/status/956914863246323712",
+					"display_url": "twitter.com/kassyapple/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 460,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15446,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51046,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 26 16:38:12 +0000 2018",
+			"id": 956929275306770400,
+			"id_str": "956929275306770432",
+			"text": "This is the best thing on the internet in 2018 https://t.co/caPJwvCP8P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/caPJwvCP8P",
+						"expanded_url": "https://twitter.com/kassyapple/status/956914863246323712",
+						"display_url": "twitter.com/kassyapple/sta…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 228500021,
+				"id_str": "228500021",
+				"name": "Siddhant Adlakha",
+				"screen_name": "SidizenKane",
+				"location": "Mumbai | NYC",
+				"description": "Film Critic/Senior Contributor @BMoviesD. Bylines at @VillageVoice, @EbertVoices, @TheFilmStage. Rebel scum. Frequenter of both sides of stage & screen.",
+				"url": "https://t.co/Yq8ws5YBVt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yq8ws5YBVt",
+								"expanded_url": "https://www.rottentomatoes.com/critic/siddhant-adlakha/",
+								"display_url": "rottentomatoes.com/critic/siddhan…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6180,
+				"friends_count": 38,
+				"listed_count": 139,
+				"created_at": "Sun Dec 19 22:24:45 +0000 2010",
+				"favourites_count": 772,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 162177,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571711335/16ycrqtsa2x221onglbe.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571711335/16ycrqtsa2x221onglbe.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936500346788118528/m2XZO0f4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936500346788118528/m2XZO0f4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/228500021/1509840617",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 956914863246323700,
+			"quoted_status_id_str": "956914863246323712",
+			"quoted_status": {
+				"created_at": "Fri Jan 26 15:40:56 +0000 2018",
+				"id": 956914863246323700,
+				"id_str": "956914863246323712",
+				"text": "Hello it is Friday and I am here with the latest Chinese meme: “karma’s a bitch” \n\nHere are some of the best ones: https://t.co/tdjItEkzvL",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 956914795961356300,
+							"id_str": "956914795961356288",
+							"indices": [
+								115,
+								138
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/956914795961356288/pu/img/7CsWWZD3QTLPp-To.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/956914795961356288/pu/img/7CsWWZD3QTLPp-To.jpg",
+							"url": "https://t.co/tdjItEkzvL",
+							"display_url": "pic.twitter.com/tdjItEkzvL",
+							"expanded_url": "https://twitter.com/kassyapple/status/956914863246323712/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 540,
+									"h": 1168,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 540,
+									"h": 1168,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 314,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 956914795961356300,
+							"id_str": "956914795961356288",
+							"indices": [
+								115,
+								138
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/956914795961356288/pu/img/7CsWWZD3QTLPp-To.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/956914795961356288/pu/img/7CsWWZD3QTLPp-To.jpg",
+							"url": "https://t.co/tdjItEkzvL",
+							"display_url": "pic.twitter.com/tdjItEkzvL",
+							"expanded_url": "https://twitter.com/kassyapple/status/956914863246323712/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 540,
+									"h": 1168,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 540,
+									"h": 1168,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 314,
+									"h": 680,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									135,
+									292
+								],
+								"duration_millis": 12062,
+								"variants": [
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/956914795961356288/pu/vid/146x320/eVMPKaIZUQCuzztm.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/956914795961356288/pu/vid/294x640/pJZrhXq2c8drDc1D.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/956914795961356288/pu/pl/V-5x9Y0UY1DXH7-q.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 459660480,
+					"id_str": "459660480",
+					"name": "Kassy Cho",
+					"screen_name": "kassyapple",
+					"location": "London, England",
+					"description": "@buzzfeednews reporter / 記者 • probably crying at a gig • kassy.cho@buzzfeed.com 🥝🇹🇼",
+					"url": "https://t.co/IyoJjSbflO",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/IyoJjSbflO",
+									"expanded_url": "http://Instagram.com/kassyapple",
+									"display_url": "Instagram.com/kassyapple",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3042,
+					"friends_count": 987,
+					"listed_count": 105,
+					"created_at": "Mon Jan 09 22:36:13 +0000 2012",
+					"favourites_count": 12647,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12909,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000171533797/LVRoaPC-.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000171533797/LVRoaPC-.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/878295029000753152/UiCUnXEy_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/878295029000753152/UiCUnXEy_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/459660480/1516879008",
+					"profile_link_color": "F58EA8",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1117,
+				"favorite_count": 2822,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 956914863246323700,
+		"quoted_status_id_str": "956914863246323712",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 26 17:12:51 +0000 2018",
+		"id": 956937993146814500,
+		"id_str": "956937993146814464",
+		"text": "RT @andyjayhawk: here's the thing Joe: fix the subway, make it run on time, give this city the mass transit system it deserves, and quit yo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andyjayhawk",
+					"name": "Andrew J. Hawkins",
+					"id": 21209333,
+					"id_str": "21209333",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 460,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15446,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51046,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 26 16:49:31 +0000 2018",
+			"id": 956932120680820700,
+			"id_str": "956932120680820736",
+			"text": "here's the thing Joe: fix the subway, make it run on time, give this city the mass transit system it deserves, and… https://t.co/imtE0zJ4cO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/imtE0zJ4cO",
+						"expanded_url": "https://twitter.com/i/web/status/956932120680820736",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21209333,
+				"id_str": "21209333",
+				"name": "Andrew J. Hawkins",
+				"screen_name": "andyjayhawk",
+				"location": "new york",
+				"description": "Senior transportation reporter at @verge. Crown Heights by way of Iowa. andrew dot hawkins at theverge dotcom 🚡🚋🚇🚀🚂",
+				"url": "https://t.co/W2SFxIXkC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9593,
+				"friends_count": 4910,
+				"listed_count": 405,
+				"created_at": "Wed Feb 18 16:05:24 +0000 2009",
+				"favourites_count": 7068,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/87267080/tumblr_kzykbjBtxj1qzezj5o1_500.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/87267080/tumblr_kzykbjBtxj1qzezj5o1_500.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953591781114990592/E0WdW8gk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953591781114990592/E0WdW8gk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21209333/1443808803",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 956931016429580300,
+			"quoted_status_id_str": "956931016429580290",
+			"quoted_status": {
+				"created_at": "Fri Jan 26 16:45:07 +0000 2018",
+				"id": 956931016429580300,
+				"id_str": "956931016429580290",
+				"text": "MTA chairman would like to see ‘more positive’ tweets about the subway. https://t.co/gVY7WdTEec https://t.co/8XfRmgQVXX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/gVY7WdTEec",
+							"expanded_url": "https://ny.curbed.com/2018/1/26/16936172/mta-nyc-subway-joe-lhota-twitter?utm_campaign=ny.curbed&utm_content=chorus&utm_medium=social&utm_source=twitter",
+							"display_url": "ny.curbed.com/2018/1/26/1693…",
+							"indices": [
+								72,
+								95
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 956931012952510500,
+							"id_str": "956931012952510464",
+							"indices": [
+								96,
+								119
+							],
+							"media_url": "http://pbs.twimg.com/media/DUezr62W0AAPvxc.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUezr62W0AAPvxc.jpg",
+							"url": "https://t.co/8XfRmgQVXX",
+							"display_url": "pic.twitter.com/8XfRmgQVXX",
+							"expanded_url": "https://twitter.com/CurbedNY/status/956931016429580290/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1488,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 872,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 494,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 956931012952510500,
+							"id_str": "956931012952510464",
+							"indices": [
+								96,
+								119
+							],
+							"media_url": "http://pbs.twimg.com/media/DUezr62W0AAPvxc.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUezr62W0AAPvxc.jpg",
+							"url": "https://t.co/8XfRmgQVXX",
+							"display_url": "pic.twitter.com/8XfRmgQVXX",
+							"expanded_url": "https://twitter.com/CurbedNY/status/956931016429580290/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1488,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 872,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 494,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 9917512,
+					"id_str": "9917512",
+					"name": "Curbed NY",
+					"screen_name": "CurbedNY",
+					"location": "New York, NY",
+					"description": "Every aspect of living in New York, for people who care about their city, their streets, and their homes.",
+					"url": "http://t.co/VMxhYSxdua",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/VMxhYSxdua",
+									"expanded_url": "http://ny.curbed.com",
+									"display_url": "ny.curbed.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 70326,
+					"friends_count": 219,
+					"listed_count": 2067,
+					"created_at": "Sat Nov 03 16:09:29 +0000 2007",
+					"favourites_count": 403,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 30260,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FCFEFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000039543898/9bb6edf5386bf4fcdedc30ad95f3d518.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000039543898/9bb6edf5386bf4fcdedc30ad95f3d518.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823572670834966528/Wzf1q9uw_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823572670834966528/Wzf1q9uw_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/9917512/1464039212",
+					"profile_link_color": "FF604A",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 956931016429580300,
+		"quoted_status_id_str": "956931016429580290",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 26 16:51:28 +0000 2018",
 		"id": 956932610911031300,
 		"id_str": "956932610911031296",
