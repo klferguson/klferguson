@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 05 01:20:04 +0000 2018",
+		"id": 960322097695412200,
+		"id_str": "960322097695412224",
+		"text": "RT @johnwarrender: Jupiter Ascending 2?!?!! https://t.co/WtJG1civol",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnwarrender",
+					"name": "Marvel's Waco K. Ross",
+					"id": 33853892,
+					"id_str": "33853892",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WtJG1civol",
+					"expanded_url": "https://twitter.com/ava/status/960260249843216384",
+					"display_url": "twitter.com/ava/status/960…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1132,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15510,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 04 21:45:56 +0000 2018",
+			"id": 960268207054639100,
+			"id_str": "960268207054639104",
+			"text": "Jupiter Ascending 2?!?!! https://t.co/WtJG1civol",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WtJG1civol",
+						"expanded_url": "https://twitter.com/ava/status/960260249843216384",
+						"display_url": "twitter.com/ava/status/960…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33853892,
+				"id_str": "33853892",
+				"name": "Marvel's Waco K. Ross",
+				"screen_name": "johnwarrender",
+				"location": "Waiting on a Wakandan Visa",
+				"description": "Slammer of evil, spokesmodel for Prestige Worldwide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2081,
+				"friends_count": 1514,
+				"listed_count": 71,
+				"created_at": "Tue Apr 21 08:46:33 +0000 2009",
+				"favourites_count": 54112,
+				"utc_offset": 12600,
+				"time_zone": "Tehran",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 173308,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/50119169/sofuckingcool.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/50119169/sofuckingcool.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793843896023257088/wBu0-IMw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793843896023257088/wBu0-IMw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33853892/1441858042",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 960260249843216400,
+			"quoted_status_id_str": "960260249843216384",
+			"quoted_status": {
+				"created_at": "Sun Feb 04 21:14:18 +0000 2018",
+				"id": 960260249843216400,
+				"id_str": "960260249843216384",
+				"text": "#FilmTwitter is going to explode tonight. Something is coming that I can hardly believe. Lawd. History in the making.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "FilmTwitter",
+							"indices": [
+								0,
+								12
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14982804,
+					"id_str": "14982804",
+					"name": "Ava DuVernay",
+					"screen_name": "ava",
+					"location": "Los Angeles",
+					"description": "A girl from Compton who got to make a Disney movie.",
+					"url": "https://t.co/UOD1aQV0xC",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/UOD1aQV0xC",
+									"expanded_url": "http://www.arraynow.com",
+									"display_url": "arraynow.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1646664,
+					"friends_count": 11238,
+					"listed_count": 4252,
+					"created_at": "Mon Jun 02 17:53:54 +0000 2008",
+					"favourites_count": 121026,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 32979,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/260104735/iwftwitter.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/260104735/iwftwitter.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/956365644626214912/hMzn8eNr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/956365644626214912/hMzn8eNr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14982804/1516844282",
+					"profile_link_color": "333133",
+					"profile_sidebar_border_color": "696969",
+					"profile_sidebar_fill_color": "948B94",
+					"profile_text_color": "380538",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2677,
+				"favorite_count": 12127,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 960260249843216400,
+		"quoted_status_id_str": "960260249843216384",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 05 00:58:50 +0000 2018",
 		"id": 960316753208279000,
 		"id_str": "960316753208279040",
