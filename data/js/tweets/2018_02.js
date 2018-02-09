@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 09 12:44:33 +0000 2018",
+		"id": 961943902789005300,
+		"id_str": "961943902789005312",
+		"text": "they shoulda stuck with the typewriter business https://t.co/hip3uWPYMH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hip3uWPYMH",
+					"expanded_url": "https://twitter.com/TrickFreee/status/961837437180821504",
+					"display_url": "twitter.com/TrickFreee/sta…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1135,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15532,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 961837437180821500,
+		"quoted_status_id_str": "961837437180821504",
+		"quoted_status": {
+			"created_at": "Fri Feb 09 05:41:29 +0000 2018",
+			"id": 961837437180821500,
+			"id_str": "961837437180821504",
+			"text": "Exclusive: U.S. gunmaker Remington seeks financing to file for bankruptcy: sources https://t.co/KClrQLJTv8 https://t.co/KG93NNtfVS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KClrQLJTv8",
+						"expanded_url": "http://reut.rs/2nUBbHT",
+						"display_url": "reut.rs/2nUBbHT",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 961774224305205200,
+						"id_str": "961774224305205249",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DVjoj7HWsAEtt4Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVjoj7HWsAEtt4Z.jpg",
+						"url": "https://t.co/KG93NNtfVS",
+						"display_url": "pic.twitter.com/KG93NNtfVS",
+						"expanded_url": "https://twitter.com/Reuters/status/961774227190927363/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 728,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 728,
+								"h": 504,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 961774227190927400,
+						"source_status_id_str": "961774227190927363",
+						"source_user_id": 1652541,
+						"source_user_id_str": "1652541"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961774224305205200,
+						"id_str": "961774224305205249",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DVjoj7HWsAEtt4Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVjoj7HWsAEtt4Z.jpg",
+						"url": "https://t.co/KG93NNtfVS",
+						"display_url": "pic.twitter.com/KG93NNtfVS",
+						"expanded_url": "https://twitter.com/Reuters/status/961774227190927363/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 728,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 728,
+								"h": 504,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 961774227190927400,
+						"source_status_id_str": "961774227190927363",
+						"source_user_id": 1652541,
+						"source_user_id_str": "1652541"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46240599,
+				"id_str": "46240599",
+				"name": "Patrick",
+				"screen_name": "TrickFreee",
+				"location": "The United States of America",
+				"description": "Aggregator of Open Source Intelligence\n“An imbalance between rich and poor is the oldest and most fatal ailment of all republics.”  ― Plutarch",
+				"url": "https://t.co/scV7YYPip4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/scV7YYPip4",
+								"expanded_url": "https://thenonpejorativeliberal.wordpress.com",
+								"display_url": "thenonpejorativeliberal.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16725,
+				"friends_count": 2409,
+				"listed_count": 199,
+				"created_at": "Wed Jun 10 22:12:06 +0000 2009",
+				"favourites_count": 10615,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53263,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945967578857402368/eUtIMDNz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945967578857402368/eUtIMDNz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46240599/1514371381",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "857411",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "857411",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 09 03:54:22 +0000 2018",
 		"id": 961810479638351900,
 		"id_str": "961810479638351872",
