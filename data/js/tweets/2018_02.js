@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 09 22:07:58 +0000 2018",
+		"id": 962085692133298200,
+		"id_str": "962085692133298177",
+		"text": "how ready I am for Friday night https://t.co/QQWgoLN3jW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 962085672508055600,
+					"id_str": "962085672508055553",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DVoD0mFV4AEmfBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVoD0mFV4AEmfBC.jpg",
+					"url": "https://t.co/QQWgoLN3jW",
+					"display_url": "pic.twitter.com/QQWgoLN3jW",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/962085692133298177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1756,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 962085672508055600,
+					"id_str": "962085672508055553",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DVoD0mFV4AEmfBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVoD0mFV4AEmfBC.jpg",
+					"url": "https://t.co/QQWgoLN3jW",
+					"display_url": "pic.twitter.com/QQWgoLN3jW",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/962085692133298177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1756,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1135,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15547,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 09 22:01:21 +0000 2018",
+		"id": 962084028064124900,
+		"id_str": "962084028064124928",
+		"text": "RT @EvertonUSA: If they can't even hold an election with a modicum of transparency, how are they going to govern with any?  USSF should sim…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvertonUSA",
+					"name": "Everton USA",
+					"id": 65897202,
+					"id_str": "65897202",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1135,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15547,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 09 21:56:27 +0000 2018",
+			"id": 962082792749150200,
+			"id_str": "962082792749150209",
+			"text": "If they can't even hold an election with a modicum of transparency, how are they going to govern with any?  USSF sh… https://t.co/Hv2Nm6EFDA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Hv2Nm6EFDA",
+						"expanded_url": "https://twitter.com/i/web/status/962082792749150209",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65897202,
+				"id_str": "65897202",
+				"name": "Everton USA",
+				"screen_name": "EvertonUSA",
+				"location": "Walton, USA",
+				"description": "The Official US Supporters Club Network of @Everton FC providing Toffee events, merchandise, ticketing & membership at http://t.co/YfNgzythGk. #EvertonUSA #CO",
+				"url": "http://t.co/IWQI0FJlW3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IWQI0FJlW3",
+								"expanded_url": "http://www.evertonusa.net",
+								"display_url": "evertonusa.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/YfNgzythGk",
+								"expanded_url": "http://EvertonUSA.net",
+								"display_url": "EvertonUSA.net",
+								"indices": [
+									119,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21084,
+				"friends_count": 14589,
+				"listed_count": 242,
+				"created_at": "Sat Aug 15 13:33:25 +0000 2009",
+				"favourites_count": 6484,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15797,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/766429905/d1c4fbd4c4e16d615b139061e29b7d55.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/766429905/d1c4fbd4c4e16d615b139061e29b7d55.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/500412733654065152/hE93brUR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/500412733654065152/hE93brUR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65897202/1397174398",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 962047187323535400,
+			"quoted_status_id_str": "962047187323535362",
+			"quoted_status": {
+				"created_at": "Fri Feb 09 19:34:58 +0000 2018",
+				"id": 962047187323535400,
+				"id_str": "962047187323535362",
+				"text": "What the heck happened last night in the US Soccer election? I explain: https://t.co/SlNyuavo5J",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/SlNyuavo5J",
+							"expanded_url": "https://www.si.com/soccer/2018/02/09/us-soccer-president-election-cordeiro-carter-group-six-deal",
+							"display_url": "si.com/soccer/2018/02…",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 36623013,
+					"id_str": "36623013",
+					"name": "Grant Wahl",
+					"screen_name": "GrantWahl",
+					"location": "NYC, Planet Fútbol",
+					"description": "Sports Illustrated senior writer. Fox Sports TV. Planet Fútbol podcast and SI TV. My new book MASTERS OF MODERN SOCCER is out May 2018—preorder at this link:",
+					"url": "https://t.co/Fhoq4bUy4P",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Fhoq4bUy4P",
+									"expanded_url": "https://www.amazon.com/Masters-Modern-Soccer-Worlds-Twenty-First-Century-ebook/dp/B074S68C9H/ref=sr_",
+									"display_url": "amazon.com/Masters-Modern…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 873536,
+					"friends_count": 2273,
+					"listed_count": 8113,
+					"created_at": "Thu Apr 30 08:22:46 +0000 2009",
+					"favourites_count": 5944,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 53703,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/318481425/8.18.11_Twitter_Background_USE.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/318481425/8.18.11_Twitter_Background_USE.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/785945021900029952/1oz7D5NU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/785945021900029952/1oz7D5NU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/36623013/1504188655",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 37,
+				"favorite_count": 87,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 962047187323535400,
+		"quoted_status_id_str": "962047187323535362",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 09 19:15:12 +0000 2018",
 		"id": 962042215022276600,
 		"id_str": "962042215022276609",
