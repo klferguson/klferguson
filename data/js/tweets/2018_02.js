@@ -1,6 +1,1023 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 12 20:30:04 +0000 2018",
+		"id": 963148219780710400,
+		"id_str": "963148219780710400",
+		"text": "RT @lainnafader: !!!!! cc @nickmartin https://t.co/6REu2PUgtb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lainnafader",
+					"name": "Lainna Fader",
+					"id": 38013977,
+					"id_str": "38013977",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "nickmartin",
+					"name": "Nick Martin",
+					"id": 14769239,
+					"id_str": "14769239",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6REu2PUgtb",
+					"expanded_url": "https://twitter.com/xor/status/963122970800611329",
+					"display_url": "twitter.com/xor/status/963…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15568,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 19:49:12 +0000 2018",
+			"id": 963137933053186000,
+			"id_str": "963137933053186049",
+			"text": "!!!!! cc @nickmartin https://t.co/6REu2PUgtb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nickmartin",
+						"name": "Nick Martin",
+						"id": 14769239,
+						"id_str": "14769239",
+						"indices": [
+							9,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6REu2PUgtb",
+						"expanded_url": "https://twitter.com/xor/status/963122970800611329",
+						"display_url": "twitter.com/xor/status/963…",
+						"indices": [
+							21,
+							44
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38013977,
+				"id_str": "38013977",
+				"name": "Lainna Fader",
+				"screen_name": "lainnafader",
+				"location": "NYC/LA",
+				"description": "I lead audience development at @newyorker. @ONA #ONAWLA #digitalwomenleaders '17, @techladymafia. FAQ: Lay-nuh.",
+				"url": "https://t.co/7f1bWKhypU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7f1bWKhypU",
+								"expanded_url": "http://Instagram.com/lfader",
+								"display_url": "Instagram.com/lfader",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9749,
+				"friends_count": 2047,
+				"listed_count": 386,
+				"created_at": "Tue May 05 20:40:05 +0000 2009",
+				"favourites_count": 61494,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47642,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/632590097/ruvfzbc21pt2szvr80t4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/632590097/ruvfzbc21pt2szvr80t4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853661799681536000/S9Ugs0i6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853661799681536000/S9Ugs0i6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38013977/1398194668",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 963122970800611300,
+			"quoted_status_id_str": "963122970800611329",
+			"quoted_status": {
+				"created_at": "Mon Feb 12 18:49:44 +0000 2018",
+				"id": 963122970800611300,
+				"id_str": "963122970800611329",
+				"text": "Wow, big decision in 5 Pointz /cc @lainnafader https://t.co/QQybHtV28o",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "lainnafader",
+							"name": "Lainna Fader",
+							"id": 38013977,
+							"id_str": "38013977",
+							"indices": [
+								34,
+								46
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/QQybHtV28o",
+							"expanded_url": "https://twitter.com/Bill__Donahue/status/963119962226352128",
+							"display_url": "twitter.com/Bill__Donahue/…",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24500377,
+					"id_str": "24500377",
+					"name": "Parker Higgins, 1337 |-|",
+					"screen_name": "xor",
+					"location": "New York, NY",
+					"description": "Director of Special Projects, @FreedomOfPress. “[O]bviously love[s] great journalism.” -Washington Post. Former @EFF copyright hipster. Makes weird/useful bots",
+					"url": "https://t.co/LRrZ0aaZN1",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/LRrZ0aaZN1",
+									"expanded_url": "https://parkerhiggins.net",
+									"display_url": "parkerhiggins.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 26940,
+					"friends_count": 699,
+					"listed_count": 1240,
+					"created_at": "Sun Mar 15 07:40:09 +0000 2009",
+					"favourites_count": 30790,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 62571,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "89C9FA",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/42493832/3976919316_3a727e9f29_b.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/42493832/3976919316_3a727e9f29_b.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/869631001336598528/Tl-HgRgP_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/869631001336598528/Tl-HgRgP_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24500377/1511664864",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "CFD9FF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 963119962226352100,
+				"quoted_status_id_str": "963119962226352128",
+				"retweet_count": 18,
+				"favorite_count": 30,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 963122970800611300,
+		"quoted_status_id_str": "963122970800611329",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Feb 12 20:21:45 +0000 2018",
+		"id": 963146124960981000,
+		"id_str": "963146124960980997",
+		"text": "RT @jlichman: My favorite scene from LOGAN https://t.co/lw8krhAFjj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jlichman",
+					"name": "John Lichman",
+					"id": 14296812,
+					"id_str": "14296812",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963139282272649200,
+					"id_str": "963139282272649216",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+					"url": "https://t.co/lw8krhAFjj",
+					"display_url": "pic.twitter.com/lw8krhAFjj",
+					"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 662,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 662,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963139285447860200,
+					"source_status_id_str": "963139285447860224",
+					"source_user_id": 14296812,
+					"source_user_id_str": "14296812"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963139282272649200,
+					"id_str": "963139282272649216",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+					"url": "https://t.co/lw8krhAFjj",
+					"display_url": "pic.twitter.com/lw8krhAFjj",
+					"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 662,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 662,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963139285447860200,
+					"source_status_id_str": "963139285447860224",
+					"source_user_id": 14296812,
+					"source_user_id_str": "14296812"
+				},
+				{
+					"id": 963139280322383900,
+					"id_str": "963139280322383872",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DV3CEpDXUAAvRLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV3CEpDXUAAvRLB.jpg",
+					"url": "https://t.co/lw8krhAFjj",
+					"display_url": "pic.twitter.com/lw8krhAFjj",
+					"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 930,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 930,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963139285447860200,
+					"source_status_id_str": "963139285447860224",
+					"source_user_id": 14296812,
+					"source_user_id_str": "14296812"
+				},
+				{
+					"id": 963139267416543200,
+					"id_str": "963139267416543232",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DV3CD4-X0AAglFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV3CD4-X0AAglFG.jpg",
+					"url": "https://t.co/lw8krhAFjj",
+					"display_url": "pic.twitter.com/lw8krhAFjj",
+					"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 662,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 662,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963139285447860200,
+					"source_status_id_str": "963139285447860224",
+					"source_user_id": 14296812,
+					"source_user_id_str": "14296812"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15568,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 19:54:34 +0000 2018",
+			"id": 963139285447860200,
+			"id_str": "963139285447860224",
+			"text": "My favorite scene from LOGAN https://t.co/lw8krhAFjj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963139282272649200,
+						"id_str": "963139282272649216",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+						"url": "https://t.co/lw8krhAFjj",
+						"display_url": "pic.twitter.com/lw8krhAFjj",
+						"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 886,
+								"h": 662,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 886,
+								"h": 662,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963139282272649200,
+						"id_str": "963139282272649216",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV3CEwUWAAAgnxi.jpg",
+						"url": "https://t.co/lw8krhAFjj",
+						"display_url": "pic.twitter.com/lw8krhAFjj",
+						"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 886,
+								"h": 662,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 886,
+								"h": 662,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 963139280322383900,
+						"id_str": "963139280322383872",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DV3CEpDXUAAvRLB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV3CEpDXUAAvRLB.jpg",
+						"url": "https://t.co/lw8krhAFjj",
+						"display_url": "pic.twitter.com/lw8krhAFjj",
+						"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 930,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 930,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 963139267416543200,
+						"id_str": "963139267416543232",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DV3CD4-X0AAglFG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV3CD4-X0AAglFG.jpg",
+						"url": "https://t.co/lw8krhAFjj",
+						"display_url": "pic.twitter.com/lw8krhAFjj",
+						"expanded_url": "https://twitter.com/jlichman/status/963139285447860224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 886,
+								"h": 662,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 886,
+								"h": 662,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14296812,
+				"id_str": "14296812",
+				"name": "John Lichman",
+				"screen_name": "jlichman",
+				"location": "¯\\_(ツ)_/¯",
+				"description": "Freelance writer/editor that used to host a podcast out of Grassroots Tavern and once had a great Armond White impression.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1371,
+				"friends_count": 296,
+				"listed_count": 73,
+				"created_at": "Thu Apr 03 21:02:38 +0000 2008",
+				"favourites_count": 600,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 89682,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800368083/7093653bccb1a2e620a8fc8207d8952c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800368083/7093653bccb1a2e620a8fc8207d8952c.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/426809810332295168/jBb7vL6E_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/426809810332295168/jBb7vL6E_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14296812/1348184318",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 12 20:20:06 +0000 2018",
+		"id": 963145710555291600,
+		"id_str": "963145710555291650",
+		"text": "@learnteachwin pdf link, three models starting on page 44: https://t.co/LUmjZWW1Yu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "learnteachwin",
+					"name": "Jacinta",
+					"id": 19727603,
+					"id_str": "19727603",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LUmjZWW1Yu",
+					"expanded_url": "http://collegewriting2.qwriting.qc.cuny.edu/files/2018/01/CW1-CW2-Handbook-Jan-18.pdf",
+					"display_url": "collegewriting2.qwriting.qc.cuny.edu/files/2018/01/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 963140618259255300,
+		"in_reply_to_status_id_str": "963140618259255296",
+		"in_reply_to_user_id": 19727603,
+		"in_reply_to_user_id_str": "19727603",
+		"in_reply_to_screen_name": "learnteachwin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15568,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 12 19:47:58 +0000 2018",
 		"id": 963137624239231000,
 		"id_str": "963137624239230977",
