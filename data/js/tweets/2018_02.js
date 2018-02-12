@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 12 21:18:51 +0000 2018",
+		"id": 963160495552434200,
+		"id_str": "963160495552434176",
+		"text": "RT @Ceilidhann: Zac Efron's in a Harmony Korine movie this year.\n...\nYup. https://t.co/WAwdLoKbSx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ceilidhann",
+					"name": "Kayleigh Donaldson",
+					"id": 19132177,
+					"id_str": "19132177",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 962744211102675000,
+					"id_str": "962744211102674945",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+					"url": "https://t.co/WAwdLoKbSx",
+					"display_url": "pic.twitter.com/WAwdLoKbSx",
+					"expanded_url": "https://twitter.com/Ceilidhann/status/962744220988604416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 689,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 689,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 962744220988604400,
+					"source_status_id_str": "962744220988604416",
+					"source_user_id": 19132177,
+					"source_user_id_str": "19132177"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 962744211102675000,
+					"id_str": "962744211102674945",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+					"url": "https://t.co/WAwdLoKbSx",
+					"display_url": "pic.twitter.com/WAwdLoKbSx",
+					"expanded_url": "https://twitter.com/Ceilidhann/status/962744220988604416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 689,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 689,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 962744220988604400,
+					"source_status_id_str": "962744220988604416",
+					"source_user_id": 19132177,
+					"source_user_id_str": "19132177"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15568,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 11 17:44:43 +0000 2018",
+			"id": 962744220988604400,
+			"id_str": "962744220988604416",
+			"text": "Zac Efron's in a Harmony Korine movie this year.\n...\nYup. https://t.co/WAwdLoKbSx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 962744211102675000,
+						"id_str": "962744211102674945",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+						"url": "https://t.co/WAwdLoKbSx",
+						"display_url": "pic.twitter.com/WAwdLoKbSx",
+						"expanded_url": "https://twitter.com/Ceilidhann/status/962744220988604416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 689,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 689,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 488,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 962744211102675000,
+						"id_str": "962744211102674945",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVxawlhWsAEVkDw.jpg",
+						"url": "https://t.co/WAwdLoKbSx",
+						"display_url": "pic.twitter.com/WAwdLoKbSx",
+						"expanded_url": "https://twitter.com/Ceilidhann/status/962744220988604416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 689,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 689,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 488,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19132177,
+				"id_str": "19132177",
+				"name": "Kayleigh Donaldson",
+				"screen_name": "Ceilidhann",
+				"location": "Dundee, Scotland",
+				"description": "MLitt Film Studies. Writer. @ScreenRant features. Team @Pajiba. @SyFyFangrrls gal. Host @AngloFilles & @Bloodsuckingfem podcasts. Views are my own.",
+				"url": "https://t.co/TlGPL0V9ZQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TlGPL0V9ZQ",
+								"expanded_url": "http://www.bibliodaze.com",
+								"display_url": "bibliodaze.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7824,
+				"friends_count": 907,
+				"listed_count": 288,
+				"created_at": "Sun Jan 18 01:45:42 +0000 2009",
+				"favourites_count": 2145,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 221597,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623232315897024512/IiPSUCUW.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623232315897024512/IiPSUCUW.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675034287406718976/khTkDW-R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675034287406718976/khTkDW-R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19132177/1478648999",
+				"profile_link_color": "088263",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 216,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 12 20:30:04 +0000 2018",
 		"id": 963148219780710400,
 		"id_str": "963148219780710400",
