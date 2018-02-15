@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 02:18:22 +0000 2018",
+		"id": 963960647569551400,
+		"id_str": "963960647569551362",
+		"text": "RT @tnwhiskeywoman: I love cats so much. 😻😻 https://t.co/7ykH4QqsgR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tnwhiskeywoman",
+					"name": "Nichole  ✨✨✨",
+					"id": 122187767,
+					"id_str": "122187767",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7ykH4QqsgR",
+					"expanded_url": "https://twitter.com/bodegacats_/status/963933683630727169",
+					"display_url": "twitter.com/bodegacats_/st…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, who hates bullies, most especially administ",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15592,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945503335460646913/bHeCwDXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 01:53:58 +0000 2018",
+			"id": 963954508459135000,
+			"id_str": "963954508459134976",
+			"text": "I love cats so much. 😻😻 https://t.co/7ykH4QqsgR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7ykH4QqsgR",
+						"expanded_url": "https://twitter.com/bodegacats_/status/963933683630727169",
+						"display_url": "twitter.com/bodegacats_/st…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122187767,
+				"id_str": "122187767",
+				"name": "Nichole  ✨✨✨",
+				"screen_name": "tnwhiskeywoman",
+				"location": "nashville forever/brooklyn now",
+				"description": "i write. repped by @kieleraymond. poetry book LILITH, BUT DARK coming 5/2018 via @pubgen. i co-host @thirstaidkit. will also write for film&tv. bad thang.",
+				"url": "https://t.co/TURZTBcmB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TURZTBcmB5",
+								"expanded_url": "http://nicholeperkins.com",
+								"display_url": "nicholeperkins.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11229,
+				"friends_count": 1477,
+				"listed_count": 199,
+				"created_at": "Thu Mar 11 22:05:15 +0000 2010",
+				"favourites_count": 2350,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 99067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360588387/p3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360588387/p3.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952336431875313669/F5-CrqoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952336431875313669/F5-CrqoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122187767/1355258326",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 963933683630727200,
+			"quoted_status_id_str": "963933683630727169",
+			"quoted_status": {
+				"created_at": "Thu Feb 15 00:31:13 +0000 2018",
+				"id": 963933683630727200,
+				"id_str": "963933683630727169",
+				"text": "📷: Brandon Thompson https://t.co/vngdjupc0s",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 963933641880453100,
+							"id_str": "963933641880453120",
+							"indices": [
+								20,
+								43
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963933641880453120/pu/img/pHwwZ9pnGOf45yTH.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963933641880453120/pu/img/pHwwZ9pnGOf45yTH.jpg",
+							"url": "https://t.co/vngdjupc0s",
+							"display_url": "pic.twitter.com/vngdjupc0s",
+							"expanded_url": "https://twitter.com/Bodegacats_/status/963933683630727169/video/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 480,
+									"h": 480,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 480,
+									"h": 480,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 480,
+									"h": 480,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 963933641880453100,
+							"id_str": "963933641880453120",
+							"indices": [
+								20,
+								43
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963933641880453120/pu/img/pHwwZ9pnGOf45yTH.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963933641880453120/pu/img/pHwwZ9pnGOf45yTH.jpg",
+							"url": "https://t.co/vngdjupc0s",
+							"display_url": "pic.twitter.com/vngdjupc0s",
+							"expanded_url": "https://twitter.com/Bodegacats_/status/963933683630727169/video/1",
+							"type": "video",
+							"sizes": {
+								"small": {
+									"w": 480,
+									"h": 480,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 480,
+									"h": 480,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 480,
+									"h": 480,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									1,
+									1
+								],
+								"duration_millis": 7967,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/963933641880453120/pu/pl/UNyzeheXkpl2Rbk5.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/963933641880453120/pu/vid/480x480/RL7tdVzLymg6VfCs.mp4"
+									},
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/963933641880453120/pu/vid/240x240/tAdf1PdNgDz-MOeg.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2783025822,
+					"id_str": "2783025822",
+					"name": "Bodega Cats",
+					"screen_name": "Bodegacats_",
+					"location": "Brooklyn, NY",
+					"description": "",
+					"url": "https://t.co/1Jw4IsF6es",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/1Jw4IsF6es",
+									"expanded_url": "http://bodegacats.nyc",
+									"display_url": "bodegacats.nyc",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 87798,
+					"friends_count": 4,
+					"listed_count": 519,
+					"created_at": "Sun Aug 31 22:58:39 +0000 2014",
+					"favourites_count": 11735,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1427,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/506215886500687873/09EWW0Sm_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/506215886500687873/09EWW0Sm_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "011add077f4d2da3",
+					"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+					"place_type": "city",
+					"name": "Brooklyn",
+					"full_name": "Brooklyn, NY",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-74.041878,
+									40.570842
+								],
+								[
+									-73.855673,
+									40.570842
+								],
+								[
+									-73.855673,
+									40.739434
+								],
+								[
+									-74.041878,
+									40.739434
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3043,
+				"favorite_count": 5868,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 963933683630727200,
+		"quoted_status_id_str": "963933683630727169",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 15 01:50:26 +0000 2018",
 		"id": 963953617949593600,
 		"id_str": "963953617949593600",
