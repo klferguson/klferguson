@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 26 22:30:25 +0000 2018",
+		"id": 968251935408230400,
+		"id_str": "968251935408230401",
+		"text": "@WTLTE  https://t.co/wbG0gKAxnA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WTLTE",
+					"name": "Matt Gamble",
+					"id": 18068073,
+					"id_str": "18068073",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 968251898741616600,
+					"id_str": "968251898741616646",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/968251898741616646/pu/img/FOjj302yB_Rg2y-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/968251898741616646/pu/img/FOjj302yB_Rg2y-T.jpg",
+					"url": "https://t.co/wbG0gKAxnA",
+					"display_url": "pic.twitter.com/wbG0gKAxnA",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/968251935408230401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 968251898741616600,
+					"id_str": "968251898741616646",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/968251898741616646/pu/img/FOjj302yB_Rg2y-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/968251898741616646/pu/img/FOjj302yB_Rg2y-T.jpg",
+					"url": "https://t.co/wbG0gKAxnA",
+					"display_url": "pic.twitter.com/wbG0gKAxnA",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/968251935408230401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 10078,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/968251898741616646/pu/vid/256x320/sIz5x51zT2raOb49.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/968251898741616646/pu/pl/TOMiMr1Fa5jz6kQV.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 968249693464617000,
+		"in_reply_to_status_id_str": "968249693464616960",
+		"in_reply_to_user_id": 18068073,
+		"in_reply_to_user_id_str": "18068073",
+		"in_reply_to_screen_name": "WTLTE",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, not no Parkay",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15722,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51818,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964220657016950787/anuFeYWW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964220657016950787/anuFeYWW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Feb 26 22:25:04 +0000 2018",
+		"id": 968250588847845400,
+		"id_str": "968250588847845376",
+		"text": "RT @lmrhody: Last call for applications for the GC Digital Humanities Research Institute @dhinstitutes.org held @GC_CUNY and hosted by @cun…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lmrhody",
+					"name": "Lisa Marie Rhody",
+					"id": 242410169,
+					"id_str": "242410169",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "dhinstitutes",
+					"name": "Digital Humanities Research Institute",
+					"id": 964498863632584700,
+					"id_str": "964498863632584707",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"screen_name": "GC_CUNY",
+					"name": "The Graduate Center",
+					"id": 89479750,
+					"id_str": "89479750",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, not no Parkay",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 1980s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 461,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 15722,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51818,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964220657016950787/anuFeYWW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964220657016950787/anuFeYWW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 26 22:21:07 +0000 2018",
+			"id": 968249594105811000,
+			"id_str": "968249594105810944",
+			"text": "Last call for applications for the GC Digital Humanities Research Institute @dhinstitutes.org held @GC_CUNY and hos… https://t.co/zZw0IT2hbD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dhinstitutes",
+						"name": "Digital Humanities Research Institute",
+						"id": 964498863632584700,
+						"id_str": "964498863632584707",
+						"indices": [
+							76,
+							89
+						]
+					},
+					{
+						"screen_name": "GC_CUNY",
+						"name": "The Graduate Center",
+						"id": 89479750,
+						"id_str": "89479750",
+						"indices": [
+							99,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zZw0IT2hbD",
+						"expanded_url": "https://twitter.com/i/web/status/968249594105810944",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 242410169,
+				"id_str": "242410169",
+				"name": "Lisa Marie Rhody",
+				"screen_name": "lmrhody",
+				"location": "in a hurry... somewhere",
+				"description": "Deputy Director, Digital Initiatives | The Graduate Center, CUNY\nTweets about poetry & visual art, technology, higher/graduate education, writing & hockey",
+				"url": "http://t.co/ibdgnELwlq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ibdgnELwlq",
+								"expanded_url": "http://lisarhody.com",
+								"display_url": "lisarhody.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1466,
+				"friends_count": 862,
+				"listed_count": 71,
+				"created_at": "Mon Jan 24 18:32:51 +0000 2011",
+				"favourites_count": 5258,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3635,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0D0AF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443373838332477440/JXb5XWIg.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443373838332477440/JXb5XWIg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/628440147307053056/LgIyHuEE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/628440147307053056/LgIyHuEE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/242410169/1438666879",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "152049",
+				"profile_sidebar_fill_color": "DF0C80",
+				"profile_text_color": "F1794F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 968151024673452000,
+			"quoted_status_id_str": "968151024673452032",
+			"quoted_status": {
+				"created_at": "Mon Feb 26 15:49:26 +0000 2018",
+				"id": 968151024673452000,
+				"id_str": "968151024673452032",
+				"text": "Today is the day. Did you finish your application for this summer's #DigitalHumanities Research Institute? We're av… https://t.co/FPbceX7Rmg",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "DigitalHumanities",
+							"indices": [
+								68,
+								86
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/FPbceX7Rmg",
+							"expanded_url": "https://twitter.com/i/web/status/968151024673452032",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 964498863632584700,
+					"id_str": "964498863632584707",
+					"name": "Digital Humanities Research Institute",
+					"screen_name": "dhinstitutes",
+					"location": "New York, NY",
+					"description": "The Digital Humanities Research Institute (DHRI) is a ten-day residential workshop to be held June 11–20, 2018 at @GC_CUNY. #digitalhumanities #digitalresearch",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 192,
+					"friends_count": 926,
+					"listed_count": 4,
+					"created_at": "Fri Feb 16 13:57:03 +0000 2018",
+					"favourites_count": 26,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 44,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/964499521551130625/aZCvtBz7_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/964499521551130625/aZCvtBz7_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 968151024673452000,
+		"quoted_status_id_str": "968151024673452032",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 26 21:55:17 +0000 2018",
 		"id": 968243093123358700,
 		"id_str": "968243093123358720",
