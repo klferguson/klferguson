@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 12 14:50:40 +0000 2018",
+		"id": 984443688284717000,
+		"id_str": "984443688284717056",
+		"text": "@kinseyette uh oh! maybe round two...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kinseyette",
+					"name": "alison",
+					"id": 180419368,
+					"id_str": "180419368",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 984442564530131000,
+		"in_reply_to_status_id_str": "984442564530130944",
+		"in_reply_to_user_id": 180419368,
+		"in_reply_to_user_id_str": "180419368",
+		"in_reply_to_screen_name": "kinseyette",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, death closing in",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1149,
+			"friends_count": 462,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16520,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984287857631096832/BMkUactR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984287857631096832/BMkUactR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 12 14:37:15 +0000 2018",
+		"id": 984440314927702000,
+		"id_str": "984440314927702016",
+		"text": "RT @spampinato_erin: A brilliant @QCVoices student on Afrofuturism. @QC_News @psmyth01 @KevinLFerguson @JasonTougaw https://t.co/SHq4f0keeN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spampinato_erin",
+					"name": "ErinSpampinato",
+					"id": 4188388755,
+					"id_str": "4188388755",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "QCVoices",
+					"name": "QC Voices",
+					"id": 1915199772,
+					"id_str": "1915199772",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"screen_name": "QC_News",
+					"name": "Queens College|CUNY",
+					"id": 176878617,
+					"id_str": "176878617",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"screen_name": "psmyth01",
+					"name": "Patrick Smyth",
+					"id": 2490481441,
+					"id_str": "2490481441",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "KevinLFerguson",
+					"name": "kevin, death closing in",
+					"id": 359023788,
+					"id_str": "359023788",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "JasonTougaw",
+					"name": "Jason Tougaw",
+					"id": 359388939,
+					"id_str": "359388939",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SHq4f0keeN",
+					"expanded_url": "https://twitter.com/mapindling/status/984436558290878465",
+					"display_url": "twitter.com/mapindling/sta…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, death closing in",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1149,
+			"friends_count": 462,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16520,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984287857631096832/BMkUactR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984287857631096832/BMkUactR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 12 14:34:46 +0000 2018",
+			"id": 984439689137606700,
+			"id_str": "984439689137606656",
+			"text": "A brilliant @QCVoices student on Afrofuturism. @QC_News @psmyth01 @KevinLFerguson @JasonTougaw https://t.co/SHq4f0keeN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "QCVoices",
+						"name": "QC Voices",
+						"id": 1915199772,
+						"id_str": "1915199772",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"screen_name": "QC_News",
+						"name": "Queens College|CUNY",
+						"id": 176878617,
+						"id_str": "176878617",
+						"indices": [
+							47,
+							55
+						]
+					},
+					{
+						"screen_name": "psmyth01",
+						"name": "Patrick Smyth",
+						"id": 2490481441,
+						"id_str": "2490481441",
+						"indices": [
+							56,
+							65
+						]
+					},
+					{
+						"screen_name": "KevinLFerguson",
+						"name": "kevin, death closing in",
+						"id": 359023788,
+						"id_str": "359023788",
+						"indices": [
+							66,
+							81
+						]
+					},
+					{
+						"screen_name": "JasonTougaw",
+						"name": "Jason Tougaw",
+						"id": 359388939,
+						"id_str": "359388939",
+						"indices": [
+							82,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SHq4f0keeN",
+						"expanded_url": "https://twitter.com/mapindling/status/984436558290878465",
+						"display_url": "twitter.com/mapindling/sta…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4188388755,
+				"id_str": "4188388755",
+				"name": "ErinSpampinato",
+				"screen_name": "spampinato_erin",
+				"location": "Maine, USA",
+				"description": "PhD Candidate in English at the Grad Center, currently researching/writing about representations of sexual violence, from Clarissa to SVU.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 649,
+				"friends_count": 1948,
+				"listed_count": 3,
+				"created_at": "Sat Nov 14 19:10:05 +0000 2015",
+				"favourites_count": 7031,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1972,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/977504308433387520/VN1P8qiJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/977504308433387520/VN1P8qiJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4188388755/1493211916",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 984436558290878500,
+			"quoted_status_id_str": "984436558290878465",
+			"quoted_status": {
+				"created_at": "Thu Apr 12 14:22:20 +0000 2018",
+				"id": 984436558290878500,
+				"id_str": "984436558290878465",
+				"text": "\"Reality is wrong. Dreams are for real.\" - Tupac \nhttps://t.co/4QB0OSszwU #afrofuturism #BlackPanther #thursdaythoughts",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "afrofuturism",
+							"indices": [
+								74,
+								87
+							]
+						},
+						{
+							"text": "BlackPanther",
+							"indices": [
+								88,
+								101
+							]
+						},
+						{
+							"text": "thursdaythoughts",
+							"indices": [
+								102,
+								119
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/4QB0OSszwU",
+							"expanded_url": "http://qcvoices.qwriting.qc.cuny.edu/meganpindling/2018/04/11/back-to-the-afrofuture/",
+							"display_url": "qcvoices.qwriting.qc.cuny.edu/meganpindling/…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1437027150,
+					"id_str": "1437027150",
+					"name": "Ramegan, Queen Mother",
+					"screen_name": "mapindling",
+					"location": "New York City",
+					"description": "black. afrolatina. child of diaspora. writer. womanist. nerd. Android..",
+					"url": "https://t.co/EA0QC9jhAH",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/EA0QC9jhAH",
+									"expanded_url": "https://mapindling.wordpress.com/",
+									"display_url": "mapindling.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 107,
+					"friends_count": 573,
+					"listed_count": 1,
+					"created_at": "Sat May 18 00:43:10 +0000 2013",
+					"favourites_count": 2011,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 566,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "101414",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000132891909/Dpv0n43z.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000132891909/Dpv0n43z.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/901829493098033152/EV7HoUTe_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/901829493098033152/EV7HoUTe_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437027150/1517334883",
+					"profile_link_color": "F58EA8",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 984436558290878500,
+		"quoted_status_id_str": "984436558290878465",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 12 14:06:47 +0000 2018",
 		"id": 984432646183964700,
 		"id_str": "984432646183964673",
