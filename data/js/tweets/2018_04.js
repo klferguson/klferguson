@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 18 18:32:26 +0000 2018",
+		"id": 986673825193619500,
+		"id_str": "986673825193619456",
+		"text": "RT @Grady_Booch: Agreed. For me it’s like sitting in da Vinci’s studio and watching him make his pigments. Utterly fascinating work @quasim…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Grady_Booch",
+					"name": "Grady Booch",
+					"id": 397689316,
+					"id_str": "397689316",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1148,
+			"friends_count": 463,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16604,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 18 17:56:23 +0000 2018",
+			"id": 986664752670687200,
+			"id_str": "986664752670687232",
+			"text": "Agreed. For me it’s like sitting in da Vinci’s studio and watching him make his pigments. Utterly fascinating work… https://t.co/i4qdw8C0Qn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i4qdw8C0Qn",
+						"expanded_url": "https://twitter.com/i/web/status/986664752670687232",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397689316,
+				"id_str": "397689316",
+				"name": "Grady Booch",
+				"screen_name": "Grady_Booch",
+				"location": "Maui",
+				"description": "scientist, storyteller, philosopher",
+				"url": "https://t.co/FoLx8K2rs7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FoLx8K2rs7",
+								"expanded_url": "http://computingthehumanexperience.com",
+								"display_url": "computingthehumanexperience.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22435,
+				"friends_count": 512,
+				"listed_count": 817,
+				"created_at": "Tue Oct 25 01:21:41 +0000 2011",
+				"favourites_count": 80,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30087,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034408182728/0ef2f851591193ddb911b925bf3c790f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034408182728/0ef2f851591193ddb911b925bf3c790f.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956424432553046016/eHxjBbEw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956424432553046016/eHxjBbEw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397689316/1412125381",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 986625353031606300,
+			"quoted_status_id_str": "986625353031606273",
+			"quoted_status": {
+				"created_at": "Wed Apr 18 15:19:49 +0000 2018",
+				"id": 986625353031606300,
+				"id_str": "986625353031606273",
+				"text": "I cannot get enough of Mario Klingemann's ongoing exploration of teaching a computer how to see. https://t.co/lC9ZsULL3g",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/lC9ZsULL3g",
+							"expanded_url": "https://twitter.com/quasimondo/status/985791855316078592",
+							"display_url": "twitter.com/quasimondo/sta…",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 28131948,
+					"id_str": "28131948",
+					"name": "Joscha Bach",
+					"screen_name": "Plinz",
+					"location": "Harvard PED",
+					"description": "FOLLOWS YOU. Artificial Intelligence, Cognitive Architectures, Computation, occasional consumption of caffeinated beverages",
+					"url": "https://t.co/ER5PMwoAb9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/ER5PMwoAb9",
+									"expanded_url": "http://bach.ai",
+									"display_url": "bach.ai",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5078,
+					"friends_count": 509,
+					"listed_count": 190,
+					"created_at": "Wed Apr 01 15:59:34 +0000 2009",
+					"favourites_count": 4621,
+					"utc_offset": -7200,
+					"time_zone": "Greenland",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 19749,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "4A4345",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/463184708440846338/HGw7qkLS.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/463184708440846338/HGw7qkLS.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/936396593762357248/f66CtXot_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/936396593762357248/f66CtXot_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/28131948/1452654142",
+					"profile_link_color": "415366",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "BDC6BD",
+					"profile_text_color": "898182",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 985791855316078600,
+				"quoted_status_id_str": "985791855316078592",
+				"retweet_count": 5,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 986625353031606300,
+		"quoted_status_id_str": "986625353031606273",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 18 17:15:24 +0000 2018",
 		"id": 986654439095394300,
 		"id_str": "986654439095394305",
