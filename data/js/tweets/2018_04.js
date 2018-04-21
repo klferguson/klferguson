@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 21 12:25:20 +0000 2018",
+		"id": 987668608078766100,
+		"id_str": "987668608078766083",
+		"text": "RT @lisettevoytko: I was online shopping and literally thought this was all one person 😂 https://t.co/JUJlFpm3IH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisettevoytko",
+					"name": "liss-ETTE VOIGHT-ko",
+					"id": 21968048,
+					"id_str": "21968048",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 987662606168133600,
+					"id_str": "987662606168133632",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+					"url": "https://t.co/JUJlFpm3IH",
+					"display_url": "pic.twitter.com/JUJlFpm3IH",
+					"expanded_url": "https://twitter.com/lisettevoytko/status/987662612480643073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 991,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1525,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987662612480643100,
+					"source_status_id_str": "987662612480643073",
+					"source_user_id": 21968048,
+					"source_user_id_str": "21968048"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987662606168133600,
+					"id_str": "987662606168133632",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+					"url": "https://t.co/JUJlFpm3IH",
+					"display_url": "pic.twitter.com/JUJlFpm3IH",
+					"expanded_url": "https://twitter.com/lisettevoytko/status/987662612480643073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 991,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1525,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987662612480643100,
+					"source_status_id_str": "987662612480643073",
+					"source_user_id": 21968048,
+					"source_user_id_str": "21968048"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1150,
+			"friends_count": 463,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16700,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 21 12:01:31 +0000 2018",
+			"id": 987662612480643100,
+			"id_str": "987662612480643073",
+			"text": "I was online shopping and literally thought this was all one person 😂 https://t.co/JUJlFpm3IH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 987662606168133600,
+						"id_str": "987662606168133632",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+						"url": "https://t.co/JUJlFpm3IH",
+						"display_url": "pic.twitter.com/JUJlFpm3IH",
+						"expanded_url": "https://twitter.com/lisettevoytko/status/987662612480643073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 991,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1525,
+								"h": 1259,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 987662606168133600,
+						"id_str": "987662606168133632",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbTh6E6WkAABH0c.jpg",
+						"url": "https://t.co/JUJlFpm3IH",
+						"display_url": "pic.twitter.com/JUJlFpm3IH",
+						"expanded_url": "https://twitter.com/lisettevoytko/status/987662612480643073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 991,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1525,
+								"h": 1259,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21968048,
+				"id_str": "21968048",
+				"name": "liss-ETTE VOIGHT-ko",
+				"screen_name": "lisettevoytko",
+				"location": "Brooklyn, NY",
+				"description": "Writer: @VillageVoice @Brokelyn @Thrillist @GameHistoryOrg @playbuzz Newsletters: @ArchDigest | Founder of The Twirl newsletter, sign up ⬇️",
+				"url": "https://t.co/ag7sV9ytrA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ag7sV9ytrA",
+								"expanded_url": "https://tinyletter.com/thetwirl",
+								"display_url": "tinyletter.com/thetwirl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1229,
+				"friends_count": 1649,
+				"listed_count": 73,
+				"created_at": "Thu Feb 26 04:08:09 +0000 2009",
+				"favourites_count": 6666,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19376,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/135162238/photo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/135162238/photo.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869382356595089409/qUtRodtI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869382356595089409/qUtRodtI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21968048/1509761313",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C9CCC4",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "6B676B",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 21 04:35:43 +0000 2018",
 		"id": 987550422415093800,
 		"id_str": "987550422415093761",
