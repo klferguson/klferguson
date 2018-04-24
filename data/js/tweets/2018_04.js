@@ -1,6 +1,911 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 24 20:02:48 +0000 2018",
+		"id": 988870893702139900,
+		"id_str": "988870893702139904",
+		"text": "@AmandaAnnKlein @Courtney_BD  https://t.co/vp8W934KUD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "Barbies with Betty Finn",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Courtney_BD",
+					"name": "Courtney Brannon Donoghue",
+					"id": 124883574,
+					"id_str": "124883574",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 988870879818977300,
+					"id_str": "988870879818977281",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dbks03BWkAEzhxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dbks03BWkAEzhxx.jpg",
+					"url": "https://t.co/vp8W934KUD",
+					"display_url": "pic.twitter.com/vp8W934KUD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/988870893702139904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988870879818977300,
+					"id_str": "988870879818977281",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dbks03BWkAEzhxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dbks03BWkAEzhxx.jpg",
+					"url": "https://t.co/vp8W934KUD",
+					"display_url": "pic.twitter.com/vp8W934KUD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/988870893702139904/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dbks03BWkAEzhxx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 988868115902730200,
+		"in_reply_to_status_id_str": "988868115902730240",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1152,
+			"friends_count": 464,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16754,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Apr 24 19:47:01 +0000 2018",
+		"id": 988866923554394100,
+		"id_str": "988866923554394113",
+		"text": "@AmandaAnnKlein @Courtney_BD  https://t.co/M5KGigiRnF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "Barbies with Betty Finn",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Courtney_BD",
+					"name": "Courtney Brannon Donoghue",
+					"id": 124883574,
+					"id_str": "124883574",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 988866910153592800,
+					"id_str": "988866910153592833",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DbkpNy3X0AEY4o0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DbkpNy3X0AEY4o0.jpg",
+					"url": "https://t.co/M5KGigiRnF",
+					"display_url": "pic.twitter.com/M5KGigiRnF",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/988866923554394113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988866910153592800,
+					"id_str": "988866910153592833",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DbkpNy3X0AEY4o0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DbkpNy3X0AEY4o0.jpg",
+					"url": "https://t.co/M5KGigiRnF",
+					"display_url": "pic.twitter.com/M5KGigiRnF",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/988866923554394113/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 310,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							60,
+							31
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DbkpNy3X0AEY4o0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 988865677095309300,
+		"in_reply_to_status_id_str": "988865677095309313",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1152,
+			"friends_count": 464,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16754,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Apr 24 19:36:17 +0000 2018",
+		"id": 988864222439276500,
+		"id_str": "988864222439276544",
+		"text": "@AmandaAnnKlein @Courtney_BD  https://t.co/8WOSXeeiBq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "Barbies with Betty Finn",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Courtney_BD",
+					"name": "Courtney Brannon Donoghue",
+					"id": 124883574,
+					"id_str": "124883574",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 988864212314329100,
+					"id_str": "988864212314329088",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DbkmwwoXkAAZxEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DbkmwwoXkAAZxEy.jpg",
+					"url": "https://t.co/8WOSXeeiBq",
+					"display_url": "pic.twitter.com/8WOSXeeiBq",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/988864222439276544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 194,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 194,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988864212314329100,
+					"id_str": "988864212314329088",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DbkmwwoXkAAZxEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DbkmwwoXkAAZxEy.jpg",
+					"url": "https://t.co/8WOSXeeiBq",
+					"display_url": "pic.twitter.com/8WOSXeeiBq",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/988864222439276544/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 194,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 194,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							97
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DbkmwwoXkAAZxEy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 988863113993818100,
+		"in_reply_to_status_id_str": "988863113993818118",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1152,
+			"friends_count": 464,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16754,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Apr 24 19:27:01 +0000 2018",
+		"id": 988861892188868600,
+		"id_str": "988861892188868609",
+		"text": "(ok, the youngest threw me under the bus, but not before I took a calculated risk to admit the truth)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 988854547866144800,
+		"in_reply_to_status_id_str": "988854547866144769",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1152,
+			"friends_count": 464,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16754,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 24 19:25:41 +0000 2018",
+		"id": 988861554606166000,
+		"id_str": "988861554606166017",
+		"text": "@AmandaAnnKlein @Courtney_BD Hey, she knows what works.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "Barbies with Betty Finn",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Courtney_BD",
+					"name": "Courtney Brannon Donoghue",
+					"id": 124883574,
+					"id_str": "124883574",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 988856034453311500,
+		"in_reply_to_status_id_str": "988856034453311494",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1152,
+			"friends_count": 464,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16754,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 24 18:57:50 +0000 2018",
 		"id": 988854547866144800,
 		"id_str": "988854547866144769",
