@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 27 19:01:07 +0000 2018",
+		"id": 989942537589751800,
+		"id_str": "989942537589751810",
+		"text": "RT @mwichary: @goto80 @raquelmeyers @GlennF @loriemerson @xfoml \n\nEven more! A new higher quality scan of Artyping, also from a copy with t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwichary",
+					"name": "Marcin Wichary",
+					"id": 86239754,
+					"id_str": "86239754",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "goto80",
+					"name": "▙ ▉ ▜▘▉ ▚ ▉",
+					"id": 102644517,
+					"id_str": "102644517",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "raquelmeyers",
+					"name": "raquel meyers",
+					"id": 21092287,
+					"id_str": "21092287",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "GlennF",
+					"name": "Glenn Fleishman",
+					"id": 8315692,
+					"id_str": "8315692",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"screen_name": "loriemerson",
+					"name": "Lori Emerson",
+					"id": 30923760,
+					"id_str": "30923760",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "xfoml",
+					"name": "James Ryan",
+					"id": 700821269319561200,
+					"id_str": "700821269319561216",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1155,
+			"friends_count": 464,
+			"listed_count": 48,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16796,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 27 15:21:37 +0000 2018",
+			"id": 989887298346012700,
+			"id_str": "989887298346012672",
+			"text": "@goto80 @raquelmeyers @GlennF @loriemerson @xfoml \n\nEven more! A new higher quality scan of Artyping, also from a c… https://t.co/moVk1nK4mM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "goto80",
+						"name": "▙ ▉ ▜▘▉ ▚ ▉",
+						"id": 102644517,
+						"id_str": "102644517",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "raquelmeyers",
+						"name": "raquel meyers",
+						"id": 21092287,
+						"id_str": "21092287",
+						"indices": [
+							8,
+							21
+						]
+					},
+					{
+						"screen_name": "GlennF",
+						"name": "Glenn Fleishman",
+						"id": 8315692,
+						"id_str": "8315692",
+						"indices": [
+							22,
+							29
+						]
+					},
+					{
+						"screen_name": "loriemerson",
+						"name": "Lori Emerson",
+						"id": 30923760,
+						"id_str": "30923760",
+						"indices": [
+							30,
+							42
+						]
+					},
+					{
+						"screen_name": "xfoml",
+						"name": "James Ryan",
+						"id": 700821269319561200,
+						"id_str": "700821269319561216",
+						"indices": [
+							43,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/moVk1nK4mM",
+						"expanded_url": "https://twitter.com/i/web/status/989887298346012672",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 984774336715284500,
+			"in_reply_to_status_id_str": "984774336715284480",
+			"in_reply_to_user_id": 86239754,
+			"in_reply_to_user_id_str": "86239754",
+			"in_reply_to_screen_name": "mwichary",
+			"user": {
+				"id": 86239754,
+				"id_str": "86239754",
+				"name": "Marcin Wichary",
+				"screen_name": "mwichary",
+				"location": "San Francisco, Calif.",
+				"description": "Designer · Typographer · Occasional speaker · Writing a book about the history of keyboards: https://t.co/tmhDTNR0nL · He/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tmhDTNR0nL",
+								"expanded_url": "http://aresluna.org/shift-happens",
+								"display_url": "aresluna.org/shift-happens",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11383,
+				"friends_count": 2321,
+				"listed_count": 379,
+				"created_at": "Fri Oct 30 04:28:51 +0000 2009",
+				"favourites_count": 4628,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23622,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903018932461723648/5QEQ-xHp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903018932461723648/5QEQ-xHp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86239754/1437445368",
+				"profile_link_color": "007BC0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 27 16:39:31 +0000 2018",
 		"id": 989906900425826300,
 		"id_str": "989906900425826304",
