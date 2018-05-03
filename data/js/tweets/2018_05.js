@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 03 19:07:52 +0000 2018",
+		"id": 992118560980947000,
+		"id_str": "992118560980946945",
+		"text": "RT @sophiefkemp: hi here is a photo of @PhizLair at oberlin in the '80s to bless ur timeline this afternoon!!! https://t.co/bjR5MqafCK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sophiefkemp",
+					"name": "Sophie Frances Kemp",
+					"id": 714597612792492000,
+					"id_str": "714597612792492032",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "PhizLair",
+					"name": "Liz Phair",
+					"id": 17059535,
+					"id_str": "17059535",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 992068677955534800,
+					"id_str": "992068677955534848",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+					"url": "https://t.co/bjR5MqafCK",
+					"display_url": "pic.twitter.com/bjR5MqafCK",
+					"expanded_url": "https://twitter.com/sophiefkemp/status/992068685853593601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992068685853593600,
+					"source_status_id_str": "992068685853593601",
+					"source_user_id": 714597612792492000,
+					"source_user_id_str": "714597612792492032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 992068677955534800,
+					"id_str": "992068677955534848",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+					"url": "https://t.co/bjR5MqafCK",
+					"display_url": "pic.twitter.com/bjR5MqafCK",
+					"expanded_url": "https://twitter.com/sophiefkemp/status/992068685853593601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992068685853593600,
+					"source_status_id_str": "992068685853593601",
+					"source_user_id": 714597612792492000,
+					"source_user_id_str": "714597612792492032"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1156,
+			"friends_count": 464,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16897,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 03 15:49:41 +0000 2018",
+			"id": 992068685853593600,
+			"id_str": "992068685853593601",
+			"text": "hi here is a photo of @PhizLair at oberlin in the '80s to bless ur timeline this afternoon!!! https://t.co/bjR5MqafCK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PhizLair",
+						"name": "Liz Phair",
+						"id": 17059535,
+						"id_str": "17059535",
+						"indices": [
+							22,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 992068677955534800,
+						"id_str": "992068677955534848",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+						"url": "https://t.co/bjR5MqafCK",
+						"display_url": "pic.twitter.com/bjR5MqafCK",
+						"expanded_url": "https://twitter.com/sophiefkemp/status/992068685853593601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 992068677955534800,
+						"id_str": "992068677955534848",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcSJNNZUwAAWj9C.jpg",
+						"url": "https://t.co/bjR5MqafCK",
+						"display_url": "pic.twitter.com/bjR5MqafCK",
+						"expanded_url": "https://twitter.com/sophiefkemp/status/992068685853593601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 714597612792492000,
+				"id_str": "714597612792492032",
+				"name": "Sophie Frances Kemp",
+				"screen_name": "sophiefkemp",
+				"location": "Ohio, USA",
+				"description": "I write essays about freaky pop. GM @WOBC, freelance @bandcamp @NoiseyMusic, @talkhouse + @nprmusic alumna. contact: kempsf1@gmail.com pronouns: she/her",
+				"url": "https://t.co/XXkA3urv6w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XXkA3urv6w",
+								"expanded_url": "http://sophiefkemp.com",
+								"display_url": "sophiefkemp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1147,
+				"friends_count": 648,
+				"listed_count": 16,
+				"created_at": "Mon Mar 28 23:38:42 +0000 2016",
+				"favourites_count": 16557,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/724339292248662017/5x6bz3Wv.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/724339292248662017/5x6bz3Wv.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987384241326452738/aEDQufxd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987384241326452738/aEDQufxd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/714597612792492032/1511203420",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 03 19:07:24 +0000 2018",
+		"id": 992118445297807400,
+		"id_str": "992118445297807360",
+		"text": "@frittersandclam yaaaaaaaayyyyyy!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 992062211320373200,
+		"in_reply_to_status_id_str": "992062211320373249",
+		"in_reply_to_user_id": 117842180,
+		"in_reply_to_user_id_str": "117842180",
+		"in_reply_to_screen_name": "frittersandclam",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, window sky streetlight trees bed",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1156,
+			"friends_count": 464,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16897,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984779638265139200/Mrp5z6CU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu May 03 15:10:55 +0000 2018",
 		"id": 992058933010452500,
 		"id_str": "992058933010452482",
