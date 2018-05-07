@@ -1,6 +1,1122 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 07 12:47:21 +0000 2018",
+		"id": 993472351974117400,
+		"id_str": "993472351974117376",
+		"text": "RT @gelb_: i need the fuckin men in black memory eraser thing now https://t.co/56Aag27nYO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gelb_",
+					"name": "don grib",
+					"id": 40081393,
+					"id_str": "40081393",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/56Aag27nYO",
+					"expanded_url": "https://twitter.com/kylegriffin1/status/976146383777533953",
+					"display_url": "twitter.com/kylegriffin1/s…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 463,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16935,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 19:22:01 +0000 2018",
+			"id": 976177055414079500,
+			"id_str": "976177055414079489",
+			"text": "i need the fuckin men in black memory eraser thing now https://t.co/56Aag27nYO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/56Aag27nYO",
+						"expanded_url": "https://twitter.com/kylegriffin1/status/976146383777533953",
+						"display_url": "twitter.com/kylegriffin1/s…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40081393,
+				"id_str": "40081393",
+				"name": "don grib",
+				"screen_name": "gelb_",
+				"location": "NYC",
+				"description": "no reason to feel any way about it",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 200,
+				"friends_count": 131,
+				"listed_count": 2,
+				"created_at": "Thu May 14 20:53:08 +0000 2009",
+				"favourites_count": 2959,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/779710151/e214a5f6835a4ef7336cb0af4d5e88ac.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/779710151/e214a5f6835a4ef7336cb0af4d5e88ac.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738920236854939652/JiqbCuk2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738920236854939652/JiqbCuk2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40081393/1493254248",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 976146383777534000,
+			"quoted_status_id_str": "976146383777533953",
+			"quoted_status": {
+				"created_at": "Tue Mar 20 17:20:08 +0000 2018",
+				"id": 976146383777534000,
+				"id_str": "976146383777533953",
+				"text": "WSJ appears to have the contents of the polygraph test Stormy Daniels took in 2011. \"CONCLUSION: In the opinion of… https://t.co/3nlde0r2WQ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/3nlde0r2WQ",
+							"expanded_url": "https://twitter.com/i/web/status/976146383777533953",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 32871086,
+					"id_str": "32871086",
+					"name": "Kyle Griffin",
+					"screen_name": "kylegriffin1",
+					"location": "Manhattan, NY",
+					"description": "Producer. MSNBC's @TheLastWord. Opinions mine. Do not congratulate.",
+					"url": "https://t.co/a3chkjZj4w",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/a3chkjZj4w",
+									"expanded_url": "http://www.msnbc.com/the-last-word",
+									"display_url": "msnbc.com/the-last-word",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 420532,
+					"friends_count": 1035,
+					"listed_count": 5147,
+					"created_at": "Sat Apr 18 12:45:48 +0000 2009",
+					"favourites_count": 40443,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 36251,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238292858/Twitter_background.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238292858/Twitter_background.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/32871086/1455243585",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 634,
+				"favorite_count": 928,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 976146383777534000,
+		"quoted_status_id_str": "976146383777533953",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 07 12:16:49 +0000 2018",
+		"id": 993464669103886300,
+		"id_str": "993464669103886336",
+		"text": "me figuring out how I'm supposed to feel https://t.co/ZliIJcgQZR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 993464660488683500,
+					"id_str": "993464660488683520",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcl-2FlVAAA86u7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcl-2FlVAAA86u7.jpg",
+					"url": "https://t.co/ZliIJcgQZR",
+					"display_url": "pic.twitter.com/ZliIJcgQZR",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/993464669103886336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993464660488683500,
+					"id_str": "993464660488683520",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcl-2FlVAAA86u7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcl-2FlVAAA86u7.jpg",
+					"url": "https://t.co/ZliIJcgQZR",
+					"display_url": "pic.twitter.com/ZliIJcgQZR",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/993464669103886336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 463,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16935,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 07 12:15:38 +0000 2018",
+		"id": 993464371484520400,
+		"id_str": "993464371484520449",
+		"text": "RT @mollypriddy: there is a type of wild dog called the Racoon Dog and it is real and a dog but it looks like this https://t.co/yqH7YXilHK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mollypriddy",
+					"name": "Molly Priddy",
+					"id": 17901366,
+					"id_str": "17901366",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 993347573355135000,
+					"id_str": "993347573355134976",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+					"url": "https://t.co/yqH7YXilHK",
+					"display_url": "pic.twitter.com/yqH7YXilHK",
+					"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993347597581471700,
+					"source_status_id_str": "993347597581471744",
+					"source_user_id": 17901366,
+					"source_user_id_str": "17901366"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993347573355135000,
+					"id_str": "993347573355134976",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+					"url": "https://t.co/yqH7YXilHK",
+					"display_url": "pic.twitter.com/yqH7YXilHK",
+					"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 471,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993347597581471700,
+					"source_status_id_str": "993347597581471744",
+					"source_user_id": 17901366,
+					"source_user_id_str": "17901366"
+				},
+				{
+					"id": 993347573304905700,
+					"id_str": "993347573304905728",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DckUWt1V0AAmX02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DckUWt1V0AAmX02.jpg",
+					"url": "https://t.co/yqH7YXilHK",
+					"display_url": "pic.twitter.com/yqH7YXilHK",
+					"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993347597581471700,
+					"source_status_id_str": "993347597581471744",
+					"source_user_id": 17901366,
+					"source_user_id_str": "17901366"
+				},
+				{
+					"id": 993347573334265900,
+					"id_str": "993347573334265856",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DckUWt8V0AAY2Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DckUWt8V0AAY2Gz.jpg",
+					"url": "https://t.co/yqH7YXilHK",
+					"display_url": "pic.twitter.com/yqH7YXilHK",
+					"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 770,
+							"h": 488,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993347597581471700,
+					"source_status_id_str": "993347597581471744",
+					"source_user_id": 17901366,
+					"source_user_id_str": "17901366"
+				},
+				{
+					"id": 993347573342584800,
+					"id_str": "993347573342584832",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DckUWt-UwAAZYeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DckUWt-UwAAZYeu.jpg",
+					"url": "https://t.co/yqH7YXilHK",
+					"display_url": "pic.twitter.com/yqH7YXilHK",
+					"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993347597581471700,
+					"source_status_id_str": "993347597581471744",
+					"source_user_id": 17901366,
+					"source_user_id_str": "17901366"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 463,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16935,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 07 04:31:37 +0000 2018",
+			"id": 993347597581471700,
+			"id_str": "993347597581471744",
+			"text": "there is a type of wild dog called the Racoon Dog and it is real and a dog but it looks like this https://t.co/yqH7YXilHK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 993347573355135000,
+						"id_str": "993347573355134976",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+						"url": "https://t.co/yqH7YXilHK",
+						"display_url": "pic.twitter.com/yqH7YXilHK",
+						"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 471,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 471,
+								"h": 476,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 471,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 993347573355135000,
+						"id_str": "993347573355134976",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DckUWuBUQAAN_Ov.jpg",
+						"url": "https://t.co/yqH7YXilHK",
+						"display_url": "pic.twitter.com/yqH7YXilHK",
+						"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 471,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 471,
+								"h": 476,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 471,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 993347573304905700,
+						"id_str": "993347573304905728",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DckUWt1V0AAmX02.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DckUWt1V0AAmX02.jpg",
+						"url": "https://t.co/yqH7YXilHK",
+						"display_url": "pic.twitter.com/yqH7YXilHK",
+						"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 993347573334265900,
+						"id_str": "993347573334265856",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DckUWt8V0AAY2Gz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DckUWt8V0AAY2Gz.jpg",
+						"url": "https://t.co/yqH7YXilHK",
+						"display_url": "pic.twitter.com/yqH7YXilHK",
+						"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 770,
+								"h": 488,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 770,
+								"h": 488,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 993347573342584800,
+						"id_str": "993347573342584832",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DckUWt-UwAAZYeu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DckUWt-UwAAZYeu.jpg",
+						"url": "https://t.co/yqH7YXilHK",
+						"display_url": "pic.twitter.com/yqH7YXilHK",
+						"expanded_url": "https://twitter.com/mollypriddy/status/993347597581471744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17901366,
+				"id_str": "17901366",
+				"name": "Molly Priddy",
+				"screen_name": "mollypriddy",
+				"location": "Kalispell, MT",
+				"description": "Writer, editor in Northwest Montana. | Staff writer @Autostraddle | Essays @TheToast | Most dogs seem to like me. Opinions mine since '85.",
+				"url": "https://t.co/zjKto0BMyb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zjKto0BMyb",
+								"expanded_url": "http://www.mollypriddy.com",
+								"display_url": "mollypriddy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9899,
+				"friends_count": 1345,
+				"listed_count": 209,
+				"created_at": "Fri Dec 05 16:45:55 +0000 2008",
+				"favourites_count": 37595,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 66918,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943188036023500800/49nmPAE6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943188036023500800/49nmPAE6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17901366/1524669433",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 951,
+			"favorite_count": 3245,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 951,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 07 11:43:50 +0000 2018",
 		"id": 993456368228192300,
 		"id_str": "993456368228192262",
