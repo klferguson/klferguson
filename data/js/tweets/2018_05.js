@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 09 12:56:53 +0000 2018",
+		"id": 994199526062940200,
+		"id_str": "994199526062940160",
+		"text": "RT @freethestones: me scrolling through twitter \n\n https://t.co/0aoDYC4XC2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freethestones",
+					"name": "tom freethestones",
+					"id": 469699355,
+					"id_str": "469699355",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 993422399801647100,
+					"id_str": "993422399801647104",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+					"url": "https://t.co/0aoDYC4XC2",
+					"display_url": "pic.twitter.com/0aoDYC4XC2",
+					"expanded_url": "https://twitter.com/EvertonCentral_/status/993422465689964544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993422465689964500,
+					"source_status_id_str": "993422465689964544",
+					"source_user_id": 775717421411864600,
+					"source_user_id_str": "775717421411864576"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993422399801647100,
+					"id_str": "993422399801647104",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+					"url": "https://t.co/0aoDYC4XC2",
+					"display_url": "pic.twitter.com/0aoDYC4XC2",
+					"expanded_url": "https://twitter.com/EvertonCentral_/status/993422465689964544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993422465689964500,
+					"source_status_id_str": "993422465689964544",
+					"source_user_id": 775717421411864600,
+					"source_user_id_str": "775717421411864576",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7772,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/vid/360x640/ecHL4n_BsmnmSQDL.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/pl/vNRetT4uT3ThS0Au.m3u8?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/vid/180x320/w95KuVovbnfWIdrm.mp4?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/vid/720x1280/O5BqElHLtYdsaQ-J.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 775717421411864600,
+							"id_str": "775717421411864576",
+							"name": "Everton Central",
+							"screen_name": "EvertonCentral_",
+							"location": "Goodison Park, Everton",
+							"description": "All things Everton. | Since 2016 |",
+							"url": "https://t.co/dPgzqMFoKN",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/dPgzqMFoKN",
+											"expanded_url": "http://www.evertonfc.com",
+											"display_url": "evertonfc.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3525,
+							"friends_count": 172,
+							"listed_count": 15,
+							"created_at": "Tue Sep 13 15:27:00 +0000 2016",
+							"favourites_count": 4114,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 3658,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/993238447254048770/C7udGh62_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/993238447254048770/C7udGh62_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/775717421411864576/1525641315",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, awash in life",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 464,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16974,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 08 11:25:02 +0000 2018",
+			"id": 993814026751742000,
+			"id_str": "993814026751741953",
+			"text": "me scrolling through twitter \n\n https://t.co/0aoDYC4XC2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 993422399801647100,
+						"id_str": "993422399801647104",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+						"url": "https://t.co/0aoDYC4XC2",
+						"display_url": "pic.twitter.com/0aoDYC4XC2",
+						"expanded_url": "https://twitter.com/EvertonCentral_/status/993422465689964544/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 993422465689964500,
+						"source_status_id_str": "993422465689964544",
+						"source_user_id": 775717421411864600,
+						"source_user_id_str": "775717421411864576"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 993422399801647100,
+						"id_str": "993422399801647104",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993422399801647104/pu/img/TVb9r2fBTrKMqldU.jpg",
+						"url": "https://t.co/0aoDYC4XC2",
+						"display_url": "pic.twitter.com/0aoDYC4XC2",
+						"expanded_url": "https://twitter.com/EvertonCentral_/status/993422465689964544/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 993422465689964500,
+						"source_status_id_str": "993422465689964544",
+						"source_user_id": 775717421411864600,
+						"source_user_id_str": "775717421411864576",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 7772,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/vid/360x640/ecHL4n_BsmnmSQDL.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/pl/vNRetT4uT3ThS0Au.m3u8?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/vid/180x320/w95KuVovbnfWIdrm.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/993422399801647104/pu/vid/720x1280/O5BqElHLtYdsaQ-J.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 775717421411864600,
+								"id_str": "775717421411864576",
+								"name": "Everton Central",
+								"screen_name": "EvertonCentral_",
+								"location": "Goodison Park, Everton",
+								"description": "All things Everton. | Since 2016 |",
+								"url": "https://t.co/dPgzqMFoKN",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/dPgzqMFoKN",
+												"expanded_url": "http://www.evertonfc.com",
+												"display_url": "evertonfc.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 3525,
+								"friends_count": 172,
+								"listed_count": 15,
+								"created_at": "Tue Sep 13 15:27:00 +0000 2016",
+								"favourites_count": 4114,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 3658,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/993238447254048770/C7udGh62_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/993238447254048770/C7udGh62_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/775717421411864576/1525641315",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 469699355,
+				"id_str": "469699355",
+				"name": "tom freethestones",
+				"screen_name": "freethestones",
+				"location": "where the tweets have no name",
+				"description": "lowercase. yesterday's thoughts, tomorrow. i look rubbish in hats. some mild shed chat. occasional user of the micro blogging website https://t.co/7IDoW8Ah9W.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7IDoW8Ah9W",
+								"expanded_url": "https://twitter.com",
+								"display_url": "twitter.com",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3327,
+				"friends_count": 404,
+				"listed_count": 71,
+				"created_at": "Fri Jan 20 21:57:32 +0000 2012",
+				"favourites_count": 4826,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60415,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "526B5F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/585903213683048448/HzhC0kN3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/585903213683048448/HzhC0kN3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/469699355/1463493902",
+				"profile_link_color": "070752",
+				"profile_sidebar_border_color": "959FF0",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "05090A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2025,
+			"favorite_count": 6245,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2025,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 09 12:56:08 +0000 2018",
+		"id": 994199338376196100,
+		"id_str": "994199338376196096",
+		"text": "update: pachysandra going gangbusters https://t.co/6Am8hIKEwN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 994199256645881900,
+					"id_str": "994199256645881857",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcwa9NhV0AEEZty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcwa9NhV0AEEZty.jpg",
+					"url": "https://t.co/6Am8hIKEwN",
+					"display_url": "pic.twitter.com/6Am8hIKEwN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/994199338376196096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 994199256645881900,
+					"id_str": "994199256645881857",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcwa9NhV0AEEZty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcwa9NhV0AEEZty.jpg",
+					"url": "https://t.co/6Am8hIKEwN",
+					"display_url": "pic.twitter.com/6Am8hIKEwN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/994199338376196096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 882289774551347200,
+		"in_reply_to_status_id_str": "882289774551347200",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, awash in life",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 464,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 16974,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 09 11:32:48 +0000 2018",
 		"id": 994178368110301200,
 		"id_str": "994178368110301185",
