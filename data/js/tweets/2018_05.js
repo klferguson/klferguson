@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 11 11:36:23 +0000 2018",
+		"id": 994904043985260500,
+		"id_str": "994904043985260546",
+		"text": "RT @MrPaulDuane: Gormenghast https://t.co/ENKtZhrPbP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrPaulDuane",
+					"name": "Paul Duane",
+					"id": 17675405,
+					"id_str": "17675405",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ENKtZhrPbP",
+					"expanded_url": "https://twitter.com/LFDodds/status/994495133264556032",
+					"display_url": "twitter.com/LFDodds/status…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, awash in life",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1156,
+			"friends_count": 464,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17028,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54088,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403882578/the_typecast.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992851392216862720/k9v7RxZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 11 11:21:41 +0000 2018",
+			"id": 994900344403525600,
+			"id_str": "994900344403525633",
+			"text": "Gormenghast https://t.co/ENKtZhrPbP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ENKtZhrPbP",
+						"expanded_url": "https://twitter.com/LFDodds/status/994495133264556032",
+						"display_url": "twitter.com/LFDodds/status…",
+						"indices": [
+							12,
+							35
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17675405,
+				"id_str": "17675405",
+				"name": "Paul Duane",
+				"screen_name": "MrPaulDuane",
+				"location": "Dublin, Ireland",
+				"description": "\"Pessimism of the intellect, optimism of the will\" (Gramsci) \"A gold-plated door won't keep out the Lord's burning rain\" (Gram Parsons)",
+				"url": "https://t.co/rz1gZOKJf8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rz1gZOKJf8",
+								"expanded_url": "http://www.imdb.com/name/nm0239042/",
+								"display_url": "imdb.com/name/nm0239042/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7362,
+				"friends_count": 4132,
+				"listed_count": 169,
+				"created_at": "Thu Nov 27 11:07:17 +0000 2008",
+				"favourites_count": 70417,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 127471,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4485006/vlcsnap-6619543.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4485006/vlcsnap-6619543.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991064009485967360/Pmyx3F7G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991064009485967360/Pmyx3F7G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17675405/1496094302",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 994495133264556000,
+			"quoted_status_id_str": "994495133264556032",
+			"quoted_status": {
+				"created_at": "Thu May 10 08:31:31 +0000 2018",
+				"id": 994495133264556000,
+				"id_str": "994495133264556032",
+				"text": "Hey nerds: which byzantine multi-thread fictional universe do you wish was a sprawling semi-compulsory movie franch… https://t.co/IEz869HBbR",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/IEz869HBbR",
+							"expanded_url": "https://twitter.com/i/web/status/994495133264556032",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 580008385,
+					"id_str": "580008385",
+					"name": "Laurence Dodds",
+					"screen_name": "LFDodds",
+					"location": "South London",
+					"description": "Asst. Comment Ed. @Telegraph, occasional writer on tech, history, and Pokemon. he/him; send pitches/questions/abuse to laurence.dodds AT https://t.co/cJ9Ctg93KL",
+					"url": "https://t.co/JxcFVUxHie",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/JxcFVUxHie",
+									"expanded_url": "http://www.telegraph.co.uk/journalists/laurence-dodds/",
+									"display_url": "telegraph.co.uk/journalists/la…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/cJ9Ctg93KL",
+									"expanded_url": "http://telegraph.co.uk",
+									"display_url": "telegraph.co.uk",
+									"indices": [
+										137,
+										160
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 2315,
+					"friends_count": 1574,
+					"listed_count": 56,
+					"created_at": "Mon May 14 16:10:36 +0000 2012",
+					"favourites_count": 1282,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 11857,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/824602408101801986/PFOzcOA6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/824602408101801986/PFOzcOA6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/580008385/1473027659",
+					"profile_link_color": "3294C2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 48,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 994495133264556000,
+		"quoted_status_id_str": "994495133264556032",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Fri May 11 10:20:29 +0000 2018",
 		"id": 994884946534727700,
 		"id_str": "994884946534727681",
