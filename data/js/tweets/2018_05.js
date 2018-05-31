@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 31 00:51:09 +0000 2018",
+		"id": 1001989423721001000,
+		"id_str": "1001989423721000960",
+		"text": "RT @refocusedmedia: this is an over-the-top photoshop joke tweet from 2-3 years ago come to life https://t.co/lbSCxQ27Rl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "refocusedmedia",
+					"name": "Larry Wright",
+					"id": 326293048,
+					"id_str": "326293048",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1001967320506380300,
+					"id_str": "1001967320506380288",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+					"url": "https://t.co/lbSCxQ27Rl",
+					"display_url": "pic.twitter.com/lbSCxQ27Rl",
+					"expanded_url": "https://twitter.com/refocusedmedia/status/1001967336902090757/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1312,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001967336902090800,
+					"source_status_id_str": "1001967336902090757",
+					"source_user_id": 326293048,
+					"source_user_id_str": "326293048"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1001967320506380300,
+					"id_str": "1001967320506380288",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+					"url": "https://t.co/lbSCxQ27Rl",
+					"display_url": "pic.twitter.com/lbSCxQ27Rl",
+					"expanded_url": "https://twitter.com/refocusedmedia/status/1001967336902090757/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1312,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001967336902090800,
+					"source_status_id_str": "1001967336902090757",
+					"source_user_id": 326293048,
+					"source_user_id_str": "326293048"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, in a ☠️💀☠️💀 cult",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1160,
+			"friends_count": 466,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17358,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001927500711116801/xkA-cws0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001927500711116801/xkA-cws0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 30 23:23:23 +0000 2018",
+			"id": 1001967336902090800,
+			"id_str": "1001967336902090757",
+			"text": "this is an over-the-top photoshop joke tweet from 2-3 years ago come to life https://t.co/lbSCxQ27Rl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1001967320506380300,
+						"id_str": "1001967320506380288",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+						"url": "https://t.co/lbSCxQ27Rl",
+						"display_url": "pic.twitter.com/lbSCxQ27Rl",
+						"expanded_url": "https://twitter.com/refocusedmedia/status/1001967336902090757/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 644,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1136,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1312,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1001967320506380300,
+						"id_str": "1001967320506380288",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Deez-CdVMAA-hz5.jpg",
+						"url": "https://t.co/lbSCxQ27Rl",
+						"display_url": "pic.twitter.com/lbSCxQ27Rl",
+						"expanded_url": "https://twitter.com/refocusedmedia/status/1001967336902090757/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 644,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1136,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1312,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 326293048,
+				"id_str": "326293048",
+				"name": "Larry Wright",
+				"screen_name": "refocusedmedia",
+				"location": "Fort Worth, TX",
+				"description": "Filmmaking || esse quam videri",
+				"url": "http://t.co/r4K22VcHsu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/r4K22VcHsu",
+								"expanded_url": "http://www.refocusedmedia.com",
+								"display_url": "refocusedmedia.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4254,
+				"friends_count": 1755,
+				"listed_count": 223,
+				"created_at": "Wed Jun 29 17:48:45 +0000 2011",
+				"favourites_count": 49673,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80656,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/659544282622095360/jnMKxJFw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/659544282622095360/jnMKxJFw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326293048/1430666520",
+				"profile_link_color": "0099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 31 00:00:22 +0000 2018",
 		"id": 1001976643358019600,
 		"id_str": "1001976643358019585",
