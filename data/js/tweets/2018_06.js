@@ -1,6 +1,940 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 17:02:51 +0000 2018",
+		"id": 1003683511964917800,
+		"id_str": "1003683511964917761",
+		"text": "RT @maiiipower: Okay but where was this when I was little? https://t.co/9PfOx7qWeP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maiiipower",
+					"name": "m.",
+					"id": 42350159,
+					"id_str": "42350159",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003037540239269900,
+					"id_str": "1003037540239269888",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+					"url": "https://t.co/9PfOx7qWeP",
+					"display_url": "pic.twitter.com/9PfOx7qWeP",
+					"expanded_url": "https://twitter.com/maiiipower/status/1003037555598688256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003037555598688300,
+					"source_status_id_str": "1003037555598688256",
+					"source_user_id": 42350159,
+					"source_user_id_str": "42350159"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003037540239269900,
+					"id_str": "1003037540239269888",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+					"url": "https://t.co/9PfOx7qWeP",
+					"display_url": "pic.twitter.com/9PfOx7qWeP",
+					"expanded_url": "https://twitter.com/maiiipower/status/1003037555598688256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003037555598688300,
+					"source_status_id_str": "1003037555598688256",
+					"source_user_id": 42350159,
+					"source_user_id_str": "42350159"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, sweeter after difficulties",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 467,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 22:16:03 +0000 2018",
+			"id": 1003037555598688300,
+			"id_str": "1003037555598688256",
+			"text": "Okay but where was this when I was little? https://t.co/9PfOx7qWeP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003037540239269900,
+						"id_str": "1003037540239269888",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+						"url": "https://t.co/9PfOx7qWeP",
+						"display_url": "pic.twitter.com/9PfOx7qWeP",
+						"expanded_url": "https://twitter.com/maiiipower/status/1003037555598688256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003037540239269900,
+						"id_str": "1003037540239269888",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeuBVBpX4AAAbiN.jpg",
+						"url": "https://t.co/9PfOx7qWeP",
+						"display_url": "pic.twitter.com/9PfOx7qWeP",
+						"expanded_url": "https://twitter.com/maiiipower/status/1003037555598688256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42350159,
+				"id_str": "42350159",
+				"name": "m.",
+				"screen_name": "maiiipower",
+				"location": "$",
+				"description": "closure is for wigs. 1881 alumna.",
+				"url": "https://t.co/Z67lTGC3PU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z67lTGC3PU",
+								"expanded_url": "http://blackmeansexcellence.com",
+								"display_url": "blackmeansexcellence.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2500,
+				"friends_count": 1343,
+				"listed_count": 86,
+				"created_at": "Mon May 25 04:35:17 +0000 2009",
+				"favourites_count": 4486,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 86218,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999504462577188865/MgO8POgu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999504462577188865/MgO8POgu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42350159/1524499375",
+				"profile_link_color": "FF032D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "080808",
+				"profile_text_color": "696769",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 866,
+			"favorite_count": 2186,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 866,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 04 16:52:30 +0000 2018",
+		"id": 1003680906647752700,
+		"id_str": "1003680906647752705",
+		"text": "oh jesus https://t.co/uS8LqIY3wr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uS8LqIY3wr",
+					"expanded_url": "https://twitter.com/fergsten/status/1003610921082806273",
+					"display_url": "twitter.com/fergsten/statu…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, sweeter after difficulties",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 467,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1003610921082806300,
+		"quoted_status_id_str": "1003610921082806273",
+		"quoted_status": {
+			"created_at": "Mon Jun 04 12:14:24 +0000 2018",
+			"id": 1003610921082806300,
+			"id_str": "1003610921082806273",
+			"text": "Good morning! Yesterday I had a big adventure! https://t.co/iP2d6jA2Lb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003610916510994400,
+						"id_str": "1003610916510994432",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/De2Kz6tXkAAzkJd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De2Kz6tXkAAzkJd.jpg",
+						"url": "https://t.co/iP2d6jA2Lb",
+						"display_url": "pic.twitter.com/iP2d6jA2Lb",
+						"expanded_url": "https://twitter.com/fergsten/status/1003610921082806273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003610916510994400,
+						"id_str": "1003610916510994432",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/De2Kz6tXkAAzkJd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De2Kz6tXkAAzkJd.jpg",
+						"url": "https://t.co/iP2d6jA2Lb",
+						"display_url": "pic.twitter.com/iP2d6jA2Lb",
+						"expanded_url": "https://twitter.com/fergsten/status/1003610921082806273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1003036460096917500,
+				"id_str": "1003036460096917506",
+				"name": "Fergsten",
+				"screen_name": "fergsten",
+				"location": "New York, USA",
+				"description": "I love u",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 11,
+				"listed_count": 0,
+				"created_at": "Sat Jun 02 22:11:42 +0000 2018",
+				"favourites_count": 69,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1003037438242181120/Awk7F3Ma_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003037438242181120/Awk7F3Ma_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003036460096917506/1527978344",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 04 16:25:53 +0000 2018",
+		"id": 1003674209258618900,
+		"id_str": "1003674209258618881",
+		"text": "@kristenwarner @fergsten @frittersandclam 👀👀",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Ornery Dr. KW AKA Judge Rude-y",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "fergsten",
+					"name": "Fergsten",
+					"id": 1003036460096917500,
+					"id_str": "1003036460096917506",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						25,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1003672615687516200,
+		"in_reply_to_status_id_str": "1003672615687516160",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, sweeter after difficulties",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 467,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jun 04 16:17:14 +0000 2018",
+		"id": 1003672030493864000,
+		"id_str": "1003672030493863937",
+		"text": "@kristenwarner @fergsten @frittersandclam Omg I have that envelope in my drawer.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Ornery Dr. KW AKA Judge Rude-y",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "fergsten",
+					"name": "Fergsten",
+					"id": 1003036460096917500,
+					"id_str": "1003036460096917506",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						25,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1003671405987270700,
+		"in_reply_to_status_id_str": "1003671405987270656",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, sweeter after difficulties",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 467,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 04 16:10:50 +0000 2018",
 		"id": 1003670421131022300,
 		"id_str": "1003670421131022336",
