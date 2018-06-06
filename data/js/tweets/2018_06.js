@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 06 06:47:02 +0000 2018",
+		"id": 1004253313687158800,
+		"id_str": "1004253313687158784",
+		"text": "RT @mrsamherbst: https://t.co/I0nVdPmLMW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrsamherbst",
+					"name": "Sam Herbst 🐀",
+					"id": 27822442,
+					"id_str": "27822442",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004014156444561400,
+					"id_str": "1004014156444561410",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+					"url": "https://t.co/I0nVdPmLMW",
+					"display_url": "pic.twitter.com/I0nVdPmLMW",
+					"expanded_url": "https://twitter.com/mrsamherbst/status/1004014158319374336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004014158319374300,
+					"source_status_id_str": "1004014158319374336",
+					"source_user_id": 27822442,
+					"source_user_id_str": "27822442"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004014156444561400,
+					"id_str": "1004014156444561410",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+					"url": "https://t.co/I0nVdPmLMW",
+					"display_url": "pic.twitter.com/I0nVdPmLMW",
+					"expanded_url": "https://twitter.com/mrsamherbst/status/1004014158319374336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004014158319374300,
+					"source_status_id_str": "1004014158319374336",
+					"source_user_id": 27822442,
+					"source_user_id_str": "27822442"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, sweeter after difficulties",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 469,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 05 14:56:43 +0000 2018",
+			"id": 1004014158319374300,
+			"id_str": "1004014158319374336",
+			"text": "https://t.co/I0nVdPmLMW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004014156444561400,
+						"id_str": "1004014156444561410",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+						"url": "https://t.co/I0nVdPmLMW",
+						"display_url": "pic.twitter.com/I0nVdPmLMW",
+						"expanded_url": "https://twitter.com/mrsamherbst/status/1004014158319374336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004014156444561400,
+						"id_str": "1004014156444561410",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De75jkhXcAI8YMn.jpg",
+						"url": "https://t.co/I0nVdPmLMW",
+						"display_url": "pic.twitter.com/I0nVdPmLMW",
+						"expanded_url": "https://twitter.com/mrsamherbst/status/1004014158319374336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.crowdfireapp.com\" rel=\"nofollow\">Crowdfire - Go Big</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27822442,
+				"id_str": "27822442",
+				"name": "Sam Herbst 🐀",
+				"screen_name": "mrsamherbst",
+				"location": "San Jose, CA",
+				"description": "Host of @TheKidmanifesto. Advocate for bagels and character actresses everywhere. https://t.co/SwIQd3npua",
+				"url": "https://t.co/Ra81I83Zqj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ra81I83Zqj",
+								"expanded_url": "http://letterboxd.com/samherbst",
+								"display_url": "letterboxd.com/samherbst",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SwIQd3npua",
+								"expanded_url": "http://Instagram.com/mrsamherbst",
+								"display_url": "Instagram.com/mrsamherbst",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1649,
+				"friends_count": 643,
+				"listed_count": 20,
+				"created_at": "Tue Mar 31 05:37:29 +0000 2009",
+				"favourites_count": 60747,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19065,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00FFCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001262544479182850/BIrf3mbm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001262544479182850/BIrf3mbm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27822442/1527557118",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Jun 06 06:11:27 +0000 2018",
 		"id": 1004244356830642200,
 		"id_str": "1004244356830642176",
