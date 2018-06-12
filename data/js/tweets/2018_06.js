@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 11 23:37:29 +0000 2018",
+		"id": 1006319541327020000,
+		"id_str": "1006319541327020032",
+		"text": "RT @BrukDiana: Omg. https://t.co/oeRO4FBVmt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrukDiana",
+					"name": "Diana",
+					"id": 992374664,
+					"id_str": "992374664",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006174150761820200,
+					"id_str": "1006174150761820160",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"url": "https://t.co/oeRO4FBVmt",
+					"display_url": "pic.twitter.com/oeRO4FBVmt",
+					"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006174168889643000,
+					"source_status_id_str": "1006174168889643009",
+					"source_user_id": 992374664,
+					"source_user_id_str": "992374664"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006174150761820200,
+					"id_str": "1006174150761820160",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"url": "https://t.co/oeRO4FBVmt",
+					"display_url": "pic.twitter.com/oeRO4FBVmt",
+					"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006174168889643000,
+					"source_status_id_str": "1006174168889643009",
+					"source_user_id": 992374664,
+					"source_user_id_str": "992374664"
+				},
+				{
+					"id": 1006174158051532800,
+					"id_str": "1006174158051532803",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+					"url": "https://t.co/oeRO4FBVmt",
+					"display_url": "pic.twitter.com/oeRO4FBVmt",
+					"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006174168889643000,
+					"source_status_id_str": "1006174168889643009",
+					"source_user_id": 992374664,
+					"source_user_id_str": "992374664"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, sweeter after difficulties",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 469,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54829,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002878897862692864/e2j4N_HE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 13:59:50 +0000 2018",
+			"id": 1006174168889643000,
+			"id_str": "1006174168889643009",
+			"text": "Omg. https://t.co/oeRO4FBVmt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006174150761820200,
+						"id_str": "1006174150761820160",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"url": "https://t.co/oeRO4FBVmt",
+						"display_url": "pic.twitter.com/oeRO4FBVmt",
+						"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006174150761820200,
+						"id_str": "1006174150761820160",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"url": "https://t.co/oeRO4FBVmt",
+						"display_url": "pic.twitter.com/oeRO4FBVmt",
+						"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1006174158051532800,
+						"id_str": "1006174158051532803",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+						"url": "https://t.co/oeRO4FBVmt",
+						"display_url": "pic.twitter.com/oeRO4FBVmt",
+						"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992374664,
+				"id_str": "992374664",
+				"name": "Diana",
+				"screen_name": "BrukDiana",
+				"location": "St. Petersburg, Oxford, NYC",
+				"description": "Russian-American writer @Cosmo, @MarieClaire, @Elle, @ParisReview, @Salon. I tweet about Russia, modern dating, and dogs.",
+				"url": "https://t.co/6EsVllaLOz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6EsVllaLOz",
+								"expanded_url": "http://dianabruk.com",
+								"display_url": "dianabruk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5829,
+				"friends_count": 605,
+				"listed_count": 59,
+				"created_at": "Thu Dec 06 04:33:11 +0000 2012",
+				"favourites_count": 1443,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3026,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930891088671444993/zyWBvnAJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930891088671444993/zyWBvnAJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992374664/1404571823",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69315,
+			"favorite_count": 196971,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 69315,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Jun 11 20:20:26 +0000 2018",
 		"id": 1006269950338584600,
 		"id_str": "1006269950338584577",
