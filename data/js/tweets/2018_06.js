@@ -1,6 +1,739 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 17 13:27:41 +0000 2018",
+		"id": 1008340407992967200,
+		"id_str": "1008340407992967169",
+		"text": "RT @KOKINGS4: This one is for all you Dad's out there👊 Happy Father’s Day\nhttps://t.co/dA4xN0AIGr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KOKINGS4",
+					"name": "KO Kings",
+					"id": 2972989491,
+					"id_str": "2972989491",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 949106048819802100,
+					"id_str": "949106048819802112",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+					"url": "https://t.co/dA4xN0AIGr",
+					"display_url": "pic.twitter.com/dA4xN0AIGr",
+					"expanded_url": "https://twitter.com/wesleysnipes/status/949106174170771456/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949106174170771500,
+					"source_status_id_str": "949106174170771456",
+					"source_user_id": 110610806,
+					"source_user_id_str": "110610806"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949106048819802100,
+					"id_str": "949106048819802112",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+					"url": "https://t.co/dA4xN0AIGr",
+					"display_url": "pic.twitter.com/dA4xN0AIGr",
+					"expanded_url": "https://twitter.com/wesleysnipes/status/949106174170771456/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949106174170771500,
+					"source_status_id_str": "949106174170771456",
+					"source_user_id": 110610806,
+					"source_user_id_str": "110610806",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58051,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949106048819802112/pu/vid/480x480/zdz3rCpxMXPT-fm2.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/949106048819802112/pu/pl/cwGRZRL37oQSs2RA.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949106048819802112/pu/vid/240x240/bm4qg5HbjAWL-ifE.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 110610806,
+							"id_str": "110610806",
+							"name": "WS",
+							"screen_name": "wesleysnipes",
+							"location": "Maandi House",
+							"description": "\"TALON OF GOD\" available wherever books are sold!",
+							"url": "https://t.co/35HpJZ8BVO",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/35HpJZ8BVO",
+											"expanded_url": "http://www.TalonOfGod.com",
+											"display_url": "TalonOfGod.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 214768,
+							"friends_count": 1452,
+							"listed_count": 1384,
+							"created_at": "Tue Feb 02 04:28:11 +0000 2010",
+							"favourites_count": 22431,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 5540,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/876853260019130368/SHsGkQn8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/876853260019130368/SHsGkQn8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/110610806/1506209546",
+							"profile_link_color": "965254",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, \"the itch\"",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 470,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54887,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007805435213111296/2TNN6YqC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007805435213111296/2TNN6YqC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 17 07:58:26 +0000 2018",
+			"id": 1008257548036857900,
+			"id_str": "1008257548036857857",
+			"text": "This one is for all you Dad's out there👊 Happy Father’s Day\nhttps://t.co/dA4xN0AIGr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 949106048819802100,
+						"id_str": "949106048819802112",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+						"url": "https://t.co/dA4xN0AIGr",
+						"display_url": "pic.twitter.com/dA4xN0AIGr",
+						"expanded_url": "https://twitter.com/wesleysnipes/status/949106174170771456/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 949106174170771500,
+						"source_status_id_str": "949106174170771456",
+						"source_user_id": 110610806,
+						"source_user_id_str": "110610806"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949106048819802100,
+						"id_str": "949106048819802112",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949106048819802112/pu/img/7bk_PkMNHnoO3Nr0.jpg",
+						"url": "https://t.co/dA4xN0AIGr",
+						"display_url": "pic.twitter.com/dA4xN0AIGr",
+						"expanded_url": "https://twitter.com/wesleysnipes/status/949106174170771456/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 949106174170771500,
+						"source_status_id_str": "949106174170771456",
+						"source_user_id": 110610806,
+						"source_user_id_str": "110610806",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 58051,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949106048819802112/pu/vid/480x480/zdz3rCpxMXPT-fm2.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/949106048819802112/pu/pl/cwGRZRL37oQSs2RA.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949106048819802112/pu/vid/240x240/bm4qg5HbjAWL-ifE.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 110610806,
+								"id_str": "110610806",
+								"name": "WS",
+								"screen_name": "wesleysnipes",
+								"location": "Maandi House",
+								"description": "\"TALON OF GOD\" available wherever books are sold!",
+								"url": "https://t.co/35HpJZ8BVO",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/35HpJZ8BVO",
+												"expanded_url": "http://www.TalonOfGod.com",
+												"display_url": "TalonOfGod.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 214768,
+								"friends_count": 1452,
+								"listed_count": 1384,
+								"created_at": "Tue Feb 02 04:28:11 +0000 2010",
+								"favourites_count": 22431,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 5540,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/876853260019130368/SHsGkQn8_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/876853260019130368/SHsGkQn8_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/110610806/1506209546",
+								"profile_link_color": "965254",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2972989491,
+				"id_str": "2972989491",
+				"name": "KO Kings",
+				"screen_name": "KOKINGS4",
+				"location": "",
+				"description": "Boxing/MMA/K1/Muay Thai and any other combat sport. All levels of knowledge welcome. Follower, Friend and supporter of the newly opening @kentgloves gym, Medway",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72947,
+				"friends_count": 4512,
+				"listed_count": 285,
+				"created_at": "Sun Jan 11 13:13:21 +0000 2015",
+				"favourites_count": 89,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18943,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006494312341950464/c9yNi29-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006494312341950464/c9yNi29-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972989491/1514465649",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4305,
+			"favorite_count": 7505,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4305,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 17 13:21:13 +0000 2018",
+		"id": 1008338780657463300,
+		"id_str": "1008338780657463297",
+		"text": "https://t.co/3N0DS7FXoW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1008338769563406300,
+					"id_str": "1008338769563406336",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Df5WxL0U0AAtCFQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Df5WxL0U0AAtCFQ.jpg",
+					"url": "https://t.co/3N0DS7FXoW",
+					"display_url": "pic.twitter.com/3N0DS7FXoW",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1008338780657463297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1008338769563406300,
+					"id_str": "1008338769563406336",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Df5WxL0U0AAtCFQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Df5WxL0U0AAtCFQ.jpg",
+					"url": "https://t.co/3N0DS7FXoW",
+					"display_url": "pic.twitter.com/3N0DS7FXoW",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1008338780657463297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, \"the itch\"",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 470,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54887,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007805435213111296/2TNN6YqC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007805435213111296/2TNN6YqC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Jun 16 23:48:53 +0000 2018",
 		"id": 1008134346736394200,
 		"id_str": "1008134346736394240",
