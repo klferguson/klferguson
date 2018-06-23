@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 23 20:36:34 +0000 2018",
+		"id": 1010622664409538600,
+		"id_str": "1010622664409538562",
+		"text": "RT @RCPress_Sean: If you're in NYC....\n#AbolishICE https://t.co/Va3uTMIOqD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AbolishICE",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RCPress_Sean",
+					"name": "Sean Kitchen 🌹",
+					"id": 559504424,
+					"id_str": "559504424",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010608405860569100,
+					"id_str": "1010608405860569088",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+					"url": "https://t.co/Va3uTMIOqD",
+					"display_url": "pic.twitter.com/Va3uTMIOqD",
+					"expanded_url": "https://twitter.com/RCPress_Sean/status/1010608419546583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010608419546583000,
+					"source_status_id_str": "1010608419546583040",
+					"source_user_id": 559504424,
+					"source_user_id_str": "559504424"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010608405860569100,
+					"id_str": "1010608405860569088",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+					"url": "https://t.co/Va3uTMIOqD",
+					"display_url": "pic.twitter.com/Va3uTMIOqD",
+					"expanded_url": "https://twitter.com/RCPress_Sean/status/1010608419546583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010608419546583000,
+					"source_status_id_str": "1010608419546583040",
+					"source_user_id": 559504424,
+					"source_user_id_str": "559504424"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, consumed by owls",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1169,
+			"friends_count": 470,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54999,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009524223331749889/b_Z0-j3A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009524223331749889/b_Z0-j3A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 19:39:58 +0000 2018",
+			"id": 1010608419546583000,
+			"id_str": "1010608419546583040",
+			"text": "If you're in NYC....\n#AbolishICE https://t.co/Va3uTMIOqD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AbolishICE",
+						"indices": [
+							21,
+							32
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1010608405860569100,
+						"id_str": "1010608405860569088",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+						"url": "https://t.co/Va3uTMIOqD",
+						"display_url": "pic.twitter.com/Va3uTMIOqD",
+						"expanded_url": "https://twitter.com/RCPress_Sean/status/1010608419546583040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010608405860569100,
+						"id_str": "1010608405860569088",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgZm_Z5X0AAmvaZ.jpg",
+						"url": "https://t.co/Va3uTMIOqD",
+						"display_url": "pic.twitter.com/Va3uTMIOqD",
+						"expanded_url": "https://twitter.com/RCPress_Sean/status/1010608419546583040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 559504424,
+				"id_str": "559504424",
+				"name": "Sean Kitchen 🌹",
+				"screen_name": "RCPress_Sean",
+				"location": "Harrisburg, PA",
+				"description": "Lefty Muckraker accrd to @Will_Bunch, Writer at @RCPress living in the center PA's political universe.  Philly native living in Harrisburg",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2920,
+				"friends_count": 2815,
+				"listed_count": 97,
+				"created_at": "Sat Apr 21 12:46:03 +0000 2012",
+				"favourites_count": 838,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987664792746905600/1ZDUu7Nj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987664792746905600/1ZDUu7Nj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/559504424/1529465500",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 268,
+			"favorite_count": 420,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 23 18:45:36 +0000 2018",
 		"id": 1010594741032030200,
 		"id_str": "1010594741032030213",
