@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 28 01:43:56 +0000 2018",
+		"id": 1012149566748098600,
+		"id_str": "1012149566748098561",
+		"text": "RT @missmayn: Who wants to tell this bitch she’s in New Jersey\nhttps://t.co/coSI17dkG7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "missmayn",
+					"name": "Ally Maynard",
+					"id": 23287527,
+					"id_str": "23287527",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/coSI17dkG7",
+					"expanded_url": "https://twitter.com/KaitMarieox/status/1011760698026799105",
+					"display_url": "twitter.com/KaitMarieox/st…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, consumed by owls",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1166,
+			"friends_count": 469,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009524223331749889/b_Z0-j3A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009524223331749889/b_Z0-j3A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 27 21:25:26 +0000 2018",
+			"id": 1012084514003120100,
+			"id_str": "1012084514003120128",
+			"text": "Who wants to tell this bitch she’s in New Jersey\nhttps://t.co/coSI17dkG7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/coSI17dkG7",
+						"expanded_url": "https://twitter.com/KaitMarieox/status/1011760698026799105",
+						"display_url": "twitter.com/KaitMarieox/st…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23287527,
+				"id_str": "23287527",
+				"name": "Ally Maynard",
+				"screen_name": "missmayn",
+				"location": "Los Angeles",
+				"description": "writer / wannabe cool dad.  I make stuff for tv and the internet, but mostly for myself",
+				"url": "https://t.co/AWnMAx4dgb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AWnMAx4dgb",
+								"expanded_url": "http://allymaynard.com/blog",
+								"display_url": "allymaynard.com/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47295,
+				"friends_count": 1100,
+				"listed_count": 999,
+				"created_at": "Sun Mar 08 07:32:09 +0000 2009",
+				"favourites_count": 110361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23916,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986072566325325824/OEfDvFDy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986072566325325824/OEfDvFDy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23287527/1523512636",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1011760698026799100,
+			"quoted_status_id_str": "1011760698026799105",
+			"quoted_status": {
+				"created_at": "Tue Jun 26 23:58:42 +0000 2018",
+				"id": 1011760698026799100,
+				"id_str": "1011760698026799105",
+				"text": "Thank you New York for being so awful that I can't even protect myself with my handgun in your crime-ridden city 🙃… https://t.co/oNS0S0cyii",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/oNS0S0cyii",
+							"expanded_url": "https://twitter.com/i/web/status/1011760698026799105",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 878087280321335300,
+					"id_str": "878087280321335298",
+					"name": "Kaitlin Bennett",
+					"screen_name": "KaitMarieox",
+					"location": "Ohio",
+					"description": "Grassroots Director of @LibertyHangout | Founder of @LHatKent | #CampusCarryNow",
+					"url": "https://t.co/CRqRAcgqbA",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/CRqRAcgqbA",
+									"expanded_url": "http://libertyhangout.org",
+									"display_url": "libertyhangout.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 80310,
+					"friends_count": 582,
+					"listed_count": 546,
+					"created_at": "Fri Jun 23 03:08:16 +0000 2017",
+					"favourites_count": 1445,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 603,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1000528556152246272/noGBTBDm_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000528556152246272/noGBTBDm_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/878087280321335298/1529791070",
+					"profile_link_color": "F58EA8",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 456,
+				"favorite_count": 3916,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1139,
+			"favorite_count": 11019,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1011760698026799100,
+		"quoted_status_id_str": "1011760698026799105",
+		"retweet_count": 1139,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 27 20:51:45 +0000 2018",
 		"id": 1012076038711636000,
 		"id_str": "1012076038711635968",
