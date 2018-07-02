@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 02 21:46:01 +0000 2018",
+		"id": 1013901633196118000,
+		"id_str": "1013901633196118021",
+		"text": "RT @_grendan: fuck you scab https://t.co/BJLd2Czrqt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_grendan",
+					"name": "Brendan O'Connor",
+					"id": 478806662,
+					"id_str": "478806662",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1013817739146924000,
+					"id_str": "1013817739146924034",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+					"url": "https://t.co/BJLd2Czrqt",
+					"display_url": "pic.twitter.com/BJLd2Czrqt",
+					"expanded_url": "https://twitter.com/_grendan/status/1013817752694476800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1133,
+							"h": 928,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1133,
+							"h": 928,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013817752694476800,
+					"source_status_id_str": "1013817752694476800",
+					"source_user_id": 478806662,
+					"source_user_id_str": "478806662"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1013817739146924000,
+					"id_str": "1013817739146924034",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+					"url": "https://t.co/BJLd2Czrqt",
+					"display_url": "pic.twitter.com/BJLd2Czrqt",
+					"expanded_url": "https://twitter.com/_grendan/status/1013817752694476800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1133,
+							"h": 928,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1133,
+							"h": 928,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013817752694476800,
+					"source_status_id_str": "1013817752694476800",
+					"source_user_id": 478806662,
+					"source_user_id_str": "478806662"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, consumed by owls",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1168,
+			"friends_count": 470,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55144,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009524223331749889/b_Z0-j3A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009524223331749889/b_Z0-j3A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 16:12:42 +0000 2018",
+			"id": 1013817752694476800,
+			"id_str": "1013817752694476800",
+			"text": "fuck you scab https://t.co/BJLd2Czrqt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1013817739146924000,
+						"id_str": "1013817739146924034",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+						"url": "https://t.co/BJLd2Czrqt",
+						"display_url": "pic.twitter.com/BJLd2Czrqt",
+						"expanded_url": "https://twitter.com/_grendan/status/1013817752694476800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 557,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1133,
+								"h": 928,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1133,
+								"h": 928,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013817739146924000,
+						"id_str": "1013817739146924034",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhHN3MDXkAIl3mF.jpg",
+						"url": "https://t.co/BJLd2Czrqt",
+						"display_url": "pic.twitter.com/BJLd2Czrqt",
+						"expanded_url": "https://twitter.com/_grendan/status/1013817752694476800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 557,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1133,
+								"h": 928,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1133,
+								"h": 928,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 478806662,
+				"id_str": "478806662",
+				"name": "Brendan O'Connor",
+				"screen_name": "_grendan",
+				"location": "New York, NY",
+				"description": "reporter covering the far right | send me tips: brendan.french.oconnor@gmail.com | he/him @wgaeast #1u 🌹",
+				"url": "https://t.co/FiIueuL8Df",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FiIueuL8Df",
+								"expanded_url": "https://specialprojectsdesk.kinja.com/about-the-gizmodo-media-group-special-projects-desk-1792136692",
+								"display_url": "specialprojectsdesk.kinja.com/about-the-gizm…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12309,
+				"friends_count": 1741,
+				"listed_count": 241,
+				"created_at": "Mon Jan 30 17:49:55 +0000 2012",
+				"favourites_count": 60697,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17612,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927985644533624832/OYKm1PXJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927985644533624832/OYKm1PXJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/478806662/1522601987",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102,
+			"favorite_count": 900,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 02 17:03:54 +0000 2018",
 		"id": 1013830637915136000,
 		"id_str": "1013830637915136002",
