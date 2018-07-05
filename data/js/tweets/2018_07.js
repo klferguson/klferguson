@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 05 03:23:48 +0000 2018",
+		"id": 1014711413703696400,
+		"id_str": "1014711413703696385",
+		"text": "RT @fergsten: Don’t forget to love on your four-footed loves extra tonight! Fireworks sound scary! https://t.co/puAZqQq00Z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fergsten",
+					"name": "Fergsten",
+					"id": 1003036460096917500,
+					"id_str": "1003036460096917506",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014670143870230500,
+					"id_str": "1014670143870230528",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+					"url": "https://t.co/puAZqQq00Z",
+					"display_url": "pic.twitter.com/puAZqQq00Z",
+					"expanded_url": "https://twitter.com/fergsten/status/1014670157258555392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 122,
+							"h": 122,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1014670157258555400,
+					"source_status_id_str": "1014670157258555392",
+					"source_user_id": 1003036460096917500,
+					"source_user_id_str": "1003036460096917506"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014670143870230500,
+					"id_str": "1014670143870230528",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+					"url": "https://t.co/puAZqQq00Z",
+					"display_url": "pic.twitter.com/puAZqQq00Z",
+					"expanded_url": "https://twitter.com/fergsten/status/1014670157258555392/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 122,
+							"h": 122,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1014670157258555400,
+					"source_status_id_str": "1014670157258555392",
+					"source_user_id": 1003036460096917500,
+					"source_user_id_str": "1003036460096917506",
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DhTVHrGUYAAm9ZR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, one of us, one of us",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1170,
+			"friends_count": 470,
+			"listed_count": 49,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55198,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014241264462647298/jDxwBtPk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014241264462647298/jDxwBtPk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 00:39:51 +0000 2018",
+			"id": 1014670157258555400,
+			"id_str": "1014670157258555392",
+			"text": "Don’t forget to love on your four-footed loves extra tonight! Fireworks sound scary! https://t.co/puAZqQq00Z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014670143870230500,
+						"id_str": "1014670143870230528",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+						"url": "https://t.co/puAZqQq00Z",
+						"display_url": "pic.twitter.com/puAZqQq00Z",
+						"expanded_url": "https://twitter.com/fergsten/status/1014670157258555392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 122,
+								"h": 122,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014670143870230500,
+						"id_str": "1014670143870230528",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhTVHrGUYAAm9ZR.jpg",
+						"url": "https://t.co/puAZqQq00Z",
+						"display_url": "pic.twitter.com/puAZqQq00Z",
+						"expanded_url": "https://twitter.com/fergsten/status/1014670157258555392/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 122,
+								"h": 122,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								110,
+								61
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DhTVHrGUYAAm9ZR.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1003036460096917500,
+				"id_str": "1003036460096917506",
+				"name": "Fergsten",
+				"screen_name": "fergsten",
+				"location": "New York, USA",
+				"description": "I love u",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 16,
+				"listed_count": 0,
+				"created_at": "Sat Jun 02 22:11:42 +0000 2018",
+				"favourites_count": 165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 130,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1003037438242181120/Awk7F3Ma_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003037438242181120/Awk7F3Ma_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003036460096917506/1528144584",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 05 02:39:52 +0000 2018",
 		"id": 1014700360571777000,
 		"id_str": "1014700360571777024",
