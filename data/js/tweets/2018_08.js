@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 07 13:02:35 +0000 2018",
+		"id": 1026815872269275100,
+		"id_str": "1026815872269275136",
+		"text": "RT @midwestspitfire: that de-escalated quickly https://t.co/G6jzYu6bz4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "midwestspitfire",
+					"name": "Libby Hill",
+					"id": 90746363,
+					"id_str": "90746363",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1026476609061023700,
+					"id_str": "1026476609061023745",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+					"url": "https://t.co/G6jzYu6bz4",
+					"display_url": "pic.twitter.com/G6jzYu6bz4",
+					"expanded_url": "https://twitter.com/midwestspitfire/status/1026476653382225923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1700,
+							"h": 1160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1026476653382225900,
+					"source_status_id_str": "1026476653382225923",
+					"source_user_id": 90746363,
+					"source_user_id_str": "90746363"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1026476609061023700,
+					"id_str": "1026476609061023745",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+					"url": "https://t.co/G6jzYu6bz4",
+					"display_url": "pic.twitter.com/G6jzYu6bz4",
+					"expanded_url": "https://twitter.com/midwestspitfire/status/1026476653382225923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1700,
+							"h": 1160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1026476653382225900,
+					"source_status_id_str": "1026476653382225923",
+					"source_user_id": 90746363,
+					"source_user_id_str": "90746363"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, cayenne buttercream cupcaking",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 467,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 06 14:34:39 +0000 2018",
+			"id": 1026476653382225900,
+			"id_str": "1026476653382225923",
+			"text": "that de-escalated quickly https://t.co/G6jzYu6bz4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1026476609061023700,
+						"id_str": "1026476609061023745",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+						"url": "https://t.co/G6jzYu6bz4",
+						"display_url": "pic.twitter.com/G6jzYu6bz4",
+						"expanded_url": "https://twitter.com/midwestspitfire/status/1026476653382225923/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1700,
+								"h": 1160,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1026476609061023700,
+						"id_str": "1026476609061023745",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dj7HCZVUcAEVCq5.png",
+						"url": "https://t.co/G6jzYu6bz4",
+						"display_url": "pic.twitter.com/G6jzYu6bz4",
+						"expanded_url": "https://twitter.com/midwestspitfire/status/1026476653382225923/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1700,
+								"h": 1160,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90746363,
+				"id_str": "90746363",
+				"name": "Libby Hill",
+				"screen_name": "midwestspitfire",
+				"location": "",
+				"description": "Ecstatic disaster •  Girl Friday • VP of Spite • @latimes ent reporter • a terrible goose • nolite te bastardes carborundorum",
+				"url": "http://t.co/HPk9jBeqyP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HPk9jBeqyP",
+								"expanded_url": "http://www.latimes.com/la-bio-libby-hill-staff.html",
+								"display_url": "latimes.com/la-bio-libby-h…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7656,
+				"friends_count": 1609,
+				"listed_count": 259,
+				"created_at": "Tue Nov 17 23:20:19 +0000 2009",
+				"favourites_count": 15750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 553,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837429703921152004/O8S7XgP9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837429703921152004/O8S7XgP9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90746363/1526540142",
+				"profile_link_color": "333399",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1921,
+			"favorite_count": 5945,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1921,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 07 03:52:07 +0000 2018",
 		"id": 1026677341429346300,
 		"id_str": "1026677341429346304",
