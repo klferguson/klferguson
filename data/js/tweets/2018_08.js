@@ -1,6 +1,1814 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 15 02:01:56 +0000 2018",
+		"id": 1029548714321502200,
+		"id_str": "1029548714321502208",
+		"text": "@kristenwarner so annoying",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029548671552159700,
+		"in_reply_to_status_id_str": "1029548671552159744",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:59:39 +0000 2018",
+		"id": 1029548141320785900,
+		"id_str": "1029548141320785920",
+		"text": "@kristenwarner \"this chicken doesn't taste like the chicken we usually have\" no shit dude you saw me run into the o… https://t.co/vep2AapzR7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vep2AapzR7",
+					"expanded_url": "https://twitter.com/i/web/status/1029548141320785920",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029547708225409000,
+		"in_reply_to_status_id_str": "1029547708225409024",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:57:48 +0000 2018",
+		"id": 1029547676201898000,
+		"id_str": "1029547676201897984",
+		"text": "i must have seen this four times already but clearly all pre-[whenever statham entered my consciousness '06? '07]. yeek.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029546830072373200,
+		"in_reply_to_status_id_str": "1029546830072373248",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:56:39 +0000 2018",
+		"id": 1029547386279022600,
+		"id_str": "1029547386279022594",
+		"text": "@kristenwarner got a rotisserie chicken and roasted cauli with carrots and also roasted sweet potatoes (little salt… https://t.co/CQJ4cinPAf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CQJ4cinPAf",
+					"expanded_url": "https://twitter.com/i/web/status/1029547386279022594",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029546967016394800,
+		"in_reply_to_status_id_str": "1029546967016394753",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:54:27 +0000 2018",
+		"id": 1029546830072373200,
+		"id_str": "1029546830072373248",
+		"text": "wait wait wait wait wait wait wait. . . . statham is in collateral?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:53:09 +0000 2018",
+		"id": 1029546506955706400,
+		"id_str": "1029546506955706374",
+		"text": "@kristenwarner because the square root of 25 is 5. makes perfect sense.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029546209948708900,
+		"in_reply_to_status_id_str": "1029546209948708864",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:51:26 +0000 2018",
+		"id": 1029546074497798100,
+		"id_str": "1029546074497798144",
+		"text": "@kristenwarner i'm going to assume this is a good thing",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029545701724889100,
+		"in_reply_to_status_id_str": "1029545701724889088",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:48:30 +0000 2018",
+		"id": 1029545336057069600,
+		"id_str": "1029545336057069568",
+		"text": "@kristenwarner is that a sex thing?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029543376595693600,
+		"in_reply_to_status_id_str": "1029543376595693570",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:37:06 +0000 2018",
+		"id": 1029542464695218200,
+		"id_str": "1029542464695218177",
+		"text": "@kristenwarner i'm sincerely sorry. it is true that i originally got confused (i think cuz she's on the left), but… https://t.co/1CsR3tseAy",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1CsR3tseAy",
+					"expanded_url": "https://twitter.com/i/web/status/1029542464695218177",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029541980957757400,
+		"in_reply_to_status_id_str": "1029541980957757443",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:29:43 +0000 2018",
+		"id": 1029540609625911300,
+		"id_str": "1029540609625911298",
+		"text": "@kristenwarner wait, what?? you two are cute. are you crossing the streams...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1029540016039583700,
+		"in_reply_to_status_id_str": "1029540016039583746",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:26:15 +0000 2018",
+		"id": 1029539735985958900,
+		"id_str": "1029539735985958912",
+		"text": "@kristenwarner (cute avi tho)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1029539625449218000,
+		"in_reply_to_status_id_str": "1029539625449218049",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ht"
+	},
+	{
+		"created_at": "Wed Aug 15 01:25:15 +0000 2018",
+		"id": 1029539484713541600,
+		"id_str": "1029539484713541632",
+		"text": "@kristenwarner wait Twitter app or third party one?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1029539320217169900,
+		"in_reply_to_status_id_str": "1029539320217169921",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:24:36 +0000 2018",
+		"id": 1029539320217169900,
+		"id_str": "1029539320217169921",
+		"text": "@kristenwarner Oh, you should put in a complaint. That's got to be frustrating.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1029539130445844500,
+		"in_reply_to_status_id_str": "1029539130445844480",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:22:55 +0000 2018",
+		"id": 1029538897032884200,
+		"id_str": "1029538897032884224",
+		"text": "@kristenwarner did you unmute me just for this",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1029538131148763100,
+		"in_reply_to_status_id_str": "1029538131148763139",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 01:16:43 +0000 2018",
+		"id": 1029537337359978500,
+		"id_str": "1029537337359978498",
+		"text": "@kristenwarner please you're a mind my business moviegoer because you got your damn phone out the whole time. ☎️",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1029532691950129200,
+		"in_reply_to_status_id_str": "1029532691950129153",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022322477131681794/zEFns4BJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 14 23:52:50 +0000 2018",
 		"id": 1029516224420556800,
 		"id_str": "1029516224420556800",
