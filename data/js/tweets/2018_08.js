@@ -1,6 +1,1213 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 16 16:10:06 +0000 2018",
+		"id": 1030124549399097300,
+		"id_str": "1030124549399097344",
+		"text": "RT @cinephile24: THE 90s TECH THRILLER SHOWDOWN https://t.co/JDcB2DnFBQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cinephile24",
+					"name": "Catherine Stebbins",
+					"id": 29070759,
+					"id_str": "29070759",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1030118618548195300,
+					"id_str": "1030118618548195328",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+					"url": "https://t.co/JDcB2DnFBQ",
+					"display_url": "pic.twitter.com/JDcB2DnFBQ",
+					"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030119463260250100,
+					"source_status_id_str": "1030119463260250113",
+					"source_user_id": 29070759,
+					"source_user_id_str": "29070759"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030118618548195300,
+					"id_str": "1030118618548195328",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+					"url": "https://t.co/JDcB2DnFBQ",
+					"display_url": "pic.twitter.com/JDcB2DnFBQ",
+					"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030119463260250100,
+					"source_status_id_str": "1030119463260250113",
+					"source_user_id": 29070759,
+					"source_user_id_str": "29070759"
+				},
+				{
+					"id": 1030118636361404400,
+					"id_str": "1030118636361404416",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku3cSTU0AAkVSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku3cSTU0AAkVSI.jpg",
+					"url": "https://t.co/JDcB2DnFBQ",
+					"display_url": "pic.twitter.com/JDcB2DnFBQ",
+					"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030119463260250100,
+					"source_status_id_str": "1030119463260250113",
+					"source_user_id": 29070759,
+					"source_user_id_str": "29070759"
+				},
+				{
+					"id": 1030118658607964200,
+					"id_str": "1030118658607964160",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku3dlLUYAAlyWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku3dlLUYAAlyWk.jpg",
+					"url": "https://t.co/JDcB2DnFBQ",
+					"display_url": "pic.twitter.com/JDcB2DnFBQ",
+					"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 870,
+							"h": 369,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 870,
+							"h": 369,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030119463260250100,
+					"source_status_id_str": "1030119463260250113",
+					"source_user_id": 29070759,
+					"source_user_id_str": "29070759"
+				},
+				{
+					"id": 1030119447565148200,
+					"id_str": "1030119447565148165",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku4LgRXoAUVcTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku4LgRXoAUVcTq.jpg",
+					"url": "https://t.co/JDcB2DnFBQ",
+					"display_url": "pic.twitter.com/JDcB2DnFBQ",
+					"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 304,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 287,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 304,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030119463260250100,
+					"source_status_id_str": "1030119463260250113",
+					"source_user_id": 29070759,
+					"source_user_id_str": "29070759"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 16 15:49:53 +0000 2018",
+			"id": 1030119463260250100,
+			"id_str": "1030119463260250113",
+			"text": "THE 90s TECH THRILLER SHOWDOWN https://t.co/JDcB2DnFBQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030118618548195300,
+						"id_str": "1030118618548195328",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+						"url": "https://t.co/JDcB2DnFBQ",
+						"display_url": "pic.twitter.com/JDcB2DnFBQ",
+						"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030118618548195300,
+						"id_str": "1030118618548195328",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dku3bP8U0AAs7sy.jpg",
+						"url": "https://t.co/JDcB2DnFBQ",
+						"display_url": "pic.twitter.com/JDcB2DnFBQ",
+						"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1030118636361404400,
+						"id_str": "1030118636361404416",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Dku3cSTU0AAkVSI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dku3cSTU0AAkVSI.jpg",
+						"url": "https://t.co/JDcB2DnFBQ",
+						"display_url": "pic.twitter.com/JDcB2DnFBQ",
+						"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1030118658607964200,
+						"id_str": "1030118658607964160",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Dku3dlLUYAAlyWk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dku3dlLUYAAlyWk.jpg",
+						"url": "https://t.co/JDcB2DnFBQ",
+						"display_url": "pic.twitter.com/JDcB2DnFBQ",
+						"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 870,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 870,
+								"h": 369,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1030119447565148200,
+						"id_str": "1030119447565148165",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Dku4LgRXoAUVcTq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dku4LgRXoAUVcTq.jpg",
+						"url": "https://t.co/JDcB2DnFBQ",
+						"display_url": "pic.twitter.com/JDcB2DnFBQ",
+						"expanded_url": "https://twitter.com/cinephile24/status/1030119463260250113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 304,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 287,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 304,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29070759,
+				"id_str": "29070759",
+				"name": "Catherine Stebbins",
+				"screen_name": "cinephile24",
+				"location": "Providence",
+				"description": "Librarian/archivist. Eternal lover of film, books, travel. Letterboxd: https://t.co/jKK2dE6vOM Tumblr page: https://t.co/d6om73Xd7s",
+				"url": "https://t.co/xgVjRqhNYb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xgVjRqhNYb",
+								"expanded_url": "http://cinenthusiast.wordpress.com/",
+								"display_url": "cinenthusiast.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jKK2dE6vOM",
+								"expanded_url": "http://letterboxd.com/cinephile24/",
+								"display_url": "letterboxd.com/cinephile24/",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/d6om73Xd7s",
+								"expanded_url": "http://cinenthusiast.tumblr.com",
+								"display_url": "cinenthusiast.tumblr.com",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3738,
+				"friends_count": 616,
+				"listed_count": 161,
+				"created_at": "Sun Apr 05 21:30:53 +0000 2009",
+				"favourites_count": 32358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65894,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819675956386238468/lxDlYvJ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819675956386238468/lxDlYvJ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29070759/1523041296",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 16 15:59:51 +0000 2018",
+		"id": 1030121972800348200,
+		"id_str": "1030121972800348160",
+		"text": "https://t.co/X1e8J3XXLt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1030121954747924500,
+					"id_str": "1030121954747924482",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku6dcQUwAIMphG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku6dcQUwAIMphG.jpg",
+					"url": "https://t.co/X1e8J3XXLt",
+					"display_url": "pic.twitter.com/X1e8J3XXLt",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1030121972800348160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030121954747924500,
+					"id_str": "1030121954747924482",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku6dcQUwAIMphG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku6dcQUwAIMphG.jpg",
+					"url": "https://t.co/X1e8J3XXLt",
+					"display_url": "pic.twitter.com/X1e8J3XXLt",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1030121972800348160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Aug 16 15:59:43 +0000 2018",
+		"id": 1030121938037956600,
+		"id_str": "1030121938037956608",
+		"text": "RT @janmpdx: As you type, this website (https://t.co/Iq5ZLsRfNT) translates your words into an image. https://t.co/A4w68Sbgwc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janmpdx",
+					"name": "Jan Mieszkowski",
+					"id": 622284669,
+					"id_str": "622284669",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Iq5ZLsRfNT",
+					"expanded_url": "http://t2i.cvalenzuelab.com",
+					"display_url": "t2i.cvalenzuelab.com",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1030121536420626400,
+					"id_str": "1030121536420626432",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+					"url": "https://t.co/A4w68Sbgwc",
+					"display_url": "pic.twitter.com/A4w68Sbgwc",
+					"expanded_url": "https://twitter.com/janmpdx/status/1030121565231308802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030121565231308800,
+					"source_status_id_str": "1030121565231308802",
+					"source_user_id": 622284669,
+					"source_user_id_str": "622284669"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030121536420626400,
+					"id_str": "1030121536420626432",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+					"url": "https://t.co/A4w68Sbgwc",
+					"display_url": "pic.twitter.com/A4w68Sbgwc",
+					"expanded_url": "https://twitter.com/janmpdx/status/1030121565231308802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030121565231308800,
+					"source_status_id_str": "1030121565231308802",
+					"source_user_id": 622284669,
+					"source_user_id_str": "622284669"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 16 15:58:14 +0000 2018",
+			"id": 1030121565231308800,
+			"id_str": "1030121565231308802",
+			"text": "As you type, this website (https://t.co/Iq5ZLsRfNT) translates your words into an image. https://t.co/A4w68Sbgwc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Iq5ZLsRfNT",
+						"expanded_url": "http://t2i.cvalenzuelab.com",
+						"display_url": "t2i.cvalenzuelab.com",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1030121536420626400,
+						"id_str": "1030121536420626432",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+						"url": "https://t.co/A4w68Sbgwc",
+						"display_url": "pic.twitter.com/A4w68Sbgwc",
+						"expanded_url": "https://twitter.com/janmpdx/status/1030121565231308802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1144,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030121536420626400,
+						"id_str": "1030121536420626432",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dku6FF3UwAAekNu.jpg",
+						"url": "https://t.co/A4w68Sbgwc",
+						"display_url": "pic.twitter.com/A4w68Sbgwc",
+						"expanded_url": "https://twitter.com/janmpdx/status/1030121565231308802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1144,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 622284669,
+				"id_str": "622284669",
+				"name": "Jan Mieszkowski",
+				"screen_name": "janmpdx",
+				"location": "Portland",
+				"description": "Author of Labors of Imagination and Watching War. His new book, Crises of the Sentence, is forthcoming in 2019.",
+				"url": "https://t.co/KRfBrNO9ug",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KRfBrNO9ug",
+								"expanded_url": "http://academic.reed.edu/german/mieszkowski/index.html",
+								"display_url": "academic.reed.edu/german/mieszko…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12468,
+				"friends_count": 458,
+				"listed_count": 379,
+				"created_at": "Fri Jun 29 20:17:32 +0000 2012",
+				"favourites_count": 19785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11226,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984073685773434880/AeKhr1m8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984073685773434880/AeKhr1m8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/622284669/1398282212",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 16 15:10:31 +0000 2018",
 		"id": 1030109556851007500,
 		"id_str": "1030109556851007488",
