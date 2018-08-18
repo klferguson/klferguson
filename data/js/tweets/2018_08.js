@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 18 14:18:25 +0000 2018",
+		"id": 1030821219266965500,
+		"id_str": "1030821219266965510",
+		"text": "RT @lainnafader: Is this a joke https://t.co/PiGTBlZc4f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lainnafader",
+					"name": "Lainna Fader 🦋",
+					"id": 38013977,
+					"id_str": "38013977",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1030820092353769500,
+					"id_str": "1030820092353769472",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+					"url": "https://t.co/PiGTBlZc4f",
+					"display_url": "pic.twitter.com/PiGTBlZc4f",
+					"expanded_url": "https://twitter.com/lainnafader/status/1030820098066526208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 1375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030820098066526200,
+					"source_status_id_str": "1030820098066526208",
+					"source_user_id": 38013977,
+					"source_user_id_str": "38013977"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030820092353769500,
+					"id_str": "1030820092353769472",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+					"url": "https://t.co/PiGTBlZc4f",
+					"display_url": "pic.twitter.com/PiGTBlZc4f",
+					"expanded_url": "https://twitter.com/lainnafader/status/1030820098066526208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 1375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030820098066526200,
+					"source_status_id_str": "1030820098066526208",
+					"source_user_id": 38013977,
+					"source_user_id_str": "38013977"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 467,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 18 14:13:57 +0000 2018",
+			"id": 1030820098066526200,
+			"id_str": "1030820098066526208",
+			"text": "Is this a joke https://t.co/PiGTBlZc4f",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030820092353769500,
+						"id_str": "1030820092353769472",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+						"url": "https://t.co/PiGTBlZc4f",
+						"display_url": "pic.twitter.com/PiGTBlZc4f",
+						"expanded_url": "https://twitter.com/lainnafader/status/1030820098066526208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 667,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 378,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 764,
+								"h": 1375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030820092353769500,
+						"id_str": "1030820092353769472",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk41aZgU8AABE-i.jpg",
+						"url": "https://t.co/PiGTBlZc4f",
+						"display_url": "pic.twitter.com/PiGTBlZc4f",
+						"expanded_url": "https://twitter.com/lainnafader/status/1030820098066526208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 667,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 378,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 764,
+								"h": 1375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38013977,
+				"id_str": "38013977",
+				"name": "Lainna Fader 🦋",
+				"screen_name": "lainnafader",
+				"location": "NYC/LA",
+				"description": "I lead audience development at @newyorker. Proud member of @newyorkerunion, @ONA #digitalwomenleaders '17, @techladymafia. FAQ: Lay-nuh.",
+				"url": "https://t.co/7f1bWKhypU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7f1bWKhypU",
+								"expanded_url": "http://Instagram.com/lfader",
+								"display_url": "Instagram.com/lfader",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9984,
+				"friends_count": 2099,
+				"listed_count": 392,
+				"created_at": "Tue May 05 20:40:05 +0000 2009",
+				"favourites_count": 61539,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50709,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020482530833764352/_vQWe5_d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020482530833764352/_vQWe5_d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38013977/1398194668",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 18 13:51:39 +0000 2018",
 		"id": 1030814485328658400,
 		"id_str": "1030814485328658432",
