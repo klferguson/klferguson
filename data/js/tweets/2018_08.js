@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 23 20:43:51 +0000 2018",
+		"id": 1032730158418026500,
+		"id_str": "1032730158418026497",
+		"text": "RT @apricotbelly: @mitchysuch https://t.co/YwMLmB0GVp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "apricotbelly",
+					"name": "em",
+					"id": 629830155,
+					"id_str": "629830155",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "mitchysuch",
+					"name": "Krispy Scream",
+					"id": 226818372,
+					"id_str": "226818372",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1032675173839892500,
+					"id_str": "1032675173839892480",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+					"url": "https://t.co/YwMLmB0GVp",
+					"display_url": "pic.twitter.com/YwMLmB0GVp",
+					"expanded_url": "https://twitter.com/apricotbelly/status/1032675178990452736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 969,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1002,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032675178990452700,
+					"source_status_id_str": "1032675178990452736",
+					"source_user_id": 629830155,
+					"source_user_id_str": "629830155"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1032675173839892500,
+					"id_str": "1032675173839892480",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+					"url": "https://t.co/YwMLmB0GVp",
+					"display_url": "pic.twitter.com/YwMLmB0GVp",
+					"expanded_url": "https://twitter.com/apricotbelly/status/1032675178990452736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 969,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1002,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032675178990452700,
+					"source_status_id_str": "1032675178990452736",
+					"source_user_id": 629830155,
+					"source_user_id_str": "629830155"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, quasimodo emo wheelchair",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 468,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 17963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030122229248348162/peyi7Zyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 23 17:05:23 +0000 2018",
+			"id": 1032675178990452700,
+			"id_str": "1032675178990452736",
+			"text": "@mitchysuch https://t.co/YwMLmB0GVp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mitchysuch",
+						"name": "Krispy Scream",
+						"id": 226818372,
+						"id_str": "226818372",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1032675173839892500,
+						"id_str": "1032675173839892480",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+						"url": "https://t.co/YwMLmB0GVp",
+						"display_url": "pic.twitter.com/YwMLmB0GVp",
+						"expanded_url": "https://twitter.com/apricotbelly/status/1032675178990452736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 549,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 969,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1241,
+								"h": 1002,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1032675173839892500,
+						"id_str": "1032675173839892480",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlTMmWkXcAAcV-m.jpg",
+						"url": "https://t.co/YwMLmB0GVp",
+						"display_url": "pic.twitter.com/YwMLmB0GVp",
+						"expanded_url": "https://twitter.com/apricotbelly/status/1032675178990452736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 549,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 969,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1241,
+								"h": 1002,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 226818372,
+			"in_reply_to_user_id_str": "226818372",
+			"in_reply_to_screen_name": "mitchysuch",
+			"user": {
+				"id": 629830155,
+				"id_str": "629830155",
+				"name": "em",
+				"screen_name": "apricotbelly",
+				"location": "a bog",
+				"description": "yea",
+				"url": "https://t.co/vqqUCFMc3d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vqqUCFMc3d",
+								"expanded_url": "http://frankocean.tumblr.com/post/23462688021/just-at-home-fuckin-around-no-judging",
+								"display_url": "frankocean.tumblr.com/post/234626880…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2505,
+				"friends_count": 326,
+				"listed_count": 103,
+				"created_at": "Sun Jul 08 00:12:56 +0000 2012",
+				"favourites_count": 47350,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19453,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/995099995639549953/p1xmfFx5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/995099995639549953/p1xmfFx5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/629830155/1528261056",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Aug 23 14:58:53 +0000 2018",
 		"id": 1032643342276939800,
 		"id_str": "1032643342276939779",
