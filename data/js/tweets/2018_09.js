@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 03 21:56:45 +0000 2018",
+		"id": 1036734770766602200,
+		"id_str": "1036734770766602240",
+		"text": "why is this list sorted alphabetically by director's first name it's stressing me https://t.co/8wE9oZsJwx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8wE9oZsJwx",
+					"expanded_url": "https://twitter.com/RealEOC/status/1036006905360121857",
+					"display_url": "twitter.com/RealEOC/status…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, get[ting] on this tv mama",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1159,
+			"friends_count": 467,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56204,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1036006905360121900,
+		"quoted_status_id_str": "1036006905360121857",
+		"quoted_status": {
+			"created_at": "Sat Sep 01 21:44:28 +0000 2018",
+			"id": 1036006905360121900,
+			"id_str": "1036006905360121857",
+			"text": "Spike Lee’s list of 95 must-see movies for aspiring filmmakers https://t.co/6I390Rbaj9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1036006887144271900,
+						"id_str": "1036006887144271872",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DmCixl0XsAAnSf_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmCixl0XsAAnSf_.jpg",
+						"url": "https://t.co/6I390Rbaj9",
+						"display_url": "pic.twitter.com/6I390Rbaj9",
+						"expanded_url": "https://twitter.com/RealEOC/status/1036006905360121857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 879,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 498,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 1752,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1036006887144271900,
+						"id_str": "1036006887144271872",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DmCixl0XsAAnSf_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmCixl0XsAAnSf_.jpg",
+						"url": "https://t.co/6I390Rbaj9",
+						"display_url": "pic.twitter.com/6I390Rbaj9",
+						"expanded_url": "https://twitter.com/RealEOC/status/1036006905360121857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 879,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 498,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 1752,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1036006887156863000,
+						"id_str": "1036006887156862976",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DmCixl3X0AA5YKL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmCixl3X0AA5YKL.jpg",
+						"url": "https://t.co/6I390Rbaj9",
+						"display_url": "pic.twitter.com/6I390Rbaj9",
+						"expanded_url": "https://twitter.com/RealEOC/status/1036006905360121857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1295,
+								"h": 1955,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 795,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 450,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4147973081,
+				"id_str": "4147973081",
+				"name": "Eyes On Cinema",
+				"screen_name": "RealEOC",
+				"location": "The Dutch Lowlands of Europe",
+				"description": "YouTube channel that brings you to the sets, suites & interview halls of some of the most influential filmmakers — their crafts, philosophies & inspirations.",
+				"url": "https://t.co/GYKfiHMFih",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GYKfiHMFih",
+								"expanded_url": "https://www.youtube.com/channel/UCtPx9e7WNFtvtHaAU6WqXlA",
+								"display_url": "youtube.com/channel/UCtPx9…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41311,
+				"friends_count": 0,
+				"listed_count": 661,
+				"created_at": "Mon Nov 09 08:54:59 +0000 2015",
+				"favourites_count": 10299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3978,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674021019384868864/qTk2uHh4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674021019384868864/qTk2uHh4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4147973081/1450045050",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1337,
+			"favorite_count": 5515,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 03 01:29:57 +0000 2018",
 		"id": 1036426035619942400,
 		"id_str": "1036426035619942400",
