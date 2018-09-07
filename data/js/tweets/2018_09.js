@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 07 16:47:50 +0000 2018",
+		"id": 1038106581454467100,
+		"id_str": "1038106581454467073",
+		"text": "RT @Nick_Newman: When you just racked up mad haters from fucking killing it https://t.co/X2QJwX8IPs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nick_Newman",
+					"name": "Nick Newman",
+					"id": 30562589,
+					"id_str": "30562589",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1037860756111458300,
+					"id_str": "1037860756111458304",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+					"url": "https://t.co/X2QJwX8IPs",
+					"display_url": "pic.twitter.com/X2QJwX8IPs",
+					"expanded_url": "https://twitter.com/Nick_Newman/status/1037860848071581696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 861,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 861,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037860848071581700,
+					"source_status_id_str": "1037860848071581696",
+					"source_user_id": 30562589,
+					"source_user_id_str": "30562589"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1037860756111458300,
+					"id_str": "1037860756111458304",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+					"url": "https://t.co/X2QJwX8IPs",
+					"display_url": "pic.twitter.com/X2QJwX8IPs",
+					"expanded_url": "https://twitter.com/Nick_Newman/status/1037860848071581696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 861,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 861,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037860848071581700,
+					"source_status_id_str": "1037860848071581696",
+					"source_user_id": 30562589,
+					"source_user_id_str": "30562589"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, \"the Weasel\"",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 468,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 07 00:31:23 +0000 2018",
+			"id": 1037860848071581700,
+			"id_str": "1037860848071581696",
+			"text": "When you just racked up mad haters from fucking killing it https://t.co/X2QJwX8IPs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1037860756111458300,
+						"id_str": "1037860756111458304",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+						"url": "https://t.co/X2QJwX8IPs",
+						"display_url": "pic.twitter.com/X2QJwX8IPs",
+						"expanded_url": "https://twitter.com/Nick_Newman/status/1037860848071581696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 488,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 861,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 861,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1037860756111458300,
+						"id_str": "1037860756111458304",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dmc4295XgAAHGCk.jpg",
+						"url": "https://t.co/X2QJwX8IPs",
+						"display_url": "pic.twitter.com/X2QJwX8IPs",
+						"expanded_url": "https://twitter.com/Nick_Newman/status/1037860848071581696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 488,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 861,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 861,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30562589,
+				"id_str": "30562589",
+				"name": "Nick Newman",
+				"screen_name": "Nick_Newman",
+				"location": "New York",
+				"description": "Theatrical and Home Video, @GhopperFilm; Managing Editor, @TheFilmStage. Opinions belong to me and anybody associated with either company. (nickn328@gmail.com)",
+				"url": "https://t.co/MHlgynj2pB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MHlgynj2pB",
+								"expanded_url": "http://thefilmstage.com",
+								"display_url": "thefilmstage.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2147,
+				"friends_count": 508,
+				"listed_count": 69,
+				"created_at": "Sun Apr 12 00:38:36 +0000 2009",
+				"favourites_count": 2449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35498,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1014596835506151424/sZgiObqT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014596835506151424/sZgiObqT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30562589/1533057208",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 07 16:36:41 +0000 2018",
+		"id": 1038103773456027600,
+		"id_str": "1038103773456027648",
+		"text": "i want that BEACH BUM *now* https://t.co/qojft5gQHL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1038103752786497500,
+					"id_str": "1038103752786497536",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DmgV3PDW0AAOJWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmgV3PDW0AAOJWd.jpg",
+					"url": "https://t.co/qojft5gQHL",
+					"display_url": "pic.twitter.com/qojft5gQHL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1038103773456027648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1038103752786497500,
+					"id_str": "1038103752786497536",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DmgV3PDW0AAOJWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmgV3PDW0AAOJWd.jpg",
+					"url": "https://t.co/qojft5gQHL",
+					"display_url": "pic.twitter.com/qojft5gQHL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1038103773456027648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, \"the Weasel\"",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 468,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 07 15:43:39 +0000 2018",
 		"id": 1038090426710995000,
 		"id_str": "1038090426710994944",
