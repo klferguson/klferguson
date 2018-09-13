@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 13 14:32:15 +0000 2018",
+		"id": 1040246787292971000,
+		"id_str": "1040246787292971009",
+		"text": "RT @wipeyadocsoff: new york city baby https://t.co/vRqCQJ6xT5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wipeyadocsoff",
+					"name": "DJ Artificial Intelligence Fucknasty",
+					"id": 844203816652329000,
+					"id_str": "844203816652328961",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1040010956430950400,
+					"id_str": "1040010956430950400",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+					"url": "https://t.co/vRqCQJ6xT5",
+					"display_url": "pic.twitter.com/vRqCQJ6xT5",
+					"expanded_url": "https://twitter.com/wipeyadocsoff/status/1040010966065442832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1040010966065442800,
+					"source_status_id_str": "1040010966065442832",
+					"source_user_id": 844203816652329000,
+					"source_user_id_str": "844203816652328961"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1040010956430950400,
+					"id_str": "1040010956430950400",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+					"url": "https://t.co/vRqCQJ6xT5",
+					"display_url": "pic.twitter.com/vRqCQJ6xT5",
+					"expanded_url": "https://twitter.com/wipeyadocsoff/status/1040010966065442832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1040010966065442800,
+					"source_status_id_str": "1040010966065442832",
+					"source_user_id": 844203816652329000,
+					"source_user_id_str": "844203816652328961"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, with a side of conventional cute",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1159,
+			"friends_count": 468,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033138104201170944/EVq2zjs4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 12 22:55:11 +0000 2018",
+			"id": 1040010966065442800,
+			"id_str": "1040010966065442832",
+			"text": "new york city baby https://t.co/vRqCQJ6xT5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1040010956430950400,
+						"id_str": "1040010956430950400",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+						"url": "https://t.co/vRqCQJ6xT5",
+						"display_url": "pic.twitter.com/vRqCQJ6xT5",
+						"expanded_url": "https://twitter.com/wipeyadocsoff/status/1040010966065442832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1040010956430950400,
+						"id_str": "1040010956430950400",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm7cdGSUwAAF0CH.jpg",
+						"url": "https://t.co/vRqCQJ6xT5",
+						"display_url": "pic.twitter.com/vRqCQJ6xT5",
+						"expanded_url": "https://twitter.com/wipeyadocsoff/status/1040010966065442832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 844203816652329000,
+				"id_str": "844203816652328961",
+				"name": "DJ Artificial Intelligence Fucknasty",
+				"screen_name": "wipeyadocsoff",
+				"location": "Brooklyn, NY",
+				"description": "AKA DJ Stolen Valor 🕷they/them🕷 www artist, instagram pico-influencer",
+				"url": "https://t.co/AtVIi6WGAX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AtVIi6WGAX",
+								"expanded_url": "http://Instagram.com/wipeyadocsoff",
+								"display_url": "Instagram.com/wipeyadocsoff",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2062,
+				"friends_count": 365,
+				"listed_count": 4,
+				"created_at": "Tue Mar 21 15:07:29 +0000 2017",
+				"favourites_count": 5522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3039,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935720859091783682/PzBwAy-P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935720859091783682/PzBwAy-P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/844203816652328961/1515534893",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 368,
+			"favorite_count": 1491,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 13 12:08:06 +0000 2018",
 		"id": 1040210509470023700,
 		"id_str": "1040210509470023680",
