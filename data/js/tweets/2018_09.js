@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 24 16:50:23 +0000 2018",
+		"id": 1044267814419406800,
+		"id_str": "1044267814419406848",
+		"text": "RT @smallnartless: This is the most intense ~~REALIZATION~~ I have ever seen (seizure warning!) https://t.co/k1tBSqYRmz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "smallnartless",
+					"name": "Phuong Le",
+					"id": 1258284055,
+					"id_str": "1258284055",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1044265747675930600,
+					"id_str": "1044265747675930624",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+					"url": "https://t.co/k1tBSqYRmz",
+					"display_url": "pic.twitter.com/k1tBSqYRmz",
+					"expanded_url": "https://twitter.com/smallnartless/status/1044265838985920512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1044265838985920500,
+					"source_status_id_str": "1044265838985920512",
+					"source_user_id": 1258284055,
+					"source_user_id_str": "1258284055"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1044265747675930600,
+					"id_str": "1044265747675930624",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+					"url": "https://t.co/k1tBSqYRmz",
+					"display_url": "pic.twitter.com/k1tBSqYRmz",
+					"expanded_url": "https://twitter.com/smallnartless/status/1044265838985920512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1044265838985920500,
+					"source_status_id_str": "1044265838985920512",
+					"source_user_id": 1258284055,
+					"source_user_id_str": "1258284055",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28937,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/vid/320x180/LWr2SLPFzgizxlld.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/vid/640x360/9x-rzIXmMJ6AOmUA.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/pl/6-mgxA_r5AjW_H9A.m3u8?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/vid/1280x720/8jum4R7p1NPx3QOB.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1258284055,
+							"id_str": "1258284055",
+							"name": "Phuong Le",
+							"screen_name": "smallnartless",
+							"location": "London",
+							"description": "Bowie girl. Film studies dirtbag. Not a real writer yet. Ramblings @MovieMezzanine @PopOptiq @vaguevisages @FilmComment 📩 phuonghhle@gmail.com",
+							"url": "https://t.co/ytctya8rYy",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ytctya8rYy",
+											"expanded_url": "http://tinyletter.com/phuong",
+											"display_url": "tinyletter.com/phuong",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3095,
+							"friends_count": 992,
+							"listed_count": 87,
+							"created_at": "Mon Mar 11 00:44:38 +0000 2013",
+							"favourites_count": 13378,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 14198,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1041957935956471808/lM4Afq-X_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041957935956471808/lM4Afq-X_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1258284055/1531478345",
+							"profile_link_color": "DD2E44",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, a 🔨",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 472,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 24 16:42:32 +0000 2018",
+			"id": 1044265838985920500,
+			"id_str": "1044265838985920512",
+			"text": "This is the most intense ~~REALIZATION~~ I have ever seen (seizure warning!) https://t.co/k1tBSqYRmz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1044265747675930600,
+						"id_str": "1044265747675930624",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+						"url": "https://t.co/k1tBSqYRmz",
+						"display_url": "pic.twitter.com/k1tBSqYRmz",
+						"expanded_url": "https://twitter.com/smallnartless/status/1044265838985920512/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1044265747675930600,
+						"id_str": "1044265747675930624",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1044265747675930624/pu/img/An6aUuaP74YLh4q_.jpg",
+						"url": "https://t.co/k1tBSqYRmz",
+						"display_url": "pic.twitter.com/k1tBSqYRmz",
+						"expanded_url": "https://twitter.com/smallnartless/status/1044265838985920512/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 28937,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/vid/320x180/LWr2SLPFzgizxlld.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/vid/640x360/9x-rzIXmMJ6AOmUA.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/pl/6-mgxA_r5AjW_H9A.m3u8?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1044265747675930624/pu/vid/1280x720/8jum4R7p1NPx3QOB.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1258284055,
+				"id_str": "1258284055",
+				"name": "Phuong Le",
+				"screen_name": "smallnartless",
+				"location": "London",
+				"description": "Bowie girl. Film studies dirtbag. Not a real writer yet. Ramblings @MovieMezzanine @PopOptiq @vaguevisages @FilmComment 📩 phuonghhle@gmail.com",
+				"url": "https://t.co/ytctya8rYy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ytctya8rYy",
+								"expanded_url": "http://tinyletter.com/phuong",
+								"display_url": "tinyletter.com/phuong",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3095,
+				"friends_count": 992,
+				"listed_count": 87,
+				"created_at": "Mon Mar 11 00:44:38 +0000 2013",
+				"favourites_count": 13378,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14198,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1041957935956471808/lM4Afq-X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041957935956471808/lM4Afq-X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1258284055/1531478345",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 24 12:43:57 +0000 2018",
 		"id": 1044205800489721900,
 		"id_str": "1044205800489721858",
