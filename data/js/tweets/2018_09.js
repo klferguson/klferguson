@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 28 14:04:45 +0000 2018",
+		"id": 1045675683731697700,
+		"id_str": "1045675683731697664",
+		"text": "👀👀 https://t.co/YNiUvD6GTl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YNiUvD6GTl",
+					"expanded_url": "https://twitter.com/jimsciutto/status/1045672633176592384",
+					"display_url": "twitter.com/jimsciutto/sta…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, a 🔨",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 472,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1045672633176592400,
+		"quoted_status_id_str": "1045672633176592384",
+		"quoted_status": {
+			"created_at": "Fri Sep 28 13:52:38 +0000 2018",
+			"id": 1045672633176592400,
+			"id_str": "1045672633176592384",
+			"text": "Democratic Senators @SenBlumenthal @maziehirono and @KamalaHarris have walked out of the Judiciary Cmte hearing.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SenBlumenthal",
+						"name": "Richard Blumenthal",
+						"id": 278124059,
+						"id_str": "278124059",
+						"indices": [
+							20,
+							34
+						]
+					},
+					{
+						"screen_name": "maziehirono",
+						"name": "Senator Mazie Hirono",
+						"id": 92186819,
+						"id_str": "92186819",
+						"indices": [
+							35,
+							47
+						]
+					},
+					{
+						"screen_name": "KamalaHarris",
+						"name": "Kamala Harris",
+						"id": 30354991,
+						"id_str": "30354991",
+						"indices": [
+							52,
+							65
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22129280,
+				"id_str": "22129280",
+				"name": "Jim Sciutto",
+				"screen_name": "jimsciutto",
+				"location": "Washington, DC & New York, NY",
+				"description": "Co-Anchor CNN Newsroom & Chief National Security Correspondent, Dad, New Yorker, avid traveler, NY Mets fan",
+				"url": "https://t.co/QzackVpdlc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QzackVpdlc",
+								"expanded_url": "http://www.jimsciutto.com",
+								"display_url": "jimsciutto.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 265596,
+				"friends_count": 649,
+				"listed_count": 4895,
+				"created_at": "Fri Feb 27 11:07:05 +0000 2009",
+				"favourites_count": 2311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24774,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/450818997353578496/Pwxkb5rA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/450818997353578496/Pwxkb5rA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22129280/1536788866",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 376,
+			"favorite_count": 1012,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Sep 28 12:18:18 +0000 2018",
 		"id": 1045648896909824000,
 		"id_str": "1045648896909824001",
