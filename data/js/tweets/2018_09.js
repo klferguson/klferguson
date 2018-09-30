@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 30 03:47:47 +0000 2018",
+		"id": 1046245197250793500,
+		"id_str": "1046245197250793473",
+		"text": "RT @DrDenaGrayson: Reporter: “Do you #BelieveHer?”\n\n@LindseyGrahamSC: runs away\n\nhttps://t.co/InXaFT3R4e",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BelieveHer",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrDenaGrayson",
+					"name": "Dr. Dena Grayson",
+					"id": 1651522832,
+					"id_str": "1651522832",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "LindseyGrahamSC",
+					"name": "Lindsey Graham",
+					"id": 432895323,
+					"id_str": "432895323",
+					"indices": [
+						52,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1045363755746451500,
+					"id_str": "1045363755746451456",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+					"url": "https://t.co/InXaFT3R4e",
+					"display_url": "pic.twitter.com/InXaFT3R4e",
+					"expanded_url": "https://twitter.com/BigSeanQ/status/1045363769591754752/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1045363769591754800,
+					"source_status_id_str": "1045363769591754752",
+					"source_user_id": 299958321,
+					"source_user_id_str": "299958321"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1045363755746451500,
+					"id_str": "1045363755746451456",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+					"url": "https://t.co/InXaFT3R4e",
+					"display_url": "pic.twitter.com/InXaFT3R4e",
+					"expanded_url": "https://twitter.com/BigSeanQ/status/1045363769591754752/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1045363769591754800,
+					"source_status_id_str": "1045363769591754752",
+					"source_user_id": 299958321,
+					"source_user_id_str": "299958321",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 1840,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1045363755746451456/pu/vid/640x360/qgz57gRV5kor6Mv3.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1045363755746451456/pu/pl/acWZ4sUkRZH3wXX_.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1045363755746451456/pu/vid/320x180/ewdoEDoX54rrP47W.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 299958321,
+							"id_str": "299958321",
+							"name": "Quigs",
+							"screen_name": "BigSeanQ",
+							"location": "",
+							"description": "Sean Quigley. NCSU. Graphics @barstoolsports. former intern at NASA*",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2444,
+							"friends_count": 200,
+							"listed_count": 16,
+							"created_at": "Mon May 16 23:41:43 +0000 2011",
+							"favourites_count": 537,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 34817,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/986780542166360065/8ZpE5zYY_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/986780542166360065/8ZpE5zYY_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/299958321/1512962176",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, a 🔨",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 472,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 29 15:00:54 +0000 2018",
+			"id": 1046052202706612200,
+			"id_str": "1046052202706612226",
+			"text": "Reporter: “Do you #BelieveHer?”\n\n@LindseyGrahamSC: runs away\n\nhttps://t.co/InXaFT3R4e",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BelieveHer",
+						"indices": [
+							18,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LindseyGrahamSC",
+						"name": "Lindsey Graham",
+						"id": 432895323,
+						"id_str": "432895323",
+						"indices": [
+							33,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1045363755746451500,
+						"id_str": "1045363755746451456",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+						"url": "https://t.co/InXaFT3R4e",
+						"display_url": "pic.twitter.com/InXaFT3R4e",
+						"expanded_url": "https://twitter.com/BigSeanQ/status/1045363769591754752/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1045363769591754800,
+						"source_status_id_str": "1045363769591754752",
+						"source_user_id": 299958321,
+						"source_user_id_str": "299958321"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1045363755746451500,
+						"id_str": "1045363755746451456",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045363755746451456/pu/img/cYZwLZUBXN43Sb-U.jpg",
+						"url": "https://t.co/InXaFT3R4e",
+						"display_url": "pic.twitter.com/InXaFT3R4e",
+						"expanded_url": "https://twitter.com/BigSeanQ/status/1045363769591754752/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1045363769591754800,
+						"source_status_id_str": "1045363769591754752",
+						"source_user_id": 299958321,
+						"source_user_id_str": "299958321",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 1840,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1045363755746451456/pu/vid/640x360/qgz57gRV5kor6Mv3.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1045363755746451456/pu/pl/acWZ4sUkRZH3wXX_.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1045363755746451456/pu/vid/320x180/ewdoEDoX54rrP47W.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 299958321,
+								"id_str": "299958321",
+								"name": "Quigs",
+								"screen_name": "BigSeanQ",
+								"location": "",
+								"description": "Sean Quigley. NCSU. Graphics @barstoolsports. former intern at NASA*",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2444,
+								"friends_count": 200,
+								"listed_count": 16,
+								"created_at": "Mon May 16 23:41:43 +0000 2011",
+								"favourites_count": 537,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 34817,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/986780542166360065/8ZpE5zYY_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/986780542166360065/8ZpE5zYY_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/299958321/1512962176",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1651522832,
+				"id_str": "1651522832",
+				"name": "Dr. Dena Grayson",
+				"screen_name": "DrDenaGrayson",
+				"location": "Florida",
+				"description": "Spouse of Rep. @AlanGrayson. #Progressive. Former candidate for US #Congress. Medical #Doctor (MD) and #Scientist (PhD). \"Brain dead moron\" per Trump trolls.",
+				"url": "https://t.co/5BmBFaFyit",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5BmBFaFyit",
+								"expanded_url": "http://denagrayson.com",
+								"display_url": "denagrayson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103448,
+				"friends_count": 293,
+				"listed_count": 671,
+				"created_at": "Tue Aug 06 23:34:40 +0000 2013",
+				"favourites_count": 130630,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 50092,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805462926937075712/3vDqj2WO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805462926937075712/3vDqj2WO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1651522832/1510007638",
+				"profile_link_color": "0000E5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2608,
+			"favorite_count": 4960,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2608,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 30 03:05:36 +0000 2018",
 		"id": 1046234578292297700,
 		"id_str": "1046234578292297729",
