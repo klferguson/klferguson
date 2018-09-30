@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 30 15:01:46 +0000 2018",
+		"id": 1046414808835379200,
+		"id_str": "1046414808835379202",
+		"text": "RT @JordanPeele: Appreciate an honest and vulnerable meme. https://t.co/0VUOU8J6C2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JordanPeele",
+					"name": "Jordan Peele",
+					"id": 63302020,
+					"id_str": "63302020",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0VUOU8J6C2",
+					"expanded_url": "https://twitter.com/808kill/status/1045808541012021248",
+					"display_url": "twitter.com/808kill/status…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, a 🔨",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 472,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040346421902430213/axI_BkJQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 30 02:51:14 +0000 2018",
+			"id": 1046230963707998200,
+			"id_str": "1046230963707998214",
+			"text": "Appreciate an honest and vulnerable meme. https://t.co/0VUOU8J6C2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0VUOU8J6C2",
+						"expanded_url": "https://twitter.com/808kill/status/1045808541012021248",
+						"display_url": "twitter.com/808kill/status…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63302020,
+				"id_str": "63302020",
+				"name": "Jordan Peele",
+				"screen_name": "JordanPeele",
+				"location": "",
+				"description": "@Monkeypaw Productions. 'GET OUT', 'Lovecraft Country', 'BlacKkKlansman', 'The Last O.G’, ‘The Twilight Zone’, ‘Wendell & Wild’, ‘Lorena’, ‘The Hunt’ and ‘Us’",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1247385,
+				"friends_count": 1544,
+				"listed_count": 4399,
+				"created_at": "Wed Aug 05 23:56:12 +0000 2009",
+				"favourites_count": 17356,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783445386375507969/nTv88w7E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783445386375507969/nTv88w7E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63302020/1526080067",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1045808541012021200,
+			"quoted_status_id_str": "1045808541012021248",
+			"quoted_status": {
+				"created_at": "Fri Sep 28 22:52:41 +0000 2018",
+				"id": 1045808541012021200,
+				"id_str": "1045808541012021248",
+				"text": "How I deal with my depression.. https://t.co/brfNtiiX4B",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1045808405070446600,
+							"id_str": "1045808405070446592",
+							"indices": [
+								32,
+								55
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045808405070446592/pu/img/Xsh8OKxtl3XoDc1A.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045808405070446592/pu/img/Xsh8OKxtl3XoDc1A.jpg",
+							"url": "https://t.co/brfNtiiX4B",
+							"display_url": "pic.twitter.com/brfNtiiX4B",
+							"expanded_url": "https://twitter.com/808kill/status/1045808541012021248/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1045808405070446600,
+							"id_str": "1045808405070446592",
+							"indices": [
+								32,
+								55
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045808405070446592/pu/img/Xsh8OKxtl3XoDc1A.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045808405070446592/pu/img/Xsh8OKxtl3XoDc1A.jpg",
+							"url": "https://t.co/brfNtiiX4B",
+							"display_url": "pic.twitter.com/brfNtiiX4B",
+							"expanded_url": "https://twitter.com/808kill/status/1045808541012021248/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 91590,
+								"variants": [
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1045808405070446592/pu/vid/320x180/fm9yahIKLMKBv5-M.mp4?tag=5"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1045808405070446592/pu/vid/640x360/NBw8a-ep9LRhtuux.mp4?tag=5"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/1045808405070446592/pu/pl/DrnumahswJulDjGF.m3u8?tag=5"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4823994280,
+					"id_str": "4823994280",
+					"name": "𝕮𝖆𝖕𝖗𝖎𝖈𝖔𝖗𝖓 𝖘𝖑𝖚𝖙 ♑",
+					"screen_name": "808kill",
+					"location": "",
+					"description": "I'm hard.. as we speak",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1139,
+					"friends_count": 3240,
+					"listed_count": 5,
+					"created_at": "Mon Jan 18 13:06:24 +0000 2016",
+					"favourites_count": 11,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1254,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1041909235502735360/4ilE8uaU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041909235502735360/4ilE8uaU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823994280/1453252495",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16656,
+				"favorite_count": 41895,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 11433,
+			"favorite_count": 49431,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1045808541012021200,
+		"quoted_status_id_str": "1045808541012021248",
+		"retweet_count": 11433,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 30 03:47:47 +0000 2018",
 		"id": 1046245197250793500,
 		"id_str": "1046245197250793473",
