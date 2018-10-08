@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 08 17:23:08 +0000 2018",
+		"id": 1049349487259516900,
+		"id_str": "1049349487259516928",
+		"text": "RT @austinkleon: https://t.co/f7T1SxvtQi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "austinkleon",
+					"name": "Austin Kleon",
+					"id": 9698942,
+					"id_str": "9698942",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049336532765564900,
+					"id_str": "1049336532765564928",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+					"url": "https://t.co/f7T1SxvtQi",
+					"display_url": "pic.twitter.com/f7T1SxvtQi",
+					"expanded_url": "https://twitter.com/austinkleon/status/1049336538943950848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049336538943950800,
+					"source_status_id_str": "1049336538943950848",
+					"source_user_id": 9698942,
+					"source_user_id_str": "9698942"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049336532765564900,
+					"id_str": "1049336532765564928",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+					"url": "https://t.co/f7T1SxvtQi",
+					"display_url": "pic.twitter.com/f7T1SxvtQi",
+					"expanded_url": "https://twitter.com/austinkleon/status/1049336538943950848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049336538943950800,
+					"source_status_id_str": "1049336538943950848",
+					"source_user_id": 9698942,
+					"source_user_id_str": "9698942"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🎃",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1160,
+			"friends_count": 471,
+			"listed_count": 51,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046751105684787200/poUaef-w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046751105684787200/poUaef-w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 08 16:31:41 +0000 2018",
+			"id": 1049336538943950800,
+			"id_str": "1049336538943950848",
+			"text": "https://t.co/f7T1SxvtQi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049336532765564900,
+						"id_str": "1049336532765564928",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+						"url": "https://t.co/f7T1SxvtQi",
+						"display_url": "pic.twitter.com/f7T1SxvtQi",
+						"expanded_url": "https://twitter.com/austinkleon/status/1049336538943950848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049336532765564900,
+						"id_str": "1049336532765564928",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Do_-BFVU4AApmjT.jpg",
+						"url": "https://t.co/f7T1SxvtQi",
+						"display_url": "pic.twitter.com/f7T1SxvtQi",
+						"expanded_url": "https://twitter.com/austinkleon/status/1049336538943950848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1049336174018547700,
+			"in_reply_to_status_id_str": "1049336174018547719",
+			"in_reply_to_user_id": 9698942,
+			"in_reply_to_user_id_str": "9698942",
+			"in_reply_to_screen_name": "austinkleon",
+			"user": {
+				"id": 9698942,
+				"id_str": "9698942",
+				"name": "Austin Kleon",
+				"screen_name": "austinkleon",
+				"location": "Austin, Texas",
+				"description": "Author of STEAL LIKE AN ARTIST and other books: https://t.co/McGLZAWLiH\n\nSubscribe to my free weekly newsletter: https://t.co/cJks9LUC0z",
+				"url": "https://t.co/ER0M6pCS5C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ER0M6pCS5C",
+								"expanded_url": "http://austinkleon.com/",
+								"display_url": "austinkleon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/McGLZAWLiH",
+								"expanded_url": "http://austinkleon.com/books",
+								"display_url": "austinkleon.com/books",
+								"indices": [
+									48,
+									71
+								]
+							},
+							{
+								"url": "https://t.co/cJks9LUC0z",
+								"expanded_url": "http://austinkleon.com/newsletter",
+								"display_url": "austinkleon.com/newsletter",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 95572,
+				"friends_count": 1200,
+				"listed_count": 3632,
+				"created_at": "Fri Oct 26 01:03:22 +0000 2007",
+				"favourites_count": 109681,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 89564,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9698942/1520989938",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FF0000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Oct 08 14:55:24 +0000 2018",
 		"id": 1049312309192142800,
 		"id_str": "1049312309192142849",
