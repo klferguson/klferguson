@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 10 16:56:56 +0000 2018",
+		"id": 1050067669150588900,
+		"id_str": "1050067669150588928",
+		"text": "RT @shudder: Me as Halloween approaches. https://t.co/ObNttk5vPD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shudder",
+					"name": "Shudder",
+					"id": 2548374608,
+					"id_str": "2548374608",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049698536068210700,
+					"id_str": "1049698536068210688",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+					"url": "https://t.co/ObNttk5vPD",
+					"display_url": "pic.twitter.com/ObNttk5vPD",
+					"expanded_url": "https://twitter.com/shudder/status/1049698537548730368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 592,
+							"h": 345,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049698537548730400,
+					"source_status_id_str": "1049698537548730368",
+					"source_user_id": 2548374608,
+					"source_user_id_str": "2548374608"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049698536068210700,
+					"id_str": "1049698536068210688",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+					"url": "https://t.co/ObNttk5vPD",
+					"display_url": "pic.twitter.com/ObNttk5vPD",
+					"expanded_url": "https://twitter.com/shudder/status/1049698537548730368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 592,
+							"h": 345,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049698537548730400,
+					"source_status_id_str": "1049698537548730368",
+					"source_user_id": 2548374608,
+					"source_user_id_str": "2548374608"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 472,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56852,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046751105684787200/poUaef-w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046751105684787200/poUaef-w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 09 16:30:08 +0000 2018",
+			"id": 1049698537548730400,
+			"id_str": "1049698537548730368",
+			"text": "Me as Halloween approaches. https://t.co/ObNttk5vPD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049698536068210700,
+						"id_str": "1049698536068210688",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+						"url": "https://t.co/ObNttk5vPD",
+						"display_url": "pic.twitter.com/ObNttk5vPD",
+						"expanded_url": "https://twitter.com/shudder/status/1049698537548730368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 592,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 345,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 592,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049698536068210700,
+						"id_str": "1049698536068210688",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpFHQcuX4AAbAj9.jpg",
+						"url": "https://t.co/ObNttk5vPD",
+						"display_url": "pic.twitter.com/ObNttk5vPD",
+						"expanded_url": "https://twitter.com/shudder/status/1049698537548730368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 592,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 345,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 592,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2548374608,
+				"id_str": "2548374608",
+				"name": "Shudder",
+				"screen_name": "shudder",
+				"location": "",
+				"description": "The best in horror, thriller, and supernatural. Try FREE for 7 days: https://t.co/gO6D286LaB. Need help? Tweet us at @ShudderSupport",
+				"url": "https://t.co/HIusDWaDZm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HIusDWaDZm",
+								"expanded_url": "http://www.shudder.com/",
+								"display_url": "shudder.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gO6D286LaB",
+								"expanded_url": "http://Shudder.com",
+								"display_url": "Shudder.com",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23920,
+				"friends_count": 4482,
+				"listed_count": 276,
+				"created_at": "Thu Jun 05 16:10:52 +0000 2014",
+				"favourites_count": 15277,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900069142421659648/xfEH1t2L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900069142421659648/xfEH1t2L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2548374608/1536847122",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 523,
+			"favorite_count": 1627,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 523,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 10 16:23:25 +0000 2018",
+		"id": 1050059236355571700,
+		"id_str": "1050059236355571712",
+		"text": "buddy in Public Safety says they're going hard today, to the point that they ran out of physical parking tickets to give",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 472,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56852,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046751105684787200/poUaef-w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046751105684787200/poUaef-w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 10 13:09:15 +0000 2018",
 		"id": 1050010370105069600,
 		"id_str": "1050010370105069569",
