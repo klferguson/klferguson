@@ -101,6 +101,150 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 565,
 			"listed_count": 5,
 			"created_at": "Mon Sep 26 04:00:15 +0000 2011",
+			"favourites_count": 2810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040433049299673088/wrBrMVxT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040433049299673088/wrBrMVxT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380135452/1536893686",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited for the @CUNYhums conference tomorrow! Especially looking forward to our session on \"Expanding Notions of Humanities Scholarship,\" featuring brilliant humanists @LeahAnderst @lmrhody @KevinLFerguson &amp; Ria Banerjee. Join us 2:30-3:30 @GC_CUNY:  https://t.co/i3YLbb1Ud6"
+	},
+	{
+		"created_at": "Wed Oct 17 19:32:51 +0000 2018",
+		"id": 1052643624062718000,
+		"id_str": "1052643624062717953",
+		"full_text": "Excited for the @CUNYhums conference tomorrow! Especially looking forward to our session on \"Expanding Notions of Humanities Scholarship,\" featuring brilliant humanists @LeahAnderst @lmrhody @KevinLFerguson &amp; Ria Banerjee. Join us 2:30-3:30 @GC_CUNY:  https://t.co/i3YLbb1Ud6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUNYhums",
+					"name": "Humanities Alliance",
+					"id": 768509437409693700,
+					"id_str": "768509437409693696",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "LeahAnderst",
+					"name": "Leah Anderst",
+					"id": 216929984,
+					"id_str": "216929984",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "lmrhody",
+					"name": "Lisa Marie Rhody",
+					"id": 242410169,
+					"id_str": "242410169",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"screen_name": "KevinLFerguson",
+					"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+					"id": 359023788,
+					"id_str": "359023788",
+					"indices": [
+						191,
+						206
+					]
+				},
+				{
+					"screen_name": "GC_CUNY",
+					"name": "The Graduate Center",
+					"id": 89479750,
+					"id_str": "89479750",
+					"indices": [
+						245,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i3YLbb1Ud6",
+					"expanded_url": "https://bit.ly/2pX4DhN",
+					"display_url": "bit.ly/2pX4DhN",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380135452,
+			"id_str": "380135452",
+			"name": "Elizabeth Alsop",
+			"screen_name": "elizabethalsop",
+			"location": "Brooklyn, NY",
+			"description": "Assistant Professor of Communication and Media & Liberal Studies @CUNYSPS. Writes about film, TV, teaching, & 20th-century lit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375,
+			"friends_count": 565,
+			"listed_count": 5,
+			"created_at": "Mon Sep 26 04:00:15 +0000 2011",
 			"favourites_count": 2809,
 			"utc_offset": null,
 			"time_zone": null,
