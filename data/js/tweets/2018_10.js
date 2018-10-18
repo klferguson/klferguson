@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 11:42:07 +0000 2018",
+		"id": 1052887544696836100,
+		"id_str": "1052887544696836096",
+		"full_text": "😂😂😂 https://t.co/VWZwWVE81u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VWZwWVE81u",
+					"expanded_url": "https://twitter.com/compstorylab/status/1052708929795497990",
+					"display_url": "twitter.com/compstorylab/s…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1160,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56913,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052708929795498000,
+		"quoted_status_id_str": "1052708929795497990",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VWZwWVE81u",
+			"expanded": "https://twitter.com/compstorylab/status/1052708929795497990",
+			"display": "twitter.com/compstorylab/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 23:52:21 +0000 2018",
+			"id": 1052708929795498000,
+			"id_str": "1052708929795497990",
+			"full_text": "1/5 Op-ed in @nytimes uses Google n-gram data to claim \"most religious and spiritual words have been declining in the English-speaking world since the early 20th century.” https://t.co/EoY9kwY4i0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							13,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052708576144367600,
+						"id_str": "1052708576144367616",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpv4310XoAA1PVE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpv4310XoAA1PVE.jpg",
+						"url": "https://t.co/EoY9kwY4i0",
+						"display_url": "pic.twitter.com/EoY9kwY4i0",
+						"expanded_url": "https://twitter.com/compstorylab/status/1052708929795497990/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1684,
+								"h": 1094,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052708576144367600,
+						"id_str": "1052708576144367616",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpv4310XoAA1PVE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpv4310XoAA1PVE.jpg",
+						"url": "https://t.co/EoY9kwY4i0",
+						"display_url": "pic.twitter.com/EoY9kwY4i0",
+						"expanded_url": "https://twitter.com/compstorylab/status/1052708929795497990/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1684,
+								"h": 1094,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1052708717202956300,
+						"id_str": "1052708717202956289",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpv5ADTW4AEXs7t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpv5ADTW4AEXs7t.jpg",
+						"url": "https://t.co/EoY9kwY4i0",
+						"display_url": "pic.twitter.com/EoY9kwY4i0",
+						"expanded_url": "https://twitter.com/compstorylab/status/1052708929795497990/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1004,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 588,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 473353790,
+				"id_str": "473353790",
+				"name": "ComputationlStoryLab",
+				"screen_name": "compstorylab",
+				"location": "University of Vermont",
+				"description": "Awesome Research Group run by @peterdodds and @chrisdanforth: The Computational Story Lab.",
+				"url": "https://t.co/2woozKnK1h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2woozKnK1h",
+								"expanded_url": "http://www.compstorylab.org",
+								"display_url": "compstorylab.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1562,
+				"friends_count": 81,
+				"listed_count": 53,
+				"created_at": "Tue Jan 24 22:01:23 +0000 2012",
+				"favourites_count": 572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1600,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2512872613/3h1zbsh2eb9wj7dlr0ac_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2512872613/3h1zbsh2eb9wj7dlr0ac_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/473353790/1486072642",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😂😂😂 https://t.co/VWZwWVE81u"
+	},
+	{
 		"created_at": "Thu Oct 18 03:24:22 +0000 2018",
 		"id": 1052762285855387600,
 		"id_str": "1052762285855387649",
