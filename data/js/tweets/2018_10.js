@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 18:00:08 +0000 2018",
+		"id": 1053345064750071800,
+		"id_str": "1053345064750071809",
+		"full_text": "The shadow of an RAF Avro Vulcan over the wreckage of “Lady Be Good”, a Consolidated B-24 Liberator bomber lying on the Libyan desert, having crashed in 1943. https://t.co/9ut6f7THEu https://t.co/uftNyst0aU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ut6f7THEu",
+					"expanded_url": "http://thevaultoftheatomicspaceage.tumblr.com/post/179185440000/enrique262-the-shadow-of-an-raf-avro-vulcan-over",
+					"display_url": "thevaultoftheatomicspaceage.tumblr.com/post/179185440…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053345063114338300,
+					"id_str": "1053345063114338304",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"url": "https://t.co/uftNyst0aU",
+					"display_url": "pic.twitter.com/uftNyst0aU",
+					"expanded_url": "https://twitter.com/doctorow/status/1053345064750071809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053345063114338300,
+					"id_str": "1053345063114338304",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"url": "https://t.co/uftNyst0aU",
+					"display_url": "pic.twitter.com/uftNyst0aU",
+					"expanded_url": "https://twitter.com/doctorow/status/1053345064750071809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "son of an asylum seeker, father of an immigrant",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: https://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+			"url": "https://t.co/x4ih0X9WgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0X9WgH",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rS9kTnTcWs",
+							"expanded_url": "http://boingboing.net/s",
+							"display_url": "boingboing.net/s",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 426320,
+			"friends_count": 1607,
+			"listed_count": 13104,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 159157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The shadow of an RAF Avro Vulcan over the wreckage of “Lady Be Good”, a Consolidated B-24 Liberator bomber lying on the Libyan desert, having crashed in 1943. https://t.co/9ut6f7THEu https://t.co/uftNyst0aU"
+	},
+	{
+		"created_at": "Fri Oct 19 17:49:31 +0000 2018",
+		"id": 1053342391913078800,
+		"id_str": "1053342391913078785",
+		"full_text": "A U.S. border patrol agent and 2-year-old Mateo from Honduras are seen in the dense brush near the Rio Grande river in Fronton, Texas. More images from the U.S.-Mexico border: https://t.co/WJIZl2ZUUC 📷 Adrees Latif https://t.co/QPaACZtbfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WJIZl2ZUUC",
+					"expanded_url": "https://reut.rs/2ICCSDz",
+					"display_url": "reut.rs/2ICCSDz",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053326481063985200,
+					"id_str": "1053326481063985153",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"url": "https://t.co/QPaACZtbfi",
+					"display_url": "pic.twitter.com/QPaACZtbfi",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1053342391913078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053326481063985200,
+					"id_str": "1053326481063985153",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"url": "https://t.co/QPaACZtbfi",
+					"display_url": "pic.twitter.com/QPaACZtbfi",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1053342391913078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1053326481064026100,
+					"id_str": "1053326481064026112",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4q2pBVYAAKSUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4q2pBVYAAKSUs.jpg",
+					"url": "https://t.co/QPaACZtbfi",
+					"display_url": "pic.twitter.com/QPaACZtbfi",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1053342391913078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14584903,
+			"id_str": "14584903",
+			"name": "Reuters Pictures",
+			"screen_name": "reuterspictures",
+			"location": "Global",
+			"description": "News photography from the world's largest news agency. Follow us http://t.co/cVq7KHRsu5",
+			"url": "http://t.co/EFkf1W4ofk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EFkf1W4ofk",
+							"expanded_url": "http://www.reuters.com/pictures",
+							"display_url": "reuters.com/pictures",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/cVq7KHRsu5",
+							"expanded_url": "http://instagram.com/reuters",
+							"display_url": "instagram.com/reuters",
+							"indices": [
+								65,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 146441,
+			"friends_count": 435,
+			"listed_count": 6121,
+			"created_at": "Tue Apr 29 14:03:03 +0000 2008",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22908,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2B2A25",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877280005373538304/XSMA0eOa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877280005373538304/XSMA0eOa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14584903/1482517316",
+			"profile_link_color": "FF9100",
+			"profile_sidebar_border_color": "2B2A25",
+			"profile_sidebar_fill_color": "141311",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "A U.S. border patrol agent and 2-year-old Mateo from Honduras are seen in the dense brush near the Rio Grande river in Fronton, Texas. More images from the U.S.-Mexico border: https://t.co/WJIZl2ZUUC 📷 Adrees Latif https://t.co/QPaACZtbfi"
+	},
+	{
 		"created_at": "Fri Oct 19 17:15:03 +0000 2018",
 		"id": 1053333721535967200,
 		"id_str": "1053333721535967232",
