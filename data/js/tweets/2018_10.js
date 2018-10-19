@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 18:26:00 +0000 2018",
+		"id": 1053351574410616800,
+		"id_str": "1053351574410616832",
+		"full_text": "what you call New York prices https://t.co/6NNjJO6qf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053351566034505700,
+					"id_str": "1053351566034505728",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp5Bqx0WkAAk8Dl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp5Bqx0WkAAk8Dl.jpg",
+					"url": "https://t.co/6NNjJO6qf6",
+					"display_url": "pic.twitter.com/6NNjJO6qf6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1053351574410616832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053351566034505700,
+					"id_str": "1053351566034505728",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp5Bqx0WkAAk8Dl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp5Bqx0WkAAk8Dl.jpg",
+					"url": "https://t.co/6NNjJO6qf6",
+					"display_url": "pic.twitter.com/6NNjJO6qf6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1053351574410616832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 472,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "what you call New York prices https://t.co/6NNjJO6qf6"
+	},
+	{
+		"created_at": "Fri Oct 19 18:13:03 +0000 2018",
+		"id": 1053348314954063900,
+		"id_str": "1053348314954063872",
+		"full_text": "Get yr apps in! https://t.co/jI7FZ7o6M2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jI7FZ7o6M2",
+					"expanded_url": "https://twitter.com/GCTLC/status/1052620936854327297",
+					"display_url": "twitter.com/GCTLC/status/1…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14368882,
+			"id_str": "14368882",
+			"name": "Luke Waltzer",
+			"screen_name": "lwaltzer",
+			"location": "New York",
+			"description": "Director, @GCTLC, The Graduate Center, CUNY. I tweet about sports, politics, history, higher ed, tech, food, parenting, funky music.",
+			"url": "https://t.co/srScGaitSz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srScGaitSz",
+							"expanded_url": "http://lukewaltzer.com",
+							"display_url": "lukewaltzer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1294,
+			"friends_count": 869,
+			"listed_count": 78,
+			"created_at": "Sat Apr 12 13:59:34 +0000 2008",
+			"favourites_count": 1380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/672470923723726848/g9mkU5Q4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/672470923723726848/g9mkU5Q4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14368882/1467167755",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FF0000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052620936854327300,
+		"quoted_status_id_str": "1052620936854327297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jI7FZ7o6M2",
+			"expanded": "https://twitter.com/GCTLC/status/1052620936854327297",
+			"display": "twitter.com/GCTLC/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 18:02:42 +0000 2018",
+			"id": 1052620936854327300,
+			"id_str": "1052620936854327297",
+			"full_text": "Reminder: the TLC has 2 exciting opportunities for @GC_CUNY students: Open Teaching Initiative: Class Visit Exchange and Visible Pedagogy Call for Writers and Guest Editors. Apps due THIS Friday 10/19! \n\nhttps://t.co/TE6ribe0CI\n\nhttps://t.co/PsvuDC0JG1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GC_CUNY",
+						"name": "The Graduate Center",
+						"id": 89479750,
+						"id_str": "89479750",
+						"indices": [
+							51,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TE6ribe0CI",
+						"expanded_url": "https://tlc.commons.gc.cuny.edu/2018/10/04/oti-classroom-visit-exchange/",
+						"display_url": "tlc.commons.gc.cuny.edu/2018/10/04/oti…",
+						"indices": [
+							204,
+							227
+						]
+					},
+					{
+						"url": "https://t.co/PsvuDC0JG1",
+						"expanded_url": "https://tlc.commons.gc.cuny.edu/2018/10/09/visible-pedagogy-call-for-contributors/",
+						"display_url": "tlc.commons.gc.cuny.edu/2018/10/09/vis…",
+						"indices": [
+							229,
+							252
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 715909091986686000,
+				"id_str": "715909091986685952",
+				"name": "Grad Center TLC",
+				"screen_name": "GCTLC",
+				"location": "",
+				"description": "The Teaching and Learning Center at the Graduate Center, CUNY.",
+				"url": "https://t.co/cJHjbKYas7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cJHjbKYas7",
+								"expanded_url": "https://tlc.commons.gc.cuny.edu/",
+								"display_url": "tlc.commons.gc.cuny.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 557,
+				"friends_count": 566,
+				"listed_count": 12,
+				"created_at": "Fri Apr 01 14:30:03 +0000 2016",
+				"favourites_count": 95,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 465,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715910018843803648/JhQ3KdAf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715910018843803648/JhQ3KdAf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/715909091986685952/1478034948",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get yr apps in! https://t.co/jI7FZ7o6M2"
+	},
+	{
+		"created_at": "Fri Oct 19 18:00:08 +0000 2018",
+		"id": 1053345064750071800,
+		"id_str": "1053345064750071809",
+		"full_text": "The shadow of an RAF Avro Vulcan over the wreckage of “Lady Be Good”, a Consolidated B-24 Liberator bomber lying on the Libyan desert, having crashed in 1943. https://t.co/9ut6f7THEu https://t.co/uftNyst0aU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ut6f7THEu",
+					"expanded_url": "http://thevaultoftheatomicspaceage.tumblr.com/post/179185440000/enrique262-the-shadow-of-an-raf-avro-vulcan-over",
+					"display_url": "thevaultoftheatomicspaceage.tumblr.com/post/179185440…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053345063114338300,
+					"id_str": "1053345063114338304",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"url": "https://t.co/uftNyst0aU",
+					"display_url": "pic.twitter.com/uftNyst0aU",
+					"expanded_url": "https://twitter.com/doctorow/status/1053345064750071809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053345063114338300,
+					"id_str": "1053345063114338304",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp47wQjXcAAkkv1.jpg",
+					"url": "https://t.co/uftNyst0aU",
+					"display_url": "pic.twitter.com/uftNyst0aU",
+					"expanded_url": "https://twitter.com/doctorow/status/1053345064750071809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "son of an asylum seeker, father of an immigrant",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: https://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+			"url": "https://t.co/x4ih0X9WgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0X9WgH",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rS9kTnTcWs",
+							"expanded_url": "http://boingboing.net/s",
+							"display_url": "boingboing.net/s",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 426322,
+			"friends_count": 1607,
+			"listed_count": 13106,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 159160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The shadow of an RAF Avro Vulcan over the wreckage of “Lady Be Good”, a Consolidated B-24 Liberator bomber lying on the Libyan desert, having crashed in 1943. https://t.co/9ut6f7THEu https://t.co/uftNyst0aU"
+	},
+	{
+		"created_at": "Fri Oct 19 17:49:31 +0000 2018",
+		"id": 1053342391913078800,
+		"id_str": "1053342391913078785",
+		"full_text": "A U.S. border patrol agent and 2-year-old Mateo from Honduras are seen in the dense brush near the Rio Grande river in Fronton, Texas. More images from the U.S.-Mexico border: https://t.co/WJIZl2ZUUC 📷 Adrees Latif https://t.co/QPaACZtbfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WJIZl2ZUUC",
+					"expanded_url": "https://reut.rs/2ICCSDz",
+					"display_url": "reut.rs/2ICCSDz",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053326481063985200,
+					"id_str": "1053326481063985153",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"url": "https://t.co/QPaACZtbfi",
+					"display_url": "pic.twitter.com/QPaACZtbfi",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1053342391913078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053326481063985200,
+					"id_str": "1053326481063985153",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4q2pBUwAEByNw.jpg",
+					"url": "https://t.co/QPaACZtbfi",
+					"display_url": "pic.twitter.com/QPaACZtbfi",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1053342391913078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1053326481064026100,
+					"id_str": "1053326481064026112",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4q2pBVYAAKSUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4q2pBVYAAKSUs.jpg",
+					"url": "https://t.co/QPaACZtbfi",
+					"display_url": "pic.twitter.com/QPaACZtbfi",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1053342391913078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14584903,
+			"id_str": "14584903",
+			"name": "Reuters Pictures",
+			"screen_name": "reuterspictures",
+			"location": "Global",
+			"description": "News photography from the world's largest news agency. Follow us http://t.co/cVq7KHRsu5",
+			"url": "http://t.co/EFkf1W4ofk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EFkf1W4ofk",
+							"expanded_url": "http://www.reuters.com/pictures",
+							"display_url": "reuters.com/pictures",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/cVq7KHRsu5",
+							"expanded_url": "http://instagram.com/reuters",
+							"display_url": "instagram.com/reuters",
+							"indices": [
+								65,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 146441,
+			"friends_count": 435,
+			"listed_count": 6117,
+			"created_at": "Tue Apr 29 14:03:03 +0000 2008",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22908,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2B2A25",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877280005373538304/XSMA0eOa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877280005373538304/XSMA0eOa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14584903/1482517316",
+			"profile_link_color": "FF9100",
+			"profile_sidebar_border_color": "2B2A25",
+			"profile_sidebar_fill_color": "141311",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "A U.S. border patrol agent and 2-year-old Mateo from Honduras are seen in the dense brush near the Rio Grande river in Fronton, Texas. More images from the U.S.-Mexico border: https://t.co/WJIZl2ZUUC 📷 Adrees Latif https://t.co/QPaACZtbfi"
+	},
+	{
 		"created_at": "Fri Oct 19 18:00:08 +0000 2018",
 		"id": 1053345064750071800,
 		"id_str": "1053345064750071809",
