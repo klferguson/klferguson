@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 12:27:33 +0000 2018",
+		"id": 1053261370077208600,
+		"id_str": "1053261370077208576",
+		"full_text": "https://t.co/11IPlbgppK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053261357410406400,
+					"id_str": "1053261357410406400",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dp3vn8gX0AAcRd1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dp3vn8gX0AAcRd1.jpg",
+					"url": "https://t.co/11IPlbgppK",
+					"display_url": "pic.twitter.com/11IPlbgppK",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1053261370077208576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 234,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053261357410406400,
+					"id_str": "1053261357410406400",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dp3vn8gX0AAcRd1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dp3vn8gX0AAcRd1.jpg",
+					"url": "https://t.co/11IPlbgppK",
+					"display_url": "pic.twitter.com/11IPlbgppK",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1053261370077208576/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 234,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 234,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							117
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dp3vn8gX0AAcRd1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 472,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/11IPlbgppK"
+	},
+	{
+		"created_at": "Fri Oct 19 04:30:27 +0000 2018",
+		"id": 1053141300021608400,
+		"id_str": "1053141300021608448",
+		"full_text": "You’ll be happy to know that in a parallel universe Laurie Strode LOVES Halloween night! 🎃👍🏻👍🏻 @jamieleecurtis #tbt #HalloweenMovie #Halloween https://t.co/3O5DTmBqMr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tbt",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "HalloweenMovie",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"text": "Halloween",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamieleecurtis",
+					"name": "Jamie Lee Curtis",
+					"id": 336851461,
+					"id_str": "336851461",
+					"indices": [
+						95,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053141294678081500,
+					"id_str": "1053141294678081537",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp2CbX-VAAEd62b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp2CbX-VAAEd62b.jpg",
+					"url": "https://t.co/3O5DTmBqMr",
+					"display_url": "pic.twitter.com/3O5DTmBqMr",
+					"expanded_url": "https://twitter.com/TheRealElvira/status/1053141300021608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053141294678081500,
+					"id_str": "1053141294678081537",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp2CbX-VAAEd62b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp2CbX-VAAEd62b.jpg",
+					"url": "https://t.co/3O5DTmBqMr",
+					"display_url": "pic.twitter.com/3O5DTmBqMr",
+					"expanded_url": "https://twitter.com/TheRealElvira/status/1053141300021608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35551733,
+			"id_str": "35551733",
+			"name": "Elvira",
+			"screen_name": "TheRealElvira",
+			"location": "Hollywood CA.",
+			"description": "Elvira, Mistress of the Dark (aka Cassandra Peterson) Horror Hostess & Queen of Halloween. https://t.co/b6hFTL7knu https://t.co/eEi3aDQRUt",
+			"url": "https://t.co/8mUzOWFiLK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8mUzOWFiLK",
+							"expanded_url": "http://www.elvira.com",
+							"display_url": "elvira.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/b6hFTL7knu",
+							"expanded_url": "http://Instagram.com/therealelvira",
+							"display_url": "Instagram.com/therealelvira",
+							"indices": [
+								91,
+								114
+							]
+						},
+						{
+							"url": "https://t.co/eEi3aDQRUt",
+							"expanded_url": "http://Facebook.com/TheRealElvira",
+							"display_url": "Facebook.com/TheRealElvira",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182880,
+			"friends_count": 478,
+			"listed_count": 1856,
+			"created_at": "Sun Apr 26 20:11:37 +0000 2009",
+			"favourites_count": 5739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747798121942417408/vCStNEqb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747798121942417408/vCStNEqb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35551733/1398447037",
+			"profile_link_color": "871629",
+			"profile_sidebar_border_color": "FF230F",
+			"profile_sidebar_fill_color": "BFBFBF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 1819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You’ll be happy to know that in a parallel universe Laurie Strode LOVES Halloween night! 🎃👍🏻👍🏻 @jamieleecurtis #tbt #HalloweenMovie #Halloween https://t.co/3O5DTmBqMr"
+	},
+	{
+		"created_at": "Fri Oct 19 12:04:20 +0000 2018",
+		"id": 1053255526367354900,
+		"id_str": "1053255526367354880",
+		"full_text": "first indignity/adventure: carrying R's vintage luggage on the subway https://t.co/2zyRJ2Hdvk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053255511896928300,
+					"id_str": "1053255511896928261",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp3qTsRWsAUYhxb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp3qTsRWsAUYhxb.jpg",
+					"url": "https://t.co/2zyRJ2Hdvk",
+					"display_url": "pic.twitter.com/2zyRJ2Hdvk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1053255526367354880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053255511896928300,
+					"id_str": "1053255511896928261",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp3qTsRWsAUYhxb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp3qTsRWsAUYhxb.jpg",
+					"url": "https://t.co/2zyRJ2Hdvk",
+					"display_url": "pic.twitter.com/2zyRJ2Hdvk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1053255526367354880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1053243806269747200,
+		"in_reply_to_status_id_str": "1053243806269747200",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 472,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "first indignity/adventure: carrying R's vintage luggage on the subway https://t.co/2zyRJ2Hdvk"
+	},
+	{
 		"created_at": "Fri Oct 19 11:17:46 +0000 2018",
 		"id": 1053243806269747200,
 		"id_str": "1053243806269747200",
