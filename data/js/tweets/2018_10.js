@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 16:39:30 +0000 2018",
+		"id": 1053324773118246900,
+		"id_str": "1053324773118246913",
+		"full_text": "season's greetings https://t.co/8p2qy5OZ0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053324765862096900,
+					"id_str": "1053324765862096896",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4pSzZU8AAZfvM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4pSzZU8AAZfvM.jpg",
+					"url": "https://t.co/8p2qy5OZ0s",
+					"display_url": "pic.twitter.com/8p2qy5OZ0s",
+					"expanded_url": "https://twitter.com/FilmBart/status/1053324773118246913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 860,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053324765862096900,
+					"id_str": "1053324765862096896",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4pSzZU8AAZfvM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4pSzZU8AAZfvM.jpg",
+					"url": "https://t.co/8p2qy5OZ0s",
+					"display_url": "pic.twitter.com/8p2qy5OZ0s",
+					"expanded_url": "https://twitter.com/FilmBart/status/1053324773118246913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 860,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366417741,
+			"id_str": "366417741",
+			"name": "🎃 Jake-o'-lantern 🎃",
+			"screen_name": "FilmBart",
+			"location": "",
+			"description": "Improvident lackwit. One of those Egg Council creeps. Please accept this blanket apology for the Cubs tweets.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1909,
+			"friends_count": 1618,
+			"listed_count": 32,
+			"created_at": "Fri Sep 02 04:13:13 +0000 2011",
+			"favourites_count": 78133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47500,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049457260051615744/5BdxhFXJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049457260051615744/5BdxhFXJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366417741/1504918908",
+			"profile_link_color": "2911DB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "season's greetings https://t.co/8p2qy5OZ0s"
+	},
+	{
 		"created_at": "Fri Oct 19 13:55:10 +0000 2018",
 		"id": 1053283417956200400,
 		"id_str": "1053283417956200449",
