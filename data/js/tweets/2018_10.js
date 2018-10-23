@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 23 18:28:24 +0000 2018",
+		"id": 1054801732092547100,
+		"id_str": "1054801732092547072",
+		"full_text": "Praising Hitler to own the cons https://t.co/8TAExqOYO1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TAExqOYO1",
+					"expanded_url": "https://twitter.com/BruceBartlett/status/1054788112193331200",
+					"display_url": "twitter.com/BruceBartlett/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 537433628,
+			"id_str": "537433628",
+			"name": "William D. Adler",
+			"screen_name": "williamadler78",
+			"location": "",
+			"description": "Assistant Professor of Political Science at Northeastern Illinois University. Blogger: https://t.co/Qgxp1g9vt3",
+			"url": "https://t.co/CrJUjwnteP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrJUjwnteP",
+							"expanded_url": "http://homepages.neiu.edu/~wdadler",
+							"display_url": "homepages.neiu.edu/~wdadler",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Qgxp1g9vt3",
+							"expanded_url": "http://ahousedividedapd.com",
+							"display_url": "ahousedividedapd.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2584,
+			"friends_count": 1031,
+			"listed_count": 98,
+			"created_at": "Mon Mar 26 18:12:03 +0000 2012",
+			"favourites_count": 65262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48740,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459357535623847936/VpiER013_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459357535623847936/VpiER013_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/537433628/1487036985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054788112193331200,
+		"quoted_status_id_str": "1054788112193331200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8TAExqOYO1",
+			"expanded": "https://twitter.com/BruceBartlett/status/1054788112193331200",
+			"display": "twitter.com/BruceBartlett/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 17:34:17 +0000 2018",
+			"id": 1054788112193331200,
+			"id_str": "1054788112193331200",
+			"full_text": "Key differences between Donald Trump and Adolph Hitler--Hitler served honorably in the military, Trump didn't; Hitler was faithful to his wife, Trump cheated on all his wives; Hitler wrote a book, Trump's were all ghostwritten.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373689086,
+				"id_str": "373689086",
+				"name": "Bruce Bartlett",
+				"screen_name": "BruceBartlett",
+				"location": "Virginia, USA",
+				"description": "My book on how to fight fake news is now available wherever books are sold. https://t.co/X6qIXTqwfL",
+				"url": "http://t.co/Uevxdq8nXJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Uevxdq8nXJ",
+								"expanded_url": "http://www.facebook.com/bruce.bartlett",
+								"display_url": "facebook.com/bruce.bartlett",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/X6qIXTqwfL",
+								"expanded_url": "https://www.amazon.com/Truth-Matters-Citizens-Separating-Stopping/dp/0399581162/",
+								"display_url": "amazon.com/Truth-Matters-…",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 61224,
+				"friends_count": 1012,
+				"listed_count": 1568,
+				"created_at": "Thu Sep 15 01:39:54 +0000 2011",
+				"favourites_count": 34,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39967,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000022735532/93dece4ddfa098c1610061d488db2a7f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000022735532/93dece4ddfa098c1610061d488db2a7f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373689086/1495227169",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 240,
+			"favorite_count": 553,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Praising Hitler to own the cons https://t.co/8TAExqOYO1"
+	},
+	{
+		"created_at": "Tue Oct 23 18:48:42 +0000 2018",
+		"id": 1054806838770888700,
+		"id_str": "1054806838770888704",
+		"full_text": "@Courtney_BD M gets so annoyed when the servers offer dessert while people are still working on their entrees, cracks me up every time",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Courtney_BD",
+					"name": "Courtney Brannon Donoghue",
+					"id": 124883574,
+					"id_str": "124883574",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1054802845474668500,
+		"in_reply_to_status_id_str": "1054802845474668545",
+		"in_reply_to_user_id": 124883574,
+		"in_reply_to_user_id_str": "124883574",
+		"in_reply_to_screen_name": "Courtney_BD",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1164,
+			"friends_count": 472,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Courtney_BD M gets so annoyed when the servers offer dessert while people are still working on their entrees, cracks me up every time"
+	},
+	{
 		"created_at": "Tue Oct 23 17:42:49 +0000 2018",
 		"id": 1054790257823174700,
 		"id_str": "1054790257823174657",
