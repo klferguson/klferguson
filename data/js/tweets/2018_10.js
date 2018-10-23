@@ -102,6 +102,155 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 3994,
+			"friends_count": 1208,
+			"listed_count": 122,
+			"created_at": "Sun Mar 20 20:29:00 +0000 2011",
+			"favourites_count": 2307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/943248543396986880/UXYU0OWR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/943248543396986880/UXYU0OWR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/269454734/1528909572",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live feed from the @CUNY Board of Trustees meeting @BaruchCollege #7kCUNY #CUNYContractNow #FairPay4all \nhttps://t.co/NvmLLJw6Sa"
+	},
+	{
+		"created_at": "Mon Oct 22 21:27:37 +0000 2018",
+		"id": 1054484446093733900,
+		"id_str": "1054484446093733889",
+		"full_text": "Live feed from the @CUNY Board of Trustees meeting @BaruchCollege #7kCUNY #CUNYContractNow #FairPay4all \nhttps://t.co/NvmLLJw6Sa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "7kCUNY",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "CUNYContractNow",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"text": "FairPay4all",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUNY",
+					"name": "CUNY",
+					"id": 122059354,
+					"id_str": "122059354",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"screen_name": "BaruchCollege",
+					"name": "Baruch College",
+					"id": 18765257,
+					"id_str": "18765257",
+					"indices": [
+						51,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NvmLLJw6Sa",
+					"expanded_url": "https://www.facebook.com/pamela.stemberg/videos/10214809123680636/?source_id=166206133433647",
+					"display_url": "facebook.com/pamela.stember…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 269454734,
+			"id_str": "269454734",
+			"name": "PSC_CUNY",
+			"screen_name": "PSC_CUNY",
+			"location": "New York, NY",
+			"description": "The union that represents more than 25,000 faculty and staff at the City University of New York (CUNY). #1U",
+			"url": "http://t.co/vUjwkNsUPf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vUjwkNsUPf",
+							"expanded_url": "http://psc-cuny.org",
+							"display_url": "psc-cuny.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 3993,
 			"friends_count": 1208,
 			"listed_count": 122,
