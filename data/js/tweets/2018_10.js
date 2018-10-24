@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 23 19:08:44 +0000 2018",
+		"id": 1054811880919834600,
+		"id_str": "1054811880919834634",
+		"full_text": "4chan mathematicians solved an interesting problem but nobody knows how to cite them. Amazing. https://t.co/I9gM3zvQLU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I9gM3zvQLU",
+					"expanded_url": "https://twitter.com/robinhouston/status/1054637891085918209",
+					"display_url": "twitter.com/robinhouston/s…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1861943245,
+			"id_str": "1861943245",
+			"name": "Ariel Herbert-Voss",
+			"screen_name": "adversariel",
+			"location": "Cambridge & Toronto",
+			"description": "CS PhD @Harvard / @VectorInst / @Rapid7 / @aivillage_dc. I tweet mostly about machine learning and security. And math, brains, music, and dumb memes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1194,
+			"friends_count": 297,
+			"listed_count": 55,
+			"created_at": "Fri Sep 13 22:31:08 +0000 2013",
+			"favourites_count": 3979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012558940238827520/dB3_JRWD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012558940238827520/dB3_JRWD_normal.jpg",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054637891085918200,
+		"quoted_status_id_str": "1054637891085918209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I9gM3zvQLU",
+			"expanded": "https://twitter.com/robinhouston/status/1054637891085918209",
+			"display": "twitter.com/robinhouston/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 07:37:22 +0000 2018",
+			"id": 1054637891085918200,
+			"id_str": "1054637891085918209",
+			"full_text": "A curious situation. The best known lower bound for the minimal length of superpermutations was proved by an anonymous user of a wiki mainly devoted to anime. https://t.co/z3wVAcUJl1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/z3wVAcUJl1",
+						"expanded_url": "http://mathsci.wikia.com/wiki/The_Haruhi_Problem",
+						"display_url": "mathsci.wikia.com/wiki/The_Haruh…",
+						"indices": [
+							159,
+							182
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34650516,
+				"id_str": "34650516",
+				"name": "Robin Houston",
+				"screen_name": "robinhouston",
+				"location": "London",
+				"description": "Cofounder https://t.co/1vCTBGjgin. Also maths. Blogging sometimes at https://t.co/TvJMkUtEEm. My name is an anagram of “No enthusiasm or job”.",
+				"url": "https://t.co/aMUnK5pbp3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aMUnK5pbp3",
+								"expanded_url": "http://kiln.digital",
+								"display_url": "kiln.digital",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1vCTBGjgin",
+								"expanded_url": "https://kiln.digital/",
+								"display_url": "kiln.digital",
+								"indices": [
+									10,
+									33
+								]
+							},
+							{
+								"url": "https://t.co/TvJMkUtEEm",
+								"expanded_url": "http://bosker.wordpress.com/",
+								"display_url": "bosker.wordpress.com",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1718,
+				"friends_count": 1462,
+				"listed_count": 66,
+				"created_at": "Thu Apr 23 16:03:54 +0000 2009",
+				"favourites_count": 4950,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11827,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/456446753441464320/xkiliy-L_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/456446753441464320/xkiliy-L_normal.jpeg",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 937,
+			"favorite_count": 2095,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1855,
+		"favorite_count": 3550,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4chan mathematicians solved an interesting problem but nobody knows how to cite them. Amazing. https://t.co/I9gM3zvQLU"
+	},
+	{
+		"created_at": "Tue Oct 23 16:39:32 +0000 2018",
+		"id": 1054774335364390900,
+		"id_str": "1054774335364390912",
+		"full_text": "I give you the process by which you try to get a university to pay a visiting speaker... https://t.co/FA9Z17rSzN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054774110037905400,
+					"id_str": "1054774110037905409",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DqNPdvMWkAEBgcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqNPdvMWkAEBgcK.jpg",
+					"url": "https://t.co/FA9Z17rSzN",
+					"display_url": "pic.twitter.com/FA9Z17rSzN",
+					"expanded_url": "https://twitter.com/philipjcowley/status/1054774335364390912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 444,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 444,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054774110037905400,
+					"id_str": "1054774110037905409",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DqNPdvMWkAEBgcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqNPdvMWkAEBgcK.jpg",
+					"url": "https://t.co/FA9Z17rSzN",
+					"display_url": "pic.twitter.com/FA9Z17rSzN",
+					"expanded_url": "https://twitter.com/philipjcowley/status/1054774335364390912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 444,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 444,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127480750,
+			"id_str": "127480750",
+			"name": "Philip Cowley",
+			"screen_name": "philipjcowley",
+			"location": "",
+			"description": "Professor of Politics, @QMPoliticsIR . The J stands for Joined Twitter Too Late To Be Called @PhilipCowley.  Or John.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22700,
+			"friends_count": 886,
+			"listed_count": 543,
+			"created_at": "Mon Mar 29 10:10:25 +0000 2010",
+			"favourites_count": 1644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/629617387093008384/FV3UdHc9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/629617387093008384/FV3UdHc9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127480750/1496413690",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I give you the process by which you try to get a university to pay a visiting speaker... https://t.co/FA9Z17rSzN"
+	},
+	{
 		"created_at": "Wed Oct 24 02:51:08 +0000 2018",
 		"id": 1054928245806764000,
 		"id_str": "1054928245806764032",
