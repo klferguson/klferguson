@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 25 15:57:37 +0000 2018",
+		"id": 1055488561796055000,
+		"id_str": "1055488561796055040",
+		"full_text": "@kristenwarner https://t.co/L6eDd9fv2S",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW has very little patience for Halloween",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1055488552723726300,
+					"id_str": "1055488552723726336",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DqXZPxmWwAAN-Cx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqXZPxmWwAAN-Cx.jpg",
+					"url": "https://t.co/L6eDd9fv2S",
+					"display_url": "pic.twitter.com/L6eDd9fv2S",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1055488561796055040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055488552723726300,
+					"id_str": "1055488552723726336",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DqXZPxmWwAAN-Cx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqXZPxmWwAAN-Cx.jpg",
+					"url": "https://t.co/L6eDd9fv2S",
+					"display_url": "pic.twitter.com/L6eDd9fv2S",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1055488561796055040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1055487684884475900,
+		"in_reply_to_status_id_str": "1055487684884475904",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️🎃🔪💀👻🧟🦇🕷⚰️🧛🙀🕸🏚️",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 470,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57083,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051591115688669184/zzYBuXa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@kristenwarner https://t.co/L6eDd9fv2S"
+	},
+	{
+		"created_at": "Thu Oct 25 14:41:04 +0000 2018",
+		"id": 1055469295529050100,
+		"id_str": "1055469295529050114",
+		"full_text": "Wow https://t.co/DSv8vNWEiE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DSv8vNWEiE",
+					"expanded_url": "https://twitter.com/BklynEagle/status/1055469078457081856",
+					"display_url": "twitter.com/BklynEagle/sta…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8207402,
+			"id_str": "8207402",
+			"name": "EB",
+			"screen_name": "typingelbow",
+			"location": "New Jersey, USA",
+			"description": "Elisabeth Butler Cordova, a Southerner living in Jersey by way of Brooklyn, NOLA and Arkansas. Wife, mama and AME for @cnbc.com. #Binders #WPS",
+			"url": "https://t.co/OPub4Um863",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OPub4Um863",
+							"expanded_url": "http://www.cnbc.com",
+							"display_url": "cnbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1458,
+			"friends_count": 1038,
+			"listed_count": 36,
+			"created_at": "Wed Aug 15 16:50:02 +0000 2007",
+			"favourites_count": 3246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004075521968431104/TxgA3P0c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004075521968431104/TxgA3P0c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8207402/1494606987",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055469078457081900,
+		"quoted_status_id_str": "1055469078457081856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DSv8vNWEiE",
+			"expanded": "https://twitter.com/BklynEagle/status/1055469078457081856",
+			"display": "twitter.com/BklynEagle/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 14:40:12 +0000 2018",
+			"id": 1055469078457081900,
+			"id_str": "1055469078457081856",
+			"full_text": "Boerum Hill couple stages horrific pumpkin dentist Halloween tableau https://t.co/DG3A4L2zJS https://t.co/JZiZqetLW4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DG3A4L2zJS",
+						"expanded_url": "https://bit.ly/2q9a3pW",
+						"display_url": "bit.ly/2q9a3pW",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1055469076833857500,
+						"id_str": "1055469076833857536",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXHiIQXcAAgoC-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXHiIQXcAAgoC-.jpg",
+						"url": "https://t.co/JZiZqetLW4",
+						"display_url": "pic.twitter.com/JZiZqetLW4",
+						"expanded_url": "https://twitter.com/BklynEagle/status/1055469078457081856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 550,
+								"h": 413,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055469076833857500,
+						"id_str": "1055469076833857536",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXHiIQXcAAgoC-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXHiIQXcAAgoC-.jpg",
+						"url": "https://t.co/JZiZqetLW4",
+						"display_url": "pic.twitter.com/JZiZqetLW4",
+						"expanded_url": "https://twitter.com/BklynEagle/status/1055469078457081856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 550,
+								"h": 413,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82943769,
+				"id_str": "82943769",
+				"name": "Brooklyn Daily Eagle",
+				"screen_name": "BklynEagle",
+				"location": "Brooklyn, NY",
+				"description": "Everything Brooklyn since 1841 | #Brooklyn's number 1 news stream",
+				"url": "http://t.co/8IGjhWzzTi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8IGjhWzzTi",
+								"expanded_url": "http://www.brooklyneagle.com/",
+								"display_url": "brooklyneagle.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22096,
+				"friends_count": 2422,
+				"listed_count": 831,
+				"created_at": "Fri Oct 16 18:40:52 +0000 2009",
+				"favourites_count": 498,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44145,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695258710193659904/wMZKuCM__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695258710193659904/wMZKuCM__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82943769/1497284641",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Wow https://t.co/DSv8vNWEiE"
+	},
+	{
 		"created_at": "Thu Oct 25 11:56:51 +0000 2018",
 		"id": 1055427971362811900,
 		"id_str": "1055427971362811904",
