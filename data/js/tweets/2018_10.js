@@ -156,6 +156,209 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 39088,
+			"friends_count": 3499,
+			"listed_count": 1335,
+			"created_at": "Fri Mar 16 04:44:43 +0000 2007",
+			"favourites_count": 4471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/411717438477041666/0CRWEaPj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/411717438477041666/0CRWEaPj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1266281/1418836669",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoa. That's the Milky Way, bouncing off the Moon in radio waves -  https://t.co/y0rrC731Mt https://t.co/Xb3YOvJXH4"
+	},
+	{
+		"created_at": "Thu Oct 25 20:15:06 +0000 2018",
+		"id": 1055553357778223100,
+		"id_str": "1055553357778223105",
+		"full_text": "Whoa. That's the Milky Way, bouncing off the Moon in radio waves -  https://t.co/y0rrC731Mt https://t.co/Xb3YOvJXH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y0rrC731Mt",
+					"expanded_url": "https://www.eurekalert.org/pub_releases/2018-10/icfr-mhr101618.php",
+					"display_url": "eurekalert.org/pub_releases/2…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055553356142428200,
+					"id_str": "1055553356142428161",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DqYUL1JXQAEBgAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqYUL1JXQAEBgAI.jpg",
+					"url": "https://t.co/Xb3YOvJXH4",
+					"display_url": "pic.twitter.com/Xb3YOvJXH4",
+					"expanded_url": "https://twitter.com/fcain/status/1055553357778223105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055553356142428200,
+					"id_str": "1055553356142428161",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DqYUL1JXQAEBgAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqYUL1JXQAEBgAI.jpg",
+					"url": "https://t.co/Xb3YOvJXH4",
+					"display_url": "pic.twitter.com/Xb3YOvJXH4",
+					"expanded_url": "https://twitter.com/fcain/status/1055553357778223105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1266281,
+			"id_str": "1266281",
+			"name": "Fraser Cain",
+			"screen_name": "fcain",
+			"location": "Courtenay, British Columbia",
+			"description": "Publisher of https://t.co/SHcUI0WfIZ, co-host of https://t.co/nyl5wKkOTy. Named after Asteroid 158092.",
+			"url": "http://t.co/8koZE3mJNo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8koZE3mJNo",
+							"expanded_url": "http://about.me/frasercain",
+							"display_url": "about.me/frasercain",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SHcUI0WfIZ",
+							"expanded_url": "http://universetoday.com",
+							"display_url": "universetoday.com",
+							"indices": [
+								13,
+								36
+							]
+						},
+						{
+							"url": "https://t.co/nyl5wKkOTy",
+							"expanded_url": "http://astronomycast.com",
+							"display_url": "astronomycast.com",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 39085,
 			"friends_count": 3498,
 			"listed_count": 1336,
