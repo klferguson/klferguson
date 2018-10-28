@@ -312,6 +312,364 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 80837,
+			"friends_count": 55830,
+			"listed_count": 218,
+			"created_at": "Fri Jun 19 14:11:52 +0000 2015",
+			"favourites_count": 101320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023998532238434304/u3FgZBF7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023998532238434304/u3FgZBF7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3334843313/1539800291",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14127,
+		"favorite_count": 45125,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: Authorities have intercepted a suspicious package addressed to Donald Trump containing a dictionary and US Constitution."
+	},
+	{
+		"created_at": "Sun Oct 28 15:07:57 +0000 2018",
+		"id": 1056563223770603500,
+		"id_str": "1056563223770603522",
+		"full_text": "The NET-ART website/course on the @cunycommons will launch its first Open Call for Submissions this week! @mkgold @lwaltzer @mbransons @mauraweb @lmrhody - gifs, internet art, experimental electronic pedagogy #excited #StayTuned https://t.co/xAJ96fg5hs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "excited",
+					"indices": [
+						209,
+						217
+					]
+				},
+				{
+					"text": "StayTuned",
+					"indices": [
+						218,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cunycommons",
+					"name": "CUNYAcademicCommons",
+					"id": 40577439,
+					"id_str": "40577439",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "mkgold",
+					"name": "Matt Gold",
+					"id": 12876812,
+					"id_str": "12876812",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"screen_name": "lwaltzer",
+					"name": "Luke Waltzer",
+					"id": 14368882,
+					"id_str": "14368882",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "mbransons",
+					"name": "Michael B Smith",
+					"id": 259908125,
+					"id_str": "259908125",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"screen_name": "mauraweb",
+					"name": "Dr Maura Smale",
+					"id": 14838388,
+					"id_str": "14838388",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"screen_name": "lmrhody",
+					"name": "Lisa Marie Rhody",
+					"id": 242410169,
+					"id_str": "242410169",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056561687224975400,
+					"id_str": "1056561687224975361",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqmpQbJVAAEew-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqmpQbJVAAEew-N.jpg",
+					"url": "https://t.co/xAJ96fg5hs",
+					"display_url": "pic.twitter.com/xAJ96fg5hs",
+					"expanded_url": "https://twitter.com/ryanseslow/status/1056563223770603522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 444,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056561687224975400,
+					"id_str": "1056561687224975361",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqmpQbJVAAEew-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqmpQbJVAAEew-N.jpg",
+					"url": "https://t.co/xAJ96fg5hs",
+					"display_url": "pic.twitter.com/xAJ96fg5hs",
+					"expanded_url": "https://twitter.com/ryanseslow/status/1056563223770603522/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 444,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 444,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							111
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DqmpQbJVAAEew-N.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15991874,
+			"id_str": "15991874",
+			"name": "ryanseslow",
+			"screen_name": "ryanseslow",
+			"location": "New York, NY",
+			"description": "Artist, Graphic Designer, Professor of Art & Design at your Service. #Deaf & #HardofHearing 🤟🤟",
+			"url": "https://t.co/Y1V4zoBTzv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y1V4zoBTzv",
+							"expanded_url": "http://www.ryanseslow.com",
+							"display_url": "ryanseslow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4249,
+			"friends_count": 3880,
+			"listed_count": 520,
+			"created_at": "Tue Aug 26 03:31:44 +0000 2008",
+			"favourites_count": 12653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897623892470243329/2GFheqhb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897623892470243329/2GFheqhb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15991874/1536446655",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The NET-ART website/course on the @cunycommons will launch its first Open Call for Submissions this week! @mkgold @lwaltzer @mbransons @mauraweb @lmrhody - gifs, internet art, experimental electronic pedagogy #excited #StayTuned https://t.co/xAJ96fg5hs"
+	},
+	{
+		"created_at": "Sat Oct 27 16:32:31 +0000 2018",
+		"id": 1056222118969573400,
+		"id_str": "1056222118969573379",
+		"full_text": "BREAKING: Authorities have intercepted a suspicious package addressed to Donald Trump containing a dictionary and US Constitution.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3334843313,
+			"id_str": "3334843313",
+			"name": "Maggie Resists Trump",
+			"screen_name": "Stop_Trump20",
+			"location": "Mags Land",
+			"description": "The best Trump memes! Humor and parody of GOP! #TrumpMemes #Memes #RESIST #BlueWave #FBR #FBRParty **‼️**NO MESSAGES!**‼️**",
+			"url": "https://t.co/mHffD2T7Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mHffD2T7Zu",
+							"expanded_url": "https://goo.gl/nTdTBe",
+							"display_url": "goo.gl/nTdTBe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 80811,
 			"friends_count": 55994,
 			"listed_count": 239,
