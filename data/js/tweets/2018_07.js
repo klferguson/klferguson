@@ -366,7 +366,7 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3268475,
+				"followers_count": 3268478,
 				"friends_count": 1457,
 				"listed_count": 10133,
 				"created_at": "Fri Oct 08 16:09:08 +0000 2010",
@@ -6222,9 +6222,9 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10950,
+			"followers_count": 10951,
 			"friends_count": 2998,
-			"listed_count": 467,
+			"listed_count": 468,
 			"created_at": "Thu Jan 22 23:02:33 +0000 2009",
 			"favourites_count": 2245,
 			"utc_offset": null,
@@ -10083,9 +10083,9 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 623,
+			"followers_count": 624,
 			"friends_count": 152,
-			"listed_count": 14,
+			"listed_count": 15,
 			"created_at": "Sun Aug 16 19:30:39 +0000 2009",
 			"favourites_count": 639,
 			"utc_offset": null,
@@ -10122,7 +10122,7 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9364,
+		"retweet_count": 9363,
 		"favorite_count": 20638,
 		"favorited": false,
 		"retweeted": true,
@@ -16240,7 +16240,7 @@ Grailbird.data.tweets_2018_07 =
 			"protected": false,
 			"followers_count": 3721,
 			"friends_count": 643,
-			"listed_count": 55,
+			"listed_count": 51,
 			"created_at": "Mon Jan 23 20:23:52 +0000 2017",
 			"favourites_count": 7386,
 			"utc_offset": null,
@@ -17878,9 +17878,9 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 242714,
+				"followers_count": 242712,
 				"friends_count": 194,
-				"listed_count": 1155,
+				"listed_count": 1157,
 				"created_at": "Mon Dec 18 22:04:48 +0000 2017",
 				"favourites_count": 523,
 				"utc_offset": null,
@@ -21841,16 +21841,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25160,
+			"followers_count": 25159,
 			"friends_count": 14265,
 			"listed_count": 339,
 			"created_at": "Fri Dec 09 11:52:59 +0000 2011",
-			"favourites_count": 68457,
+			"favourites_count": 68472,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 20440,
+			"statuses_count": 20449,
 			"lang": "ca",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22110,16 +22110,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10131,
-			"friends_count": 5522,
-			"listed_count": 160,
+			"followers_count": 10139,
+			"friends_count": 5529,
+			"listed_count": 156,
 			"created_at": "Sat Aug 26 12:05:38 +0000 2017",
-			"favourites_count": 38353,
+			"favourites_count": 38359,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 11216,
+			"statuses_count": 11220,
 			"lang": "es",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22283,9 +22283,9 @@ Grailbird.data.tweets_2018_07 =
 			"protected": false,
 			"followers_count": 59054,
 			"friends_count": 743,
-			"listed_count": 1005,
+			"listed_count": 1007,
 			"created_at": "Fri Apr 08 15:58:11 +0000 2011",
-			"favourites_count": 26646,
+			"favourites_count": 26643,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -22459,12 +22459,12 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 97,
 			"listed_count": 1,
 			"created_at": "Fri Oct 04 13:04:59 +0000 2013",
-			"favourites_count": 2033,
+			"favourites_count": 2035,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4024,
+			"statuses_count": 4025,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24354,9 +24354,9 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 242714,
+				"followers_count": 242712,
 				"friends_count": 194,
-				"listed_count": 1155,
+				"listed_count": 1157,
 				"created_at": "Mon Dec 18 22:04:48 +0000 2017",
 				"favourites_count": 523,
 				"utc_offset": null,
@@ -31144,7 +31144,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 55859,
+			"followers_count": 55862,
 			"friends_count": 667,
 			"listed_count": 1694,
 			"created_at": "Sun Aug 09 05:41:08 +0000 2009",
@@ -31153,7 +31153,7 @@ Grailbird.data.tweets_2018_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 451132,
+			"statuses_count": 451134,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33063,7 +33063,7 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 116019,
+				"followers_count": 116020,
 				"friends_count": 419,
 				"listed_count": 1505,
 				"created_at": "Tue Sep 01 17:46:20 +0000 2009",
@@ -54124,16 +54124,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 105196,
+			"followers_count": 105199,
 			"friends_count": 1119,
-			"listed_count": 2077,
+			"listed_count": 2076,
 			"created_at": "Tue Dec 29 04:44:11 +0000 2009",
 			"favourites_count": 367,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 299772,
+			"statuses_count": 299776,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -54328,9 +54328,9 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 69050,
+				"followers_count": 69051,
 				"friends_count": 1306,
-				"listed_count": 413,
+				"listed_count": 412,
 				"created_at": "Fri Jul 31 15:14:05 +0000 2009",
 				"favourites_count": 1370,
 				"utc_offset": null,
@@ -55923,9 +55923,9 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1690833,
+				"followers_count": 1690941,
 				"friends_count": 259,
-				"listed_count": 6643,
+				"listed_count": 6645,
 				"created_at": "Mon Aug 18 13:36:33 +0000 2008",
 				"favourites_count": 2681,
 				"utc_offset": null,
@@ -56787,7 +56787,7 @@ Grailbird.data.tweets_2018_07 =
 			},
 			"protected": false,
 			"followers_count": 213,
-			"friends_count": 562,
+			"friends_count": 563,
 			"listed_count": 4,
 			"created_at": "Thu Mar 12 15:54:24 +0000 2009",
 			"favourites_count": 8739,
@@ -59187,7 +59187,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -59390,7 +59390,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -59700,7 +59700,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -59825,7 +59825,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -59960,7 +59960,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -60122,7 +60122,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -60237,7 +60237,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -60372,7 +60372,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -60434,7 +60434,7 @@ Grailbird.data.tweets_2018_07 =
 			"user_mentions": [
 				{
 					"screen_name": "1iroller",
-					"name": "Dr. CD EVIL, Ph.D. is listening to old lady music",
+					"name": "Dr. CD EVIL, Ph.D., pumpkin envelope pusher",
 					"id": 3011242971,
 					"id_str": "3011242971",
 					"indices": [
@@ -60507,7 +60507,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -60642,7 +60642,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -60777,7 +60777,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -60902,7 +60902,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -61027,7 +61027,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -61219,7 +61219,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -61344,7 +61344,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -61469,7 +61469,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -61595,7 +61595,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -61720,7 +61720,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -61912,7 +61912,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62038,7 +62038,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62163,7 +62163,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62288,7 +62288,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62413,7 +62413,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62538,7 +62538,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62693,7 +62693,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62838,7 +62838,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -62952,7 +62952,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -63076,7 +63076,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -63202,7 +63202,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -63394,7 +63394,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -63520,7 +63520,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -63645,7 +63645,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -63737,11 +63737,11 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 48708,
+			"followers_count": 48706,
 			"friends_count": 857,
-			"listed_count": 724,
+			"listed_count": 723,
 			"created_at": "Thu Oct 06 14:16:17 +0000 2011",
-			"favourites_count": 62816,
+			"favourites_count": 62814,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -63910,9 +63910,9 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 136283,
+				"followers_count": 136277,
 				"friends_count": 586,
-				"listed_count": 809,
+				"listed_count": 811,
 				"created_at": "Fri Jun 23 03:08:16 +0000 2017",
 				"favourites_count": 1527,
 				"utc_offset": null,
@@ -63957,7 +63957,7 @@ Grailbird.data.tweets_2018_07 =
 			"lang": "en"
 		},
 		"retweet_count": 154,
-		"favorite_count": 2209,
+		"favorite_count": 2208,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -64042,7 +64042,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -64188,7 +64188,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -64313,7 +64313,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -64448,7 +64448,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -64562,7 +64562,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -64676,7 +64676,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -64790,7 +64790,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -64915,7 +64915,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -65040,7 +65040,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -65165,7 +65165,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -65290,7 +65290,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -65493,7 +65493,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -65686,7 +65686,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -65812,7 +65812,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -65937,7 +65937,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -66062,7 +66062,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -66254,7 +66254,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -66468,7 +66468,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -66661,7 +66661,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -66787,7 +66787,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -66911,7 +66911,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -67085,11 +67085,11 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14439,
+			"followers_count": 14442,
 			"friends_count": 1916,
 			"listed_count": 270,
 			"created_at": "Mon Jan 30 17:49:55 +0000 2012",
-			"favourites_count": 60529,
+			"favourites_count": 60528,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -67195,7 +67195,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 2283,
 			"listed_count": 35,
 			"created_at": "Thu Mar 04 05:05:43 +0000 2010",
-			"favourites_count": 73872,
+			"favourites_count": 73871,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -67286,9 +67286,9 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 20231,
+				"followers_count": 20229,
 				"friends_count": 123,
-				"listed_count": 1092,
+				"listed_count": 1095,
 				"created_at": "Tue Dec 05 02:40:37 +0000 2006",
 				"favourites_count": 37746,
 				"utc_offset": null,
@@ -67322,7 +67322,40 @@ Grailbird.data.tweets_2018_07 =
 			},
 			"geo": null,
 			"coordinates": null,
-			"place": null,
+			"place": {
+				"id": "ac88a4f17a51c7fc",
+				"url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json",
+				"place_type": "city",
+				"name": "Portland",
+				"full_name": "Portland, OR",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.7900653,
+								45.421863
+							],
+							[
+								-122.471751,
+								45.421863
+							],
+							[
+								-122.471751,
+								45.6509405
+							],
+							[
+								-122.7900653,
+								45.6509405
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1517,
@@ -67418,7 +67451,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -67543,7 +67576,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -67668,7 +67701,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -67793,7 +67826,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -67985,7 +68018,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -68110,7 +68143,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -68433,7 +68466,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -68559,7 +68592,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -68673,7 +68706,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -68808,7 +68841,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -68943,7 +68976,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69068,7 +69101,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69193,7 +69226,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69307,7 +69340,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69421,7 +69454,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69546,7 +69579,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69671,7 +69704,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69796,7 +69829,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -69921,7 +69954,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -70035,7 +70068,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -70227,7 +70260,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -70342,7 +70375,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -70477,7 +70510,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
@@ -70602,7 +70635,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1167,
+			"followers_count": 1166,
 			"friends_count": 470,
 			"listed_count": 52,
 			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
