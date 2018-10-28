@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 01:47:38 +0000 2016",
+		"id": 788919575698083800,
+		"id_str": "788919575698083840",
+		"full_text": "Every picture of the E.T. from the Universal Studios ride looks like he's destroying you in a rap battle https://t.co/sk8MvLcTzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 788918961702330400,
+					"id_str": "788918961702330368",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CvLNnaTWYAAY_lZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvLNnaTWYAAY_lZ.jpg",
+					"url": "https://t.co/sk8MvLcTzk",
+					"display_url": "pic.twitter.com/sk8MvLcTzk",
+					"expanded_url": "https://twitter.com/kibblesmith/status/788919575698083840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 574,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 355,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 574,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788918961702330400,
+					"id_str": "788918961702330368",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CvLNnaTWYAAY_lZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvLNnaTWYAAY_lZ.jpg",
+					"url": "https://t.co/sk8MvLcTzk",
+					"display_url": "pic.twitter.com/sk8MvLcTzk",
+					"expanded_url": "https://twitter.com/kibblesmith/status/788919575698083840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 574,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 355,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 574,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 788919124638437400,
+					"id_str": "788919124638437377",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CvLNw5SWEAE9z1D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvLNw5SWEAE9z1D.jpg",
+					"url": "https://t.co/sk8MvLcTzk",
+					"display_url": "pic.twitter.com/sk8MvLcTzk",
+					"expanded_url": "https://twitter.com/kibblesmith/status/788919575698083840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 788919380214157300,
+					"id_str": "788919380214157313",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CvLN_xYWEAEQMiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvLN_xYWEAEQMiK.jpg",
+					"url": "https://t.co/sk8MvLcTzk",
+					"display_url": "pic.twitter.com/sk8MvLcTzk",
+					"expanded_url": "https://twitter.com/kibblesmith/status/788919575698083840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 788919402712469500,
+					"id_str": "788919402712469505",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CvLOBFMXEAEjl_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvLOBFMXEAEjl_h.jpg",
+					"url": "https://t.co/sk8MvLcTzk",
+					"display_url": "pic.twitter.com/sk8MvLcTzk",
+					"expanded_url": "https://twitter.com/kibblesmith/status/788919575698083840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14641347,
+			"id_str": "14641347",
+			"name": "Daniel Kibblesmith ☃️",
+			"screen_name": "kibblesmith",
+			"location": "NYC, U.S.A.",
+			"description": "Writer; Television & Comic Books. Married to @JenAshleyWright. #BlackPanther Vs. #Deadpool #1 On Sale From #Marvel 10.24.18",
+			"url": "https://t.co/Z25TBxhAML",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z25TBxhAML",
+							"expanded_url": "http://www.kibblesmith.com",
+							"display_url": "kibblesmith.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75913,
+			"friends_count": 3506,
+			"listed_count": 1276,
+			"created_at": "Sat May 03 20:42:01 +0000 2008",
+			"favourites_count": 102521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 65193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EFEFEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055207644821118976/PWeW1iy7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055207644821118976/PWeW1iy7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14641347/1528767003",
+			"profile_link_color": "ADADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28274,
+		"favorite_count": 53419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every picture of the E.T. from the Universal Studios ride looks like he's destroying you in a rap battle https://t.co/sk8MvLcTzk"
+	},
+	{
 		"created_at": "Sun Oct 28 02:28:34 +0000 2018",
 		"id": 1056372120542941200,
 		"id_str": "1056372120542941184",
