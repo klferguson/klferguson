@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 02:30:15 +0000 2018",
+		"id": 1057097318904881200,
+		"id_str": "1057097318904881152",
+		"full_text": "His eyes were pits of flame, and they glared at me with what I now saw was overwhelming hatred. The machine droned detestably.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://NoWebsiteYet.com\" rel=\"nofollow\">Lovecraft autolit</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456301436,
+			"id_str": "456301436",
+			"name": "From Beyond",
+			"screen_name": "Call_o_Cthulhu",
+			"location": "Providence, Rhode Island",
+			"description": "The works of H.P. Lovecraft, one tweet at a time.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 544,
+			"listed_count": 8,
+			"created_at": "Fri Jan 06 03:06:02 +0000 2012",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918094007808401408/PBzW1KZT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918094007808401408/PBzW1KZT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456301436/1507725685",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "His eyes were pits of flame, and they glared at me with what I now saw was overwhelming hatred. The machine droned detestably."
+	},
+	{
+		"created_at": "Tue Oct 30 02:09:00 +0000 2018",
+		"id": 1057091970919735300,
+		"id_str": "1057091970919735296",
+		"full_text": "A U.S.-bound caravan of migrants crosses the Suchiate river, the natural border between Guatemala and Mexico, as it moves north. More photos: https://t.co/pE1wDuvV9X 📷 Adrees Latif https://t.co/dCNdyflKER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pE1wDuvV9X",
+					"expanded_url": "https://reut.rs/2DcLCRb",
+					"display_url": "reut.rs/2DcLCRb",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1057063219259498500,
+					"id_str": "1057063219259498496",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DqtxZbkX4AAC_HJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqtxZbkX4AAC_HJ.jpg",
+					"url": "https://t.co/dCNdyflKER",
+					"display_url": "pic.twitter.com/dCNdyflKER",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1057091970919735296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057063219259498500,
+					"id_str": "1057063219259498496",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DqtxZbkX4AAC_HJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqtxZbkX4AAC_HJ.jpg",
+					"url": "https://t.co/dCNdyflKER",
+					"display_url": "pic.twitter.com/dCNdyflKER",
+					"expanded_url": "https://twitter.com/reuterspictures/status/1057091970919735296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14584903,
+			"id_str": "14584903",
+			"name": "Reuters Pictures",
+			"screen_name": "reuterspictures",
+			"location": "Global",
+			"description": "News photography from the world's largest news agency. Follow us http://t.co/cVq7KHRsu5",
+			"url": "http://t.co/EFkf1W4ofk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EFkf1W4ofk",
+							"expanded_url": "http://www.reuters.com/pictures",
+							"display_url": "reuters.com/pictures",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/cVq7KHRsu5",
+							"expanded_url": "http://instagram.com/reuters",
+							"display_url": "instagram.com/reuters",
+							"indices": [
+								65,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 146517,
+			"friends_count": 435,
+			"listed_count": 6114,
+			"created_at": "Tue Apr 29 14:03:03 +0000 2008",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2B2A25",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877280005373538304/XSMA0eOa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877280005373538304/XSMA0eOa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14584903/1482517316",
+			"profile_link_color": "FF9100",
+			"profile_sidebar_border_color": "2B2A25",
+			"profile_sidebar_fill_color": "141311",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "A U.S.-bound caravan of migrants crosses the Suchiate river, the natural border between Guatemala and Mexico, as it moves north. More photos: https://t.co/pE1wDuvV9X 📷 Adrees Latif https://t.co/dCNdyflKER"
+	},
+	{
 		"created_at": "Tue Oct 30 01:49:14 +0000 2018",
 		"id": 1057086996475207700,
 		"id_str": "1057086996475207681",
