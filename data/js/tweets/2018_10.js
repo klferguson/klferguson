@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 29 19:08:34 +0000 2018",
+		"id": 1056986168024330200,
+		"id_str": "1056986168024330240",
+		"full_text": "Halloween is canceled https://t.co/bu65MUQDwp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056863644229623800,
+					"id_str": "1056863644229623808",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056863644229623808/pu/img/RMrzCBo4lZaOzcrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056863644229623808/pu/img/RMrzCBo4lZaOzcrI.jpg",
+					"url": "https://t.co/bu65MUQDwp",
+					"display_url": "pic.twitter.com/bu65MUQDwp",
+					"expanded_url": "https://twitter.com/inquirerdotnet/status/1056868231506350080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1056868231506350100,
+					"source_status_id_str": "1056868231506350080",
+					"source_user_id": 15448383,
+					"source_user_id_str": "15448383"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056863644229623800,
+					"id_str": "1056863644229623808",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056863644229623808/pu/img/RMrzCBo4lZaOzcrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056863644229623808/pu/img/RMrzCBo4lZaOzcrI.jpg",
+					"url": "https://t.co/bu65MUQDwp",
+					"display_url": "pic.twitter.com/bu65MUQDwp",
+					"expanded_url": "https://twitter.com/inquirerdotnet/status/1056868231506350080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1056868231506350100,
+					"source_status_id_str": "1056868231506350080",
+					"source_user_id": 15448383,
+					"source_user_id_str": "15448383",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 37504,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1056863644229623808/pu/pl/K5uxLN540SLvW-uQ.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056863644229623808/pu/vid/480x480/iKPm27r9r0SJIxQZ.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056863644229623808/pu/vid/240x240/_CbEJOB5CU_yK86x.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056863644229623808/pu/vid/720x720/GBy-PwsUlJ906E8E.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 15448383,
+							"id_str": "15448383",
+							"name": "Inquirer",
+							"screen_name": "inquirerdotnet",
+							"location": "Makati City",
+							"description": "Balanced News, Fearless Views. Updates on and from the Philippines. Smartphone https://t.co/ieH6fpzwvJ Tablet https://t.co/hmKh0Rr0QZ Chat https://t.co/Cvl0FeXobL",
+							"url": "https://t.co/RlrYWVwrXG",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/RlrYWVwrXG",
+											"expanded_url": "http://www.inquirer.net",
+											"display_url": "inquirer.net",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/ieH6fpzwvJ",
+											"expanded_url": "http://inq.news/app",
+											"display_url": "inq.news/app",
+											"indices": [
+												79,
+												102
+											]
+										},
+										{
+											"url": "https://t.co/hmKh0Rr0QZ",
+											"expanded_url": "http://inq.news/inqplus",
+											"display_url": "inq.news/inqplus",
+											"indices": [
+												110,
+												133
+											]
+										},
+										{
+											"url": "https://t.co/Cvl0FeXobL",
+											"expanded_url": "http://inq.news/chat",
+											"display_url": "inq.news/chat",
+											"indices": [
+												139,
+												162
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 2792841,
+							"friends_count": 1889,
+							"listed_count": 5814,
+							"created_at": "Wed Jul 16 00:36:41 +0000 2008",
+							"favourites_count": 35044,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 708716,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/783698839546961920/POMZKG5W_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/783698839546961920/POMZKG5W_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/15448383/1533130896",
+							"profile_link_color": "055EB4",
+							"profile_sidebar_border_color": "0067CD",
+							"profile_sidebar_fill_color": "E6E6E6",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24520812,
+			"id_str": "24520812",
+			"name": "Dwight",
+			"screen_name": "keepdwightgirl",
+			"location": "Tampa, FL",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 996,
+			"listed_count": 98,
+			"created_at": "Sun Mar 15 13:04:27 +0000 2009",
+			"favourites_count": 19303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 103477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056701202132582400/j5gCqSek_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056701202132582400/j5gCqSek_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24520812/1540915151",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "60615F",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238852,
+		"favorite_count": 630335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Halloween is canceled https://t.co/bu65MUQDwp"
+	},
+	{
 		"created_at": "Tue Oct 30 18:54:11 +0000 2018",
 		"id": 1057344934934659100,
 		"id_str": "1057344934934659072",
