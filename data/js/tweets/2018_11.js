@@ -63,6 +63,292 @@ Grailbird.data.tweets_2018_11 =
 			"friends_count": 595,
 			"listed_count": 38,
 			"created_at": "Mon Dec 04 03:19:09 +0000 2006",
+			"favourites_count": 41132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984416820647153664/HVj8aVrS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984416820647153664/HVj8aVrS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39783/1520623341",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1057712493110419500,
+		"quoted_status_id_str": "1057712493110419456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ax9Pbb3xBQ",
+			"expanded": "https://twitter.com/lightscamerapod/status/1057712493110419456",
+			"display": "twitter.com/lightscamerapo…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 31 19:14:44 +0000 2018",
+			"id": 1057712493110419500,
+			"id_str": "1057712493110419456",
+			"full_text": "Here's a map of FAVORITE MOVIE CANDY by state. What does your state like the most? https://t.co/OfeOBic6Ar",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1057712484893765600,
+						"id_str": "1057712484893765632",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq2_5qiWsAAPJbd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq2_5qiWsAAPJbd.jpg",
+						"url": "https://t.co/OfeOBic6Ar",
+						"display_url": "pic.twitter.com/OfeOBic6Ar",
+						"expanded_url": "https://twitter.com/LightsCameraPod/status/1057712493110419456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1804,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 704,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1057712484893765600,
+						"id_str": "1057712484893765632",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq2_5qiWsAAPJbd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq2_5qiWsAAPJbd.jpg",
+						"url": "https://t.co/OfeOBic6Ar",
+						"display_url": "pic.twitter.com/OfeOBic6Ar",
+						"expanded_url": "https://twitter.com/LightsCameraPod/status/1057712493110419456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1804,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 704,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 894899924051136500,
+				"id_str": "894899924051136512",
+				"name": "Lights, Camera, Pod",
+				"screen_name": "LightsCameraPod",
+				"location": "United States",
+				"description": "Barstool's movie brand/podcast featuring @Trillballins, @JeffDLowe & @KenJac // Subscribe to the podcast below",
+				"url": "https://t.co/EluNDSADTq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EluNDSADTq",
+								"expanded_url": "https://itunes.apple.com/us/podcast/lights-camera-podcast/id1279516571?mt=2",
+								"display_url": "itunes.apple.com/us/podcast/lig…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24387,
+				"friends_count": 375,
+				"listed_count": 93,
+				"created_at": "Tue Aug 08 12:35:43 +0000 2017",
+				"favourites_count": 2991,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6919,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996615374627065856/P2OJRP2h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996615374627065856/P2OJRP2h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/894899924051136512/1526411364",
+				"profile_link_color": "5F3817",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 339,
+			"favorite_count": 1355,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have to assume — I have to *believe* — Wisconsin didn’t understand the question. https://t.co/Ax9Pbb3xBQ"
+	},
+	{
+		"created_at": "Thu Nov 01 18:54:07 +0000 2018",
+		"id": 1058069694970781700,
+		"id_str": "1058069694970781697",
+		"full_text": "I have to assume — I have to *believe* — Wisconsin didn’t understand the question. https://t.co/Ax9Pbb3xBQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ax9Pbb3xBQ",
+					"expanded_url": "https://twitter.com/lightscamerapod/status/1057712493110419456",
+					"display_url": "twitter.com/lightscamerapo…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39783,
+			"id_str": "39783",
+			"name": "Kent M. Beeson",
+			"screen_name": "Kza",
+			"location": "Verona, WI",
+			"description": "Wow, he is going IN on that cornbread. Creator of the comic strip THE WORLD'S PHONIEST BAT (@fakebat) + @bestalbum95, the longest-running Twitter music bracket.",
+			"url": "https://t.co/7ny3pQuDQg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ny3pQuDQg",
+							"expanded_url": "https://ko-fi.com/kentmbeeson",
+							"display_url": "ko-fi.com/kentmbeeson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 968,
+			"friends_count": 595,
+			"listed_count": 38,
+			"created_at": "Mon Dec 04 03:19:09 +0000 2006",
 			"favourites_count": 41110,
 			"utc_offset": null,
 			"time_zone": null,
