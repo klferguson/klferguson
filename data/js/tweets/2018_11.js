@@ -219,6 +219,312 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
+				"followers_count": 33716,
+				"friends_count": 6065,
+				"listed_count": 812,
+				"created_at": "Thu May 31 21:54:40 +0000 2007",
+				"favourites_count": 7872,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27754,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690230388174651392/LAqGunls_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690230388174651392/LAqGunls_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6484412/1398262600",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1388,
+			"favorite_count": 962,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really annoying news. Especially for archives who use Flickr as image galleries. https://t.co/JFcFNKJBgf"
+	},
+	{
+		"created_at": "Fri Nov 02 07:30:24 +0000 2018",
+		"id": 1058260019668340700,
+		"id_str": "1058260019668340737",
+		"full_text": "Really annoying news. Especially for archives who use Flickr as image galleries. https://t.co/JFcFNKJBgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JFcFNKJBgf",
+					"expanded_url": "https://twitter.com/richdemuro/status/1058064996817526784",
+					"display_url": "twitter.com/richdemuro/sta…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 768001465,
+			"id_str": "768001465",
+			"name": "Caroline Catchpole",
+			"screen_name": "CarolineRose85",
+			"location": "United Kingdom",
+			"description": "Archivist | nature lover | hiker | works @UkNatArchives | views my own (mostly archives, sometimes nature).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 692,
+			"listed_count": 11,
+			"created_at": "Sun Aug 19 18:21:27 +0000 2012",
+			"favourites_count": 1693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/565347846036418562/Y_1YS5Kj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/565347846036418562/Y_1YS5Kj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/768001465/1432949555",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058064996817526800,
+		"quoted_status_id_str": "1058064996817526784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JFcFNKJBgf",
+			"expanded": "https://twitter.com/richdemuro/status/1058064996817526784",
+			"display": "twitter.com/richdemuro/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 01 18:35:27 +0000 2018",
+			"id": 1058064996817526800,
+			"id_str": "1058064996817526784",
+			"full_text": "Flickr goes from 1 TB of free storage to just 1,000 photos and is handling this transition in the biggest nightmare scenario for a free service. Download or they delete them for you. https://t.co/Gu1bK78B2H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1058064990991671300,
+						"id_str": "1058064990991671296",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq8AgOFV4AA0ORU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq8AgOFV4AA0ORU.jpg",
+						"url": "https://t.co/Gu1bK78B2H",
+						"display_url": "pic.twitter.com/Gu1bK78B2H",
+						"expanded_url": "https://twitter.com/richdemuro/status/1058064996817526784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1195,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 397,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1058064990991671300,
+						"id_str": "1058064990991671296",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq8AgOFV4AA0ORU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq8AgOFV4AA0ORU.jpg",
+						"url": "https://t.co/Gu1bK78B2H",
+						"display_url": "pic.twitter.com/Gu1bK78B2H",
+						"expanded_url": "https://twitter.com/richdemuro/status/1058064996817526784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1195,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 397,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6484412,
+				"id_str": "6484412",
+				"name": "Rich DeMuro",
+				"screen_name": "richdemuro",
+				"location": "Los Angeles, CA",
+				"description": "Tech Reporter @KTLAMorningNews Channel 5 in Hollywood. On a mission to help you understand technology and get the most out of your gadgets and apps.",
+				"url": "https://t.co/jPofVOyYKj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPofVOyYKj",
+								"expanded_url": "http://richontech.tv/podcast",
+								"display_url": "richontech.tv/podcast",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
 				"followers_count": 33712,
 				"friends_count": 6065,
 				"listed_count": 812,
