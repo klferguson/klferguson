@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 03 13:12:16 +0000 2018",
+		"id": 1058708439667564500,
+		"id_str": "1058708439667564546",
+		"full_text": "Afraid I have neither caption nor context for this excellence: https://t.co/Fprg5GCU7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1058708344624635900,
+					"id_str": "1058708344624635905",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058708344624635905/pu/img/ilcdVzGK9dWiJMuY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058708344624635905/pu/img/ilcdVzGK9dWiJMuY.jpg",
+					"url": "https://t.co/Fprg5GCU7f",
+					"display_url": "pic.twitter.com/Fprg5GCU7f",
+					"expanded_url": "https://twitter.com/eliseawilliams/status/1058708439667564546/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058708344624635900,
+					"id_str": "1058708344624635905",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058708344624635905/pu/img/ilcdVzGK9dWiJMuY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058708344624635905/pu/img/ilcdVzGK9dWiJMuY.jpg",
+					"url": "https://t.co/Fprg5GCU7f",
+					"display_url": "pic.twitter.com/Fprg5GCU7f",
+					"expanded_url": "https://twitter.com/eliseawilliams/status/1058708439667564546/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 17500,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058708344624635905/pu/vid/480x480/ny-DUqXMrAVroCVL.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1058708344624635905/pu/pl/azOozBH63_Pd81wy.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058708344624635905/pu/vid/240x240/F5DmP5oneK-zOLl_.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058708344624635905/pu/vid/720x720/y4ZWnRV7dZbTZ0Lh.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 233323760,
+			"id_str": "233323760",
+			"name": "Elise",
+			"screen_name": "eliseawilliams",
+			"location": "London",
+			"description": "Purveyor of fiction. all my best tweets are @maclehosepress",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 381,
+			"friends_count": 541,
+			"listed_count": 5,
+			"created_at": "Sun Jan 02 23:06:53 +0000 2011",
+			"favourites_count": 1853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4036,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07090B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986543444142141440/4VR3BswQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986543444142141440/4VR3BswQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/233323760/1401362929",
+			"profile_link_color": "C34242",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "460c5314e8a33c64",
+			"url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json",
+			"place_type": "city",
+			"name": "Wandsworth",
+			"full_name": "Wandsworth, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.259465,
+							51.417277
+						],
+						[
+							-0.127974,
+							51.417277
+						],
+						[
+							-0.127974,
+							51.486036
+						],
+						[
+							-0.259465,
+							51.486036
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22874,
+		"favorite_count": 57657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Afraid I have neither caption nor context for this excellence: https://t.co/Fprg5GCU7f"
+	},
+	{
 		"created_at": "Sun Nov 04 04:36:44 +0000 2018",
 		"id": 1058941089988730900,
 		"id_str": "1058941089988730880",
