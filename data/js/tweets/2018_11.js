@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 22:18:59 +0000 2018",
+		"id": 1059570802352373800,
+		"id_str": "1059570802352373761",
+		"full_text": "@greeney28 I'm not on Facebook, are you crazy?!!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeney28",
+					"name": "Karen Petruska",
+					"id": 75930088,
+					"id_str": "75930088",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1059570698060935200,
+		"in_reply_to_status_id_str": "1059570698060935168",
+		"in_reply_to_user_id": 75930088,
+		"in_reply_to_user_id_str": "75930088",
+		"in_reply_to_screen_name": "greeney28",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, yr local fishing store",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1168,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@greeney28 I'm not on Facebook, are you crazy?!!"
+	},
+	{
+		"created_at": "Mon Nov 05 21:46:27 +0000 2018",
+		"id": 1059562615586857000,
+		"id_str": "1059562615586856965",
+		"full_text": "Me voting in 2008 vs. me voting in 2018 https://t.co/DkjDpriSXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059562532392693800,
+					"id_str": "1059562532392693761",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DrRSgmiUcAE_YYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrRSgmiUcAE_YYv.jpg",
+					"url": "https://t.co/DkjDpriSXl",
+					"display_url": "pic.twitter.com/DkjDpriSXl",
+					"expanded_url": "https://twitter.com/selfstyledsiren/status/1059562615586856965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059562532392693800,
+					"id_str": "1059562532392693761",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DrRSgmiUcAE_YYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrRSgmiUcAE_YYv.jpg",
+					"url": "https://t.co/DkjDpriSXl",
+					"display_url": "pic.twitter.com/DkjDpriSXl",
+					"expanded_url": "https://twitter.com/selfstyledsiren/status/1059562615586856965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1059562576768524300,
+					"id_str": "1059562576768524288",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DrRSjL2V4AALhW0.png",
+					"media_url_https": "https://pbs.twimg.com/media/DrRSjL2V4AALhW0.png",
+					"url": "https://t.co/DkjDpriSXl",
+					"display_url": "pic.twitter.com/DkjDpriSXl",
+					"expanded_url": "https://twitter.com/selfstyledsiren/status/1059562615586856965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 410,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 410,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 410,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122557484,
+			"id_str": "122557484",
+			"name": "Farran Nehme",
+			"screen_name": "selfstyledsiren",
+			"location": "Brooklyn",
+			"description": "Film writer. Novel: MISSING REELS. Writing at Self-Styled Siren blog since 2005.",
+			"url": "http://t.co/ty512bqsd5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ty512bqsd5",
+							"expanded_url": "http://selfstyledsiren.blogspot.com",
+							"display_url": "selfstyledsiren.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12493,
+			"friends_count": 2227,
+			"listed_count": 423,
+			"created_at": "Sat Mar 13 03:39:25 +0000 2010",
+			"favourites_count": 64877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925696109028057088/x6oX8eeR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925696109028057088/x6oX8eeR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122557484/1465840961",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me voting in 2008 vs. me voting in 2018 https://t.co/DkjDpriSXl"
+	},
+	{
+		"created_at": "Mon Nov 05 21:35:44 +0000 2018",
+		"id": 1059559918854901800,
+		"id_str": "1059559918854901760",
+		"full_text": "Me voting in 2016 vs me voting in 2018 https://t.co/BxR77VMxjD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059559873678057500,
+					"id_str": "1059559873678057474",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DrRQF2DWoAI9qzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrRQF2DWoAI9qzv.jpg",
+					"url": "https://t.co/BxR77VMxjD",
+					"display_url": "pic.twitter.com/BxR77VMxjD",
+					"expanded_url": "https://twitter.com/maxthegirl/status/1059559918854901760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 210,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 210,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 210,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059559873678057500,
+					"id_str": "1059559873678057474",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DrRQF2DWoAI9qzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrRQF2DWoAI9qzv.jpg",
+					"url": "https://t.co/BxR77VMxjD",
+					"display_url": "pic.twitter.com/BxR77VMxjD",
+					"expanded_url": "https://twitter.com/maxthegirl/status/1059559918854901760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 210,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 210,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 210,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1059559894523826200,
+					"id_str": "1059559894523826177",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DrRQHDtX0AEda_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrRQHDtX0AEda_B.jpg",
+					"url": "https://t.co/BxR77VMxjD",
+					"display_url": "pic.twitter.com/BxR77VMxjD",
+					"expanded_url": "https://twitter.com/maxthegirl/status/1059559918854901760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 934,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19071113,
+			"id_str": "19071113",
+			"name": "Max Weiss",
+			"screen_name": "maxthegirl",
+			"location": "Baltimore, MD",
+			"description": "Editor-in-Chief, Baltimore magazine; Film and media critic; Rigorous napper; ALL OPINIONS MY OWN",
+			"url": "https://t.co/7D0GjwTYTc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7D0GjwTYTc",
+							"expanded_url": "http://www.baltimoremagazine.net/blog/MaxSpace",
+							"display_url": "baltimoremagazine.net/blog/MaxSpace",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6693,
+			"friends_count": 807,
+			"listed_count": 163,
+			"created_at": "Fri Jan 16 15:32:41 +0000 2009",
+			"favourites_count": 51102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 70808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823907867711324160/YwWK_eXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823907867711324160/YwWK_eXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19071113/1400944570",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 230,
+		"favorite_count": 751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me voting in 2016 vs me voting in 2018 https://t.co/BxR77VMxjD"
+	},
+	{
+		"created_at": "Mon Nov 05 22:07:31 +0000 2018",
+		"id": 1059567915505197000,
+		"id_str": "1059567915505197056",
+		"full_text": "@lwaltzer what the fuck",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lwaltzer",
+					"name": "Luke Waltzer",
+					"id": 14368882,
+					"id_str": "14368882",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1058090048254554100,
+		"in_reply_to_status_id_str": "1058090048254554115",
+		"in_reply_to_user_id": 14368882,
+		"in_reply_to_user_id_str": "14368882",
+		"in_reply_to_screen_name": "lwaltzer",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, yr local fishing store",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1168,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lwaltzer what the fuck"
+	},
+	{
 		"created_at": "Mon Nov 05 21:46:27 +0000 2018",
 		"id": 1059562615586857000,
 		"id_str": "1059562615586856965",
