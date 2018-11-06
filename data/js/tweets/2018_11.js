@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 06 14:56:35 +0000 2018",
+		"id": 1059821857216585700,
+		"id_str": "1059821857216585729",
+		"full_text": "Hey, remember that viral video of a baby bear climbing up a snowy cliff to its mother? \n\nIt's not a life-affirming tale of persistence. The bears were fleeing from the drone that was filming and harassing them. \n\nhttps://t.co/AZzorAaVgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AZzorAaVgJ",
+					"expanded_url": "https://www.theatlantic.com/science/archive/2018/11/problematic-viral-video-persistent-baby-bear/574990/",
+					"display_url": "theatlantic.com/science/archiv…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19767193,
+			"id_str": "19767193",
+			"name": "Ed Yong",
+			"screen_name": "edyong209",
+			"location": "Washington, DC",
+			"description": "Science writer at The Atlantic. Author of I CONTAIN MULTITUDES, a New York Times bestseller on animal-microbe partnerships. https://t.co/Pyu0Xpdt8x",
+			"url": "https://t.co/KPpRi9xizW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KPpRi9xizW",
+							"expanded_url": "http://www.theatlantic.com/author/ed-yong/",
+							"display_url": "theatlantic.com/author/ed-yong/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Pyu0Xpdt8x",
+							"expanded_url": "https://edyong.me/",
+							"display_url": "edyong.me",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 146065,
+			"friends_count": 1539,
+			"listed_count": 5214,
+			"created_at": "Fri Jan 30 13:35:35 +0000 2009",
+			"favourites_count": 27247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 112839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926063794912153600/962ygzzx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926063794912153600/962ygzzx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19767193/1452795865",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3166,
+		"favorite_count": 4186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, remember that viral video of a baby bear climbing up a snowy cliff to its mother? \n\nIt's not a life-affirming tale of persistence. The bears were fleeing from the drone that was filming and harassing them. \n\nhttps://t.co/AZzorAaVgJ"
+	},
+	{
+		"created_at": "Tue Nov 06 18:15:56 +0000 2018",
+		"id": 1059872025395703800,
+		"id_str": "1059872025395703808",
+		"full_text": "mine was the first ballot cast at my polling place this morning in my pedro town! https://t.co/yl4N853J9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059871982869606400,
+					"id_str": "1059871982869606400",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DrVr8_ZU8AAolZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrVr8_ZU8AAolZ_.jpg",
+					"url": "https://t.co/yl4N853J9D",
+					"display_url": "pic.twitter.com/yl4N853J9D",
+					"expanded_url": "https://twitter.com/wattfrompedro/status/1059872025395703808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059871982869606400,
+					"id_str": "1059871982869606400",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DrVr8_ZU8AAolZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrVr8_ZU8AAolZ_.jpg",
+					"url": "https://t.co/yl4N853J9D",
+					"display_url": "pic.twitter.com/yl4N853J9D",
+					"expanded_url": "https://twitter.com/wattfrompedro/status/1059872025395703808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1059872002356342800,
+					"id_str": "1059872002356342784",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DrVr-H_U8AAkCQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrVr-H_U8AAkCQ6.jpg",
+					"url": "https://t.co/yl4N853J9D",
+					"display_url": "pic.twitter.com/yl4N853J9D",
+					"expanded_url": "https://twitter.com/wattfrompedro/status/1059872025395703808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19487826,
+			"id_str": "19487826",
+			"name": "mike watt",
+			"screen_name": "wattfrompedro",
+			"location": "san pedro, ca, us",
+			"description": "I'm the mike watt who lives in pedro and works the bass",
+			"url": "https://t.co/cZg85uWJvV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cZg85uWJvV",
+							"expanded_url": "http://mikewatt.com/",
+							"display_url": "mikewatt.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34377,
+			"friends_count": 18,
+			"listed_count": 620,
+			"created_at": "Sun Jan 25 13:24:41 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2864,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/294082369/watt_for_twitter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/294082369/watt_for_twitter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19487826/1410044171",
+			"profile_link_color": "20751C",
+			"profile_sidebar_border_color": "FFCC00",
+			"profile_sidebar_fill_color": "FFCC00",
+			"profile_text_color": "330000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "mine was the first ballot cast at my polling place this morning in my pedro town! https://t.co/yl4N853J9D"
+	},
+	{
 		"created_at": "Tue Nov 06 18:15:56 +0000 2018",
 		"id": 1059872025395703800,
 		"id_str": "1059872025395703808",
