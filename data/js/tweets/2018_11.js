@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 05:02:39 +0000 2018",
+		"id": 1060397161173708800,
+		"id_str": "1060397161173708802",
+		"full_text": "me: dude, you should probably head to bed.\nalso me: https://t.co/WsSpGXKl0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060397099030925300,
+					"id_str": "1060397099030925317",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"url": "https://t.co/WsSpGXKl0o",
+					"display_url": "pic.twitter.com/WsSpGXKl0o",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1060397161173708802/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060397099030925300,
+					"id_str": "1060397099030925317",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"url": "https://t.co/WsSpGXKl0o",
+					"display_url": "pic.twitter.com/WsSpGXKl0o",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1060397161173708802/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29977,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1060397099030925317/pu/pl/eJyT243xLgtyslQR.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060397099030925317/pu/vid/640x360/TgnTuja0xi6B5zb-.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060397099030925317/pu/vid/320x180/DnYS1GsXXGfYm0kB.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, yr local fishing store",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "me: dude, you should probably head to bed.\nalso me: https://t.co/WsSpGXKl0o"
+	},
+	{
 		"created_at": "Thu Nov 08 01:47:50 +0000 2018",
 		"id": 1060348134126161900,
 		"id_str": "1060348134126161925",
@@ -280,7 +499,7 @@ Grailbird.data.tweets_2018_11 =
 								"name": "John AraVOTEsis 🇺🇸",
 								"screen_name": "aravosis",
 								"location": "Washington, DC",
-								"description": "#Resist Digital strategist. Editor @AMERICAblog. G’town Law/MSFS. Past: UN, The Economist, Senate. Called “wacko” by Rush. 🏳️‍🌈 #KremlinAnnex https://t.co/Zd90II0KVH",
+								"description": "#Resist Digital strategist. Editor @AMERICAblog. G’town Law/MSFS. Past: UN, The Economist, Senate. Called “wacko” by Rush. 🏳️🌈 #KremlinAnnex https://t.co/Zd90II0KVH",
 								"url": "https://t.co/cjhJFC1NPy",
 								"entities": {
 									"url": {
