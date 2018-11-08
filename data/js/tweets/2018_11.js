@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 22:27:38 +0000 2018",
+		"id": 1060660139592765400,
+		"id_str": "1060660139592765441",
+		"full_text": "@kristenwarner @melisser3 #flirting? https://t.co/34QftGar8H",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "flirting",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW finds ways to be mad on vacation",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, rude & terrible",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060660122828058600,
+					"id_str": "1060660122828058636",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Drg4wxiWsAwf3c-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Drg4wxiWsAwf3c-.jpg",
+					"url": "https://t.co/34QftGar8H",
+					"display_url": "pic.twitter.com/34QftGar8H",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1060660139592765441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060660122828058600,
+					"id_str": "1060660122828058636",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Drg4wxiWsAwf3c-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Drg4wxiWsAwf3c-.jpg",
+					"url": "https://t.co/34QftGar8H",
+					"display_url": "pic.twitter.com/34QftGar8H",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1060660139592765441/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Drg4wxiWsAwf3c-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1060658367444721700,
+		"in_reply_to_status_id_str": "1060658367444721664",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, yr local fishing store",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@kristenwarner @melisser3 #flirting? https://t.co/34QftGar8H"
+	},
+	{
+		"created_at": "Thu Nov 08 22:08:54 +0000 2018",
+		"id": 1060655428596613100,
+		"id_str": "1060655428596613120",
+		"full_text": "Bump. Anyone wanna be in a weird movie? https://t.co/skz6YnqCEB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/skz6YnqCEB",
+					"expanded_url": "https://twitter.com/honors_zombie/status/1060377593466241026",
+					"display_url": "twitter.com/honors_zombie/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 340699096,
+			"id_str": "340699096",
+			"name": "Scout Tafoya",
+			"screen_name": "Honors_Zombie",
+			"location": "Astoria, Queens",
+			"description": "Filmmaker, video essayist, critic https://t.co/FHozue81VR and elsewhere https://t.co/oQYbPjx9sM",
+			"url": "https://t.co/RB9mKnuGyF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RB9mKnuGyF",
+							"expanded_url": "http://patreon.com/honorszombie",
+							"display_url": "patreon.com/honorszombie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FHozue81VR",
+							"expanded_url": "http://RogerEbert.com",
+							"display_url": "RogerEbert.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/oQYbPjx9sM",
+							"expanded_url": "http://patreon.com/honorszombie/",
+							"display_url": "patreon.com/honorszombie/",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3196,
+			"friends_count": 2110,
+			"listed_count": 95,
+			"created_at": "Sat Jul 23 03:40:04 +0000 2011",
+			"favourites_count": 92466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1456249966/5x5_3__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456249966/5x5_3__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/340699096/1388911966",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060377593466241000,
+		"quoted_status_id_str": "1060377593466241026",
+		"quoted_status_permalink": {
+			"url": "https://t.co/skz6YnqCEB",
+			"expanded": "https://twitter.com/honors_zombie/status/1060377593466241026",
+			"display": "twitter.com/honors_zombie/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 03:44:53 +0000 2018",
+			"id": 1060377593466241000,
+			"id_str": "1060377593466241026",
+			"full_text": "New York, do you wanna get weird on Sunday morning? Need an actress to finish the most important film of my stupid life. Would help if you know me so you’re not worried I’m going to murder you, i don’t wanna freak anybody out",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 340699096,
+				"id_str": "340699096",
+				"name": "Scout Tafoya",
+				"screen_name": "Honors_Zombie",
+				"location": "Astoria, Queens",
+				"description": "Filmmaker, video essayist, critic https://t.co/FHozue81VR and elsewhere https://t.co/oQYbPjx9sM",
+				"url": "https://t.co/RB9mKnuGyF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RB9mKnuGyF",
+								"expanded_url": "http://patreon.com/honorszombie",
+								"display_url": "patreon.com/honorszombie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FHozue81VR",
+								"expanded_url": "http://RogerEbert.com",
+								"display_url": "RogerEbert.com",
+								"indices": [
+									34,
+									57
+								]
+							},
+							{
+								"url": "https://t.co/oQYbPjx9sM",
+								"expanded_url": "http://patreon.com/honorszombie/",
+								"display_url": "patreon.com/honorszombie/",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3196,
+				"friends_count": 2110,
+				"listed_count": 95,
+				"created_at": "Sat Jul 23 03:40:04 +0000 2011",
+				"favourites_count": 92466,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67867,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1456249966/5x5_3__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456249966/5x5_3__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/340699096/1388911966",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bump. Anyone wanna be in a weird movie? https://t.co/skz6YnqCEB"
+	},
+	{
 		"created_at": "Thu Nov 08 22:08:54 +0000 2018",
 		"id": 1060655428596613100,
 		"id_str": "1060655428596613120",
