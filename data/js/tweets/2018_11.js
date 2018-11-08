@@ -163,6 +163,871 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 37528,
+			"friends_count": 1739,
+			"listed_count": 1050,
+			"created_at": "Wed Nov 14 17:03:42 +0000 2012",
+			"favourites_count": 28237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 41193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "09BEDE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948104532/1363741503",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "wuuuut https://t.co/UpZbNH9sor"
+	},
+	{
+		"created_at": "Thu Nov 08 05:02:39 +0000 2018",
+		"id": 1060397161173708800,
+		"id_str": "1060397161173708802",
+		"full_text": "me: dude, you should probably head to bed.\nalso me: https://t.co/WsSpGXKl0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060397099030925300,
+					"id_str": "1060397099030925317",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"url": "https://t.co/WsSpGXKl0o",
+					"display_url": "pic.twitter.com/WsSpGXKl0o",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1060397161173708802/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060397099030925300,
+					"id_str": "1060397099030925317",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060397099030925317/pu/img/kZTzHe8dYfDfZjHd.jpg",
+					"url": "https://t.co/WsSpGXKl0o",
+					"display_url": "pic.twitter.com/WsSpGXKl0o",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1060397161173708802/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29977,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1060397099030925317/pu/pl/eJyT243xLgtyslQR.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060397099030925317/pu/vid/640x360/TgnTuja0xi6B5zb-.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060397099030925317/pu/vid/320x180/DnYS1GsXXGfYm0kB.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, yr local fishing store",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "me: dude, you should probably head to bed.\nalso me: https://t.co/WsSpGXKl0o"
+	},
+	{
+		"created_at": "Thu Nov 08 01:47:50 +0000 2018",
+		"id": 1060348134126161900,
+		"id_str": "1060348134126161925",
+		"full_text": "for your consideration: best picture 2018 https://t.co/viNtucoPB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/viNtucoPB7",
+					"expanded_url": "https://twitter.com/AynRandPaulRyan/status/1060341414943281152",
+					"display_url": "twitter.com/AynRandPaulRya…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, yr local fishing store",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060341414943281200,
+		"quoted_status_id_str": "1060341414943281152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/viNtucoPB7",
+			"expanded": "https://twitter.com/AynRandPaulRyan/status/1060341414943281152",
+			"display": "twitter.com/AynRandPaulRya…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 01:21:08 +0000 2018",
+			"id": 1060341414943281200,
+			"id_str": "1060341414943281152",
+			"full_text": "@PressSec You're an idiot.\n\nHere's a video of what happened.\n@acosta never touched her.\nYou are literally fake news.\n\nThis is defamation.\n\nhttps://t.co/vanLhgk3Da",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PressSec",
+						"name": "Sarah Sanders",
+						"id": 818927131883356200,
+						"id_str": "818927131883356161",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "Acosta",
+						"name": "Jim Acosta",
+						"id": 22771961,
+						"id_str": "22771961",
+						"indices": [
+							61,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060316557979631600,
+						"id_str": "1060316557979631618",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060316557979631618/pu/img/TD3ql0iKs0OZGWqP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060316557979631618/pu/img/TD3ql0iKs0OZGWqP.jpg",
+						"url": "https://t.co/vanLhgk3Da",
+						"display_url": "pic.twitter.com/vanLhgk3Da",
+						"expanded_url": "https://twitter.com/aravosis/status/1060316929112657920/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1060316929112657900,
+						"source_status_id_str": "1060316929112657920",
+						"source_user_id": 14146966,
+						"source_user_id_str": "14146966"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060316557979631600,
+						"id_str": "1060316557979631618",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060316557979631618/pu/img/TD3ql0iKs0OZGWqP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060316557979631618/pu/img/TD3ql0iKs0OZGWqP.jpg",
+						"url": "https://t.co/vanLhgk3Da",
+						"display_url": "pic.twitter.com/vanLhgk3Da",
+						"expanded_url": "https://twitter.com/aravosis/status/1060316929112657920/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1060316929112657900,
+						"source_status_id_str": "1060316929112657920",
+						"source_user_id": 14146966,
+						"source_user_id_str": "14146966",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 7672,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060316557979631618/pu/vid/640x360/KT6Vcq-zwuiOvBKJ.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060316557979631618/pu/vid/320x180/e7p3yXjywb-HZoRk.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1060316557979631618/pu/pl/-C_cPvnCJGjYBMrX.m3u8?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060316557979631618/pu/vid/1280x720/Mq_yeaCXnDAMjAZ8.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 14146966,
+								"id_str": "14146966",
+								"name": "John AraVOTEsis 🇺🇸",
+								"screen_name": "aravosis",
+								"location": "Washington, DC",
+								"description": "#Resist Digital strategist. Editor @AMERICAblog. G’town Law/MSFS. Past: UN, The Economist, Senate. Called “wacko” by Rush. 🏳️‍🌈 #KremlinAnnex https://t.co/Zd90II0KVH",
+								"url": "https://t.co/cjhJFC1NPy",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/cjhJFC1NPy",
+												"expanded_url": "https://www.patreon.com/UnPresidentedPodcast",
+												"display_url": "patreon.com/UnPresidentedP…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/Zd90II0KVH",
+												"expanded_url": "http://JordanScandal.com",
+												"display_url": "JordanScandal.com",
+												"indices": [
+													142,
+													165
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 95634,
+								"friends_count": 1577,
+								"listed_count": 1924,
+								"created_at": "Fri Mar 14 14:28:09 +0000 2008",
+								"favourites_count": 23086,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 11195,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/962379028538765312/e5qYHa4W_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/962379028538765312/e5qYHa4W_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/14146966/1485627182",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1060333176252448800,
+			"in_reply_to_status_id_str": "1060333176252448768",
+			"in_reply_to_user_id": 818927131883356200,
+			"in_reply_to_user_id_str": "818927131883356161",
+			"in_reply_to_screen_name": "PressSec",
+			"user": {
+				"id": 755835576,
+				"id_str": "755835576",
+				"name": "Holly Fιɢυeroα O'Reιlly",
+				"screen_name": "AynRandPaulRyan",
+				"location": "In an \"angry mom mob\" somewhere, probably. #WeAreTheMob your president warned you about. Our next \"mob meeting\" is Nov 6 at the polls.",
+				"description": "Founder, @bluewavecs, co-org @MarchForTruth17, op-eds, @washingtonpost @guardian, Grammy-losing songwriter. I sued Trump and won. I have 5 kids. Can't scare me.",
+				"url": "https://t.co/Qd4RzONMoi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qd4RzONMoi",
+								"expanded_url": "http://bluewavecrowdsource.com",
+								"display_url": "bluewavecrowdsource.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196788,
+				"friends_count": 6105,
+				"listed_count": 1383,
+				"created_at": "Mon Aug 13 21:09:18 +0000 2012",
+				"favourites_count": 176042,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 66132,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/967103708889665536/INhp1Hes_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/967103708889665536/INhp1Hes_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755835576/1501669262",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9406,
+			"favorite_count": 20668,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "for your consideration: best picture 2018 https://t.co/viNtucoPB7"
+	},
+	{
+		"created_at": "Thu Nov 08 01:20:17 +0000 2018",
+		"id": 1060341201952399400,
+		"id_str": "1060341201952399360",
+		"full_text": "wuuuut https://t.co/UpZbNH9sor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060341106859139100,
+					"id_str": "1060341106859139073",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/DrcWnmcVYAE6HGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrcWnmcVYAE6HGo.jpg",
+					"url": "https://t.co/UpZbNH9sor",
+					"display_url": "pic.twitter.com/UpZbNH9sor",
+					"expanded_url": "https://twitter.com/ziyatong/status/1060341201952399360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060341106859139100,
+					"id_str": "1060341106859139073",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/DrcWnmcVYAE6HGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrcWnmcVYAE6HGo.jpg",
+					"url": "https://t.co/UpZbNH9sor",
+					"display_url": "pic.twitter.com/UpZbNH9sor",
+					"expanded_url": "https://twitter.com/ziyatong/status/1060341201952399360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1060341158994313200,
+					"id_str": "1060341158994313216",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/DrcWqoqVAAAdSt-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrcWqoqVAAAdSt-.jpg",
+					"url": "https://t.co/UpZbNH9sor",
+					"display_url": "pic.twitter.com/UpZbNH9sor",
+					"expanded_url": "https://twitter.com/ziyatong/status/1060341201952399360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 247,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 247,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 247,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948104532,
+			"id_str": "948104532",
+			"name": "IM🍑HIM",
+			"screen_name": "ziyatong",
+			"location": "Laniakea Supercluster",
+			"description": "Author of The Reality Bubble / Spring 2019, Penguin Random House. TV Presenter. Royal Canadian Geographical Society Fellow. Board Director @WWFCanada",
+			"url": "https://t.co/tLB9QwVc17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLB9QwVc17",
+							"expanded_url": "http://www.ziyatong.com",
+							"display_url": "ziyatong.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 37522,
 			"friends_count": 1739,
 			"listed_count": 1039,
