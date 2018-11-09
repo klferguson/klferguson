@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 19:48:09 +0000 2018",
+		"id": 1060982392737984500,
+		"id_str": "1060982392737984512",
+		"full_text": "#FlashbackFriday \n\nNovember 24, 2000 ...\n\nBroward County Canvassing Board recounts contested ballots\n\nhttps://t.co/VjEyoaMRs2 https://t.co/SrZQoyGPTm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlashbackFriday",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VjEyoaMRs2",
+					"expanded_url": "https://www.c-span.org/video/?160768-1/broward-county-vote-recount",
+					"display_url": "c-span.org/video/?160768-…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060981310825680900,
+					"id_str": "1060981310825680896",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Drlc4YEX0AA1SPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drlc4YEX0AA1SPc.jpg",
+					"url": "https://t.co/SrZQoyGPTm",
+					"display_url": "pic.twitter.com/SrZQoyGPTm",
+					"expanded_url": "https://twitter.com/HowardMortman/status/1060982392737984512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 767,
+							"h": 580,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060981310825680900,
+					"id_str": "1060981310825680896",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Drlc4YEX0AA1SPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drlc4YEX0AA1SPc.jpg",
+					"url": "https://t.co/SrZQoyGPTm",
+					"display_url": "pic.twitter.com/SrZQoyGPTm",
+					"expanded_url": "https://twitter.com/HowardMortman/status/1060982392737984512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 767,
+							"h": 580,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1060981703978692600,
+					"id_str": "1060981703978692610",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DrldPQrWsAIPt1D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrldPQrWsAIPt1D.jpg",
+					"url": "https://t.co/SrZQoyGPTm",
+					"display_url": "pic.twitter.com/SrZQoyGPTm",
+					"expanded_url": "https://twitter.com/HowardMortman/status/1060982392737984512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 766,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 766,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1060982216673640400,
+					"id_str": "1060982216673640448",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DrldtGnWwAAWNfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrldtGnWwAAWNfx.jpg",
+					"url": "https://t.co/SrZQoyGPTm",
+					"display_url": "pic.twitter.com/SrZQoyGPTm",
+					"expanded_url": "https://twitter.com/HowardMortman/status/1060982392737984512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 766,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 766,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1060982242300825600,
+					"id_str": "1060982242300825600",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DrldumFWkAAtS6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrldumFWkAAtS6v.jpg",
+					"url": "https://t.co/SrZQoyGPTm",
+					"display_url": "pic.twitter.com/SrZQoyGPTm",
+					"expanded_url": "https://twitter.com/HowardMortman/status/1060982392737984512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 772,
+							"h": 575,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 772,
+							"h": 575,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13262862,
+			"id_str": "13262862",
+			"name": "Howard Mortman",
+			"screen_name": "HowardMortman",
+			"location": "Washington, DC",
+			"description": "ExtremeMortman = classically trained comedy detective. Artisanal humour. C-SPLAINING = Let me C-SPAN that for you. Retweeted by @GarryShandling before he died",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7637,
+			"friends_count": 5853,
+			"listed_count": 290,
+			"created_at": "Fri Feb 08 20:49:25 +0000 2008",
+			"favourites_count": 10893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48667,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057976049743609858/SzX_NO7L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057976049743609858/SzX_NO7L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13262862/1494961383",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FlashbackFriday \n\nNovember 24, 2000 ...\n\nBroward County Canvassing Board recounts contested ballots\n\nhttps://t.co/VjEyoaMRs2 https://t.co/SrZQoyGPTm"
+	},
+	{
+		"created_at": "Fri Nov 09 16:53:52 +0000 2018",
+		"id": 1060938532422701000,
+		"id_str": "1060938532422701057",
+		"full_text": "Behind the scenes footage of the Chili's Baby Back Ribs jingle. I am here today to talk about this and only this https://t.co/Hn4MDn6J8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060938406115532800,
+					"id_str": "1060938406115532800",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060938406115532800/pu/img/gKEiB8JEuhiLBf-y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060938406115532800/pu/img/gKEiB8JEuhiLBf-y.jpg",
+					"url": "https://t.co/Hn4MDn6J8u",
+					"display_url": "pic.twitter.com/Hn4MDn6J8u",
+					"expanded_url": "https://twitter.com/kennykeil/status/1060938532422701057/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060938406115532800,
+					"id_str": "1060938406115532800",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060938406115532800/pu/img/gKEiB8JEuhiLBf-y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060938406115532800/pu/img/gKEiB8JEuhiLBf-y.jpg",
+					"url": "https://t.co/Hn4MDn6J8u",
+					"display_url": "pic.twitter.com/Hn4MDn6J8u",
+					"expanded_url": "https://twitter.com/kennykeil/status/1060938532422701057/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60893,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1060938406115532800/pu/pl/-szbGg1paTNCKOGK.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060938406115532800/pu/vid/640x360/PXif65aQtErKTIXE.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060938406115532800/pu/vid/320x180/rYIft3zcYr-LC-OG.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23161262,
+			"id_str": "23161262",
+			"name": "Kenny Keil",
+			"screen_name": "kennykeil",
+			"location": "Los Angeles",
+			"description": "twitter bios are canceled",
+			"url": "https://t.co/Di0xYpnmnD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Di0xYpnmnD",
+							"expanded_url": "http://amazon.com/Stay-Home-Scarface-Raising-Your/dp/1942099096",
+							"display_url": "amazon.com/Stay-Home-Scar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1751,
+			"friends_count": 1157,
+			"listed_count": 73,
+			"created_at": "Sat Mar 07 03:56:01 +0000 2009",
+			"favourites_count": 29955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13565,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039583040618389504/SsXXtgbQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039583040618389504/SsXXtgbQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23161262/1470845240",
+			"profile_link_color": "AD0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 913,
+		"favorite_count": 2202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Behind the scenes footage of the Chili's Baby Back Ribs jingle. I am here today to talk about this and only this https://t.co/Hn4MDn6J8u"
+	},
+	{
 		"created_at": "Fri Nov 09 19:10:20 +0000 2018",
 		"id": 1060972878127120400,
 		"id_str": "1060972878127120384",
