@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 20:41:29 +0000 2018",
+		"id": 1060633429908353000,
+		"id_str": "1060633429908353026",
+		"full_text": "Instructions on how to type your own picture of a sad Siamese Kitten.\n\nHe's seen things... https://t.co/sqlazuAkPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060633423566512100,
+					"id_str": "1060633423566512128",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DrggerCWoAAqpAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrggerCWoAAqpAy.jpg",
+					"url": "https://t.co/sqlazuAkPT",
+					"display_url": "pic.twitter.com/sqlazuAkPT",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1060633429908353026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1077,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060633423566512100,
+					"id_str": "1060633423566512128",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DrggerCWoAAqpAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrggerCWoAAqpAy.jpg",
+					"url": "https://t.co/sqlazuAkPT",
+					"display_url": "pic.twitter.com/sqlazuAkPT",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1060633429908353026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1077,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1060632450131464200,
+		"in_reply_to_status_id_str": "1060632450131464194",
+		"in_reply_to_user_id": 2928209793,
+		"in_reply_to_user_id_str": "2928209793",
+		"in_reply_to_screen_name": "PulpLibrarian",
+		"user": {
+			"id": 2928209793,
+			"id_str": "2928209793",
+			"name": "Pulp Librarian",
+			"screen_name": "PulpLibrarian",
+			"location": "A pulp library of the mind",
+			"description": "Curator of the art, history and fiction of things we once discarded. No work shown is my own: it's all on the web somewhere. See my pinned tweet for details.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87485,
+			"friends_count": 5378,
+			"listed_count": 1864,
+			"created_at": "Wed Dec 17 22:09:14 +0000 2014",
+			"favourites_count": 10687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045710349536776193/Vz2ZHUZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045710349536776193/Vz2ZHUZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2928209793/1525191124",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Instructions on how to type your own picture of a sad Siamese Kitten.\n\nHe's seen things... https://t.co/sqlazuAkPT"
+	},
+	{
 		"created_at": "Sun Nov 11 04:43:45 +0000 2018",
 		"id": 1061479570501763100,
 		"id_str": "1061479570501763072",
