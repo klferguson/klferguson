@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 12 21:05:40 +0000 2018",
+		"id": 1062089065938337800,
+		"id_str": "1062089065938337793",
+		"full_text": "LONG LIVE EMOJI LIGATURES. \n\nThis is absolutely wonderful and I love this so very very very much — mix and match apple emoji components with @phlntn!!!! https://t.co/Ov95pkLAzV\n\nღ❤ღ•̥̑ .̮ •̥̑) https://t.co/CmMsbaOSxC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "phlntn",
+					"name": "Philipp Antoni",
+					"id": 4059031,
+					"id_str": "4059031",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ov95pkLAzV",
+					"expanded_url": "http://phlntn.com/emojibuilder/",
+					"display_url": "phlntn.com/emojibuilder/",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062061878556258300,
+					"id_str": "1062061878556258304",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1062061878556258304/pu/img/_cPTxaozRh7-INeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1062061878556258304/pu/img/_cPTxaozRh7-INeu.jpg",
+					"url": "https://t.co/CmMsbaOSxC",
+					"display_url": "pic.twitter.com/CmMsbaOSxC",
+					"expanded_url": "https://twitter.com/jenniferdaniel/status/1062089065938337793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062061878556258300,
+					"id_str": "1062061878556258304",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1062061878556258304/pu/img/_cPTxaozRh7-INeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1062061878556258304/pu/img/_cPTxaozRh7-INeu.jpg",
+					"url": "https://t.co/CmMsbaOSxC",
+					"display_url": "pic.twitter.com/CmMsbaOSxC",
+					"expanded_url": "https://twitter.com/jenniferdaniel/status/1062089065938337793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							76,
+							45
+						],
+						"duration_millis": 12167,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1062061878556258304/pu/pl/1OB5aal3PUUAy4kr.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1062061878556258304/pu/vid/608x360/lDJJ3OajxeFrv8pb.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1062061878556258304/pu/vid/304x180/O1zIZgWXvEAeAPG9.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11613712,
+			"id_str": "11613712",
+			"name": "Jennifer 🧟‍♀️",
+			"screen_name": "jenniferdaniel",
+			"location": "Berkeley, CA",
+			"description": "I'm Jennifer",
+			"url": "https://t.co/cHZdP4uOdu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cHZdP4uOdu",
+							"expanded_url": "http://google.com",
+							"display_url": "google.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13621,
+			"friends_count": 1272,
+			"listed_count": 559,
+			"created_at": "Fri Dec 28 22:56:25 +0000 2007",
+			"favourites_count": 21234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21680,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBD2D2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024499160106430465/qV7ygC6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024499160106430465/qV7ygC6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11613712/1398221494",
+			"profile_link_color": "FF00FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEA00",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LONG LIVE EMOJI LIGATURES. \n\nThis is absolutely wonderful and I love this so very very very much — mix and match apple emoji components with @phlntn!!!! https://t.co/Ov95pkLAzV\n\nღ❤ღ•̥̑ .̮ •̥̑) https://t.co/CmMsbaOSxC"
+	},
+	{
 		"created_at": "Mon Nov 12 22:03:10 +0000 2018",
 		"id": 1062103537612677100,
 		"id_str": "1062103537612677120",
