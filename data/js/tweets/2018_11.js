@@ -69,6 +69,122 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 116523,
+			"friends_count": 2512,
+			"listed_count": 3441,
+			"created_at": "Wed May 21 12:59:37 +0000 2008",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3535032877/e5af0cf7ed0ad775c799a6a635cf90e3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3535032877/e5af0cf7ed0ad775c799a6a635cf90e3_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14855994/1357342927",
+			"profile_link_color": "2424FF",
+			"profile_sidebar_border_color": "CFCFCF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 493,
+		"favorite_count": 1170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: NY Dem lawmaker announces bill to block the Amazon deal and redirect taxpayer subsidies for Jeff Bezos into reducing student debt https://t.co/9zOqOTjbaX Dems just won full control of the NY legislature"
+	},
+	{
+		"created_at": "Tue Nov 13 15:41:12 +0000 2018",
+		"id": 1062369798716182500,
+		"id_str": "1062369798716182528",
+		"full_text": "BREAKING: NY Dem lawmaker announces bill to block the Amazon deal and redirect taxpayer subsidies for Jeff Bezos into reducing student debt https://t.co/9zOqOTjbaX Dems just won full control of the NY legislature",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9zOqOTjbaX",
+					"expanded_url": "https://capitalandmain.com/will-new-york-fund-amazon-subsidies-or-student-debt-relief-1113",
+					"display_url": "capitalandmain.com/will-new-york-…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14855994,
+			"id_str": "14855994",
+			"name": "David Sirota",
+			"screen_name": "davidsirota",
+			"location": "The 1980s",
+			"description": "Journalist at @CapitalandMain, columnist at @GuardianUS & character on @TheGoldbergsABC. Subscribe to my weekly podcast at https://t.co/BNZy5facHt",
+			"url": "https://t.co/BNZy5facHt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BNZy5facHt",
+							"expanded_url": "http://www.patreon.com/sirota",
+							"display_url": "patreon.com/sirota",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BNZy5facHt",
+							"expanded_url": "http://www.patreon.com/sirota",
+							"display_url": "patreon.com/sirota",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 116517,
 			"friends_count": 2512,
 			"listed_count": 3439,
