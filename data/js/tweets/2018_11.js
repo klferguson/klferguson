@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 03:14:15 +0000 2018",
+		"id": 1062181821025263600,
+		"id_str": "1062181821025263616",
+		"full_text": "@Gerry_Martini yeah maybe a fraction of all that tax revenue can go towards the subw...ohhh.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gerry_Martini",
+					"name": "Gerry Martini",
+					"id": 2163429926,
+					"id_str": "2163429926",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062181215585947600,
+		"in_reply_to_status_id_str": "1062181215585947648",
+		"in_reply_to_user_id": 2163429926,
+		"in_reply_to_user_id_str": "2163429926",
+		"in_reply_to_screen_name": "Gerry_Martini",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, ne transi flumina",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Gerry_Martini yeah maybe a fraction of all that tax revenue can go towards the subw...ohhh."
+	},
+	{
+		"created_at": "Tue Nov 13 03:13:06 +0000 2018",
+		"id": 1062181532109099000,
+		"id_str": "1062181532109099008",
+		"full_text": "👀👀👀👀👀 https://t.co/KQPS9ozKgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQPS9ozKgJ",
+					"expanded_url": "https://twitter.com/UTSA/status/1062102680951312390",
+					"display_url": "twitter.com/UTSA/status/10…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, ne transi flumina",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 471,
+			"listed_count": 52,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057957090780684288/a9CY-pHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062102680951312400,
+		"quoted_status_id_str": "1062102680951312390",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KQPS9ozKgJ",
+			"expanded": "https://twitter.com/UTSA/status/1062102680951312390",
+			"display": "twitter.com/UTSA/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 12 21:59:46 +0000 2018",
+			"id": 1062102680951312400,
+			"id_str": "1062102680951312390",
+			"full_text": "@dezurray @luislongoria59 @ApurvaYRawal @aj15lopez We are aware of this situation and are working closely with the student and Department of Biology to better understand what happened today.",
+			"truncated": false,
+			"display_text_range": [
+				51,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dezurray",
+						"name": "Des",
+						"id": 352029453,
+						"id_str": "352029453",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "luislongoria59",
+						"name": "@BirdHouse_TailGate ^LeFtEE",
+						"id": 4728888373,
+						"id_str": "4728888373",
+						"indices": [
+							10,
+							25
+						]
+					},
+					{
+						"screen_name": "ApurvaYRawal",
+						"name": "Apurva Rawal",
+						"id": 334305385,
+						"id_str": "334305385",
+						"indices": [
+							26,
+							39
+						]
+					},
+					{
+						"screen_name": "aj15lopez",
+						"name": "aj",
+						"id": 950171101,
+						"id_str": "950171101",
+						"indices": [
+							40,
+							50
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1062070836276928500,
+			"in_reply_to_status_id_str": "1062070836276928514",
+			"in_reply_to_user_id": 352029453,
+			"in_reply_to_user_id_str": "352029453",
+			"in_reply_to_screen_name": "dezurray",
+			"user": {
+				"id": 85362822,
+				"id_str": "85362822",
+				"name": "UTSA",
+				"screen_name": "UTSA",
+				"location": "San Antonio, TX",
+				"description": "Official Twitter account for #UTSA, San Antonio's urban serving university of the future. #Academics #Research #Community #Excellence",
+				"url": "https://t.co/VHxfjhdH2s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VHxfjhdH2s",
+								"expanded_url": "http://www.utsa.edu",
+								"display_url": "utsa.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67670,
+				"friends_count": 1519,
+				"listed_count": 309,
+				"created_at": "Mon Oct 26 17:10:20 +0000 2009",
+				"favourites_count": 20873,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17587,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "081936",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85362822/1535373864",
+				"profile_link_color": "ED760E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F0730C",
+				"profile_text_color": "0C2C85",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 481,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀👀👀👀👀 https://t.co/KQPS9ozKgJ"
+	},
+	{
 		"created_at": "Tue Nov 13 03:09:10 +0000 2018",
 		"id": 1062180543511576600,
 		"id_str": "1062180543511576576",
