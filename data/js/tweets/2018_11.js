@@ -59,6 +59,112 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 76169,
+			"friends_count": 282,
+			"listed_count": 827,
+			"created_at": "Fri Apr 03 16:21:39 +0000 2009",
+			"favourites_count": 3977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34509,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939847665784942592/DTPovlnI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939847665784942592/DTPovlnI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28595930/1420541450",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well this is probably the last couple days you'll get to see BODIED in a theater for our select run. Despite doing great, still gotta make theater space open for the big movies. Tickets: https://t.co/eXfwE2soeT"
+	},
+	{
+		"created_at": "Tue Nov 13 20:35:55 +0000 2018",
+		"id": 1062443966816079900,
+		"id_str": "1062443966816079872",
+		"full_text": "Well this is probably the last couple days you'll get to see BODIED in a theater for our select run. Despite doing great, still gotta make theater space open for the big movies. Tickets: https://t.co/eXfwE2soeT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eXfwE2soeT",
+					"expanded_url": "http://www.bodiedmovie.com",
+					"display_url": "bodiedmovie.com",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28595930,
+			"id_str": "28595930",
+			"name": "Joseph Kahn",
+			"screen_name": "JosephKahn",
+			"location": "Hollywood. Really.",
+			"description": "Man of Leisure.",
+			"url": "https://t.co/2on9otnNOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2on9otnNOg",
+							"expanded_url": "http://www.josephkahn.com",
+							"display_url": "josephkahn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 76166,
 			"friends_count": 282,
 			"listed_count": 828,
