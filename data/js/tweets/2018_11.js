@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 16:34:37 +0000 2018",
+		"id": 1061658463644848100,
+		"id_str": "1061658463644848128",
+		"full_text": "Some folks may be interested in \"Literary Analysis and the Microcomputer\", a retrospective of humanities computing Hispanic studies from around 1980-1988, by Estelle Irizarry. Hispania 71(4), 1988. https://t.co/UuhYQfrz4P https://t.co/mWThuU7NG8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UuhYQfrz4P",
+					"expanded_url": "https://www.jstor.org/stable/343325?seq=1#metadata_info_tab_contents",
+					"display_url": "jstor.org/stable/343325?…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061658433701724200,
+					"id_str": "1061658433701724160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/DrvEuHWWwAAdXqr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrvEuHWWwAAdXqr.jpg",
+					"url": "https://t.co/mWThuU7NG8",
+					"display_url": "pic.twitter.com/mWThuU7NG8",
+					"expanded_url": "https://twitter.com/scott_bot/status/1061658463644848128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1088,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1088,
+							"h": 1017,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061658433701724200,
+					"id_str": "1061658433701724160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/DrvEuHWWwAAdXqr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrvEuHWWwAAdXqr.jpg",
+					"url": "https://t.co/mWThuU7NG8",
+					"display_url": "pic.twitter.com/mWThuU7NG8",
+					"expanded_url": "https://twitter.com/scott_bot/status/1061658463644848128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1088,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1088,
+							"h": 1017,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15762276,
+			"id_str": "15762276",
+			"name": "Scott B. Weingart 🤹",
+			"screen_name": "scott_bot",
+			"location": "Pittsburgh, PA",
+			"description": "Program Director of Digital Humanities @CMULibraries. Historian of science; librarian; data scientist; circus performer & instructor. Irregular blogger.",
+			"url": "https://t.co/mGRjaTqbbT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mGRjaTqbbT",
+							"expanded_url": "http://www.scottbot.net",
+							"display_url": "scottbot.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4774,
+			"friends_count": 994,
+			"listed_count": 298,
+			"created_at": "Thu Aug 07 11:45:35 +0000 2008",
+			"favourites_count": 37954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E2438",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/421419563985543168/jRxNU8By_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/421419563985543168/jRxNU8By_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15762276/1379376774",
+			"profile_link_color": "B72615",
+			"profile_sidebar_border_color": "6B340F",
+			"profile_sidebar_fill_color": "C9B1A6",
+			"profile_text_color": "5A596E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some folks may be interested in \"Literary Analysis and the Microcomputer\", a retrospective of humanities computing Hispanic studies from around 1980-1988, by Estelle Irizarry. Hispania 71(4), 1988. https://t.co/UuhYQfrz4P https://t.co/mWThuU7NG8"
+	},
+	{
+		"created_at": "Tue Nov 13 15:41:12 +0000 2018",
+		"id": 1062369798716182500,
+		"id_str": "1062369798716182528",
+		"full_text": "BREAKING: NY Dem lawmaker announces bill to block the Amazon deal and redirect taxpayer subsidies for Jeff Bezos into reducing student debt https://t.co/9zOqOTjbaX Dems just won full control of the NY legislature",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9zOqOTjbaX",
+					"expanded_url": "https://capitalandmain.com/will-new-york-fund-amazon-subsidies-or-student-debt-relief-1113",
+					"display_url": "capitalandmain.com/will-new-york-…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14855994,
+			"id_str": "14855994",
+			"name": "David Sirota",
+			"screen_name": "davidsirota",
+			"location": "The 1980s",
+			"description": "Journalist at @CapitalandMain, columnist at @GuardianUS & character on @TheGoldbergsABC. Subscribe to my weekly podcast at https://t.co/BNZy5facHt",
+			"url": "https://t.co/BNZy5facHt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BNZy5facHt",
+							"expanded_url": "http://www.patreon.com/sirota",
+							"display_url": "patreon.com/sirota",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BNZy5facHt",
+							"expanded_url": "http://www.patreon.com/sirota",
+							"display_url": "patreon.com/sirota",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 116527,
+			"friends_count": 2512,
+			"listed_count": 3446,
+			"created_at": "Wed May 21 12:59:37 +0000 2008",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3535032877/e5af0cf7ed0ad775c799a6a635cf90e3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3535032877/e5af0cf7ed0ad775c799a6a635cf90e3_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14855994/1357342927",
+			"profile_link_color": "2424FF",
+			"profile_sidebar_border_color": "CFCFCF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 688,
+		"favorite_count": 1653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: NY Dem lawmaker announces bill to block the Amazon deal and redirect taxpayer subsidies for Jeff Bezos into reducing student debt https://t.co/9zOqOTjbaX Dems just won full control of the NY legislature"
+	},
+	{
 		"created_at": "Tue Nov 13 15:41:12 +0000 2018",
 		"id": 1062369798716182500,
 		"id_str": "1062369798716182528",
