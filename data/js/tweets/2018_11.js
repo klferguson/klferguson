@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 22:34:24 +0000 2018",
+		"id": 1062473785331384300,
+		"id_str": "1062473785331384321",
+		"full_text": "@claudiakincaid wait are you in town??",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claudiakincaid",
+					"name": "Dr. Karen Gregory",
+					"id": 5478002,
+					"id_str": "5478002",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062470789440647200,
+		"in_reply_to_status_id_str": "1062470789440647174",
+		"in_reply_to_user_id": 5478002,
+		"in_reply_to_user_id_str": "5478002",
+		"in_reply_to_screen_name": "claudiakincaid",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 470,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062362188772532225/f_JBUgfA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062362188772532225/f_JBUgfA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@claudiakincaid wait are you in town??"
+	},
+	{
+		"created_at": "Tue Nov 13 16:14:38 +0000 2018",
+		"id": 1062378212859228200,
+		"id_str": "1062378212859228162",
+		"full_text": "Jeff Bezos is not arriving on the 7 train https://t.co/SPfBflDCRa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062378173839695900,
+					"id_str": "1062378173839695875",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr5TUgTX4AMp6AC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr5TUgTX4AMp6AC.jpg",
+					"url": "https://t.co/SPfBflDCRa",
+					"display_url": "pic.twitter.com/SPfBflDCRa",
+					"expanded_url": "https://twitter.com/henrygrabar/status/1062378212859228162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 599,
+							"h": 72,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 72,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 72,
+							"h": 72,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 72,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062378173839695900,
+					"id_str": "1062378173839695875",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr5TUgTX4AMp6AC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr5TUgTX4AMp6AC.jpg",
+					"url": "https://t.co/SPfBflDCRa",
+					"display_url": "pic.twitter.com/SPfBflDCRa",
+					"expanded_url": "https://twitter.com/henrygrabar/status/1062378212859228162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 599,
+							"h": 72,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 72,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 72,
+							"h": 72,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 72,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 634834812,
+			"id_str": "634834812",
+			"name": "Henry Grabar",
+			"screen_name": "henrygrabar",
+			"location": "NYC",
+			"description": "Everybody works but the vacant lot. Writing about places and the people who like them.",
+			"url": "https://t.co/Q13lAweBvx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q13lAweBvx",
+							"expanded_url": "http://www.slate.com/authors.henry_grabar.html",
+							"display_url": "slate.com/authors.henry_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3759,
+			"friends_count": 861,
+			"listed_count": 170,
+			"created_at": "Fri Jul 13 18:04:49 +0000 2012",
+			"favourites_count": 3133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927552489045549057/hEyBIdGC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927552489045549057/hEyBIdGC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/634834812/1372524971",
+			"profile_link_color": "0600AD",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jeff Bezos is not arriving on the 7 train https://t.co/SPfBflDCRa"
+	},
+	{
+		"created_at": "Tue Nov 13 20:35:55 +0000 2018",
+		"id": 1062443966816079900,
+		"id_str": "1062443966816079872",
+		"full_text": "Well this is probably the last couple days you'll get to see BODIED in a theater for our select run. Despite doing great, still gotta make theater space open for the big movies. Tickets: https://t.co/eXfwE2soeT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eXfwE2soeT",
+					"expanded_url": "http://www.bodiedmovie.com",
+					"display_url": "bodiedmovie.com",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28595930,
+			"id_str": "28595930",
+			"name": "Joseph Kahn",
+			"screen_name": "JosephKahn",
+			"location": "Hollywood. Really.",
+			"description": "Man of Leisure.",
+			"url": "https://t.co/2on9otnNOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2on9otnNOg",
+							"expanded_url": "http://www.josephkahn.com",
+							"display_url": "josephkahn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76172,
+			"friends_count": 282,
+			"listed_count": 827,
+			"created_at": "Fri Apr 03 16:21:39 +0000 2009",
+			"favourites_count": 3976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34509,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939847665784942592/DTPovlnI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939847665784942592/DTPovlnI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28595930/1420541450",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well this is probably the last couple days you'll get to see BODIED in a theater for our select run. Despite doing great, still gotta make theater space open for the big movies. Tickets: https://t.co/eXfwE2soeT"
+	},
+	{
 		"created_at": "Tue Nov 13 20:35:55 +0000 2018",
 		"id": 1062443966816079900,
 		"id_str": "1062443966816079872",
