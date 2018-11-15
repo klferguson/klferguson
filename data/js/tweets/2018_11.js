@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 15 21:37:58 +0000 2018",
+		"id": 1063184358893408300,
+		"id_str": "1063184358893408257",
+		"full_text": "😭😭😭 https://t.co/BRuH5KH9DM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BRuH5KH9DM",
+					"expanded_url": "https://twitter.com/brianstelter/status/1063183197901545472",
+					"display_url": "twitter.com/brianstelter/s…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452382673,
+			"id_str": "452382673",
+			"name": "Stephanie Insley Hershinow",
+			"screen_name": "S_Insley_H",
+			"location": "the 6th borough",
+			"description": "Quite good: cook, reader, procrastinator. Decent: mom, writer, teacher. Terribly bad: athlete, winker, cat trainer. RTs are jokes I wish I'd made first.",
+			"url": "https://t.co/UavO2Zdu9W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UavO2Zdu9W",
+							"expanded_url": "https://stephaniehershinow.hcommons.org/",
+							"display_url": "stephaniehershinow.hcommons.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1824,
+			"friends_count": 1769,
+			"listed_count": 30,
+			"created_at": "Sun Jan 01 19:41:31 +0000 2012",
+			"favourites_count": 55290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/550833020283133953/o0178aFp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/550833020283133953/o0178aFp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452382673/1538745397",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063183197901545500,
+		"quoted_status_id_str": "1063183197901545472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BRuH5KH9DM",
+			"expanded": "https://twitter.com/brianstelter/status/1063183197901545472",
+			"display": "twitter.com/brianstelter/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 15 21:33:22 +0000 2018",
+			"id": 1063183197901545500,
+			"id_str": "1063183197901545472",
+			"full_text": "The winter storm is showing up on radar... and on the NY/NJ traffic map https://t.co/JliKpeXR2k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1063183011775176700,
+						"id_str": "1063183011775176705",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DsEvUPQW4AE1s0_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsEvUPQW4AE1s0_.jpg",
+						"url": "https://t.co/JliKpeXR2k",
+						"display_url": "pic.twitter.com/JliKpeXR2k",
+						"expanded_url": "https://twitter.com/brianstelter/status/1063183197901545472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1040,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1063183011775176700,
+						"id_str": "1063183011775176705",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DsEvUPQW4AE1s0_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsEvUPQW4AE1s0_.jpg",
+						"url": "https://t.co/JliKpeXR2k",
+						"display_url": "pic.twitter.com/JliKpeXR2k",
+						"expanded_url": "https://twitter.com/brianstelter/status/1063183197901545472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1040,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14515799,
+				"id_str": "14515799",
+				"name": "Brian Stelter",
+				"screen_name": "brianstelter",
+				"location": "New York City",
+				"description": "Anchor of @ReliableSources and @CNN's chief media correspondent. Formerly @nytimes, @tvnewser and Top of the Morning. Email: bstelter@gmail.com",
+				"url": "https://t.co/oAdPr7RfVz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAdPr7RfVz",
+								"expanded_url": "http://www.brianstelter.com/",
+								"display_url": "brianstelter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 614196,
+				"friends_count": 6137,
+				"listed_count": 13733,
+				"created_at": "Thu Apr 24 18:41:42 +0000 2008",
+				"favourites_count": 234346,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 171378,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+				"profile_link_color": "D44700",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😭😭😭 https://t.co/BRuH5KH9DM"
+	},
+	{
+		"created_at": "Thu Nov 15 21:12:00 +0000 2018",
+		"id": 1063177822020218900,
+		"id_str": "1063177822020218880",
+		"full_text": "I am looking for black-cast films and television series that were considered failures (post-1978). I'm thinking THE WIZ, FRANK'S PLACE, THE UNDERCOVERS, THE SECRET DIARY OF DESMOND PFIEFFER, HOMEBOYZ FROM OUTER SPACE, (Maybe also IDLEWILD?), etc.  Help a scholar out!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18288737,
+			"id_str": "18288737",
+			"name": "Hard. Pass.",
+			"screen_name": "AlfredLMartin",
+			"location": "Iowa City, IA",
+			"description": "Media historian studying Race, Sexuality, Gender, Audiences & Industry. Assistant Professor in Media Studies @uiowa. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888,
+			"friends_count": 360,
+			"listed_count": 28,
+			"created_at": "Sun Dec 21 17:28:29 +0000 2008",
+			"favourites_count": 1956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768637106654543873/Vsy5EzT6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768637106654543873/Vsy5EzT6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18288737/1470160202",
+			"profile_link_color": "3E4415",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "D02B55",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am looking for black-cast films and television series that were considered failures (post-1978). I'm thinking THE WIZ, FRANK'S PLACE, THE UNDERCOVERS, THE SECRET DIARY OF DESMOND PFIEFFER, HOMEBOYZ FROM OUTER SPACE, (Maybe also IDLEWILD?), etc.  Help a scholar out!"
+	},
+	{
 		"created_at": "Thu Nov 15 20:50:12 +0000 2018",
 		"id": 1063172337162469400,
 		"id_str": "1063172337162469376",
