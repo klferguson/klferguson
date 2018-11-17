@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 04:19:16 +0000 2018",
+		"id": 1063647735545569300,
+		"id_str": "1063647735545569281",
+		"full_text": "watching VIOLET, i think @hoboacademic recommended this to me like 8 years ago.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoboacademic",
+					"name": "john lennon",
+					"id": 221833084,
+					"id_str": "221833084",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, incognito thirst trap",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 470,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062362188772532225/f_JBUgfA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062362188772532225/f_JBUgfA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "watching VIOLET, i think @hoboacademic recommended this to me like 8 years ago."
+	},
+	{
+		"created_at": "Sat Nov 17 03:51:00 +0000 2018",
+		"id": 1063640622521860100,
+		"id_str": "1063640622521860096",
+		"full_text": "Stephen Sondheim looking on with trepidation, then excitement, then joy as student nails a tough passage in “(Not) Getting Married Today” is the purest of things https://t.co/FLLi3RGCo1 https://t.co/LrR1fwbonc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FLLi3RGCo1",
+					"expanded_url": "https://www.youtube.com/watch?v=aR80qiXgMuQ",
+					"display_url": "youtube.com/watch?v=aR80qi…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1063640346519724000,
+					"id_str": "1063640346519724033",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsLPQn8U4AEPqgY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsLPQn8U4AEPqgY.jpg",
+					"url": "https://t.co/LrR1fwbonc",
+					"display_url": "pic.twitter.com/LrR1fwbonc",
+					"expanded_url": "https://twitter.com/DavidSRudin/status/1063640622521860096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 304,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 304,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 304,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063640346519724000,
+					"id_str": "1063640346519724033",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsLPQn8U4AEPqgY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsLPQn8U4AEPqgY.jpg",
+					"url": "https://t.co/LrR1fwbonc",
+					"display_url": "pic.twitter.com/LrR1fwbonc",
+					"expanded_url": "https://twitter.com/DavidSRudin/status/1063640622521860096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 304,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 304,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 304,
+							"h": 238,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							152,
+							119
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DsLPQn8U4AEPqgY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 392503731,
+			"id_str": "392503731",
+			"name": "David Rudin",
+			"screen_name": "DavidSRudin",
+			"location": "Montréal",
+			"description": "I make Internet for @mtlgazette and ⚽️ for @statsbomb. He/Him. Let's talk: davidrudin.freelance@gmail.com",
+			"url": "https://t.co/TzgfxGYiI1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TzgfxGYiI1",
+							"expanded_url": "http://www.davidrudin.com",
+							"display_url": "davidrudin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3217,
+			"friends_count": 704,
+			"listed_count": 165,
+			"created_at": "Mon Oct 17 04:17:55 +0000 2011",
+			"favourites_count": 28417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016018913304252416/0mzNfAl8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016018913304252416/0mzNfAl8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/392503731/1441340683",
+			"profile_link_color": "FF69B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stephen Sondheim looking on with trepidation, then excitement, then joy as student nails a tough passage in “(Not) Getting Married Today” is the purest of things https://t.co/FLLi3RGCo1 https://t.co/LrR1fwbonc"
+	},
+	{
 		"created_at": "Fri Nov 16 22:14:53 +0000 2018",
 		"id": 1063556034642493400,
 		"id_str": "1063556034642493440",
