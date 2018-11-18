@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 05:12:34 +0000 2018",
+		"id": 1063661149009399800,
+		"id_str": "1063661149009399816",
+		"full_text": "here’s some high-quality pictures of dogs trying to catch treats https://t.co/v90hPxmMid",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063661111835164700,
+					"id_str": "1063661111835164672",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DsLiJUxVAAACaxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsLiJUxVAAACaxF.jpg",
+					"url": "https://t.co/v90hPxmMid",
+					"display_url": "pic.twitter.com/v90hPxmMid",
+					"expanded_url": "https://twitter.com/keatxngrant/status/1063661149009399816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 719,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063661111835164700,
+					"id_str": "1063661111835164672",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DsLiJUxVAAACaxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsLiJUxVAAACaxF.jpg",
+					"url": "https://t.co/v90hPxmMid",
+					"display_url": "pic.twitter.com/v90hPxmMid",
+					"expanded_url": "https://twitter.com/keatxngrant/status/1063661149009399816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 719,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1063661111596146700,
+					"id_str": "1063661111596146688",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DsLiJT4V4AAjsEG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsLiJT4V4AAjsEG.jpg",
+					"url": "https://t.co/v90hPxmMid",
+					"display_url": "pic.twitter.com/v90hPxmMid",
+					"expanded_url": "https://twitter.com/keatxngrant/status/1063661149009399816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1063661112082673700,
+					"id_str": "1063661112082673664",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DsLiJVsVsAAqTa0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsLiJVsVsAAqTa0.jpg",
+					"url": "https://t.co/v90hPxmMid",
+					"display_url": "pic.twitter.com/v90hPxmMid",
+					"expanded_url": "https://twitter.com/keatxngrant/status/1063661149009399816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 719,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1063661111839416300,
+					"id_str": "1063661111839416320",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DsLiJUyV4AAbZGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsLiJUyV4AAbZGy.jpg",
+					"url": "https://t.co/v90hPxmMid",
+					"display_url": "pic.twitter.com/v90hPxmMid",
+					"expanded_url": "https://twitter.com/keatxngrant/status/1063661149009399816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 272058058,
+			"id_str": "272058058",
+			"name": "keat",
+			"screen_name": "keatxngrant",
+			"location": "edmond // briarcliff // CA",
+			"description": "PoliSci // UCO’19 // 21 // artist // native // senior in college // 6’4 // turn on my notifications for some quality tweets // blm // 👻: keatgrant // #resist",
+			"url": "https://t.co/eMRhBvKgqW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eMRhBvKgqW",
+							"expanded_url": "http://lanadelrey.com",
+							"display_url": "lanadelrey.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199569,
+			"friends_count": 165555,
+			"listed_count": 299,
+			"created_at": "Fri Mar 25 18:45:52 +0000 2011",
+			"favourites_count": 20066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5826,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059682443526107136/Ak5Qzdr0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059682443526107136/Ak5Qzdr0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/272058058/1541360461",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BBBEC0",
+			"profile_text_color": "143D77",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1669,
+		"favorite_count": 5186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "here’s some high-quality pictures of dogs trying to catch treats https://t.co/v90hPxmMid"
+	},
+	{
+		"created_at": "Sun Nov 18 03:16:58 +0000 2018",
+		"id": 1063994445438353400,
+		"id_str": "1063994445438353408",
+		"full_text": "@bridgeyrocks (meant to reply to the Manhattanz tweet, but heyyy)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bridgeyrocks",
+					"name": "The B 🐝",
+					"id": 80719442,
+					"id_str": "80719442",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1063985710305300500,
+		"in_reply_to_status_id_str": "1063985710305300481",
+		"in_reply_to_user_id": 80719442,
+		"in_reply_to_user_id_str": "80719442",
+		"in_reply_to_screen_name": "bridgeyrocks",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kevin, incognito thirst trap",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1156,
+			"friends_count": 470,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 18405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062362188772532225/f_JBUgfA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062362188772532225/f_JBUgfA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bridgeyrocks (meant to reply to the Manhattanz tweet, but heyyy)"
+	},
+	{
 		"created_at": "Sun Nov 18 02:41:19 +0000 2018",
 		"id": 1063985473205542900,
 		"id_str": "1063985473205542912",
