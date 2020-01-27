@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 17:22:00 +0000 2020",
+		"id": 1221483436873068500,
+		"id_str": "1221483436873068546",
+		"full_text": "@greeney28 @melisser3 @AmandaAnnKlein https://t.co/kPO5gEion9",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeney28",
+					"name": "Karen Petruska",
+					"id": 75930088,
+					"id_str": "75930088",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, one of them emojos",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "For a Dollar, Name an Amanda!",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221483432372510700,
+					"id_str": "1221483432372510721",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOUtcWWoAEnaZl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPOUtcWWoAEnaZl.png",
+					"url": "https://t.co/kPO5gEion9",
+					"display_url": "pic.twitter.com/kPO5gEion9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1221483436873068546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221483432372510700,
+					"id_str": "1221483432372510721",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOUtcWWoAEnaZl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPOUtcWWoAEnaZl.png",
+					"url": "https://t.co/kPO5gEion9",
+					"display_url": "pic.twitter.com/kPO5gEion9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1221483436873068546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 109,
+									"h": 88,
+									"w": 88
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1221482975629414400,
+		"in_reply_to_status_id_str": "1221482975629414400",
+		"in_reply_to_user_id": 75930088,
+		"in_reply_to_user_id_str": "75930088",
+		"in_reply_to_screen_name": "greeney28",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev 101",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1206,
+			"friends_count": 492,
+			"listed_count": 50,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 21183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220427127247470592/E5TsdQOt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220427127247470592/E5TsdQOt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@greeney28 @melisser3 @AmandaAnnKlein https://t.co/kPO5gEion9"
+	},
+	{
 		"created_at": "Sun Jan 26 02:35:11 +0000 2020",
 		"id": 1221260266001895400,
 		"id_str": "1221260266001895424",
