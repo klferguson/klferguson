@@ -1,6 +1,5206 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 04:34:24 +0000 2020",
+		"id": 1273836506290012200,
+		"id_str": "1273836506290012175",
+		"full_text": "@kristenwarner 12:01",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW got something for you heauxs",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273836169927831600,
+		"in_reply_to_status_id_str": "1273836169927831552",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@kristenwarner 12:01"
+	},
+	{
+		"created_at": "Fri Jun 19 04:02:02 +0000 2020",
+		"id": 1273828361857613800,
+		"id_str": "1273828361857613826",
+		"full_text": "watching MUTE WITNESS this move is  wiiiiild",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "watching MUTE WITNESS this move is  wiiiiild"
+	},
+	{
+		"created_at": "Fri Jun 19 03:45:12 +0000 2020",
+		"id": 1273824125795082200,
+		"id_str": "1273824125795082241",
+		"full_text": "honestly also just time to bring smoking back to movie theaters https://t.co/FHdSwXjpWn https://t.co/IADGMOp9UF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FHdSwXjpWn",
+					"expanded_url": "https://twitter.com/AMCTheatres/status/1273753900282150914",
+					"display_url": "twitter.com/AMCTheatres/st…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273824032807366700,
+					"id_str": "1273824032807366661",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ea2INXXWsAUIvPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ea2INXXWsAUIvPE.jpg",
+					"url": "https://t.co/IADGMOp9UF",
+					"display_url": "pic.twitter.com/IADGMOp9UF",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273824125795082241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273824032807366700,
+					"id_str": "1273824032807366661",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ea2INXXWsAUIvPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ea2INXXWsAUIvPE.jpg",
+					"url": "https://t.co/IADGMOp9UF",
+					"display_url": "pic.twitter.com/IADGMOp9UF",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273824125795082241/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ea2INXXWsAUIvPE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273753900282151000,
+		"quoted_status_id_str": "1273753900282150914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FHdSwXjpWn",
+			"expanded": "https://twitter.com/AMCTheatres/status/1273753900282150914",
+			"display": "twitter.com/AMCTheatres/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 23:06:09 +0000 2020",
+			"id": 1273753900282151000,
+			"id_str": "1273753900282150914",
+			"full_text": "@haskell420 @DisneysMulan @TENETFilm In areas of the country where guests are required to wear masks, AMC will abide by that ordinance and guests will be required to wear masks except while eating and drinking. Guests at other locations are strongly encouraged to wear a mask during their visit to AMC.",
+			"truncated": false,
+			"display_text_range": [
+				37,
+				302
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "haskell420",
+						"name": "Edward Herrel",
+						"id": 21046076,
+						"id_str": "21046076",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "DisneysMulan",
+						"name": "Mulan",
+						"id": 1027039671652515800,
+						"id_str": "1027039671652515842",
+						"indices": [
+							12,
+							25
+						]
+					},
+					{
+						"screen_name": "TENETFilm",
+						"name": "TENET",
+						"id": 1131216184500613100,
+						"id_str": "1131216184500613120",
+						"indices": [
+							26,
+							36
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1273753142820290600,
+			"in_reply_to_status_id_str": "1273753142820290561",
+			"in_reply_to_user_id": 21046076,
+			"in_reply_to_user_id_str": "21046076",
+			"in_reply_to_screen_name": "haskell420",
+			"user": {
+				"id": 40245758,
+				"id_str": "40245758",
+				"name": "AMC Theatres",
+				"screen_name": "AMCTheatres",
+				"location": "North America",
+				"description": "AMC Theatres delivers the most entertaining movie-going experience in the world. Follow us for all things movies! For questions/feedback, reach out to @AMCHelps",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 447657,
+				"friends_count": 40350,
+				"listed_count": 2126,
+				"created_at": "Fri May 15 14:04:28 +0000 2009",
+				"favourites_count": 15995,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57804,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E61224",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032021560972865537/43Ca-pZf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032021560972865537/43Ca-pZf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40245758/1584634881",
+				"profile_link_color": "B51F27",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F2F2F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 129,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "honestly also just time to bring smoking back to movie theaters https://t.co/FHdSwXjpWn https://t.co/IADGMOp9UF"
+	},
+	{
+		"created_at": "Fri Jun 19 03:32:16 +0000 2020",
+		"id": 1273820872038649900,
+		"id_str": "1273820872038649857",
+		"full_text": "⚜️ @kyoag\nAttorney General Cameron, [as a fellow Kentuckian] I demand justice for Breonna Taylor and I am tagging 5 friends who I know will do the same!  This has taken far too long.\n@kylesbarnett @kristenwarner @flipyourface @gloriafisk @mattthomas https://t.co/fJ9sOqB3oU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyoag",
+					"name": "Attorney General Daniel Cameron",
+					"id": 1205238738097455000,
+					"id_str": "1205238738097455104",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "kylesbarnett",
+					"name": "Kyle S. Barnett",
+					"id": 98984523,
+					"id_str": "98984523",
+					"indices": [
+						183,
+						196
+					]
+				},
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW got something for you heauxs",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						197,
+						211
+					]
+				},
+				{
+					"screen_name": "flipyourface",
+					"name": "Jim Gabriel",
+					"id": 470625671,
+					"id_str": "470625671",
+					"indices": [
+						212,
+						225
+					]
+				},
+				{
+					"screen_name": "gloriafisk",
+					"name": "Cassandra Complex",
+					"id": 25622619,
+					"id_str": "25622619",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"screen_name": "mattthomas",
+					"name": "Mαtt Thomαs",
+					"id": 9439432,
+					"id_str": "9439432",
+					"indices": [
+						238,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fJ9sOqB3oU",
+					"expanded_url": "https://twitter.com/CampMarmalade/status/1273815916686577677",
+					"display_url": "twitter.com/CampMarmalade/…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273815916686577700,
+		"quoted_status_id_str": "1273815916686577677",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fJ9sOqB3oU",
+			"expanded": "https://twitter.com/CampMarmalade/status/1273815916686577677",
+			"display": "twitter.com/CampMarmalade/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 03:12:35 +0000 2020",
+			"id": 1273815916686577700,
+			"id_str": "1273815916686577677",
+			"full_text": "@kwissoker @miraschor @kyoag @cmonstah @bhoggard @essenviews @steve_locke @CathyNDavidson @sarahjanecerven @ubiquity75 @blogdiva @kyoag\nAttorney General Cameron, I demand justice for Breonna Taylor and I am tagging 5 friends who I know will do the same!  This has taken far too long. @sarahjgrimm @jdavidsmyth @tronrudw @BillArning @KevinLFerguson",
+			"truncated": false,
+			"display_text_range": [
+				129,
+				347
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kwissoker",
+						"name": "Ken Wissoker",
+						"id": 15471640,
+						"id_str": "15471640",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "miraschor",
+						"name": "Mira Schor",
+						"id": 55914090,
+						"id_str": "55914090",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "kyoag",
+						"name": "Attorney General Daniel Cameron",
+						"id": 1205238738097455000,
+						"id_str": "1205238738097455104",
+						"indices": [
+							22,
+							28
+						]
+					},
+					{
+						"screen_name": "cmonstah",
+						"name": "Carolina A. Miranda",
+						"id": 15854730,
+						"id_str": "15854730",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"screen_name": "bhoggard",
+						"name": "Barry Hoggard",
+						"id": 15838388,
+						"id_str": "15838388",
+						"indices": [
+							39,
+							48
+						]
+					},
+					{
+						"screen_name": "essenviews",
+						"name": "Essenviews - Demand The Truth",
+						"id": 2998864022,
+						"id_str": "2998864022",
+						"indices": [
+							49,
+							60
+						]
+					},
+					{
+						"screen_name": "steve_locke",
+						"name": "Steve Locke",
+						"id": 353451919,
+						"id_str": "353451919",
+						"indices": [
+							61,
+							73
+						]
+					},
+					{
+						"screen_name": "CathyNDavidson",
+						"name": "Cathy Davidson",
+						"id": 15480206,
+						"id_str": "15480206",
+						"indices": [
+							74,
+							89
+						]
+					},
+					{
+						"screen_name": "sarahjanecerven",
+						"name": "sarah jane cervenak",
+						"id": 792478034,
+						"id_str": "792478034",
+						"indices": [
+							90,
+							106
+						]
+					},
+					{
+						"screen_name": "ubiquity75",
+						"name": "Sarah T. Roberts",
+						"id": 23451153,
+						"id_str": "23451153",
+						"indices": [
+							107,
+							118
+						]
+					},
+					{
+						"screen_name": "blogdiva",
+						"name": "Liza Sabater 🇵🇷👸🏾🌹",
+						"id": 820694,
+						"id_str": "820694",
+						"indices": [
+							119,
+							128
+						]
+					},
+					{
+						"screen_name": "kyoag",
+						"name": "Attorney General Daniel Cameron",
+						"id": 1205238738097455000,
+						"id_str": "1205238738097455104",
+						"indices": [
+							129,
+							135
+						]
+					},
+					{
+						"screen_name": "sarahjgrimm",
+						"name": "Sarah Jean Grimm",
+						"id": 79831420,
+						"id_str": "79831420",
+						"indices": [
+							284,
+							296
+						]
+					},
+					{
+						"screen_name": "jdavidsmyth",
+						"name": "Jonathan David Smyth",
+						"id": 24158840,
+						"id_str": "24158840",
+						"indices": [
+							297,
+							309
+						]
+					},
+					{
+						"screen_name": "tronrudw",
+						"name": "wendy tronrud",
+						"id": 823887560707625000,
+						"id_str": "823887560707624960",
+						"indices": [
+							310,
+							319
+						]
+					},
+					{
+						"screen_name": "BillArning",
+						"name": "Bill Arning",
+						"id": 52566085,
+						"id_str": "52566085",
+						"indices": [
+							320,
+							331
+						]
+					},
+					{
+						"screen_name": "KevinLFerguson",
+						"name": "kev, defund NYPD | fund CUNY",
+						"id": 359023788,
+						"id_str": "359023788",
+						"indices": [
+							332,
+							347
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1273814347932934100,
+			"in_reply_to_status_id_str": "1273814347932934145",
+			"in_reply_to_user_id": 15471640,
+			"in_reply_to_user_id_str": "15471640",
+			"in_reply_to_screen_name": "kwissoker",
+			"user": {
+				"id": 915674525739753500,
+				"id_str": "915674525739753473",
+				"name": "Wayne Koestenbaum",
+				"screen_name": "CampMarmalade",
+				"location": "New York, NY",
+				"description": "writer / artist",
+				"url": "https://t.co/wdLxWpaNXT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wdLxWpaNXT",
+								"expanded_url": "http://www.waynekoestenbaum.com",
+								"display_url": "waynekoestenbaum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6240,
+				"friends_count": 798,
+				"listed_count": 50,
+				"created_at": "Wed Oct 04 20:26:34 +0000 2017",
+				"favourites_count": 53502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3359,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915678882229039105/T39zVtty_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915678882229039105/T39zVtty_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/915674525739753473/1507149995",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⚜️ @kyoag\nAttorney General Cameron, [as a fellow Kentuckian] I demand justice for Breonna Taylor and I am tagging 5 friends who I know will do the same!  This has taken far too long.\n@kylesbarnett @kristenwarner @flipyourface @gloriafisk @mattthomas https://t.co/fJ9sOqB3oU"
+	},
+	{
+		"created_at": "Fri Jun 19 03:01:09 +0000 2020",
+		"id": 1273813040778162200,
+		"id_str": "1273813040778162177",
+		"full_text": "@KevinFerguson @kjfergu lol at least they rhyme?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinFerguson",
+					"name": "Kevin Ferguson",
+					"id": 4391191,
+					"id_str": "4391191",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kjfergu",
+					"name": "Kevin Ferguson",
+					"id": 2370077496,
+					"id_str": "2370077496",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273794000651079700,
+		"in_reply_to_status_id_str": "1273794000651079680",
+		"in_reply_to_user_id": 4391191,
+		"in_reply_to_user_id_str": "4391191",
+		"in_reply_to_screen_name": "KevinFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KevinFerguson @kjfergu lol at least they rhyme?"
+	},
+	{
+		"created_at": "Fri Jun 19 01:44:20 +0000 2020",
+		"id": 1273793709390344200,
+		"id_str": "1273793709390344199",
+		"full_text": "@KevinFerguson @kjfergu ?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinFerguson",
+					"name": "Kevin Ferguson",
+					"id": 4391191,
+					"id_str": "4391191",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kjfergu",
+					"name": "Kevin Ferguson",
+					"id": 2370077496,
+					"id_str": "2370077496",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1273793666524631000,
+		"in_reply_to_status_id_str": "1273793666524631040",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@KevinFerguson @kjfergu ?"
+	},
+	{
+		"created_at": "Fri Jun 19 01:44:10 +0000 2020",
+		"id": 1273793666524631000,
+		"id_str": "1273793666524631040",
+		"full_text": "@KevinFerguson @kjfergu Awwww. Got a name",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinFerguson",
+					"name": "Kevin Ferguson",
+					"id": 4391191,
+					"id_str": "4391191",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kjfergu",
+					"name": "Kevin Ferguson",
+					"id": 2370077496,
+					"id_str": "2370077496",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1273781182107316200,
+		"in_reply_to_status_id_str": "1273781182107316224",
+		"in_reply_to_user_id": 4391191,
+		"in_reply_to_user_id_str": "4391191",
+		"in_reply_to_screen_name": "KevinFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KevinFerguson @kjfergu Awwww. Got a name"
+	},
+	{
+		"created_at": "Fri Jun 19 01:35:52 +0000 2020",
+		"id": 1273791576779751400,
+		"id_str": "1273791576779751426",
+		"full_text": "@melisser3 @j_christley I was surprised to read you haven't seen this, given your, uh, interests",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa!",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "j_christley",
+					"name": "j_christley",
+					"id": 792171320922480600,
+					"id_str": "792171320922480640",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1273784629619802000,
+		"in_reply_to_status_id_str": "1273784629619802112",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 @j_christley I was surprised to read you haven't seen this, given your, uh, interests"
+	},
+	{
+		"created_at": "Fri Jun 19 00:15:27 +0000 2020",
+		"id": 1273771340051484700,
+		"id_str": "1273771340051484673",
+		"full_text": "holy shit https://t.co/lIMyiIG6Vx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lIMyiIG6Vx",
+					"expanded_url": "https://twitter.com/SEC/status/1273759965329731585",
+					"display_url": "twitter.com/SEC/status/127…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273759965329731600,
+		"quoted_status_id_str": "1273759965329731585",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lIMyiIG6Vx",
+			"expanded": "https://twitter.com/SEC/status/1273759965329731585",
+			"display": "twitter.com/SEC/status/127…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 23:30:15 +0000 2020",
+			"id": 1273759965329731600,
+			"id_str": "1273759965329731585",
+			"full_text": "Statement from @SEC Commissioner @GregSankey on State of Mississippi flag https://t.co/BR5Ei1l17X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SEC",
+						"name": "Southeastern Conference",
+						"id": 16807883,
+						"id_str": "16807883",
+						"indices": [
+							15,
+							19
+						]
+					},
+					{
+						"screen_name": "GregSankey",
+						"name": "Greg Sankey",
+						"id": 373671644,
+						"id_str": "373671644",
+						"indices": [
+							33,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1273759340579750000,
+						"id_str": "1273759340579749892",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea1NXyCXgAQn_4l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea1NXyCXgAQn_4l.jpg",
+						"url": "https://t.co/BR5Ei1l17X",
+						"display_url": "pic.twitter.com/BR5Ei1l17X",
+						"expanded_url": "https://twitter.com/SEC/status/1273759965329731585/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1273759340579750000,
+						"id_str": "1273759340579749892",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea1NXyCXgAQn_4l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea1NXyCXgAQn_4l.jpg",
+						"url": "https://t.co/BR5Ei1l17X",
+						"display_url": "pic.twitter.com/BR5Ei1l17X",
+						"expanded_url": "https://twitter.com/SEC/status/1273759965329731585/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16807883,
+				"id_str": "16807883",
+				"name": "Southeastern Conference",
+				"screen_name": "SEC",
+				"location": "Birmingham, Ala.",
+				"description": "Official Twitter account of the Southeastern Conference. #ItJustMeansMore\n\nFollow ➡️ @SECOfficiating",
+				"url": "https://t.co/os3934SzyR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/os3934SzyR",
+								"expanded_url": "http://www.secsports.com",
+								"display_url": "secsports.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 533578,
+				"friends_count": 209,
+				"listed_count": 3642,
+				"created_at": "Thu Oct 16 14:33:31 +0000 2008",
+				"favourites_count": 3385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42952,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020353407478091781/tnkZI70g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020353407478091781/tnkZI70g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16807883/1575767207",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3185,
+			"favorite_count": 9525,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "holy shit https://t.co/lIMyiIG6Vx"
+	},
+	{
+		"created_at": "Thu Jun 18 22:19:16 +0000 2020",
+		"id": 1273742102619357200,
+		"id_str": "1273742102619357191",
+		"full_text": "[someone on the TL last night mentioned Gene Clark's \"No Other\" and I've listed to it 87 times in the last 5 hours. no the math doesn't check out. progression is something like A G D E F#m.]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "[someone on the TL last night mentioned Gene Clark's \"No Other\" and I've listed to it 87 times in the last 5 hours. no the math doesn't check out. progression is something like A G D E F#m.]"
+	},
+	{
+		"created_at": "Thu Jun 18 22:12:00 +0000 2020",
+		"id": 1273737825016578000,
+		"id_str": "1273740273089155072",
+		"full_text": "@gloriafisk @KevinLFerguson @NYGovCuomo I heard a rumor that the mayor wants to defund CUNY. Surely the governor wouldn’t let that happen? Even if it means defying the mayor, which I’m sure the governor would never want to do, perhaps the governor could invest in CUNY? Oof, but it sure would piss the mayor off...",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			314
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gloriafisk",
+					"name": "Cassandra Complex",
+					"id": 25622619,
+					"id_str": "25622619",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "KevinLFerguson",
+					"name": "kev, defund NYPD | fund CUNY",
+					"id": 359023788,
+					"id_str": "359023788",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "NYGovCuomo",
+					"name": "Andrew Cuomo",
+					"id": 232268199,
+					"id_str": "232268199",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1273613938194813000,
+		"in_reply_to_status_id_str": "1273613938194812928",
+		"in_reply_to_user_id": 25622619,
+		"in_reply_to_user_id_str": "25622619",
+		"in_reply_to_screen_name": "gloriafisk",
+		"user": {
+			"id": 452382673,
+			"id_str": "452382673",
+			"name": "Stephanie Insley Hershinow",
+			"screen_name": "S_Insley_H",
+			"location": "the 6th borough",
+			"description": "Quite good: cook, reader, procrastinator. Decent: mom, writer, teacher. Terribly bad: athlete, winker, cat trainer. RTs are jokes I wish I'd made first.",
+			"url": "https://t.co/UavO2Zdu9W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UavO2Zdu9W",
+							"expanded_url": "https://stephaniehershinow.hcommons.org/",
+							"display_url": "stephaniehershinow.hcommons.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6244,
+			"friends_count": 2063,
+			"listed_count": 39,
+			"created_at": "Sun Jan 01 19:41:31 +0000 2012",
+			"favourites_count": 87663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/550833020283133953/o0178aFp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/550833020283133953/o0178aFp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452382673/1538745397",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@gloriafisk @KevinLFerguson @NYGovCuomo I heard a rumor that the mayor wants to defund CUNY. Surely the governor wouldn’t let that happen? Even if it means defying the mayor, which I’m sure the governor would never want to do, perhaps the governor could invest in CUNY? Oof, but it sure would piss the mayor off..."
+	},
+	{
+		"created_at": "Thu Jun 18 22:08:51 +0000 2020",
+		"id": 1273739480613208000,
+		"id_str": "1273739480613208064",
+		"full_text": "@S_Insley_H @gloriafisk @NYGovCuomo https://t.co/Re0VQheQIN",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_Insley_H",
+					"name": "Stephanie Insley Hershinow",
+					"id": 452382673,
+					"id_str": "452382673",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "gloriafisk",
+					"name": "Cassandra Complex",
+					"id": 25622619,
+					"id_str": "25622619",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "NYGovCuomo",
+					"name": "Andrew Cuomo",
+					"id": 232268199,
+					"id_str": "232268199",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273739474296602600,
+					"id_str": "1273739474296602624",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ea07TaXXgAAebTD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ea07TaXXgAAebTD.jpg",
+					"url": "https://t.co/Re0VQheQIN",
+					"display_url": "pic.twitter.com/Re0VQheQIN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273739480613208064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273739474296602600,
+					"id_str": "1273739474296602624",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ea07TaXXgAAebTD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ea07TaXXgAAebTD.jpg",
+					"url": "https://t.co/Re0VQheQIN",
+					"display_url": "pic.twitter.com/Re0VQheQIN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273739480613208064/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ea07TaXXgAAebTD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273737825016578000,
+		"in_reply_to_status_id_str": "1273737825016578048",
+		"in_reply_to_user_id": 452382673,
+		"in_reply_to_user_id_str": "452382673",
+		"in_reply_to_screen_name": "S_Insley_H",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@S_Insley_H @gloriafisk @NYGovCuomo https://t.co/Re0VQheQIN"
+	},
+	{
+		"created_at": "Thu Jun 18 21:58:00 +0000 2020",
+		"id": 1273613938194813000,
+		"id_str": "1273736749198565379",
+		"full_text": "And yet @NYGovCuomo is threatening  to *gut* QC, where 73% of students are BIPOC New Yorkers https://t.co/WWd57UQu7F https://t.co/vuvZbQoaaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYGovCuomo",
+					"name": "Andrew Cuomo",
+					"id": 232268199,
+					"id_str": "232268199",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WWd57UQu7F",
+					"expanded_url": "https://fundqc.squarespace.com/",
+					"display_url": "fundqc.squarespace.com",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/vuvZbQoaaL",
+					"expanded_url": "https://twitter.com/qc_news/status/1273605163236954115",
+					"display_url": "twitter.com/qc_news/status…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25622619,
+			"id_str": "25622619",
+			"name": "Cassandra Complex",
+			"screen_name": "gloriafisk",
+			"location": "NYC",
+			"description": "Assoc prof 21c literature @QC @CUNY; Orhan Pamuk and the Good of World Literature #LiteratureNow @ColumbiaUP; she/her",
+			"url": "https://t.co/VdcCHIiN7Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VdcCHIiN7Z",
+							"expanded_url": "http://english.qc.cuny.edu/quick-links/gloria-fisk/",
+							"display_url": "english.qc.cuny.edu/quick-links/gl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 558,
+			"listed_count": 6,
+			"created_at": "Sat Mar 21 02:15:54 +0000 2009",
+			"favourites_count": 26281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257724530845528065/UxXyNHGC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257724530845528065/UxXyNHGC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25622619/1512080137",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273605163236954000,
+		"quoted_status_id_str": "1273605163236954115",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vuvZbQoaaL",
+			"expanded": "https://twitter.com/qc_news/status/1273605163236954115",
+			"display": "twitter.com/qc_news/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 13:15:08 +0000 2020",
+			"id": 1273605163236954000,
+			"id_str": "1273605163236954115",
+			"full_text": "The @BrookingsInst has ranked Queens College among the top 25 four-year colleges nationwide with the greatest success in lifting low-income students into the middle class. https://t.co/n39GZeDxJP  @CUNY #WeAreQC #EngineofEconomicMobility #publichighereducation #socialmobility https://t.co/PRw90aRa0b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WeAreQC",
+						"indices": [
+							203,
+							211
+						]
+					},
+					{
+						"text": "EngineofEconomicMobility",
+						"indices": [
+							212,
+							237
+						]
+					},
+					{
+						"text": "publichighereducation",
+						"indices": [
+							238,
+							260
+						]
+					},
+					{
+						"text": "socialmobility",
+						"indices": [
+							261,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BrookingsInst",
+						"name": "BrookingsInst",
+						"id": 151106990,
+						"id_str": "151106990",
+						"indices": [
+							4,
+							18
+						]
+					},
+					{
+						"screen_name": "CUNY",
+						"name": "The City University of New York",
+						"id": 122059354,
+						"id_str": "122059354",
+						"indices": [
+							197,
+							202
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/n39GZeDxJP",
+						"expanded_url": "http://ow.ly/PTEQ50AaKjK",
+						"display_url": "ow.ly/PTEQ50AaKjK",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1273605162112823300,
+						"id_str": "1273605162112823296",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EazBJafWsAApHhD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EazBJafWsAApHhD.jpg",
+						"url": "https://t.co/PRw90aRa0b",
+						"display_url": "pic.twitter.com/PRw90aRa0b",
+						"expanded_url": "https://twitter.com/QC_News/status/1273605163236954115/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 378,
+								"h": 254,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 378,
+								"h": 254,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 378,
+								"h": 254,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1273605162112823300,
+						"id_str": "1273605162112823296",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EazBJafWsAApHhD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EazBJafWsAApHhD.jpg",
+						"url": "https://t.co/PRw90aRa0b",
+						"display_url": "pic.twitter.com/PRw90aRa0b",
+						"expanded_url": "https://twitter.com/QC_News/status/1273605163236954115/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 378,
+								"h": 254,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 378,
+								"h": 254,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 378,
+								"h": 254,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 176878617,
+				"id_str": "176878617",
+				"name": "Queens College|CUNY",
+				"screen_name": "QC_News",
+				"location": "65-30 Kissena Boulevard | Queens NY",
+				"description": "Highlighting faculty, student, and alumni news, and college initiatives, from the office of Media & College Relations.",
+				"url": "https://t.co/C3XuEBb9YR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C3XuEBb9YR",
+								"expanded_url": "http://www.qc.cuny.edu",
+								"display_url": "qc.cuny.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10844,
+				"friends_count": 2396,
+				"listed_count": 194,
+				"created_at": "Tue Aug 10 17:46:19 +0000 2010",
+				"favourites_count": 7397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7237,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876815974435094528/y4tHsy_q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876815974435094528/y4tHsy_q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/176878617/1586880859",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And yet @NYGovCuomo is threatening  to *gut* QC, where 73% of students are BIPOC New Yorkers https://t.co/WWd57UQu7F https://t.co/vuvZbQoaaL"
+	},
+	{
+		"created_at": "Thu Jun 18 21:01:47 +0000 2020",
+		"id": 1273722602184474600,
+		"id_str": "1273722602184474628",
+		"full_text": "@AmandaAnnKlein mostly here when we moved in, so I take little to no credit",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "Amanda “I yield my time, fuck you” Klein",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1273711474578534400,
+		"in_reply_to_status_id_str": "1273711474578534422",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AmandaAnnKlein mostly here when we moved in, so I take little to no credit"
+	},
+	{
+		"created_at": "Thu Jun 18 20:01:23 +0000 2020",
+		"id": 1273707403310239700,
+		"id_str": "1273707403310239745",
+		"full_text": "my wife says I think I'm right all the time and better than other people and I swear it's really not true, except then I go on Twitter and...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "my wife says I think I'm right all the time and better than other people and I swear it's really not true, except then I go on Twitter and..."
+	},
+	{
+		"created_at": "Thu Jun 18 19:10:22 +0000 2020",
+		"id": 1273694564470186000,
+		"id_str": "1273694564470185985",
+		"full_text": "some real cop shit happening on the neighborhood email https://t.co/BAQflrn9Of",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273694510871126000,
+					"id_str": "1273694510871126018",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea0SaMjWoAIARxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea0SaMjWoAIARxw.jpg",
+					"url": "https://t.co/BAQflrn9Of",
+					"display_url": "pic.twitter.com/BAQflrn9Of",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273694564470185985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273694510871126000,
+					"id_str": "1273694510871126018",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea0SaMjWoAIARxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea0SaMjWoAIARxw.jpg",
+					"url": "https://t.co/BAQflrn9Of",
+					"display_url": "pic.twitter.com/BAQflrn9Of",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273694564470185985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some real cop shit happening on the neighborhood email https://t.co/BAQflrn9Of"
+	},
+	{
+		"created_at": "Thu Jun 18 18:51:55 +0000 2020",
+		"id": 1273689918129287200,
+		"id_str": "1273689918129287178",
+		"full_text": "@AmandaAnnKlein i need to learn how to actually prune them this year. and may move the blue one. https://t.co/U89PCSbqA9",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "Amanda “I yield my time, fuck you” Klein",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273689127280676900,
+					"id_str": "1273689127280676864",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea0Ng1HXkAA61hm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea0Ng1HXkAA61hm.jpg",
+					"url": "https://t.co/U89PCSbqA9",
+					"display_url": "pic.twitter.com/U89PCSbqA9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273689918129287178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273689127280676900,
+					"id_str": "1273689127280676864",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea0Ng1HXkAA61hm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea0Ng1HXkAA61hm.jpg",
+					"url": "https://t.co/U89PCSbqA9",
+					"display_url": "pic.twitter.com/U89PCSbqA9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273689918129287178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273689127284805600,
+					"id_str": "1273689127284805632",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea0Ng1IWkAALvKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea0Ng1IWkAALvKW.jpg",
+					"url": "https://t.co/U89PCSbqA9",
+					"display_url": "pic.twitter.com/U89PCSbqA9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273689918129287178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273687993228898300,
+		"in_reply_to_status_id_str": "1273687993228898307",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AmandaAnnKlein i need to learn how to actually prune them this year. and may move the blue one. https://t.co/U89PCSbqA9"
+	},
+	{
+		"created_at": "Thu Jun 18 18:00:10 +0000 2020",
+		"id": 1273667927749820400,
+		"id_str": "1273676896526643201",
+		"full_text": "YES!!!!! We need a #PeoplesBudgetNYC with funding for the People's University, @CUNY.  We have no confidence in this Mayor to accomplish anything, he needs to get out of the way. #CuomoFundCUNYNow #FundCUNYNotCops #ResignDeBlasio #DefundNYPD \n\nThank you @NYCCouncil38 https://t.co/6QSWynj66E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PeoplesBudgetNYC",
+					"indices": [
+						19,
+						36
+					]
+				},
+				{
+					"text": "CuomoFundCUNYNow",
+					"indices": [
+						179,
+						196
+					]
+				},
+				{
+					"text": "FundCUNYNotCops",
+					"indices": [
+						197,
+						213
+					]
+				},
+				{
+					"text": "ResignDeBlasio",
+					"indices": [
+						214,
+						229
+					]
+				},
+				{
+					"text": "DefundNYPD",
+					"indices": [
+						230,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUNY",
+					"name": "The City University of New York",
+					"id": 122059354,
+					"id_str": "122059354",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"screen_name": "NYCCouncil38",
+					"name": "Carlos Menchaca 萬齊家",
+					"id": 2706990050,
+					"id_str": "2706990050",
+					"indices": [
+						254,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6QSWynj66E",
+					"expanded_url": "https://twitter.com/NYCCouncil38/status/1273656690823528448",
+					"display_url": "twitter.com/NYCCouncil38/s…",
+					"indices": [
+						268,
+						291
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 376806992,
+			"id_str": "376806992",
+			"name": "Amy Herzog #FundCUNYnotCOPS",
+			"screen_name": "amy_herzog",
+			"location": "Queens, NY",
+			"description": "I rant about NYC politics and surveillance tech and academia and I don't write plays. #BlackLivesMatter #CancelRent #DefundNYPD #CancelCOVIDnotCUNY",
+			"url": "https://t.co/o3qc1tUYNd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o3qc1tUYNd",
+							"expanded_url": "https://amyherzog.org",
+							"display_url": "amyherzog.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 632,
+			"friends_count": 1989,
+			"listed_count": 8,
+			"created_at": "Tue Sep 20 14:41:03 +0000 2011",
+			"favourites_count": 12928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/799732926854418432/h5lnDQ2h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/799732926854418432/h5lnDQ2h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/376806992/1541648696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273656690823528400,
+		"quoted_status_id_str": "1273656690823528448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6QSWynj66E",
+			"expanded": "https://twitter.com/NYCCouncil38/status/1273656690823528448",
+			"display": "twitter.com/NYCCouncil38/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 16:39:53 +0000 2020",
+			"id": 1273656690823528400,
+			"id_str": "1273656690823528448",
+			"full_text": "Today I am introducing a resolution calling on @NYCCouncil to express a loss of confidence in the Mayor and remove him from office\n\nResolution⬇️\nhttps://t.co/8AGCWiBuDn\n\nOp-Ed⬇️\nhttps://t.co/sVxYVFbvUM\n\nVideo Transcript⬇️\nhttps://t.co/2Emi6izXAq\n\nhttps://t.co/P3O0VRg6uW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYCCouncil",
+						"name": "NYC Council",
+						"id": 18906097,
+						"id_str": "18906097",
+						"indices": [
+							47,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8AGCWiBuDn",
+						"expanded_url": "https://bit.ly/ResoRemove",
+						"display_url": "bit.ly/ResoRemove",
+						"indices": [
+							145,
+							168
+						]
+					},
+					{
+						"url": "https://t.co/sVxYVFbvUM",
+						"expanded_url": "https://bit.ly/ResoOped",
+						"display_url": "bit.ly/ResoOped",
+						"indices": [
+							178,
+							201
+						]
+					},
+					{
+						"url": "https://t.co/2Emi6izXAq",
+						"expanded_url": "https://bit.ly/ResoVideoWords",
+						"display_url": "bit.ly/ResoVideoWords",
+						"indices": [
+							222,
+							245
+						]
+					},
+					{
+						"url": "https://t.co/P3O0VRg6uW",
+						"expanded_url": "https://vimeo.com/430416630?ref=tw-share",
+						"display_url": "vimeo.com/430416630?ref=…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2706990050,
+				"id_str": "2706990050",
+				"name": "Carlos Menchaca 萬齊家",
+				"screen_name": "NYCCouncil38",
+				"location": "Brooklyn, NY",
+				"description": "NYC Council Member Carlos Menchaca - District 38 representing Sunset Park, Red Hook, and portions of Greenwood Heights, Borough Park, and Windsor Terrance",
+				"url": "https://t.co/NO0Yh8jzs0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NO0Yh8jzs0",
+								"expanded_url": "http://council.nyc.gov/district-38/",
+								"display_url": "council.nyc.gov/district-38/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2978,
+				"friends_count": 628,
+				"listed_count": 75,
+				"created_at": "Mon Aug 04 17:07:02 +0000 2014",
+				"favourites_count": 3201,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1205211348155740160/pQE4a81H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205211348155740160/pQE4a81H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2706990050/1486690172",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 922,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YES!!!!! We need a #PeoplesBudgetNYC with funding for the People's University, @CUNY.  We have no confidence in this Mayor to accomplish anything, he needs to get out of the way. #CuomoFundCUNYNow #FundCUNYNotCops #ResignDeBlasio #DefundNYPD \n\nThank you @NYCCouncil38 https://t.co/6QSWynj66E"
+	},
+	{
+		"created_at": "Thu Jun 18 15:42:22 +0000 2020",
+		"id": 1273642216724951000,
+		"id_str": "1273642216724951044",
+		"full_text": "yo @THEKIDMERO can you get @NYGovCuomo to actually fund CUNY this time around? ain't gonna be much of a future if we keep slashing budgets, losing faculty, not maintaining buildings... https://t.co/tTwdQM0mfT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "THEKIDMERO",
+					"name": "THE KID MERO 🇩🇴",
+					"id": 31458109,
+					"id_str": "31458109",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "NYGovCuomo",
+					"name": "Andrew Cuomo",
+					"id": 232268199,
+					"id_str": "232268199",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tTwdQM0mfT",
+					"expanded_url": "https://twitter.com/CUNY/status/1273639105130311680",
+					"display_url": "twitter.com/CUNY/status/12…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273639105130311700,
+		"quoted_status_id_str": "1273639105130311680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tTwdQM0mfT",
+			"expanded": "https://twitter.com/CUNY/status/1273639105130311680",
+			"display": "twitter.com/CUNY/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 15:30:00 +0000 2020",
+			"id": 1273639105130311700,
+			"id_str": "1273639105130311680",
+			"full_text": "\"CUNY has been a big part of my life! Y'all are the future!\" \n\n@THEKIDMERO, a proud alumnus of @BCCcuny and @Hunter_College, brings our newest grads into the fold. His mom even went to @LehmanCollege!\n\nFor more: https://t.co/4QoTgYLxGA\n#CUNYStrong #CUNY2020 https://t.co/5ioTgJ2Rwf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CUNYStrong",
+						"indices": [
+							236,
+							247
+						]
+					},
+					{
+						"text": "CUNY2020",
+						"indices": [
+							248,
+							257
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "THEKIDMERO",
+						"name": "THE KID MERO 🇩🇴",
+						"id": 31458109,
+						"id_str": "31458109",
+						"indices": [
+							63,
+							74
+						]
+					},
+					{
+						"screen_name": "BCCcuny",
+						"name": "Bronx Comm. College",
+						"id": 1599333703,
+						"id_str": "1599333703",
+						"indices": [
+							95,
+							103
+						]
+					},
+					{
+						"screen_name": "Hunter_College",
+						"name": "Hunter College",
+						"id": 350880390,
+						"id_str": "350880390",
+						"indices": [
+							108,
+							123
+						]
+					},
+					{
+						"screen_name": "LehmanCollege",
+						"name": "Lehman College",
+						"id": 114863307,
+						"id_str": "114863307",
+						"indices": [
+							185,
+							199
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4QoTgYLxGA",
+						"expanded_url": "http://cuny.edu/classof2020",
+						"display_url": "cuny.edu/classof2020",
+						"indices": [
+							212,
+							235
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1272886603053179000,
+						"id_str": "1272886603053178881",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1272886603053178881/img/CHAiNxjfW-27wcjN.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1272886603053178881/img/CHAiNxjfW-27wcjN.jpg",
+						"url": "https://t.co/5ioTgJ2Rwf",
+						"display_url": "pic.twitter.com/5ioTgJ2Rwf",
+						"expanded_url": "https://twitter.com/CUNY/status/1273639105130311680/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272886603053179000,
+						"id_str": "1272886603053178881",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1272886603053178881/img/CHAiNxjfW-27wcjN.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1272886603053178881/img/CHAiNxjfW-27wcjN.jpg",
+						"url": "https://t.co/5ioTgJ2Rwf",
+						"display_url": "pic.twitter.com/5ioTgJ2Rwf",
+						"expanded_url": "https://twitter.com/CUNY/status/1273639105130311680/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 25433,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1272886603053178881/vid/480x480/r-aCFW41XIfQlp4o.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1272886603053178881/vid/720x720/dcAuOS9mRCKyeULY.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1272886603053178881/vid/320x320/XpSTs090rXB5iTfn.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1272886603053178881/pl/MsuGx8pYBKvAhB4W.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Class of 2020: A Message from The Kid Mero",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.cuny.edu/classof2020/"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122059354,
+				"id_str": "122059354",
+				"name": "The City University of New York",
+				"screen_name": "CUNY",
+				"location": "New York, NY",
+				"description": "The nation’s largest urban university, serving over 500,000 students on 25 NYC campuses. You can also follow Chancellor Félix V. Matos Rodríguez @ChancellorCUNY",
+				"url": "https://t.co/WeesEfX3UA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WeesEfX3UA",
+								"expanded_url": "http://cuny.edu",
+								"display_url": "cuny.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31675,
+				"friends_count": 730,
+				"listed_count": 340,
+				"created_at": "Thu Mar 11 13:15:34 +0000 2010",
+				"favourites_count": 1580,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16251,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273275918795059200/chCdxGNu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273275918795059200/chCdxGNu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122059354/1579895760",
+				"profile_link_color": "005DAA",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "353A3D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yo @THEKIDMERO can you get @NYGovCuomo to actually fund CUNY this time around? ain't gonna be much of a future if we keep slashing budgets, losing faculty, not maintaining buildings... https://t.co/tTwdQM0mfT"
+	},
+	{
+		"created_at": "Thu Jun 18 15:25:49 +0000 2020",
+		"id": 1273638054608220200,
+		"id_str": "1273638054608220160",
+		"full_text": "@AmandaAnnKlein i didn't get the blue last year! I hear it's something to do with acidity (altho these aren't right next to each other 🤔)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "Amanda “I yield my time, fuck you” Klein",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273637313487102000,
+		"in_reply_to_status_id_str": "1273637313487101952",
+		"in_reply_to_user_id": 24113960,
+		"in_reply_to_user_id_str": "24113960",
+		"in_reply_to_screen_name": "AmandaAnnKlein",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AmandaAnnKlein i didn't get the blue last year! I hear it's something to do with acidity (altho these aren't right next to each other 🤔)"
+	},
+	{
+		"created_at": "Thu Jun 18 15:21:28 +0000 2020",
+		"id": 1273636956086435800,
+		"id_str": "1273636956086435841",
+		"full_text": "https://t.co/FpIXX7MCxz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273636824150421500,
+					"id_str": "1273636824150421506",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eazd8YxXsAI4iLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eazd8YxXsAI4iLK.jpg",
+					"url": "https://t.co/FpIXX7MCxz",
+					"display_url": "pic.twitter.com/FpIXX7MCxz",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273636956086435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273636824150421500,
+					"id_str": "1273636824150421506",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eazd8YxXsAI4iLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eazd8YxXsAI4iLK.jpg",
+					"url": "https://t.co/FpIXX7MCxz",
+					"display_url": "pic.twitter.com/FpIXX7MCxz",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273636956086435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273636824137728000,
+					"id_str": "1273636824137728000",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eazd8YuWAAAAxOn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eazd8YuWAAAAxOn.jpg",
+					"url": "https://t.co/FpIXX7MCxz",
+					"display_url": "pic.twitter.com/FpIXX7MCxz",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273636956086435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273636824129450000,
+					"id_str": "1273636824129449989",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eazd8YsXsAUJa-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eazd8YsXsAUJa-B.jpg",
+					"url": "https://t.co/FpIXX7MCxz",
+					"display_url": "pic.twitter.com/FpIXX7MCxz",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1273636956086435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/FpIXX7MCxz"
+	},
+	{
+		"created_at": "Thu Jun 18 15:09:37 +0000 2020",
+		"id": 1273612512689348600,
+		"id_str": "1273633976276717569",
+		"full_text": "“The message is simple: don’t fail New York in this decisive historical moment, @CUNY.\" #CutCovidnotCUNY #InvestInCUNY #FundCUNYNow #MakeBillionairesPay #CUNYSummerOfStruggle https://t.co/E4OaAaPwMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CutCovidnotCUNY",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "InvestInCUNY",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"text": "FundCUNYNow",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "MakeBillionairesPay",
+					"indices": [
+						132,
+						152
+					]
+				},
+				{
+					"text": "CUNYSummerOfStruggle",
+					"indices": [
+						153,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUNY",
+					"name": "The City University of New York",
+					"id": 122059354,
+					"id_str": "122059354",
+					"indices": [
+						80,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E4OaAaPwMS",
+					"expanded_url": "https://news.yahoo.com/cuny-union-demands-no-cuts-212956238.html",
+					"display_url": "news.yahoo.com/cuny-union-dem…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 269454734,
+			"id_str": "269454734",
+			"name": "PSC_CUNY",
+			"screen_name": "PSC_CUNY",
+			"location": "New York, NY",
+			"description": "The union that represents more than 30,000 faculty and staff at the City University of New York (CUNY). #1U",
+			"url": "http://t.co/vUjwkNsUPf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vUjwkNsUPf",
+							"expanded_url": "http://psc-cuny.org",
+							"display_url": "psc-cuny.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5838,
+			"friends_count": 1459,
+			"listed_count": 132,
+			"created_at": "Sun Mar 20 20:29:00 +0000 2011",
+			"favourites_count": 4536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/943248543396986880/UXYU0OWR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/943248543396986880/UXYU0OWR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/269454734/1528909572",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The message is simple: don’t fail New York in this decisive historical moment, @CUNY.\" #CutCovidnotCUNY #InvestInCUNY #FundCUNYNow #MakeBillionairesPay #CUNYSummerOfStruggle https://t.co/E4OaAaPwMS"
+	},
+	{
+		"created_at": "Thu Jun 18 14:52:32 +0000 2020",
+		"id": 1273629676649484300,
+		"id_str": "1273629676649484296",
+		"full_text": "@melisser3 😂🤣",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa!",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273629370012360700,
+		"in_reply_to_status_id_str": "1273629370012360705",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@melisser3 😂🤣"
+	},
+	{
+		"created_at": "Thu Jun 18 14:43:00 +0000 2020",
+		"id": 1273627276446490600,
+		"id_str": "1273627276446490624",
+		"full_text": "@greeney28 hell yeah we are",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeney28",
+					"name": "Karen Petruska",
+					"id": 75930088,
+					"id_str": "75930088",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273625415832105000,
+		"in_reply_to_status_id_str": "1273625415832104961",
+		"in_reply_to_user_id": 75930088,
+		"in_reply_to_user_id_str": "75930088",
+		"in_reply_to_screen_name": "greeney28",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@greeney28 hell yeah we are"
+	},
+	{
+		"created_at": "Thu Jun 18 14:08:54 +0000 2020",
+		"id": 1273618697366704000,
+		"id_str": "1273618697366704128",
+		"full_text": "@inessentials not 100% sure my kids would be willing to consistently sit with ME, but sounds interesting",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inessentials",
+					"name": "inessentials? in this economy?",
+					"id": 66706593,
+					"id_str": "66706593",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273609932106010600,
+		"in_reply_to_status_id_str": "1273609932106010625",
+		"in_reply_to_user_id": 66706593,
+		"in_reply_to_user_id_str": "66706593",
+		"in_reply_to_screen_name": "inessentials",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@inessentials not 100% sure my kids would be willing to consistently sit with ME, but sounds interesting"
+	},
+	{
+		"created_at": "Thu Jun 18 13:32:59 +0000 2020",
+		"id": 1273609656611541000,
+		"id_str": "1273609656611540998",
+		"full_text": "@inessentials what do you mean \"basic work\"?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inessentials",
+					"name": "inessentials? in this economy?",
+					"id": 66706593,
+					"id_str": "66706593",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273292906556723200,
+		"in_reply_to_status_id_str": "1273292906556723204",
+		"in_reply_to_user_id": 66706593,
+		"in_reply_to_user_id_str": "66706593",
+		"in_reply_to_screen_name": "inessentials",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, defund NYPD | fund CUNY",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "DH + media studies, 80s/90s, Acker, horror • English, Queens College/CUNY • https://t.co/vKRCFmkjP0… • https://t.co/nMrHfp2VtD",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRCFmkjP0",
+							"expanded_url": "http://palgrave.com/us/book/978113",
+							"display_url": "palgrave.com/us/book/978113",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/nMrHfp2VtD",
+							"expanded_url": "http://english.qc.cuny.edu/klferguson/",
+							"display_url": "english.qc.cuny.edu/klferguson/",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 514,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 22167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271555868253917188/OisLca7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@inessentials what do you mean \"basic work\"?"
+	},
+	{
 		"created_at": "Thu Jun 18 04:36:15 +0000 2020",
 		"id": 1272998642014707700,
 		"id_str": "1273474584583553025",
@@ -4595,7 +9795,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "Mark Sample",
 			"screen_name": "samplereality",
 			"location": "",
-			"description": "👨‍🏫 👨‍👩‍👦‍👦 💻 🤖 🐳\n\ndigital studies prof @davidsoncollege",
+			"description": "👨🏫 👨👩👦👦 💻 🤖 🐳\n\ndigital studies prof @davidsoncollege",
 			"url": "https://t.co/oRy4nnx6c1",
 			"entities": {
 				"url": {
