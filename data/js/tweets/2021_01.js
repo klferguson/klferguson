@@ -1,6 +1,1633 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 04:01:38 +0000 2021",
+		"id": 1352466425399668700,
+		"id_str": "1352466425399668736",
+		"full_text": "🖇️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, got the dreamer's disease",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1255,
+			"friends_count": 539,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 24211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "🖇️"
+	},
+	{
+		"created_at": "Fri Jan 22 00:00:16 +0000 2021",
+		"id": 1352403436986376200,
+		"id_str": "1352405685842153486",
+		"full_text": "Public Humanities for that ass! https://t.co/nE3q3kO0Td",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nE3q3kO0Td",
+					"expanded_url": "https://twitter.com/a_greenberg/status/1351975973084913664",
+					"display_url": "twitter.com/a_greenberg/st…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14118112,
+			"id_str": "14118112",
+			"name": "thot leedurr",
+			"screen_name": "DocDre",
+			"location": "Atlanta, GA",
+			"description": "Ignore my late night posts. I study BlackTwitter: https://t.co/AlJdCxHkNI digital methods: https://t.co/HEUWUqJtg3 & Afrofutures: https://t.co/XHaN3d4qN3",
+			"url": "https://t.co/WuJPNAEvV1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WuJPNAEvV1",
+							"expanded_url": "https://andrebrock.academia.edu",
+							"display_url": "andrebrock.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AlJdCxHkNI",
+							"expanded_url": "http://goo.gl/Wc98bf",
+							"display_url": "goo.gl/Wc98bf",
+							"indices": [
+								50,
+								73
+							]
+						},
+						{
+							"url": "https://t.co/HEUWUqJtg3",
+							"expanded_url": "http://goo.gl/0njUPf",
+							"display_url": "goo.gl/0njUPf",
+							"indices": [
+								91,
+								114
+							]
+						},
+						{
+							"url": "https://t.co/XHaN3d4qN3",
+							"expanded_url": "https://bit.ly/2EQZbHL",
+							"display_url": "bit.ly/2EQZbHL",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12234,
+			"friends_count": 4806,
+			"listed_count": 228,
+			"created_at": "Mon Mar 10 22:23:28 +0000 2008",
+			"favourites_count": 197921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306316492494049280/Hrtn5SLh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306316492494049280/Hrtn5SLh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14118112/1608060710",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351975973084913700,
+		"quoted_status_id_str": "1351975973084913664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nE3q3kO0Td",
+			"expanded": "https://twitter.com/a_greenberg/status/1351975973084913664",
+			"display": "twitter.com/a_greenberg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 19:32:45 +0000 2021",
+			"id": 1351975973084913700,
+			"id_str": "1351975973084913664",
+			"full_text": "The website Faces of the Riot has tried to extract every face from videos of the Capitol mob posted to Parler: About 6,000 unique faces after de-duping. The site's creator wants it to help people scan for faces they recognize and report rioters to the FBI. https://t.co/U8BzuDuZRe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U8BzuDuZRe",
+						"expanded_url": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/",
+						"display_url": "wired.com/story/faces-of…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4255361,
+				"id_str": "4255361",
+				"name": "Andy Greenberg",
+				"screen_name": "a_greenberg",
+				"location": "New York",
+				"description": "Writer for WIRED. Author of SANDWORM: A new era of cyberwar and the hunt for the Kremlin's most dangerous hackers. agreenberg@wired.com Signal: +1 347-560-4260",
+				"url": "https://t.co/0NXI53idR9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0NXI53idR9",
+								"expanded_url": "https://www.wired.com/author/andy-greenberg/",
+								"display_url": "wired.com/author/andy-gr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58039,
+				"friends_count": 965,
+				"listed_count": 2297,
+				"created_at": "Wed Apr 11 22:41:36 +0000 2007",
+				"favourites_count": 4857,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349131575846449153/LlxkuVzp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349131575846449153/LlxkuVzp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4255361/1508256979",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 172,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public Humanities for that ass! https://t.co/nE3q3kO0Td"
+	},
+	{
+		"created_at": "Thu Jan 21 21:08:48 +0000 2021",
+		"id": 1352362534490271700,
+		"id_str": "1352362534490271744",
+		"full_text": "so many good things in our new issue of @inTransitionCMS, but if you're a Tati fan, you have to see Eric Faden on PLAYTIME.\n\nsome literal deformative criticism at work.\n\nhttps://t.co/ZrHTh8wKCf https://t.co/OrZh1Of0kj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inTransitionCMS",
+					"name": "inTransition",
+					"id": 2413071554,
+					"id_str": "2413071554",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZrHTh8wKCf",
+					"expanded_url": "http://mediacommons.org/intransition/amuse-%C5%93il",
+					"display_url": "mediacommons.org/intransition/a…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352362053722374100,
+					"id_str": "1352362053722374145",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EsSOH2vXAAEA3Re.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsSOH2vXAAEA3Re.jpg",
+					"url": "https://t.co/OrZh1Of0kj",
+					"display_url": "pic.twitter.com/OrZh1Of0kj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1352362534490271744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2004,
+							"h": 1090,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352362053722374100,
+					"id_str": "1352362053722374145",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EsSOH2vXAAEA3Re.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsSOH2vXAAEA3Re.jpg",
+					"url": "https://t.co/OrZh1Of0kj",
+					"display_url": "pic.twitter.com/OrZh1Of0kj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1352362534490271744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2004,
+							"h": 1090,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, got the dreamer's disease",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1255,
+			"friends_count": 539,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 24211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "so many good things in our new issue of @inTransitionCMS, but if you're a Tati fan, you have to see Eric Faden on PLAYTIME.\n\nsome literal deformative criticism at work.\n\nhttps://t.co/ZrHTh8wKCf https://t.co/OrZh1Of0kj"
+	},
+	{
+		"created_at": "Thu Jan 21 20:55:37 +0000 2021",
+		"id": 1352022945493885000,
+		"id_str": "1352359215789203463",
+		"full_text": "Since nothing else is happening today, check out our brand new issue! Seven new videographic pieces, on topics from transmedia Star Wars to stylistic excess on TV to Linklater’s Before series. Spread the words!\nhttps://t.co/KQ1jxZ67ke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQ1jxZ67ke",
+					"expanded_url": "http://mediacommons.org/intransition/journal-videographic-film-moving-image-studies-73-2020",
+					"display_url": "mediacommons.org/intransition/j…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2413071554,
+			"id_str": "2413071554",
+			"name": "inTransition",
+			"screen_name": "inTransitionCMS",
+			"location": "",
+			"description": "A Journal of Videographic Criticism - a project of @mediacommons and @JCMSjournal",
+			"url": "https://t.co/KfCnfY1gqT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfCnfY1gqT",
+							"expanded_url": "http://mediacommons.org/intransition/",
+							"display_url": "mediacommons.org/intransition/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1117,
+			"friends_count": 13,
+			"listed_count": 26,
+			"created_at": "Wed Mar 26 19:59:17 +0000 2014",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/627175151486918656/JYCjT5TN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/627175151486918656/JYCjT5TN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2413071554/1438365583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since nothing else is happening today, check out our brand new issue! Seven new videographic pieces, on topics from transmedia Star Wars to stylistic excess on TV to Linklater’s Before series. Spread the words!\nhttps://t.co/KQ1jxZ67ke"
+	},
+	{
+		"created_at": "Thu Jan 21 20:31:20 +0000 2021",
+		"id": 1352350465527218200,
+		"id_str": "1352353103459340289",
+		"full_text": "I wanna commemorate one of the best videos on the internet, which is the time Bon Jovi was a guest at a wedding wanting to be left alone and the wedding singer ambushed him with Livin' On a Prayer and forced him to sing https://t.co/HBIqz1Ezyj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352349785567621000,
+					"id_str": "1352349785567621120",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352349785567621120/pu/img/byVREWc3HOysRxaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352349785567621120/pu/img/byVREWc3HOysRxaz.jpg",
+					"url": "https://t.co/HBIqz1Ezyj",
+					"display_url": "pic.twitter.com/HBIqz1Ezyj",
+					"expanded_url": "https://twitter.com/LingoUnbound/status/1352350465527218176/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352349785567621000,
+					"id_str": "1352349785567621120",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352349785567621120/pu/img/byVREWc3HOysRxaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352349785567621120/pu/img/byVREWc3HOysRxaz.jpg",
+					"url": "https://t.co/HBIqz1Ezyj",
+					"display_url": "pic.twitter.com/HBIqz1Ezyj",
+					"expanded_url": "https://twitter.com/LingoUnbound/status/1352350465527218176/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 137383,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352349785567621120/pu/vid/1280x720/qldivqkO9hz7TJjz.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352349785567621120/pu/vid/640x360/XHzrYTbHHqjPUnQL.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352349785567621120/pu/vid/480x270/8EDAc4IieANP9m58.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1352349785567621120/pu/pl/LbQXAEcvOUKEnFEe.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18926160,
+			"id_str": "18926160",
+			"name": "machine gun kelly reichardt",
+			"screen_name": "LingoUnbound",
+			"location": "Los Angeles ",
+			"description": "If you don't have a point to make, don't sweat it. You'll make a sharp one, being so kind.",
+			"url": "https://t.co/wnmHxJBNlP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wnmHxJBNlP",
+							"expanded_url": "https://boxd.it/kRZ",
+							"display_url": "boxd.it/kRZ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1626,
+			"friends_count": 4088,
+			"listed_count": 16,
+			"created_at": "Tue Jan 13 03:09:01 +0000 2009",
+			"favourites_count": 121879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350159673723289600/WLobNUGA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350159673723289600/WLobNUGA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18926160/1609625381",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wanna commemorate one of the best videos on the internet, which is the time Bon Jovi was a guest at a wedding wanting to be left alone and the wedding singer ambushed him with Livin' On a Prayer and forced him to sing https://t.co/HBIqz1Ezyj"
+	},
+	{
+		"created_at": "Thu Jan 21 17:02:03 +0000 2021",
+		"id": 1352298861482524700,
+		"id_str": "1352300436271865867",
+		"full_text": "If Tintin was a real writer https://t.co/TXkrq8mZsV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352298859167301600,
+					"id_str": "1352298859167301638",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EsRUpcrVQAYAd60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsRUpcrVQAYAd60.jpg",
+					"url": "https://t.co/TXkrq8mZsV",
+					"display_url": "pic.twitter.com/TXkrq8mZsV",
+					"expanded_url": "https://twitter.com/Joshstrangehill/status/1352298861482524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 564,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352298859167301600,
+					"id_str": "1352298859167301638",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EsRUpcrVQAYAd60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsRUpcrVQAYAd60.jpg",
+					"url": "https://t.co/TXkrq8mZsV",
+					"display_url": "pic.twitter.com/TXkrq8mZsV",
+					"expanded_url": "https://twitter.com/Joshstrangehill/status/1352298861482524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 564,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1611098694,
+			"id_str": "1611098694",
+			"name": "Josh Weinstein",
+			"screen_name": "Joshstrangehill",
+			"location": "",
+			"description": "Simpsons, Futurama, Gravity Falls, Strange Hill High, Mission Hill & now Disenchantment.                                      Major player at the sewing store®️",
+			"url": "https://t.co/8xoFARynmp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8xoFARynmp",
+							"expanded_url": "https://en.wikipedia.org/wiki/Josh_Weinstein",
+							"display_url": "en.wikipedia.org/wiki/Josh_Wein…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44308,
+			"friends_count": 1499,
+			"listed_count": 291,
+			"created_at": "Sun Jul 21 18:40:43 +0000 2013",
+			"favourites_count": 49378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290141452727537664/2g4uMOSC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290141452727537664/2g4uMOSC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1611098694/1555133519",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If Tintin was a real writer https://t.co/TXkrq8mZsV"
+	},
+	{
+		"created_at": "Thu Jan 21 16:49:30 +0000 2021",
+		"id": 1352297277633814500,
+		"id_str": "1352297277633814530",
+		"full_text": "why the hell did i write this syllabus in markdown and also what editor did I use.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, got the dreamer's disease",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1255,
+			"friends_count": 539,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 24211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "why the hell did i write this syllabus in markdown and also what editor did I use."
+	},
+	{
+		"created_at": "Thu Jan 21 14:51:48 +0000 2021",
+		"id": 1352267659837108200,
+		"id_str": "1352267659837108226",
+		"full_text": "@elizabethalsop @inTransitionCMS @crsbecker @jmittell kudos!!!",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizabethalsop",
+					"name": "Elizabeth Alsop",
+					"id": 380135452,
+					"id_str": "380135452",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "inTransitionCMS",
+					"name": "inTransition",
+					"id": 2413071554,
+					"id_str": "2413071554",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"screen_name": "crsbecker",
+					"name": "Chris Becker",
+					"id": 43818696,
+					"id_str": "43818696",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "jmittell",
+					"name": "Jason Mittell",
+					"id": 35295295,
+					"id_str": "35295295",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1352267485828030500,
+		"in_reply_to_status_id_str": "1352267485828030464",
+		"in_reply_to_user_id": 380135452,
+		"in_reply_to_user_id_str": "380135452",
+		"in_reply_to_screen_name": "elizabethalsop",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, got the dreamer's disease",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/DlQKTr96fQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQKTr96fQ",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1255,
+			"friends_count": 539,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 24211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "es",
+		"text": "@elizabethalsop @inTransitionCMS @crsbecker @jmittell kudos!!!"
+	},
+	{
+		"created_at": "Thu Jan 21 14:51:44 +0000 2021",
+		"id": 1352267485828030500,
+		"id_str": "1352267644372705282",
+		"full_text": "Thrilled to have my video essay—on \"excessive\" style in contemporary TV—out in the newest issue of @inTransitionCMS! Grateful to @crsbecker &amp; Jeremy Butler for their constructive and generous reviews, and to @jmittell for his feedback along the way: https://t.co/aPBIMCfbF1 https://t.co/preysPzfOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inTransitionCMS",
+					"name": "inTransition",
+					"id": 2413071554,
+					"id_str": "2413071554",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"screen_name": "crsbecker",
+					"name": "Chris Becker",
+					"id": 43818696,
+					"id_str": "43818696",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"screen_name": "jmittell",
+					"name": "Jason Mittell",
+					"id": 35295295,
+					"id_str": "35295295",
+					"indices": [
+						212,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aPBIMCfbF1",
+					"expanded_url": "http://mediacommons.org/intransition/journal-videographic-film-moving-image-studies-73-2020",
+					"display_url": "mediacommons.org/intransition/j…",
+					"indices": [
+						254,
+						277
+					]
+				},
+				{
+					"url": "https://t.co/preysPzfOM",
+					"expanded_url": "https://twitter.com/inTransitionCMS/status/1352022945493884933",
+					"display_url": "twitter.com/inTransitionCM…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380135452,
+			"id_str": "380135452",
+			"name": "Elizabeth Alsop",
+			"screen_name": "elizabethalsop",
+			"location": "Brooklyn, NY",
+			"description": "Asst Prof of Media & Liberal Studies @CUNYSPS. Writes about film, TV & 20th-century lit. MAKING CONVERSATION IN MODERNIST FICTION (OSUP 2019). Opinions my own.",
+			"url": "https://t.co/9h02p4orEI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9h02p4orEI",
+							"expanded_url": "https://ohiostatepress.org/books/titles/9780814214077.html",
+							"display_url": "ohiostatepress.org/books/titles/9…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1114,
+			"friends_count": 1876,
+			"listed_count": 11,
+			"created_at": "Mon Sep 26 04:00:15 +0000 2011",
+			"favourites_count": 23198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270423144042565637/onSyybaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270423144042565637/onSyybaG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380135452/1591386833",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352022945493885000,
+		"quoted_status_id_str": "1352022945493884933",
+		"quoted_status_permalink": {
+			"url": "https://t.co/preysPzfOM",
+			"expanded": "https://twitter.com/inTransitionCMS/status/1352022945493884933",
+			"display": "twitter.com/inTransitionCM…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 22:39:24 +0000 2021",
+			"id": 1352022945493885000,
+			"id_str": "1352022945493884933",
+			"full_text": "Since nothing else is happening today, check out our brand new issue! Seven new videographic pieces, on topics from transmedia Star Wars to stylistic excess on TV to Linklater’s Before series. Spread the words!\nhttps://t.co/KQ1jxZ67ke",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KQ1jxZ67ke",
+						"expanded_url": "http://mediacommons.org/intransition/journal-videographic-film-moving-image-studies-73-2020",
+						"display_url": "mediacommons.org/intransition/j…",
+						"indices": [
+							211,
+							234
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2413071554,
+				"id_str": "2413071554",
+				"name": "inTransition",
+				"screen_name": "inTransitionCMS",
+				"location": "",
+				"description": "A Journal of Videographic Criticism - a project of @mediacommons and @JCMSjournal",
+				"url": "https://t.co/KfCnfY1gqT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KfCnfY1gqT",
+								"expanded_url": "http://mediacommons.org/intransition/",
+								"display_url": "mediacommons.org/intransition/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1117,
+				"friends_count": 13,
+				"listed_count": 26,
+				"created_at": "Wed Mar 26 19:59:17 +0000 2014",
+				"favourites_count": 49,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 92,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/627175151486918656/JYCjT5TN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/627175151486918656/JYCjT5TN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2413071554/1438365583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thrilled to have my video essay—on \"excessive\" style in contemporary TV—out in the newest issue of @inTransitionCMS! Grateful to @crsbecker &amp; Jeremy Butler for their constructive and generous reviews, and to @jmittell for his feedback along the way: https://t.co/aPBIMCfbF1 https://t.co/preysPzfOM"
+	},
+	{
+		"created_at": "Thu Jan 21 13:47:35 +0000 2021",
+		"id": 1352186636344422400,
+		"id_str": "1352251500337225728",
+		"full_text": "1/4 A new issue of [in]Transition: Journal of Videographic Film &amp; Moving Image Studies has been published (@inTransitionCMS 7.3)!, feat. videos on Indian, Italian, French, Australian &amp; US cinema - fiction &amp; docu - &amp; TV, transmedia play &amp; remix practice. \nhttps://t.co/SHvbjV0sNU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			298
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inTransitionCMS",
+					"name": "inTransition",
+					"id": 2413071554,
+					"id_str": "2413071554",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SHvbjV0sNU",
+					"expanded_url": "http://mediacommons.org/intransition/journal-videographic-film-moving-image-studies-73-2020",
+					"display_url": "mediacommons.org/intransition/j…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63108261,
+			"id_str": "63108261",
+			"name": "Catherine Grant",
+			"screen_name": "filmstudiesff",
+			"location": "UK/the Cloud",
+			"description": "Sharing links, since 2008, to #OpenAccess film/media scholarship and online resources, and news/free events of note; aka @audiovisualcy/@cageyrant; she/her.",
+			"url": "https://t.co/GddQqcKaMc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GddQqcKaMc",
+							"expanded_url": "https://filmstudiesforfree.blogspot.com",
+							"display_url": "filmstudiesforfree.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15104,
+			"friends_count": 8594,
+			"listed_count": 643,
+			"created_at": "Wed Aug 05 11:41:56 +0000 2009",
+			"favourites_count": 6433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929049043887706113/5_VXqoFK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929049043887706113/5_VXqoFK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63108261/1510336929",
+			"profile_link_color": "333399",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/4 A new issue of [in]Transition: Journal of Videographic Film &amp; Moving Image Studies has been published (@inTransitionCMS 7.3)!, feat. videos on Indian, Italian, French, Australian &amp; US cinema - fiction &amp; docu - &amp; TV, transmedia play &amp; remix practice. \nhttps://t.co/SHvbjV0sNU"
+	},
+	{
 		"created_at": "Thu Jan 21 05:10:47 +0000 2021",
 		"id": 1352121443073495000,
 		"id_str": "1352121443073495044",
