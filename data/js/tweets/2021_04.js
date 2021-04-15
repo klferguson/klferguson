@@ -1,6 +1,3799 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 15 02:22:49 +0000 2021",
+		"id": 1382519753558868000,
+		"id_str": "1382519753558867968",
+		"full_text": "soooooooooooooooo CUNY decides today that it is finally \"ready to proceed with the contractual 2 percent raise for members of the unions that represent most CUNY employees, retroactive to their original effective dates in 2020.\" yay?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "soooooooooooooooo CUNY decides today that it is finally \"ready to proceed with the contractual 2 percent raise for members of the unions that represent most CUNY employees, retroactive to their original effective dates in 2020.\" yay?"
+	},
+	{
+		"created_at": "Wed Apr 14 22:19:33 +0000 2021",
+		"id": 1382458533430579200,
+		"id_str": "1382458533430579202",
+		"full_text": "currently: https://t.co/LGzzdIBy8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382457830947627000,
+					"id_str": "1382457830947627017",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey96EpqXIAkGe6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey96EpqXIAkGe6x.jpg",
+					"url": "https://t.co/LGzzdIBy8c",
+					"display_url": "pic.twitter.com/LGzzdIBy8c",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382458533430579202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2034,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382457830947627000,
+					"id_str": "1382457830947627017",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey96EpqXIAkGe6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey96EpqXIAkGe6x.jpg",
+					"url": "https://t.co/LGzzdIBy8c",
+					"display_url": "pic.twitter.com/LGzzdIBy8c",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382458533430579202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2034,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "currently: https://t.co/LGzzdIBy8c"
+	},
+	{
+		"created_at": "Wed Apr 14 21:18:54 +0000 2021",
+		"id": 1382443269288759300,
+		"id_str": "1382443269288759304",
+		"full_text": "@kristenwarner SOUNDS LIKE IT! you need an enforcer...",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of 15 minute presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382442919165096000,
+		"in_reply_to_status_id_str": "1382442919165095940",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristenwarner SOUNDS LIKE IT! you need an enforcer..."
+	},
+	{
+		"created_at": "Wed Apr 14 21:05:42 +0000 2021",
+		"id": 1382439945671954400,
+		"id_str": "1382439945671954437",
+		"full_text": "@kristenwarner look at what you started",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of 15 minute presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382439807750697000,
+		"in_reply_to_status_id_str": "1382439807750696961",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristenwarner look at what you started"
+	},
+	{
+		"created_at": "Wed Apr 14 21:05:02 +0000 2021",
+		"id": 1382439777190940700,
+		"id_str": "1382439777190940672",
+		"full_text": "been reliably informed that I don't got it, don't even know that I don't got it, but may have something else instead.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "been reliably informed that I don't got it, don't even know that I don't got it, but may have something else instead."
+	},
+	{
+		"created_at": "Wed Apr 14 21:04:45 +0000 2021",
+		"id": 1382439708232446000,
+		"id_str": "1382439708232445959",
+		"full_text": "@kristenwarner pretty big!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of 15 minute presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382438447395258400,
+		"in_reply_to_status_id_str": "1382438447395258370",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristenwarner pretty big!"
+	},
+	{
+		"created_at": "Wed Apr 14 20:49:37 +0000 2021",
+		"id": 1382428562892984300,
+		"id_str": "1382435901519847438",
+		"full_text": "Why is THIS viable, someone tell me please???? Also: I haven’t seen that much contraband in a kid’s room since 7th Heaven was on. https://t.co/efMO6rIbWZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/efMO6rIbWZ",
+					"expanded_url": "https://twitter.com/soulkhan/status/1382152760183898113",
+					"display_url": "twitter.com/soulkhan/statu…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 376806992,
+			"id_str": "376806992",
+			"name": "Amy #FundCUNYnotCOPs Herzog",
+			"screen_name": "amy_herzog",
+			"location": "Queens, NY",
+			"description": "I rant about NYC politics and surveillance tech and academia. I don't write plays. #CUNY4dianne",
+			"url": "https://t.co/ZUxUiBZqs3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZUxUiBZqs3",
+							"expanded_url": "https://amyherzog.org",
+							"display_url": "amyherzog.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 840,
+			"friends_count": 2586,
+			"listed_count": 8,
+			"created_at": "Tue Sep 20 14:41:03 +0000 2011",
+			"favourites_count": 18028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378326135835090945/hE23UXyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378326135835090945/hE23UXyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/376806992/1541648696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382152760183898000,
+		"quoted_status_id_str": "1382152760183898113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/efMO6rIbWZ",
+			"expanded": "https://twitter.com/soulkhan/status/1382152760183898113",
+			"display": "twitter.com/soulkhan/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 14 02:04:31 +0000 2021",
+			"id": 1382152760183898000,
+			"id_str": "1382152760183898113",
+			"full_text": "here's nyc mayor candidate eric adams teaching you how to search your own home for contraband. and no, this music was legit already there. i didn't alter *anything* in these excerpts lolol https://t.co/EjNbzcbtNr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1382151579529310200,
+						"id_str": "1382151579529310214",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382151579529310214/pu/img/3mobfGnkODDWf5ek.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382151579529310214/pu/img/3mobfGnkODDWf5ek.jpg",
+						"url": "https://t.co/EjNbzcbtNr",
+						"display_url": "pic.twitter.com/EjNbzcbtNr",
+						"expanded_url": "https://twitter.com/soulkhan/status/1382152760183898113/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382151579529310200,
+						"id_str": "1382151579529310214",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382151579529310214/pu/img/3mobfGnkODDWf5ek.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382151579529310214/pu/img/3mobfGnkODDWf5ek.jpg",
+						"url": "https://t.co/EjNbzcbtNr",
+						"display_url": "pic.twitter.com/EjNbzcbtNr",
+						"expanded_url": "https://twitter.com/soulkhan/status/1382152760183898113/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								20,
+								11
+							],
+							"duration_millis": 111204,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382151579529310214/pu/vid/490x270/s1ZkkHwUdgpYoe7N.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1382151579529310214/pu/pl/sbxMCK160Bqm33HM.m3u8?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382151579529310214/pu/vid/640x352/MuQnkfxdEQDENKhH.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19161033,
+				"id_str": "19161033",
+				"name": "popular knapsack",
+				"screen_name": "soulkhan",
+				"location": "cool world",
+				"description": "new music: https://t.co/o1QzcCQ54t\nDMs 📭\nspotify https://t.co/3nuNsFPsMM\nytb https://t.co/hzMcvJCVk6 \nfb https://t.co/HndX0XEpcg\nig https://t.co/uUmMhgpwPv",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/o1QzcCQ54t",
+								"expanded_url": "https://soulspazm.ffm.to/growup",
+								"display_url": "soulspazm.ffm.to/growup",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/3nuNsFPsMM",
+								"expanded_url": "http://bit.ly/soulify",
+								"display_url": "bit.ly/soulify",
+								"indices": [
+									49,
+									72
+								]
+							},
+							{
+								"url": "https://t.co/hzMcvJCVk6",
+								"expanded_url": "http://bit.ly/soultube",
+								"display_url": "bit.ly/soultube",
+								"indices": [
+									77,
+									100
+								]
+							},
+							{
+								"url": "https://t.co/HndX0XEpcg",
+								"expanded_url": "http://bit.ly/soulface",
+								"display_url": "bit.ly/soulface",
+								"indices": [
+									105,
+									128
+								]
+							},
+							{
+								"url": "https://t.co/uUmMhgpwPv",
+								"expanded_url": "https://bit.ly/skgram",
+								"display_url": "bit.ly/skgram",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22026,
+				"friends_count": 1169,
+				"listed_count": 381,
+				"created_at": "Sun Jan 18 22:42:51 +0000 2009",
+				"favourites_count": 35442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31076,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367457277054242820/Q8dmo2KW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367457277054242820/Q8dmo2KW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19161033/1605642365",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1985,
+			"favorite_count": 12673,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why is THIS viable, someone tell me please???? Also: I haven’t seen that much contraband in a kid’s room since 7th Heaven was on. https://t.co/efMO6rIbWZ"
+	},
+	{
+		"created_at": "Wed Apr 14 19:49:35 +0000 2021",
+		"id": 1382420789824258000,
+		"id_str": "1382420789824258050",
+		"full_text": "https://t.co/cE5qj6iPIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382420787622187000,
+					"id_str": "1382420787622187013",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey9YYchWEAUBJ1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey9YYchWEAUBJ1p.jpg",
+					"url": "https://t.co/cE5qj6iPIJ",
+					"display_url": "pic.twitter.com/cE5qj6iPIJ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382420789824258050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382420787622187000,
+					"id_str": "1382420787622187013",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey9YYchWEAUBJ1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey9YYchWEAUBJ1p.jpg",
+					"url": "https://t.co/cE5qj6iPIJ",
+					"display_url": "pic.twitter.com/cE5qj6iPIJ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382420789824258050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/cE5qj6iPIJ"
+	},
+	{
+		"created_at": "Wed Apr 14 18:14:55 +0000 2021",
+		"id": 1382315952361119700,
+		"id_str": "1382396966206894084",
+		"full_text": "Amazing factoid via @joshnathankazis in the replies here: this about 1 in every 50 Jewish people on earth live in this district https://t.co/U1M309owQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshnathankazis",
+					"name": "Josh Nathan-Kazis",
+					"id": 56923139,
+					"id_str": "56923139",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U1M309owQU",
+					"expanded_url": "https://twitter.com/liamstack/status/1382307499840266240",
+					"display_url": "twitter.com/liamstack/stat…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5845492,
+			"id_str": "5845492",
+			"name": "Tom Gara",
+			"screen_name": "tomgara",
+			"location": "PGP: http://bit.ly/1Nja4jP",
+			"description": "through meditation i program my heart to beat breakbeats and hum basslines upon exhalation. (works at @facebook, views my own, etc)",
+			"url": "https://t.co/w81ISXAL0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w81ISXAL0w",
+							"expanded_url": "http://about.me/tomgara",
+							"display_url": "about.me/tomgara",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60287,
+			"friends_count": 1615,
+			"listed_count": 1592,
+			"created_at": "Mon May 07 22:22:59 +0000 2007",
+			"favourites_count": 2693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141087468680286210/1hUKTcwf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141087468680286210/1hUKTcwf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5845492/1402263872",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011add077f4d2da3",
+			"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+			"place_type": "city",
+			"name": "Brooklyn",
+			"full_name": "Brooklyn, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.041878,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.739434
+						],
+						[
+							-74.041878,
+							40.739434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382307499840266200,
+		"quoted_status_id_str": "1382307499840266240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U1M309owQU",
+			"expanded": "https://twitter.com/liamstack/status/1382307499840266240",
+			"display": "twitter.com/liamstack/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 14 12:19:24 +0000 2021",
+			"id": 1382307499840266200,
+			"id_str": "1382307499840266240",
+			"full_text": "Speaking of NYC congressional races, this gerrymander from Morningside Heights to Bensonhurst always blows my mind. https://t.co/tByrCLmXuA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1382307495927017500,
+						"id_str": "1382307495927017473",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey7xWAEW8AEGuhu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey7xWAEW8AEGuhu.jpg",
+						"url": "https://t.co/tByrCLmXuA",
+						"display_url": "pic.twitter.com/tByrCLmXuA",
+						"expanded_url": "https://twitter.com/liamstack/status/1382307499840266240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1792,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382307495927017500,
+						"id_str": "1382307495927017473",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey7xWAEW8AEGuhu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey7xWAEW8AEGuhu.jpg",
+						"url": "https://t.co/tByrCLmXuA",
+						"display_url": "pic.twitter.com/tByrCLmXuA",
+						"expanded_url": "https://twitter.com/liamstack/status/1382307499840266240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1792,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133929829,
+				"id_str": "133929829",
+				"name": "Liam Stack",
+				"screen_name": "liamstack",
+				"location": "New York, NY",
+				"description": "I write about religion for @NYTMetro. @OPCofAmerica board. Cairo 2005-2012. Khawaga-at-large. Mural above by @Ganzeer. liam.stack@nytimes.com",
+				"url": "https://t.co/qZ5r9K000g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qZ5r9K000g",
+								"expanded_url": "http://instagram.com/liamstacknyt",
+								"display_url": "instagram.com/liamstacknyt",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51197,
+				"friends_count": 8104,
+				"listed_count": 1440,
+				"created_at": "Sat Apr 17 01:13:13 +0000 2010",
+				"favourites_count": 64225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 165714,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241044929872306176/rxZsRWrI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241044929872306176/rxZsRWrI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/133929829/1371426125",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 361,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 89,
+		"favorite_count": 443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing factoid via @joshnathankazis in the replies here: this about 1 in every 50 Jewish people on earth live in this district https://t.co/U1M309owQU"
+	},
+	{
+		"created_at": "Wed Apr 14 17:49:15 +0000 2021",
+		"id": 1382390508228644900,
+		"id_str": "1382390508228644867",
+		"full_text": "@kristenwarner how big is it these days?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of 15 minute presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382382604347916300,
+		"in_reply_to_status_id_str": "1382382604347916293",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristenwarner how big is it these days?"
+	},
+	{
+		"created_at": "Wed Apr 14 17:32:03 +0000 2021",
+		"id": 1382386181736964000,
+		"id_str": "1382386181736964108",
+		"full_text": "@kirsten_amy i tried!!! she's too heavy! maybe some camera magic  tho.....",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kirsten_amy",
+					"name": "Comrade Greeting Card",
+					"id": 14687195,
+					"id_str": "14687195",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382380695071420400,
+		"in_reply_to_status_id_str": "1382380695071420418",
+		"in_reply_to_user_id": 14687195,
+		"in_reply_to_user_id_str": "14687195",
+		"in_reply_to_screen_name": "kirsten_amy",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kirsten_amy i tried!!! she's too heavy! maybe some camera magic  tho....."
+	},
+	{
+		"created_at": "Wed Apr 14 16:25:30 +0000 2021",
+		"id": 1382369431570022400,
+		"id_str": "1382369431570022411",
+		"full_text": "@spampinato_erin yes!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spampinato_erin",
+					"name": "Dr. Erin Spampinato",
+					"id": 4188388755,
+					"id_str": "4188388755",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382367956504547300,
+		"in_reply_to_status_id_str": "1382367956504547328",
+		"in_reply_to_user_id": 4188388755,
+		"in_reply_to_user_id_str": "4188388755",
+		"in_reply_to_screen_name": "spampinato_erin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@spampinato_erin yes!"
+	},
+	{
+		"created_at": "Wed Apr 14 16:13:37 +0000 2021",
+		"id": 1382366441257767000,
+		"id_str": "1382366441257766919",
+		"full_text": "@spampinato_erin it's just practice!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spampinato_erin",
+					"name": "Dr. Erin Spampinato",
+					"id": 4188388755,
+					"id_str": "4188388755",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382365202579079200,
+		"in_reply_to_status_id_str": "1382365202579079170",
+		"in_reply_to_user_id": 4188388755,
+		"in_reply_to_user_id_str": "4188388755",
+		"in_reply_to_screen_name": "spampinato_erin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spampinato_erin it's just practice!"
+	},
+	{
+		"created_at": "Wed Apr 14 15:41:33 +0000 2021",
+		"id": 1382358373211984000,
+		"id_str": "1382358373211983877",
+		"full_text": "@spampinato_erin 😬😬 https://t.co/bhbV82xHg4",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spampinato_erin",
+					"name": "Dr. Erin Spampinato",
+					"id": 4188388755,
+					"id_str": "4188388755",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382358285936889900,
+					"id_str": "1382358285936889864",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8fiXmWEAgNm-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8fiXmWEAgNm-U.jpg",
+					"url": "https://t.co/bhbV82xHg4",
+					"display_url": "pic.twitter.com/bhbV82xHg4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382358373211983877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 969,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1558,
+							"h": 1258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382358285936889900,
+					"id_str": "1382358285936889864",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8fiXmWEAgNm-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8fiXmWEAgNm-U.jpg",
+					"url": "https://t.co/bhbV82xHg4",
+					"display_url": "pic.twitter.com/bhbV82xHg4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382358373211983877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 969,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1558,
+							"h": 1258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382345586016465000,
+		"in_reply_to_status_id_str": "1382345586016464896",
+		"in_reply_to_user_id": 4188388755,
+		"in_reply_to_user_id_str": "4188388755",
+		"in_reply_to_screen_name": "spampinato_erin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@spampinato_erin 😬😬 https://t.co/bhbV82xHg4"
+	},
+	{
+		"created_at": "Wed Apr 14 14:12:25 +0000 2021",
+		"id": 1382335940023173000,
+		"id_str": "1382335940023173126",
+		"full_text": "@greeney28 (Karen I'm still laughing at \"that V keeps trying to get in there.\" if only...🤣🤣😂.)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeney28",
+					"name": "Karen Petruska",
+					"id": 75930088,
+					"id_str": "75930088",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1382331321100480500,
+		"in_reply_to_status_id_str": "1382331321100480519",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@greeney28 (Karen I'm still laughing at \"that V keeps trying to get in there.\" if only...🤣🤣😂.)"
+	},
+	{
+		"created_at": "Wed Apr 14 13:57:55 +0000 2021",
+		"id": 1382332291926610000,
+		"id_str": "1382332291926609920",
+		"full_text": "sure looks comfy https://t.co/2xtPwkZbc6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382332288965427200,
+					"id_str": "1382332288965427200",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8H5JVWQAAA3KT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8H5JVWQAAA3KT.jpg",
+					"url": "https://t.co/2xtPwkZbc6",
+					"display_url": "pic.twitter.com/2xtPwkZbc6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382332291926609920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382332288965427200,
+					"id_str": "1382332288965427200",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8H5JVWQAAA3KT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8H5JVWQAAA3KT.jpg",
+					"url": "https://t.co/2xtPwkZbc6",
+					"display_url": "pic.twitter.com/2xtPwkZbc6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382332291926609920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "sure looks comfy https://t.co/2xtPwkZbc6"
+	},
+	{
+		"created_at": "Wed Apr 14 13:54:04 +0000 2021",
+		"id": 1382331321100480500,
+		"id_str": "1382331321100480519",
+		"full_text": "@greeney28 😆😆",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeney28",
+					"name": "Karen Petruska",
+					"id": 75930088,
+					"id_str": "75930088",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382331262078054400,
+		"in_reply_to_status_id_str": "1382331262078054409",
+		"in_reply_to_user_id": 75930088,
+		"in_reply_to_user_id_str": "75930088",
+		"in_reply_to_screen_name": "greeney28",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@greeney28 😆😆"
+	},
+	{
+		"created_at": "Wed Apr 14 13:53:44 +0000 2021",
+		"id": 1382331237759602700,
+		"id_str": "1382331237759602691",
+		"full_text": "@melisser3 ahhh, thanks teach.\n\nand oh wow!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, your spooky action (at a distance)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382330418192597000,
+		"in_reply_to_status_id_str": "1382330418192596993",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 ahhh, thanks teach.\n\nand oh wow!"
+	},
+	{
+		"created_at": "Wed Apr 14 13:51:49 +0000 2021",
+		"id": 1382330756236738600,
+		"id_str": "1382330756236738563",
+		"full_text": "@greeney28 but karen, i have been told that people need the d . . . https://t.co/104LEecbc3",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeney28",
+					"name": "Karen Petruska",
+					"id": 75930088,
+					"id_str": "75930088",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382330746195611600,
+					"id_str": "1382330746195611650",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ey8GfWEXEAIyB_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ey8GfWEXEAIyB_Z.jpg",
+					"url": "https://t.co/104LEecbc3",
+					"display_url": "pic.twitter.com/104LEecbc3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382330756236738563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382330746195611600,
+					"id_str": "1382330746195611650",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ey8GfWEXEAIyB_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ey8GfWEXEAIyB_Z.jpg",
+					"url": "https://t.co/104LEecbc3",
+					"display_url": "pic.twitter.com/104LEecbc3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382330756236738563/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							137
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ey8GfWEXEAIyB_Z.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382330297300050000,
+		"in_reply_to_status_id_str": "1382330297300049925",
+		"in_reply_to_user_id": 75930088,
+		"in_reply_to_user_id_str": "75930088",
+		"in_reply_to_screen_name": "greeney28",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@greeney28 but karen, i have been told that people need the d . . . https://t.co/104LEecbc3"
+	},
+	{
+		"created_at": "Wed Apr 14 13:46:19 +0000 2021",
+		"id": 1382329373441806300,
+		"id_str": "1382329373441806338",
+		"full_text": "@melisser3 [spoiler alert] is it just that there's the one 3-letter palindrome that appears multiple times? or were there also synonyms?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, your spooky action (at a distance)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382328996541694000,
+		"in_reply_to_status_id_str": "1382328996541693954",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 [spoiler alert] is it just that there's the one 3-letter palindrome that appears multiple times? or were there also synonyms?"
+	},
+	{
+		"created_at": "Wed Apr 14 13:37:14 +0000 2021",
+		"id": 1382327088028512300,
+		"id_str": "1382327088028512256",
+		"full_text": "https://t.co/RzvZtLTMph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382327085759398000,
+					"id_str": "1382327085759397890",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8DKR4XAAI1ZlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8DKR4XAAI1ZlW.jpg",
+					"url": "https://t.co/RzvZtLTMph",
+					"display_url": "pic.twitter.com/RzvZtLTMph",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382327088028512256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382327085759398000,
+					"id_str": "1382327085759397890",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8DKR4XAAI1ZlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8DKR4XAAI1ZlW.jpg",
+					"url": "https://t.co/RzvZtLTMph",
+					"display_url": "pic.twitter.com/RzvZtLTMph",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382327088028512256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/RzvZtLTMph"
+	},
+	{
+		"created_at": "Wed Apr 14 13:18:34 +0000 2021",
+		"id": 1382322386960330800,
+		"id_str": "1382322386960330754",
+		"full_text": "@spampinato_erin i may have gotten even more into stress-crosswording during the pandemic . .. .",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spampinato_erin",
+					"name": "Dr. Erin Spampinato",
+					"id": 4188388755,
+					"id_str": "4188388755",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382321590067724300,
+		"in_reply_to_status_id_str": "1382321590067724291",
+		"in_reply_to_user_id": 4188388755,
+		"in_reply_to_user_id_str": "4188388755",
+		"in_reply_to_screen_name": "spampinato_erin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spampinato_erin i may have gotten even more into stress-crosswording during the pandemic . .. ."
+	},
+	{
+		"created_at": "Wed Apr 14 13:06:27 +0000 2021",
+		"id": 1382319341367099400,
+		"id_str": "1382319341367099393",
+		"full_text": "did the puzzle in just over 6, but . . .  60-across makes no sense to me.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "did the puzzle in just over 6, but . . .  60-across makes no sense to me."
+	},
+	{
+		"created_at": "Wed Apr 14 12:37:13 +0000 2021",
+		"id": 1382311983815524400,
+		"id_str": "1382311983815524357",
+		"full_text": "@frittersandclam @annafroula @racquelgates 🙏✅",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "annafroula",
+					"name": "dr. anna pfroula",
+					"id": 113091433,
+					"id_str": "113091433",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "racquelgates",
+					"name": "Racquel Gates",
+					"id": 367790462,
+					"id_str": "367790462",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382311628977356800,
+		"in_reply_to_status_id_str": "1382311628977356803",
+		"in_reply_to_user_id": 117842180,
+		"in_reply_to_user_id_str": "117842180",
+		"in_reply_to_screen_name": "frittersandclam",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@frittersandclam @annafroula @racquelgates 🙏✅"
+	},
+	{
+		"created_at": "Wed Apr 14 12:34:55 +0000 2021",
+		"id": 1382311403525173200,
+		"id_str": "1382311403525173250",
+		"full_text": "@annafroula @frittersandclam @racquelgates !!! NOOOOO (also where that union at?)",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annafroula",
+					"name": "dr. anna pfroula",
+					"id": 113091433,
+					"id_str": "113091433",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "racquelgates",
+					"name": "Racquel Gates",
+					"id": 367790462,
+					"id_str": "367790462",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382303081929523200,
+		"in_reply_to_status_id_str": "1382303081929523203",
+		"in_reply_to_user_id": 113091433,
+		"in_reply_to_user_id_str": "113091433",
+		"in_reply_to_screen_name": "annafroula",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@annafroula @frittersandclam @racquelgates !!! NOOOOO (also where that union at?)"
+	},
+	{
+		"created_at": "Wed Apr 14 12:32:29 +0000 2021",
+		"id": 1382310793723674600,
+		"id_str": "1382310793723674631",
+		"full_text": "@melisser3 lol he got you",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, your spooky action (at a distance)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382303328655306800,
+		"in_reply_to_status_id_str": "1382303328655306755",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 lol he got you"
+	},
+	{
+		"created_at": "Wed Apr 14 12:31:12 +0000 2021",
+		"id": 1382310469793325000,
+		"id_str": "1382310469793325056",
+		"full_text": "what is E, but D persevering?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1382118842873307100,
+		"in_reply_to_status_id_str": "1382118842873307144",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, how can you not like magic??",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 545,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350155681572257795/Z0pqy4W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "what is E, but D persevering?"
+	},
+	{
 		"created_at": "Wed Apr 14 01:21:19 +0000 2021",
 		"id": 1382141885062467600,
 		"id_str": "1382141885062467584",
@@ -4307,7 +8100,7 @@ Grailbird.data.tweets_2021_04 =
 			"name": "President Warren G. Harding (Taylor's version)",
 			"screen_name": "PopeAwesomeXIII",
 			"location": "Seattle, WA",
-			"description": "29th U.S. President (1921-1923) 🔥 He/Him 🇺🇸🏁🏳️‍🌈🏳️‍⚧️🏴‍☠️ #BLM ✌️ AVI c/o @TheObscureGents 🧐 Accepts drinks: https://t.co/Igf16XBCYv",
+			"description": "29th U.S. President (1921-1923) 🔥 He/Him 🇺🇸🏁🏳️🌈🏳️⚧️🏴☠️ #BLM ✌️ AVI c/o @TheObscureGents 🧐 Accepts drinks: https://t.co/Igf16XBCYv",
 			"url": "https://t.co/TUm5igxEEB",
 			"entities": {
 				"url": {
