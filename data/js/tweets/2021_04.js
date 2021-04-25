@@ -1,6 +1,13310 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 04:21:34 +0000 2021",
+		"id": 1386173517012639700,
+		"id_str": "1386173517012639747",
+		"full_text": "\"Death carries a black flag decorated with a white, five-petal rose, reflecting beauty, purification and immortality and the number five representing change\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386166880499548200,
+		"in_reply_to_status_id_str": "1386166880499548164",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"Death carries a black flag decorated with a white, five-petal rose, reflecting beauty, purification and immortality and the number five representing change\""
+	},
+	{
+		"created_at": "Sun Apr 25 04:07:12 +0000 2021",
+		"id": 1386169899597369300,
+		"id_str": "1386169899597369345",
+		"full_text": "hey i was trying to type back at you. i really care about you. ❤️❤️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "hey i was trying to type back at you. i really care about you. ❤️❤️"
+	},
+	{
+		"created_at": "Sun Apr 25 03:55:12 +0000 2021",
+		"id": 1386166880499548200,
+		"id_str": "1386166880499548164",
+		"full_text": "https://t.co/q6HsrCWM2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386166813197836300,
+					"id_str": "1386166813197836289",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzynX1QXoAEYQZk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzynX1QXoAEYQZk.jpg",
+					"url": "https://t.co/q6HsrCWM2l",
+					"display_url": "pic.twitter.com/q6HsrCWM2l",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386166880499548164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386166813197836300,
+					"id_str": "1386166813197836289",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzynX1QXoAEYQZk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzynX1QXoAEYQZk.jpg",
+					"url": "https://t.co/q6HsrCWM2l",
+					"display_url": "pic.twitter.com/q6HsrCWM2l",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386166880499548164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386166813197746200,
+					"id_str": "1386166813197746177",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzynX1QWQAE7ETJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzynX1QWQAE7ETJ.jpg",
+					"url": "https://t.co/q6HsrCWM2l",
+					"display_url": "pic.twitter.com/q6HsrCWM2l",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386166880499548164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386166813264945200,
+					"id_str": "1386166813264945152",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzynX1gXoAAhPZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzynX1gXoAAhPZy.jpg",
+					"url": "https://t.co/q6HsrCWM2l",
+					"display_url": "pic.twitter.com/q6HsrCWM2l",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386166880499548164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 464,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 464,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386166813390688300,
+					"id_str": "1386166813390688256",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzynX1-WUAAG9P-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzynX1-WUAAG9P-.jpg",
+					"url": "https://t.co/q6HsrCWM2l",
+					"display_url": "pic.twitter.com/q6HsrCWM2l",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386166880499548164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 524,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 524,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386164227480633300,
+		"in_reply_to_status_id_str": "1386164227480633345",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/q6HsrCWM2l"
+	},
+	{
+		"created_at": "Sun Apr 25 03:51:38 +0000 2021",
+		"id": 1386165981106557000,
+		"id_str": "1386165981106556931",
+		"full_text": "[actually, ehhhh he's doing his best. good work, team.]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386165727955140600,
+		"in_reply_to_status_id_str": "1386165727955140610",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "[actually, ehhhh he's doing his best. good work, team.]"
+	},
+	{
+		"created_at": "Sun Apr 25 03:50:37 +0000 2021",
+		"id": 1386165727955140600,
+		"id_str": "1386165727955140610",
+		"full_text": "(fucking hate that opening snare roll)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386165081759699000,
+		"in_reply_to_status_id_str": "1386165081759698944",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "(fucking hate that opening snare roll)"
+	},
+	{
+		"created_at": "Sun Apr 25 03:48:03 +0000 2021",
+		"id": 1386165081759699000,
+		"id_str": "1386165081759698944",
+		"full_text": "until now",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386165053645328400,
+		"in_reply_to_status_id_str": "1386165053645328385",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "until now"
+	},
+	{
+		"created_at": "Sun Apr 25 03:47:57 +0000 2021",
+		"id": 1386165053645328400,
+		"id_str": "1386165053645328385",
+		"full_text": "(good fuck why did i think \"it ain't over til it's over\" was a smokey robinson cover)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "(good fuck why did i think \"it ain't over til it's over\" was a smokey robinson cover)"
+	},
+	{
+		"created_at": "Sun Apr 25 03:44:40 +0000 2021",
+		"id": 1386164227480633300,
+		"id_str": "1386164227480633345",
+		"full_text": "https://t.co/DQd0kzFMm8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386164220287402000,
+					"id_str": "1386164220287401986",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzylA56WQAI3hJq.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzylA56WQAI3hJq.png",
+					"url": "https://t.co/DQd0kzFMm8",
+					"display_url": "pic.twitter.com/DQd0kzFMm8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164227480633345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 529,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 529,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386164220287402000,
+					"id_str": "1386164220287401986",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzylA56WQAI3hJq.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzylA56WQAI3hJq.png",
+					"url": "https://t.co/DQd0kzFMm8",
+					"display_url": "pic.twitter.com/DQd0kzFMm8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164227480633345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 529,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 529,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386163991391637500,
+		"in_reply_to_status_id_str": "1386163991391637506",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/DQd0kzFMm8"
+	},
+	{
+		"created_at": "Sun Apr 25 03:44:32 +0000 2021",
+		"id": 1386164197076131800,
+		"id_str": "1386164197076131845",
+		"full_text": "https://t.co/wigKhuwqvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386164109507432400,
+					"id_str": "1386164109507432451",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk6dOWEAM0Mc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk6dOWEAM0Mc2.jpg",
+					"url": "https://t.co/wigKhuwqvD",
+					"display_url": "pic.twitter.com/wigKhuwqvD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164197076131845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386164109507432400,
+					"id_str": "1386164109507432451",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk6dOWEAM0Mc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk6dOWEAM0Mc2.jpg",
+					"url": "https://t.co/wigKhuwqvD",
+					"display_url": "pic.twitter.com/wigKhuwqvD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164197076131845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386164109603913700,
+					"id_str": "1386164109603913728",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk6dlWQAAK0YV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk6dlWQAAK0YV.jpg",
+					"url": "https://t.co/wigKhuwqvD",
+					"display_url": "pic.twitter.com/wigKhuwqvD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164197076131845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386164109725548500,
+					"id_str": "1386164109725548544",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk6eCWQAAuYa1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk6eCWQAAuYa1.jpg",
+					"url": "https://t.co/wigKhuwqvD",
+					"display_url": "pic.twitter.com/wigKhuwqvD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164197076131845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 464,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 464,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386164188712738800,
+					"id_str": "1386164188712738816",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk_ESXIAAO4ob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk_ESXIAAO4ob.jpg",
+					"url": "https://t.co/wigKhuwqvD",
+					"display_url": "pic.twitter.com/wigKhuwqvD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164197076131845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 524,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 524,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386163991391637500,
+		"in_reply_to_status_id_str": "1386163991391637506",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wigKhuwqvD"
+	},
+	{
+		"created_at": "Sun Apr 25 03:44:03 +0000 2021",
+		"id": 1386164074011103200,
+		"id_str": "1386164074011103232",
+		"full_text": "https://t.co/cFttXnB9cO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386164066889224200,
+					"id_str": "1386164066889224192",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk3-dX0AAaiUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk3-dX0AAaiUZ.jpg",
+					"url": "https://t.co/cFttXnB9cO",
+					"display_url": "pic.twitter.com/cFttXnB9cO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164074011103232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 425,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 361,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 425,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386164066889224200,
+					"id_str": "1386164066889224192",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk3-dX0AAaiUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk3-dX0AAaiUZ.jpg",
+					"url": "https://t.co/cFttXnB9cO",
+					"display_url": "pic.twitter.com/cFttXnB9cO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164074011103232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 425,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 361,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 425,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386164067014959000,
+					"id_str": "1386164067014959105",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk3-7WYAECfYh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk3-7WYAECfYh.jpg",
+					"url": "https://t.co/cFttXnB9cO",
+					"display_url": "pic.twitter.com/cFttXnB9cO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164074011103232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 424,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 424,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386164067124002800,
+					"id_str": "1386164067124002816",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk3_VWQAAv24a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk3_VWQAAv24a.jpg",
+					"url": "https://t.co/cFttXnB9cO",
+					"display_url": "pic.twitter.com/cFttXnB9cO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164074011103232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 445,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 445,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386164067249885200,
+					"id_str": "1386164067249885190",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyk3_zXEAYXiHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyk3_zXEAYXiHZ.jpg",
+					"url": "https://t.co/cFttXnB9cO",
+					"display_url": "pic.twitter.com/cFttXnB9cO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386164074011103232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 354,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 417,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 417,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386163991391637500,
+		"in_reply_to_status_id_str": "1386163991391637506",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/cFttXnB9cO"
+	},
+	{
+		"created_at": "Sun Apr 25 03:43:43 +0000 2021",
+		"id": 1386163991391637500,
+		"id_str": "1386163991391637506",
+		"full_text": "https://t.co/zRoZsx89oa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386163926509965300,
+					"id_str": "1386163926509965319",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzykvzgWUAckFL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzykvzgWUAckFL4.jpg",
+					"url": "https://t.co/zRoZsx89oa",
+					"display_url": "pic.twitter.com/zRoZsx89oa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386163991391637506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 433,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 433,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386163926509965300,
+					"id_str": "1386163926509965319",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzykvzgWUAckFL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzykvzgWUAckFL4.jpg",
+					"url": "https://t.co/zRoZsx89oa",
+					"display_url": "pic.twitter.com/zRoZsx89oa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386163991391637506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 433,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 433,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386163926665150500,
+					"id_str": "1386163926665150465",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezykv0FWQAEwRpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezykv0FWQAEwRpy.jpg",
+					"url": "https://t.co/zRoZsx89oa",
+					"display_url": "pic.twitter.com/zRoZsx89oa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386163991391637506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 403,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 403,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386163926803562500,
+					"id_str": "1386163926803562497",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezykv0mWQAET-KT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezykv0mWQAET-KT.jpg",
+					"url": "https://t.co/zRoZsx89oa",
+					"display_url": "pic.twitter.com/zRoZsx89oa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386163991391637506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 545,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 545,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386163927051034600,
+					"id_str": "1386163927051034627",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezykv1hWYAMrA9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezykv1hWYAMrA9u.jpg",
+					"url": "https://t.co/zRoZsx89oa",
+					"display_url": "pic.twitter.com/zRoZsx89oa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386163991391637506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 445,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386163018116079600,
+		"in_reply_to_status_id_str": "1386163018116079624",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zRoZsx89oa"
+	},
+	{
+		"created_at": "Sun Apr 25 03:39:51 +0000 2021",
+		"id": 1386163018116079600,
+		"id_str": "1386163018116079624",
+		"full_text": "https://t.co/7t2zVZCPDf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386163011652628500,
+					"id_str": "1386163011652628480",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyj6jZXMAAuNIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyj6jZXMAAuNIQ.jpg",
+					"url": "https://t.co/7t2zVZCPDf",
+					"display_url": "pic.twitter.com/7t2zVZCPDf",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386163018116079624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 454,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 454,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386163011652628500,
+					"id_str": "1386163011652628480",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyj6jZXMAAuNIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyj6jZXMAAuNIQ.jpg",
+					"url": "https://t.co/7t2zVZCPDf",
+					"display_url": "pic.twitter.com/7t2zVZCPDf",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386163018116079624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 454,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 454,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386162935383445500,
+		"in_reply_to_status_id_str": "1386162935383445505",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7t2zVZCPDf"
+	},
+	{
+		"created_at": "Sun Apr 25 03:39:32 +0000 2021",
+		"id": 1386162935383445500,
+		"id_str": "1386162935383445505",
+		"full_text": "https://t.co/aqR3E0jAGO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386161987562975200,
+					"id_str": "1386161987562975235",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyi-8XXMAM7btY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyi-8XXMAM7btY.jpg",
+					"url": "https://t.co/aqR3E0jAGO",
+					"display_url": "pic.twitter.com/aqR3E0jAGO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386162935383445505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 509,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 509,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386161987562975200,
+					"id_str": "1386161987562975235",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyi-8XXMAM7btY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyi-8XXMAM7btY.jpg",
+					"url": "https://t.co/aqR3E0jAGO",
+					"display_url": "pic.twitter.com/aqR3E0jAGO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386162935383445505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 509,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 509,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386161987915288600,
+					"id_str": "1386161987915288576",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyi-9rXEAACtpl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyi-9rXEAACtpl.jpg",
+					"url": "https://t.co/aqR3E0jAGO",
+					"display_url": "pic.twitter.com/aqR3E0jAGO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386162935383445505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 370,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 435,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 435,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386161988020183000,
+					"id_str": "1386161988020183043",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyi--EXoAMoM21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyi--EXoAMoM21.jpg",
+					"url": "https://t.co/aqR3E0jAGO",
+					"display_url": "pic.twitter.com/aqR3E0jAGO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386162935383445505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 422,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 359,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 422,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386162921642864600,
+					"id_str": "1386162921642864640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyj1UFXMAAaUzC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyj1UFXMAAaUzC.jpg",
+					"url": "https://t.co/aqR3E0jAGO",
+					"display_url": "pic.twitter.com/aqR3E0jAGO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386162935383445505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386161443867959300,
+		"in_reply_to_status_id_str": "1386161443867959304",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/aqR3E0jAGO"
+	},
+	{
+		"created_at": "Sun Apr 25 03:33:36 +0000 2021",
+		"id": 1386161443867959300,
+		"id_str": "1386161443867959304",
+		"full_text": "https://t.co/EEz5HUJox3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386161434955067400,
+					"id_str": "1386161434955067398",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyiexvXsAYVrCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyiexvXsAYVrCX.jpg",
+					"url": "https://t.co/EEz5HUJox3",
+					"display_url": "pic.twitter.com/EEz5HUJox3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161443867959304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386161434955067400,
+					"id_str": "1386161434955067398",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyiexvXsAYVrCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyiexvXsAYVrCX.jpg",
+					"url": "https://t.co/EEz5HUJox3",
+					"display_url": "pic.twitter.com/EEz5HUJox3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161443867959304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1386161435022135300,
+					"id_str": "1386161435022135296",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezyiex_XEAAebPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezyiex_XEAAebPQ.jpg",
+					"url": "https://t.co/EEz5HUJox3",
+					"display_url": "pic.twitter.com/EEz5HUJox3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161443867959304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 553,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386161435135328300,
+					"id_str": "1386161435135328256",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyieyaWQAAUGxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyieyaWQAAUGxm.jpg",
+					"url": "https://t.co/EEz5HUJox3",
+					"display_url": "pic.twitter.com/EEz5HUJox3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161443867959304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 473,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386161435236085800,
+					"id_str": "1386161435236085765",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyieyyXsAUK4iY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyieyyXsAUK4iY.jpg",
+					"url": "https://t.co/EEz5HUJox3",
+					"display_url": "pic.twitter.com/EEz5HUJox3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161443867959304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386161381926449200,
+		"in_reply_to_status_id_str": "1386161381926449153",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/EEz5HUJox3"
+	},
+	{
+		"created_at": "Sun Apr 25 03:33:21 +0000 2021",
+		"id": 1386161381926449200,
+		"id_str": "1386161381926449153",
+		"full_text": "https://t.co/MbELggv5Y8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386161373999206400,
+					"id_str": "1386161373999206400",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyibOqXEAAvRBH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzyibOqXEAAvRBH.png",
+					"url": "https://t.co/MbELggv5Y8",
+					"display_url": "pic.twitter.com/MbELggv5Y8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161381926449153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 553,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386161373999206400,
+					"id_str": "1386161373999206400",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyibOqXEAAvRBH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzyibOqXEAAvRBH.png",
+					"url": "https://t.co/MbELggv5Y8",
+					"display_url": "pic.twitter.com/MbELggv5Y8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161381926449153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 553,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386161374104068000,
+					"id_str": "1386161374104068097",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyibPDXIAErH2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyibPDXIAErH2U.jpg",
+					"url": "https://t.co/MbELggv5Y8",
+					"display_url": "pic.twitter.com/MbELggv5Y8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161381926449153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386161374255014000,
+					"id_str": "1386161374255013889",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyibPnWYAEcTaX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzyibPnWYAEcTaX.png",
+					"url": "https://t.co/MbELggv5Y8",
+					"display_url": "pic.twitter.com/MbELggv5Y8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161381926449153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1386161374355759000,
+					"id_str": "1386161374355759105",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyibP_XoAEbX_y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyibP_XoAEbX_y.jpg",
+					"url": "https://t.co/MbELggv5Y8",
+					"display_url": "pic.twitter.com/MbELggv5Y8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386161381926449153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386160463923368000,
+		"in_reply_to_status_id_str": "1386160463923367941",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MbELggv5Y8"
+	},
+	{
+		"created_at": "Sun Apr 25 03:29:42 +0000 2021",
+		"id": 1386160463923368000,
+		"id_str": "1386160463923367941",
+		"full_text": "https://t.co/2ZHY5mW871",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386160451591999500,
+					"id_str": "1386160451591999491",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyhlibWEAMuAe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyhlibWEAMuAe-.jpg",
+					"url": "https://t.co/2ZHY5mW871",
+					"display_url": "pic.twitter.com/2ZHY5mW871",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386160463923367941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386160451591999500,
+					"id_str": "1386160451591999491",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyhlibWEAMuAe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyhlibWEAMuAe-.jpg",
+					"url": "https://t.co/2ZHY5mW871",
+					"display_url": "pic.twitter.com/2ZHY5mW871",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386160463923367941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386160451579416600,
+					"id_str": "1386160451579416576",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyhliYWEAARvDi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyhliYWEAARvDi.jpg",
+					"url": "https://t.co/2ZHY5mW871",
+					"display_url": "pic.twitter.com/2ZHY5mW871",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386160463923367941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 539,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386160451575337000,
+					"id_str": "1386160451575336963",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyhliXX0AMVnje.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyhliXX0AMVnje.jpg",
+					"url": "https://t.co/2ZHY5mW871",
+					"display_url": "pic.twitter.com/2ZHY5mW871",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386160463923367941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 327,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 385,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 385,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386160451575292000,
+					"id_str": "1386160451575291906",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyhliXXIAI5DOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyhliXXIAI5DOW.jpg",
+					"url": "https://t.co/2ZHY5mW871",
+					"display_url": "pic.twitter.com/2ZHY5mW871",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386160463923367941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 493,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 493,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 419,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139569293254700,
+		"in_reply_to_status_id_str": "1386139569293254658",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/2ZHY5mW871"
+	},
+	{
+		"created_at": "Sun Apr 25 02:16:29 +0000 2021",
+		"id": 1386142036609413000,
+		"id_str": "1386142036609413120",
+		"full_text": "@thecinemadoctor I mean... as a louisvillian I have feelings, but also: live and let live",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecinemadoctor",
+					"name": "Drew Morton",
+					"id": 65215093,
+					"id_str": "65215093",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386140392928678000,
+		"in_reply_to_status_id_str": "1386140392928677890",
+		"in_reply_to_user_id": 65215093,
+		"in_reply_to_user_id_str": "65215093",
+		"in_reply_to_screen_name": "thecinemadoctor",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thecinemadoctor I mean... as a louisvillian I have feelings, but also: live and let live"
+	},
+	{
+		"created_at": "Sun Apr 25 02:09:57 +0000 2021",
+		"id": 1386140390693163000,
+		"id_str": "1386140390693163011",
+		"full_text": "@thecinemadoctor good lord cleveland is involved??!! 😂🤣",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecinemadoctor",
+					"name": "Drew Morton",
+					"id": 65215093,
+					"id_str": "65215093",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386140069233262600,
+		"in_reply_to_status_id_str": "1386140069233262594",
+		"in_reply_to_user_id": 65215093,
+		"in_reply_to_user_id_str": "65215093",
+		"in_reply_to_screen_name": "thecinemadoctor",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thecinemadoctor good lord cleveland is involved??!! 😂🤣"
+	},
+	{
+		"created_at": "Sun Apr 25 02:06:58 +0000 2021",
+		"id": 1386139641275981800,
+		"id_str": "1386139641275981828",
+		"full_text": "@thecinemadoctor that bourbon is involved?...",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecinemadoctor",
+					"name": "Drew Morton",
+					"id": 65215093,
+					"id_str": "65215093",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386138663751360500,
+		"in_reply_to_status_id_str": "1386138663751360514",
+		"in_reply_to_user_id": 65215093,
+		"in_reply_to_user_id_str": "65215093",
+		"in_reply_to_screen_name": "thecinemadoctor",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thecinemadoctor that bourbon is involved?..."
+	},
+	{
+		"created_at": "Sun Apr 25 02:06:41 +0000 2021",
+		"id": 1386139569293254700,
+		"id_str": "1386139569293254658",
+		"full_text": "https://t.co/z6lvA9kmoN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386139559633752000,
+					"id_str": "1386139559633752066",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOld0WEAIsezk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOld0WEAIsezk.jpg",
+					"url": "https://t.co/z6lvA9kmoN",
+					"display_url": "pic.twitter.com/z6lvA9kmoN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139569293254658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 561,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 561,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386139559633752000,
+					"id_str": "1386139559633752066",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOld0WEAIsezk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOld0WEAIsezk.jpg",
+					"url": "https://t.co/z6lvA9kmoN",
+					"display_url": "pic.twitter.com/z6lvA9kmoN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139569293254658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 561,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 561,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139559730221000,
+					"id_str": "1386139559730221062",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOleLWEAY0E4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOleLWEAY0E4j.jpg",
+					"url": "https://t.co/z6lvA9kmoN",
+					"display_url": "pic.twitter.com/z6lvA9kmoN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139569293254658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139559847678000,
+					"id_str": "1386139559847677963",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOlenWUAsVnxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOlenWUAsVnxg.jpg",
+					"url": "https://t.co/z6lvA9kmoN",
+					"display_url": "pic.twitter.com/z6lvA9kmoN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139569293254658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 537,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 537,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139559944233000,
+					"id_str": "1386139559944232961",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOle-XoAEMeDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOle-XoAEMeDe.jpg",
+					"url": "https://t.co/z6lvA9kmoN",
+					"display_url": "pic.twitter.com/z6lvA9kmoN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139569293254658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 521,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 521,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139517535535000,
+		"in_reply_to_status_id_str": "1386139517535535104",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/z6lvA9kmoN"
+	},
+	{
+		"created_at": "Sun Apr 25 02:06:28 +0000 2021",
+		"id": 1386139517535535000,
+		"id_str": "1386139517535535104",
+		"full_text": "https://t.co/sxvr4CfedP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386139506185842700,
+					"id_str": "1386139506185842690",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOiWtXsAIXLbH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOiWtXsAIXLbH.jpg",
+					"url": "https://t.co/sxvr4CfedP",
+					"display_url": "pic.twitter.com/sxvr4CfedP",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139517535535104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386139506185842700,
+					"id_str": "1386139506185842690",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOiWtXsAIXLbH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOiWtXsAIXLbH.jpg",
+					"url": "https://t.co/sxvr4CfedP",
+					"display_url": "pic.twitter.com/sxvr4CfedP",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139517535535104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139506848436200,
+					"id_str": "1386139506848436224",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOiZLWEAAn5_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOiZLWEAAn5_M.jpg",
+					"url": "https://t.co/sxvr4CfedP",
+					"display_url": "pic.twitter.com/sxvr4CfedP",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139517535535104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 585,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139507003625500,
+					"id_str": "1386139507003625472",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOiZwWEAAUM11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOiZwWEAAUM11.jpg",
+					"url": "https://t.co/sxvr4CfedP",
+					"display_url": "pic.twitter.com/sxvr4CfedP",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139517535535104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139507184054300,
+					"id_str": "1386139507184054272",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOiabXMAAiqSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOiabXMAAiqSU.jpg",
+					"url": "https://t.co/sxvr4CfedP",
+					"display_url": "pic.twitter.com/sxvr4CfedP",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139517535535104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139403119169500,
+		"in_reply_to_status_id_str": "1386139403119169546",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/sxvr4CfedP"
+	},
+	{
+		"created_at": "Sun Apr 25 02:06:01 +0000 2021",
+		"id": 1386139403119169500,
+		"id_str": "1386139403119169546",
+		"full_text": "https://t.co/wwlCbwAM02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386139393157632000,
+					"id_str": "1386139393157632002",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyObxpWEAIstxN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyObxpWEAIstxN.jpg",
+					"url": "https://t.co/wwlCbwAM02",
+					"display_url": "pic.twitter.com/wwlCbwAM02",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139403119169546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386139393157632000,
+					"id_str": "1386139393157632002",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyObxpWEAIstxN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyObxpWEAIstxN.jpg",
+					"url": "https://t.co/wwlCbwAM02",
+					"display_url": "pic.twitter.com/wwlCbwAM02",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139403119169546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139393434529800,
+					"id_str": "1386139393434529793",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyObyrXMAEg3tW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyObyrXMAEg3tW.jpg",
+					"url": "https://t.co/wwlCbwAM02",
+					"display_url": "pic.twitter.com/wwlCbwAM02",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139403119169546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 475,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 404,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 475,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139393438650400,
+					"id_str": "1386139393438650369",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyObysWEAEDWSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyObysWEAEDWSg.jpg",
+					"url": "https://t.co/wwlCbwAM02",
+					"display_url": "pic.twitter.com/wwlCbwAM02",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139403119169546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139393484902400,
+					"id_str": "1386139393484902411",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOby3X0AsHxbJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOby3X0AsHxbJ.jpg",
+					"url": "https://t.co/wwlCbwAM02",
+					"display_url": "pic.twitter.com/wwlCbwAM02",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139403119169546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139211108130800,
+		"in_reply_to_status_id_str": "1386139211108130816",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wwlCbwAM02"
+	},
+	{
+		"created_at": "Sun Apr 25 02:05:54 +0000 2021",
+		"id": 1386139374740459500,
+		"id_str": "1386139374740459521",
+		"full_text": "https://t.co/3i9EqphC37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386139322370437000,
+					"id_str": "1386139322370437122",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOXp8XMAIYtdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOXp8XMAIYtdj.jpg",
+					"url": "https://t.co/3i9EqphC37",
+					"display_url": "pic.twitter.com/3i9EqphC37",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139374740459521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386139322370437000,
+					"id_str": "1386139322370437122",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOXp8XMAIYtdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOXp8XMAIYtdj.jpg",
+					"url": "https://t.co/3i9EqphC37",
+					"display_url": "pic.twitter.com/3i9EqphC37",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139374740459521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139322492018700,
+					"id_str": "1386139322492018688",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOXqZWYAAYtMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOXqZWYAAYtMn.jpg",
+					"url": "https://t.co/3i9EqphC37",
+					"display_url": "pic.twitter.com/3i9EqphC37",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139374740459521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 443,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 377,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 443,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139322563403800,
+					"id_str": "1386139322563403777",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOXqqXoAE6UbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOXqqXoAE6UbK.jpg",
+					"url": "https://t.co/3i9EqphC37",
+					"display_url": "pic.twitter.com/3i9EqphC37",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139374740459521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 548,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139322655682600,
+					"id_str": "1386139322655682566",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOXrAXsAYccnE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOXrAXsAYccnE.jpg",
+					"url": "https://t.co/3i9EqphC37",
+					"display_url": "pic.twitter.com/3i9EqphC37",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139374740459521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 424,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139211108130800,
+		"in_reply_to_status_id_str": "1386139211108130816",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3i9EqphC37"
+	},
+	{
+		"created_at": "Sun Apr 25 02:05:33 +0000 2021",
+		"id": 1386139283958943700,
+		"id_str": "1386139283958943745",
+		"full_text": "https://t.co/S3Q8v0Edp7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386139272118476800,
+					"id_str": "1386139272118476801",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOUuvXIAEJXtV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOUuvXIAEJXtV.jpg",
+					"url": "https://t.co/S3Q8v0Edp7",
+					"display_url": "pic.twitter.com/S3Q8v0Edp7",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139283958943745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386139272118476800,
+					"id_str": "1386139272118476801",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOUuvXIAEJXtV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOUuvXIAEJXtV.jpg",
+					"url": "https://t.co/S3Q8v0Edp7",
+					"display_url": "pic.twitter.com/S3Q8v0Edp7",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139283958943745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 456,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139272135200800,
+					"id_str": "1386139272135200776",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOUuzWUAgGy_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOUuzWUAgGy_1.jpg",
+					"url": "https://t.co/S3Q8v0Edp7",
+					"display_url": "pic.twitter.com/S3Q8v0Edp7",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139283958943745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 513,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 513,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139272340770800,
+					"id_str": "1386139272340770817",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOUvkXEAEJtYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOUvkXEAEJtYl.jpg",
+					"url": "https://t.co/S3Q8v0Edp7",
+					"display_url": "pic.twitter.com/S3Q8v0Edp7",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139283958943745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 432,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139272437280800,
+					"id_str": "1386139272437280771",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOUv7XsAMcKeO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOUv7XsAMcKeO.jpg",
+					"url": "https://t.co/S3Q8v0Edp7",
+					"display_url": "pic.twitter.com/S3Q8v0Edp7",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139283958943745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 446,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 446,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139211108130800,
+		"in_reply_to_status_id_str": "1386139211108130816",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/S3Q8v0Edp7"
+	},
+	{
+		"created_at": "Sun Apr 25 02:05:24 +0000 2021",
+		"id": 1386139248802373600,
+		"id_str": "1386139248802373635",
+		"full_text": "https://t.co/Nz9TzvggFb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386139241252638700,
+					"id_str": "1386139241252638726",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOS7wX0AYZDLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOS7wX0AYZDLA.jpg",
+					"url": "https://t.co/Nz9TzvggFb",
+					"display_url": "pic.twitter.com/Nz9TzvggFb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139248802373635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 491,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 491,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386139241252638700,
+					"id_str": "1386139241252638726",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOS7wX0AYZDLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOS7wX0AYZDLA.jpg",
+					"url": "https://t.co/Nz9TzvggFb",
+					"display_url": "pic.twitter.com/Nz9TzvggFb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139248802373635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 491,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 491,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139241340625000,
+					"id_str": "1386139241340624897",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOS8FWYAEOvvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOS8FWYAEOvvo.jpg",
+					"url": "https://t.co/Nz9TzvggFb",
+					"display_url": "pic.twitter.com/Nz9TzvggFb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139248802373635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 485,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 485,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139241500094500,
+					"id_str": "1386139241500094467",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOS8rXsAMHPmU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOS8rXsAMHPmU.jpg",
+					"url": "https://t.co/Nz9TzvggFb",
+					"display_url": "pic.twitter.com/Nz9TzvggFb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139248802373635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 611,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 611,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139241592332300,
+					"id_str": "1386139241592332289",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOS9BXIAECsDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOS9BXIAECsDJ.jpg",
+					"url": "https://t.co/Nz9TzvggFb",
+					"display_url": "pic.twitter.com/Nz9TzvggFb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139248802373635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 590,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139211108130800,
+		"in_reply_to_status_id_str": "1386139211108130816",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Nz9TzvggFb"
+	},
+	{
+		"created_at": "Sun Apr 25 02:05:15 +0000 2021",
+		"id": 1386139211108130800,
+		"id_str": "1386139211108130816",
+		"full_text": "https://t.co/Qdji8A62gk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386139202396606500,
+					"id_str": "1386139202396606473",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOQrAX0AkhAg0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOQrAX0AkhAg0.jpg",
+					"url": "https://t.co/Qdji8A62gk",
+					"display_url": "pic.twitter.com/Qdji8A62gk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139211108130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 469,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 469,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386139202396606500,
+					"id_str": "1386139202396606473",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOQrAX0AkhAg0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOQrAX0AkhAg0.jpg",
+					"url": "https://t.co/Qdji8A62gk",
+					"display_url": "pic.twitter.com/Qdji8A62gk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139211108130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 469,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 469,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139202526589000,
+					"id_str": "1386139202526588931",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOQrfXMAM21xf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOQrfXMAM21xf.png",
+					"url": "https://t.co/Qdji8A62gk",
+					"display_url": "pic.twitter.com/Qdji8A62gk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139211108130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 462,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 462,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1386139202623099000,
+					"id_str": "1386139202623098885",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOQr2X0AUrog5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOQr2X0AUrog5.jpg",
+					"url": "https://t.co/Qdji8A62gk",
+					"display_url": "pic.twitter.com/Qdji8A62gk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139211108130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 401,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386139202732138500,
+					"id_str": "1386139202732138497",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyOQsQXoAE4I70.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyOQsQXoAE4I70.jpg",
+					"url": "https://t.co/Qdji8A62gk",
+					"display_url": "pic.twitter.com/Qdji8A62gk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139211108130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 516,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 516,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386139157626564600,
+		"in_reply_to_status_id_str": "1386139157626564611",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Qdji8A62gk"
+	},
+	{
+		"created_at": "Sun Apr 25 02:05:03 +0000 2021",
+		"id": 1386139157626564600,
+		"id_str": "1386139157626564611",
+		"full_text": "https://t.co/1SUDOsbOK4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386134301041909800,
+					"id_str": "1386134301041909766",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyJzYCWYAYHyVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyJzYCWYAYHyVn.jpg",
+					"url": "https://t.co/1SUDOsbOK4",
+					"display_url": "pic.twitter.com/1SUDOsbOK4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139157626564611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 544,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 544,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386134301041909800,
+					"id_str": "1386134301041909766",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyJzYCWYAYHyVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyJzYCWYAYHyVn.jpg",
+					"url": "https://t.co/1SUDOsbOK4",
+					"display_url": "pic.twitter.com/1SUDOsbOK4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139157626564611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 544,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 544,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386134301218115600,
+					"id_str": "1386134301218115584",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyJzYsXEAAFC5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyJzYsXEAAFC5z.jpg",
+					"url": "https://t.co/1SUDOsbOK4",
+					"display_url": "pic.twitter.com/1SUDOsbOK4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139157626564611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386134301297807400,
+					"id_str": "1386134301297807360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyJzY_XEAAZD5i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyJzY_XEAAZD5i.jpg",
+					"url": "https://t.co/1SUDOsbOK4",
+					"display_url": "pic.twitter.com/1SUDOsbOK4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139157626564611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 366,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386134301452931000,
+					"id_str": "1386134301452931076",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyJzZkWEAQX9Tk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyJzZkWEAQX9Tk.jpg",
+					"url": "https://t.co/1SUDOsbOK4",
+					"display_url": "pic.twitter.com/1SUDOsbOK4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386139157626564611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 451,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 451,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386134093889511400,
+		"in_reply_to_status_id_str": "1386134093889511427",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/1SUDOsbOK4"
+	},
+	{
+		"created_at": "Sun Apr 25 01:44:55 +0000 2021",
+		"id": 1386134093889511400,
+		"id_str": "1386134093889511427",
+		"full_text": "https://t.co/FPFDAkSdru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386131851216105500,
+					"id_str": "1386131851216105474",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHkxuXMAIEhTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHkxuXMAIEhTQ.jpg",
+					"url": "https://t.co/FPFDAkSdru",
+					"display_url": "pic.twitter.com/FPFDAkSdru",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386134093889511427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386131851216105500,
+					"id_str": "1386131851216105474",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHkxuXMAIEhTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHkxuXMAIEhTQ.jpg",
+					"url": "https://t.co/FPFDAkSdru",
+					"display_url": "pic.twitter.com/FPFDAkSdru",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386134093889511427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386131851325149200,
+					"id_str": "1386131851325149184",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHkyIXEAAp6iY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHkyIXEAAp6iY.jpg",
+					"url": "https://t.co/FPFDAkSdru",
+					"display_url": "pic.twitter.com/FPFDAkSdru",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386134093889511427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386131851430006800,
+					"id_str": "1386131851430006785",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHkyhXEAE24oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHkyhXEAE24oo.jpg",
+					"url": "https://t.co/FPFDAkSdru",
+					"display_url": "pic.twitter.com/FPFDAkSdru",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386134093889511427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 445,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 445,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386131851526426600,
+					"id_str": "1386131851526426624",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHky4WUAAgsuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHky4WUAAgsuC.jpg",
+					"url": "https://t.co/FPFDAkSdru",
+					"display_url": "pic.twitter.com/FPFDAkSdru",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386134093889511427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386131823479165000,
+		"in_reply_to_status_id_str": "1386131823479164931",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/FPFDAkSdru"
+	},
+	{
+		"created_at": "Sun Apr 25 01:44:22 +0000 2021",
+		"id": 1386133952306598000,
+		"id_str": "1386133952306597893",
+		"full_text": "@thecinemadoctor i...... don't know how i feel about this!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecinemadoctor",
+					"name": "Drew Morton",
+					"id": 65215093,
+					"id_str": "65215093",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386132234269122600,
+		"in_reply_to_status_id_str": "1386132234269122562",
+		"in_reply_to_user_id": 65215093,
+		"in_reply_to_user_id_str": "65215093",
+		"in_reply_to_screen_name": "thecinemadoctor",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thecinemadoctor i...... don't know how i feel about this!"
+	},
+	{
+		"created_at": "Sun Apr 25 01:35:54 +0000 2021",
+		"id": 1386131823479165000,
+		"id_str": "1386131823479164931",
+		"full_text": "https://t.co/dSHDEutqNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386131526023270400,
+					"id_str": "1386131526023270404",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHR2SWUAQiswx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHR2SWUAQiswx.jpg",
+					"url": "https://t.co/dSHDEutqNR",
+					"display_url": "pic.twitter.com/dSHDEutqNR",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386131823479164931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386131526023270400,
+					"id_str": "1386131526023270404",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHR2SWUAQiswx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHR2SWUAQiswx.jpg",
+					"url": "https://t.co/dSHDEutqNR",
+					"display_url": "pic.twitter.com/dSHDEutqNR",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386131823479164931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386131526035849200,
+					"id_str": "1386131526035849218",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHR2VWQAIbU4K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHR2VWQAIbU4K.jpg",
+					"url": "https://t.co/dSHDEutqNR",
+					"display_url": "pic.twitter.com/dSHDEutqNR",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386131823479164931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386131526044246000,
+					"id_str": "1386131526044246020",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHR2XWYAQ2wco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHR2XWYAQ2wco.jpg",
+					"url": "https://t.co/dSHDEutqNR",
+					"display_url": "pic.twitter.com/dSHDEutqNR",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386131823479164931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386131526027518000,
+					"id_str": "1386131526027517952",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyHR2TXIAA4KWD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyHR2TXIAA4KWD.jpg",
+					"url": "https://t.co/dSHDEutqNR",
+					"display_url": "pic.twitter.com/dSHDEutqNR",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386131823479164931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 461,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 461,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386127927599898600,
+		"in_reply_to_status_id_str": "1386127927599898624",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/dSHDEutqNR"
+	},
+	{
+		"created_at": "Sun Apr 25 01:20:25 +0000 2021",
+		"id": 1386127927599898600,
+		"id_str": "1386127927599898624",
+		"full_text": "https://t.co/HQn59J8MU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386127887175139300,
+					"id_str": "1386127887175139334",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD-ChWQAYoebV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD-ChWQAYoebV.jpg",
+					"url": "https://t.co/HQn59J8MU6",
+					"display_url": "pic.twitter.com/HQn59J8MU6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127927599898624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386127887175139300,
+					"id_str": "1386127887175139334",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD-ChWQAYoebV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD-ChWQAYoebV.jpg",
+					"url": "https://t.co/HQn59J8MU6",
+					"display_url": "pic.twitter.com/HQn59J8MU6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127927599898624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127887284244500,
+					"id_str": "1386127887284244485",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD-C7XEAUn77N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD-C7XEAUn77N.jpg",
+					"url": "https://t.co/HQn59J8MU6",
+					"display_url": "pic.twitter.com/HQn59J8MU6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127927599898624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 425,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 361,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127887405928400,
+					"id_str": "1386127887405928455",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD-DYX0Acemi5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD-DYX0Acemi5.jpg",
+					"url": "https://t.co/HQn59J8MU6",
+					"display_url": "pic.twitter.com/HQn59J8MU6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127927599898624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 558,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 558,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127887506493400,
+					"id_str": "1386127887506493446",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD-DwWUAYUjbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD-DwWUAYUjbk.jpg",
+					"url": "https://t.co/HQn59J8MU6",
+					"display_url": "pic.twitter.com/HQn59J8MU6",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127927599898624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 435,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 370,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 435,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386127831655141400,
+		"in_reply_to_status_id_str": "1386127831655141380",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/HQn59J8MU6"
+	},
+	{
+		"created_at": "Sun Apr 25 01:20:02 +0000 2021",
+		"id": 1386127831655141400,
+		"id_str": "1386127831655141380",
+		"full_text": "https://t.co/p1XeB6GFKE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386127822763266000,
+					"id_str": "1386127822763266053",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD6SkXEAUQAHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD6SkXEAUQAHh.jpg",
+					"url": "https://t.co/p1XeB6GFKE",
+					"display_url": "pic.twitter.com/p1XeB6GFKE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127831655141380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 440,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 440,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386127822763266000,
+					"id_str": "1386127822763266053",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD6SkXEAUQAHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD6SkXEAUQAHh.jpg",
+					"url": "https://t.co/p1XeB6GFKE",
+					"display_url": "pic.twitter.com/p1XeB6GFKE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127831655141380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 440,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 440,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127822855577600,
+					"id_str": "1386127822855577600",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD6S6XoAAjlzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD6S6XoAAjlzF.jpg",
+					"url": "https://t.co/p1XeB6GFKE",
+					"display_url": "pic.twitter.com/p1XeB6GFKE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127831655141380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 469,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 469,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127822977179600,
+					"id_str": "1386127822977179648",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD6TXXIAAcb9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD6TXXIAAcb9U.jpg",
+					"url": "https://t.co/p1XeB6GFKE",
+					"display_url": "pic.twitter.com/p1XeB6GFKE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127831655141380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 496,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 496,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127823069397000,
+					"id_str": "1386127823069396993",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD6TtWQAE9ACY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD6TtWQAE9ACY.jpg",
+					"url": "https://t.co/p1XeB6GFKE",
+					"display_url": "pic.twitter.com/p1XeB6GFKE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127831655141380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 446,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 446,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386127788541886500,
+		"in_reply_to_status_id_str": "1386127788541886465",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/p1XeB6GFKE"
+	},
+	{
+		"created_at": "Sun Apr 25 01:19:52 +0000 2021",
+		"id": 1386127788541886500,
+		"id_str": "1386127788541886465",
+		"full_text": "https://t.co/e8RijTkfU2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386127778458783700,
+					"id_str": "1386127778458783746",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD3thWUAIt_oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD3thWUAIt_oo.jpg",
+					"url": "https://t.co/e8RijTkfU2",
+					"display_url": "pic.twitter.com/e8RijTkfU2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127788541886465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386127778458783700,
+					"id_str": "1386127778458783746",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD3thWUAIt_oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD3thWUAIt_oo.jpg",
+					"url": "https://t.co/e8RijTkfU2",
+					"display_url": "pic.twitter.com/e8RijTkfU2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127788541886465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127778471362600,
+					"id_str": "1386127778471362560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD3tkWQAAFH2_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD3tkWQAAFH2_.jpg",
+					"url": "https://t.co/e8RijTkfU2",
+					"display_url": "pic.twitter.com/e8RijTkfU2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127788541886465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127778479759400,
+					"id_str": "1386127778479759362",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD3tmWYAIN1It.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD3tmWYAIN1It.jpg",
+					"url": "https://t.co/e8RijTkfU2",
+					"display_url": "pic.twitter.com/e8RijTkfU2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127788541886465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386127778496618500,
+					"id_str": "1386127778496618503",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyD3tqXoAccdJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyD3tqXoAccdJp.jpg",
+					"url": "https://t.co/e8RijTkfU2",
+					"display_url": "pic.twitter.com/e8RijTkfU2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386127788541886465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 561,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 561,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386123700077043700,
+		"in_reply_to_status_id_str": "1386123700077043714",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/e8RijTkfU2"
+	},
+	{
+		"created_at": "Sun Apr 25 01:03:37 +0000 2021",
+		"id": 1386123700077043700,
+		"id_str": "1386123700077043714",
+		"full_text": "https://t.co/UnwuA53C2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386123678405079000,
+					"id_str": "1386123678405079041",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyAJDoXsAEf1sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyAJDoXsAEf1sy.jpg",
+					"url": "https://t.co/UnwuA53C2R",
+					"display_url": "pic.twitter.com/UnwuA53C2R",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123700077043714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 441,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 441,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386123678405079000,
+					"id_str": "1386123678405079041",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyAJDoXsAEf1sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyAJDoXsAEf1sy.jpg",
+					"url": "https://t.co/UnwuA53C2R",
+					"display_url": "pic.twitter.com/UnwuA53C2R",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123700077043714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 441,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 441,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386123678522482700,
+					"id_str": "1386123678522482688",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyAJEEXIAAS6v6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyAJEEXIAAS6v6.jpg",
+					"url": "https://t.co/UnwuA53C2R",
+					"display_url": "pic.twitter.com/UnwuA53C2R",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123700077043714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 392,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 461,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 461,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386123678648242200,
+					"id_str": "1386123678648242176",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyAJEiWEAAzqg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyAJEiWEAAzqg7.jpg",
+					"url": "https://t.co/UnwuA53C2R",
+					"display_url": "pic.twitter.com/UnwuA53C2R",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123700077043714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 491,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 491,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386123678757363700,
+					"id_str": "1386123678757363712",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzyAJE8XIAAEvxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzyAJE8XIAAEvxp.jpg",
+					"url": "https://t.co/UnwuA53C2R",
+					"display_url": "pic.twitter.com/UnwuA53C2R",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123700077043714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 499,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 499,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386123555641991200,
+		"in_reply_to_status_id_str": "1386123555641991169",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/UnwuA53C2R"
+	},
+	{
+		"created_at": "Sun Apr 25 01:03:03 +0000 2021",
+		"id": 1386123555641991200,
+		"id_str": "1386123555641991169",
+		"full_text": "https://t.co/9o7MSbpGnk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386121457160315000,
+					"id_str": "1386121457160314880",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-Hw2WYAAx4bq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-Hw2WYAAx4bq.jpg",
+					"url": "https://t.co/9o7MSbpGnk",
+					"display_url": "pic.twitter.com/9o7MSbpGnk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123555641991169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386121457160315000,
+					"id_str": "1386121457160314880",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-Hw2WYAAx4bq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-Hw2WYAAx4bq.jpg",
+					"url": "https://t.co/9o7MSbpGnk",
+					"display_url": "pic.twitter.com/9o7MSbpGnk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123555641991169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386121457177186300,
+					"id_str": "1386121457177186305",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-Hw6X0AEMLV9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-Hw6X0AEMLV9.jpg",
+					"url": "https://t.co/9o7MSbpGnk",
+					"display_url": "pic.twitter.com/9o7MSbpGnk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123555641991169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 438,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 438,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386121457378410500,
+					"id_str": "1386121457378410498",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-HxqWQAI3hmx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-HxqWQAI3hmx.jpg",
+					"url": "https://t.co/9o7MSbpGnk",
+					"display_url": "pic.twitter.com/9o7MSbpGnk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123555641991169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 352,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 352,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 299,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386121457479168000,
+					"id_str": "1386121457479168000",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-HyCXsAAb0DP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-HyCXsAAb0DP.jpg",
+					"url": "https://t.co/9o7MSbpGnk",
+					"display_url": "pic.twitter.com/9o7MSbpGnk",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386123555641991169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 617,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 617,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386121401275494400,
+		"in_reply_to_status_id_str": "1386121401275494404",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/9o7MSbpGnk"
+	},
+	{
+		"created_at": "Sun Apr 25 00:54:29 +0000 2021",
+		"id": 1386121401275494400,
+		"id_str": "1386121401275494404",
+		"full_text": "https://t.co/MdyJR8SgYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386121358275457000,
+					"id_str": "1386121358275457028",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-CAeXMAQ_qU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-CAeXMAQ_qU_.jpg",
+					"url": "https://t.co/MdyJR8SgYb",
+					"display_url": "pic.twitter.com/MdyJR8SgYb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121401275494404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 505,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 505,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386121358275457000,
+					"id_str": "1386121358275457028",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-CAeXMAQ_qU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-CAeXMAQ_qU_.jpg",
+					"url": "https://t.co/MdyJR8SgYb",
+					"display_url": "pic.twitter.com/MdyJR8SgYb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121401275494404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 505,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 505,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386121358392926200,
+					"id_str": "1386121358392926215",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-CA6XoAcIuvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-CA6XoAcIuvJ.jpg",
+					"url": "https://t.co/MdyJR8SgYb",
+					"display_url": "pic.twitter.com/MdyJR8SgYb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121401275494404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386121358481010700,
+					"id_str": "1386121358481010695",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-CBPXsAc76pX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-CBPXsAc76pX.jpg",
+					"url": "https://t.co/MdyJR8SgYb",
+					"display_url": "pic.twitter.com/MdyJR8SgYb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121401275494404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386121358573248500,
+					"id_str": "1386121358573248515",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezx-CBlXIAM_UHX.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ezx-CBlXIAM_UHX.png",
+					"url": "https://t.co/MdyJR8SgYb",
+					"display_url": "pic.twitter.com/MdyJR8SgYb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121401275494404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 435,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 370,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 435,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386121259583426600,
+		"in_reply_to_status_id_str": "1386121259583426571",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MdyJR8SgYb"
+	},
+	{
+		"created_at": "Sun Apr 25 00:53:55 +0000 2021",
+		"id": 1386121259583426600,
+		"id_str": "1386121259583426571",
+		"full_text": "https://t.co/QxQjQ5YLg2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386101194066735000,
+					"id_str": "1386101194066735111",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrsS8XsAck_8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrsS8XsAck_8v.jpg",
+					"url": "https://t.co/QxQjQ5YLg2",
+					"display_url": "pic.twitter.com/QxQjQ5YLg2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121259583426571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 571,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386101194066735000,
+					"id_str": "1386101194066735111",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrsS8XsAck_8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrsS8XsAck_8v.jpg",
+					"url": "https://t.co/QxQjQ5YLg2",
+					"display_url": "pic.twitter.com/QxQjQ5YLg2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121259583426571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 571,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386101194179977200,
+					"id_str": "1386101194179977219",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrsTXXoAMV3-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrsTXXoAMV3-p.jpg",
+					"url": "https://t.co/QxQjQ5YLg2",
+					"display_url": "pic.twitter.com/QxQjQ5YLg2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121259583426571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 459,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386101194339332000,
+					"id_str": "1386101194339332099",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrsT9XMAMfiBM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrsT9XMAMfiBM.jpg",
+					"url": "https://t.co/QxQjQ5YLg2",
+					"display_url": "pic.twitter.com/QxQjQ5YLg2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121259583426571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386101194452619300,
+					"id_str": "1386101194452619264",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrsUYX0AAZJKu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrsUYX0AAZJKu.jpg",
+					"url": "https://t.co/QxQjQ5YLg2",
+					"display_url": "pic.twitter.com/QxQjQ5YLg2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386121259583426571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386101090253475800,
+		"in_reply_to_status_id_str": "1386101090253475842",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QxQjQ5YLg2"
+	},
+	{
+		"created_at": "Sat Apr 24 23:33:47 +0000 2021",
+		"id": 1386101090253475800,
+		"id_str": "1386101090253475842",
+		"full_text": "https://t.co/G61mbo44iX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386100439079391200,
+					"id_str": "1386100439079391232",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrAWZXEAAieJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrAWZXEAAieJf.jpg",
+					"url": "https://t.co/G61mbo44iX",
+					"display_url": "pic.twitter.com/G61mbo44iX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386101090253475842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386100439079391200,
+					"id_str": "1386100439079391232",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrAWZXEAAieJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrAWZXEAAieJf.jpg",
+					"url": "https://t.co/G61mbo44iX",
+					"display_url": "pic.twitter.com/G61mbo44iX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386101090253475842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386100439507251200,
+					"id_str": "1386100439507251200",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrAX_XsAAHtBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrAX_XsAAHtBt.jpg",
+					"url": "https://t.co/G61mbo44iX",
+					"display_url": "pic.twitter.com/G61mbo44iX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386101090253475842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 477,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 477,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386100439662350300,
+					"id_str": "1386100439662350337",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrAYkWUAEBwCd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrAYkWUAEBwCd.jpg",
+					"url": "https://t.co/G61mbo44iX",
+					"display_url": "pic.twitter.com/G61mbo44iX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386101090253475842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 556,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 556,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386100439809155000,
+					"id_str": "1386100439809155073",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxrAZHWYAENARQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxrAZHWYAENARQ.jpg",
+					"url": "https://t.co/G61mbo44iX",
+					"display_url": "pic.twitter.com/G61mbo44iX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386101090253475842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 483,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 483,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 411,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386099410250109000,
+		"in_reply_to_status_id_str": "1386099410250108929",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/G61mbo44iX"
+	},
+	{
+		"created_at": "Sat Apr 24 23:27:06 +0000 2021",
+		"id": 1386099410250109000,
+		"id_str": "1386099410250108929",
+		"full_text": "https://t.co/EVAHcKr9JY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386099406433362000,
+					"id_str": "1386099406433361921",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxqEPfXIAEfCd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxqEPfXIAEfCd-.jpg",
+					"url": "https://t.co/EVAHcKr9JY",
+					"display_url": "pic.twitter.com/EVAHcKr9JY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099410250108929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386099406433362000,
+					"id_str": "1386099406433361921",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxqEPfXIAEfCd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxqEPfXIAEfCd-.jpg",
+					"url": "https://t.co/EVAHcKr9JY",
+					"display_url": "pic.twitter.com/EVAHcKr9JY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099410250108929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099406580195300,
+					"id_str": "1386099406580195330",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxqEQCXoAIoH8-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxqEQCXoAIoH8-.jpg",
+					"url": "https://t.co/EVAHcKr9JY",
+					"display_url": "pic.twitter.com/EVAHcKr9JY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099410250108929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 481,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 481,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099406747877400,
+					"id_str": "1386099406747877390",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxqEQqWQA4DEr-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxqEQqWQA4DEr-.jpg",
+					"url": "https://t.co/EVAHcKr9JY",
+					"display_url": "pic.twitter.com/EVAHcKr9JY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099410250108929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 432,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099406953406500,
+					"id_str": "1386099406953406469",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxqERbWYAU6V4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxqERbWYAU6V4l.jpg",
+					"url": "https://t.co/EVAHcKr9JY",
+					"display_url": "pic.twitter.com/EVAHcKr9JY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099410250108929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 497,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 497,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386099308165046300,
+		"in_reply_to_status_id_str": "1386099308165046277",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/EVAHcKr9JY"
+	},
+	{
+		"created_at": "Sat Apr 24 23:26:42 +0000 2021",
+		"id": 1386099308165046300,
+		"id_str": "1386099308165046277",
+		"full_text": "https://t.co/zhzel49U9W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386099295586291700,
+					"id_str": "1386099295586291714",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp9yjXEAI7lrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp9yjXEAI7lrf.jpg",
+					"url": "https://t.co/zhzel49U9W",
+					"display_url": "pic.twitter.com/zhzel49U9W",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099308165046277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 481,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 481,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386099295586291700,
+					"id_str": "1386099295586291714",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp9yjXEAI7lrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp9yjXEAI7lrf.jpg",
+					"url": "https://t.co/zhzel49U9W",
+					"display_url": "pic.twitter.com/zhzel49U9W",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099308165046277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 481,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 481,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099295733043200,
+					"id_str": "1386099295733043204",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp9zGWUAQfsL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp9zGWUAQfsL4.jpg",
+					"url": "https://t.co/zhzel49U9W",
+					"display_url": "pic.twitter.com/zhzel49U9W",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099308165046277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 401,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099295976317000,
+					"id_str": "1386099295976316935",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp90AWYAcatPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp90AWYAcatPg.jpg",
+					"url": "https://t.co/zhzel49U9W",
+					"display_url": "pic.twitter.com/zhzel49U9W",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099308165046277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 509,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 509,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099296114811000,
+					"id_str": "1386099296114810884",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp90hXoAQkKUv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp90hXoAQkKUv.jpg",
+					"url": "https://t.co/zhzel49U9W",
+					"display_url": "pic.twitter.com/zhzel49U9W",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099308165046277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 349,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 411,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 411,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386099204343410700,
+		"in_reply_to_status_id_str": "1386099204343410689",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zhzel49U9W"
+	},
+	{
+		"created_at": "Sat Apr 24 23:26:17 +0000 2021",
+		"id": 1386099204343410700,
+		"id_str": "1386099204343410689",
+		"full_text": "https://t.co/y0nIYj17kj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386099155035164700,
+					"id_str": "1386099155035164676",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp1m9XEAQRwbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp1m9XEAQRwbu.jpg",
+					"url": "https://t.co/y0nIYj17kj",
+					"display_url": "pic.twitter.com/y0nIYj17kj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099204343410689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 413,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386099155035164700,
+					"id_str": "1386099155035164676",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp1m9XEAQRwbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp1m9XEAQRwbu.jpg",
+					"url": "https://t.co/y0nIYj17kj",
+					"display_url": "pic.twitter.com/y0nIYj17kj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099204343410689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 413,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099155165188000,
+					"id_str": "1386099155165188102",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp1ncXEAYrTbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp1ncXEAYrTbs.jpg",
+					"url": "https://t.co/y0nIYj17kj",
+					"display_url": "pic.twitter.com/y0nIYj17kj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099204343410689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 441,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 441,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099155282665500,
+					"id_str": "1386099155282665473",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp1n4XoAE7MBy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp1n4XoAE7MBy.jpg",
+					"url": "https://t.co/y0nIYj17kj",
+					"display_url": "pic.twitter.com/y0nIYj17kj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099204343410689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 539,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 539,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099155374944300,
+					"id_str": "1386099155374944257",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxp1oOXsAEBevU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxp1oOXsAEBevU.jpg",
+					"url": "https://t.co/y0nIYj17kj",
+					"display_url": "pic.twitter.com/y0nIYj17kj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099204343410689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 499,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 499,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386099114941849600,
+		"in_reply_to_status_id_str": "1386099114941849602",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/y0nIYj17kj"
+	},
+	{
+		"created_at": "Sat Apr 24 23:25:56 +0000 2021",
+		"id": 1386099114941849600,
+		"id_str": "1386099114941849602",
+		"full_text": "https://t.co/LHlWL4dvjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386099106037354500,
+					"id_str": "1386099106037354500",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxpywbX0AQf8xL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxpywbX0AQf8xL.jpg",
+					"url": "https://t.co/LHlWL4dvjN",
+					"display_url": "pic.twitter.com/LHlWL4dvjN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099114941849602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386099106037354500,
+					"id_str": "1386099106037354500",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxpywbX0AQf8xL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxpywbX0AQf8xL.jpg",
+					"url": "https://t.co/LHlWL4dvjN",
+					"display_url": "pic.twitter.com/LHlWL4dvjN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099114941849602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099106045640700,
+					"id_str": "1386099106045640704",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxpywdWQAAMA6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxpywdWQAAMA6K.jpg",
+					"url": "https://t.co/LHlWL4dvjN",
+					"display_url": "pic.twitter.com/LHlWL4dvjN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099114941849602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 462,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 462,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099106049835000,
+					"id_str": "1386099106049835008",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxpyweWQAAyOXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxpyweWQAAyOXY.jpg",
+					"url": "https://t.co/LHlWL4dvjN",
+					"display_url": "pic.twitter.com/LHlWL4dvjN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099114941849602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 465,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386099106049843200,
+					"id_str": "1386099106049843204",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxpyweWYAQ-g9S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxpyweWYAQ-g9S.jpg",
+					"url": "https://t.co/LHlWL4dvjN",
+					"display_url": "pic.twitter.com/LHlWL4dvjN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386099114941849602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 513,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 513,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386090520238252000,
+		"in_reply_to_status_id_str": "1386090520238252034",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/LHlWL4dvjN"
+	},
+	{
+		"created_at": "Sat Apr 24 22:54:49 +0000 2021",
+		"id": 1386091285518459000,
+		"id_str": "1386091285518458881",
+		"full_text": "showing youngest THE INCREDIBLE HULK, full chaos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "showing youngest THE INCREDIBLE HULK, full chaos"
+	},
+	{
+		"created_at": "Sat Apr 24 22:51:46 +0000 2021",
+		"id": 1386090520238252000,
+		"id_str": "1386090520238252034",
+		"full_text": "https://t.co/VZ7yl5pE6U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386090473194987500,
+					"id_str": "1386090473194987532",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxh8QlXIAwxrzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxh8QlXIAwxrzf.jpg",
+					"url": "https://t.co/VZ7yl5pE6U",
+					"display_url": "pic.twitter.com/VZ7yl5pE6U",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090520238252034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 477,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 477,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386090473194987500,
+					"id_str": "1386090473194987532",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxh8QlXIAwxrzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxh8QlXIAwxrzf.jpg",
+					"url": "https://t.co/VZ7yl5pE6U",
+					"display_url": "pic.twitter.com/VZ7yl5pE6U",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090520238252034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 477,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 477,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386090510578749400,
+					"id_str": "1386090510578749440",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxh-b2WEAAoP4G.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxh-b2WEAAoP4G.png",
+					"url": "https://t.co/VZ7yl5pE6U",
+					"display_url": "pic.twitter.com/VZ7yl5pE6U",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090520238252034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 215,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 215,
+							"h": 297,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 215,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1386090510767505400,
+					"id_str": "1386090510767505412",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxh-cjWQAQk7sN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxh-cjWQAQk7sN.jpg",
+					"url": "https://t.co/VZ7yl5pE6U",
+					"display_url": "pic.twitter.com/VZ7yl5pE6U",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090520238252034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 446,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 446,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386090510906019800,
+					"id_str": "1386090510906019841",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezxh-dEX0AEbI7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezxh-dEX0AEbI7k.jpg",
+					"url": "https://t.co/VZ7yl5pE6U",
+					"display_url": "pic.twitter.com/VZ7yl5pE6U",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090520238252034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 464,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 464,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386090340457885700,
+		"in_reply_to_status_id_str": "1386090340457885698",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/VZ7yl5pE6U"
+	},
+	{
+		"created_at": "Sat Apr 24 22:51:04 +0000 2021",
+		"id": 1386090340457885700,
+		"id_str": "1386090340457885698",
+		"full_text": "https://t.co/vurkXKNUfI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386090289991925800,
+					"id_str": "1386090289991925760",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxhxmGWQAAgg7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxhxmGWQAAgg7d.jpg",
+					"url": "https://t.co/vurkXKNUfI",
+					"display_url": "pic.twitter.com/vurkXKNUfI",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090340457885698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386090289991925800,
+					"id_str": "1386090289991925760",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxhxmGWQAAgg7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxhxmGWQAAgg7d.jpg",
+					"url": "https://t.co/vurkXKNUfI",
+					"display_url": "pic.twitter.com/vurkXKNUfI",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090340457885698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386090290180771800,
+					"id_str": "1386090290180771840",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxhxmzX0AALtr_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxhxmzX0AALtr_.jpg",
+					"url": "https://t.co/vurkXKNUfI",
+					"display_url": "pic.twitter.com/vurkXKNUfI",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090340457885698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 499,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 499,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386090290298097700,
+					"id_str": "1386090290298097669",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxhxnPWEAUdtjs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxhxnPWEAUdtjs.jpg",
+					"url": "https://t.co/vurkXKNUfI",
+					"display_url": "pic.twitter.com/vurkXKNUfI",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090340457885698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 547,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 547,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1386090290608492500,
+					"id_str": "1386090290608492564",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxhxoZWUBQYrNT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzxhxoZWUBQYrNT.png",
+					"url": "https://t.co/vurkXKNUfI",
+					"display_url": "pic.twitter.com/vurkXKNUfI",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386090340457885698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 473,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 473,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386086763609854000,
+		"in_reply_to_status_id_str": "1386086763609853953",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/vurkXKNUfI"
+	},
+	{
+		"created_at": "Sat Apr 24 22:36:51 +0000 2021",
+		"id": 1386086763609854000,
+		"id_str": "1386086763609853953",
+		"full_text": "https://t.co/IcwfT1GzqQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386086369185968000,
+					"id_str": "1386086369185968129",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxeNX9XMAEmOvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxeNX9XMAEmOvJ.jpg",
+					"url": "https://t.co/IcwfT1GzqQ",
+					"display_url": "pic.twitter.com/IcwfT1GzqQ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386086763609853953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1344,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386086369185968000,
+					"id_str": "1386086369185968129",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzxeNX9XMAEmOvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzxeNX9XMAEmOvJ.jpg",
+					"url": "https://t.co/IcwfT1GzqQ",
+					"display_url": "pic.twitter.com/IcwfT1GzqQ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386086763609853953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1344,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/IcwfT1GzqQ"
+	},
+	{
+		"created_at": "Sat Apr 24 20:28:46 +0000 2021",
+		"id": 1386019942466605000,
+		"id_str": "1386054530341744642",
+		"full_text": "DMX’s casket has arrived at Brooklyn’s Barclays Center on a massive monster truck for his memorial service https://t.co/Q2L7B2L04D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386017108350353400,
+					"id_str": "1386017108350353412",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1386017108350353412/pu/img/px-71I8FdVFpVJbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1386017108350353412/pu/img/px-71I8FdVFpVJbQ.jpg",
+					"url": "https://t.co/Q2L7B2L04D",
+					"display_url": "pic.twitter.com/Q2L7B2L04D",
+					"expanded_url": "https://twitter.com/2Cool2BIog/status/1386017183856267271/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1386017183856267300,
+					"source_status_id_str": "1386017183856267271",
+					"source_user_id": 1121940020619894800,
+					"source_user_id_str": "1121940020619894786"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386017108350353400,
+					"id_str": "1386017108350353412",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1386017108350353412/pu/img/px-71I8FdVFpVJbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1386017108350353412/pu/img/px-71I8FdVFpVJbQ.jpg",
+					"url": "https://t.co/Q2L7B2L04D",
+					"display_url": "pic.twitter.com/Q2L7B2L04D",
+					"expanded_url": "https://twitter.com/2Cool2BIog/status/1386017183856267271/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1386017183856267300,
+					"source_status_id_str": "1386017183856267271",
+					"source_user_id": 1121940020619894800,
+					"source_user_id_str": "1121940020619894786",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 41000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1386017108350353412/pu/vid/320x400/lH9pkyN5iz-TmC2O.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1386017108350353412/pu/vid/640x800/fsQJQ3E6f0Wsp91T.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1386017108350353412/pu/pl/YievxU7-yj5mWnjT.m3u8?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1386017108350353412/pu/vid/480x600/ERo7XWT95Pa9TLrf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1121940020619894800,
+							"id_str": "1121940020619894786",
+							"name": "2Cool2Blog",
+							"screen_name": "2Cool2BIog",
+							"location": "",
+							"description": "TURN ON POST NOTIFICATIONS 🔥 🚨 Business Email 2Cool2blog@Gmail.com",
+							"url": "https://t.co/gWAK91EIGW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/gWAK91EIGW",
+											"expanded_url": "https://m.youtube.com/c/2cool2Blog",
+											"display_url": "m.youtube.com/c/2cool2Blog",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9345,
+							"friends_count": 6,
+							"listed_count": 54,
+							"created_at": "Sat Apr 27 00:52:00 +0000 2019",
+							"favourites_count": 13,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 1694,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1121940193383190529/K4TQqKzE_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121940193383190529/K4TQqKzE_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286998245,
+			"id_str": "286998245",
+			"name": "philip lewis",
+			"screen_name": "Phil_Lewis_",
+			"location": "Washington, DC",
+			"description": "detroit native. senior front page editor @huffpost.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162616,
+			"friends_count": 2383,
+			"listed_count": 1460,
+			"created_at": "Sun Apr 24 03:45:44 +0000 2011",
+			"favourites_count": 18867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 206202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367933008616038403/pY-eIQWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367933008616038403/pY-eIQWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/286998245/1590459223",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17543,
+		"favorite_count": 69742,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DMX’s casket has arrived at Brooklyn’s Barclays Center on a massive monster truck for his memorial service https://t.co/Q2L7B2L04D"
+	},
+	{
+		"created_at": "Sat Apr 24 19:57:47 +0000 2021",
+		"id": 1386046731926839300,
+		"id_str": "1386046731926839296",
+		"full_text": "@michaelddwyer yeah... I mean it's definitely a baseball field. We were near midfield, they had every other row blocked off. Much more manageable now than it was pre-covid, altho a quieter fan energy https://t.co/syUj04DyEL",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelddwyer",
+					"name": "Michael D. Dwyer",
+					"id": 70176192,
+					"id_str": "70176192",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386046723265532000,
+					"id_str": "1386046723265531906",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezw6JrZWEAImYHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezw6JrZWEAImYHy.jpg",
+					"url": "https://t.co/syUj04DyEL",
+					"display_url": "pic.twitter.com/syUj04DyEL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386046731926839296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386046723265532000,
+					"id_str": "1386046723265531906",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezw6JrZWEAImYHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezw6JrZWEAImYHy.jpg",
+					"url": "https://t.co/syUj04DyEL",
+					"display_url": "pic.twitter.com/syUj04DyEL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386046731926839296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386041026461278200,
+		"in_reply_to_status_id_str": "1386041026461278214",
+		"in_reply_to_user_id": 70176192,
+		"in_reply_to_user_id_str": "70176192",
+		"in_reply_to_screen_name": "michaelddwyer",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@michaelddwyer yeah... I mean it's definitely a baseball field. We were near midfield, they had every other row blocked off. Much more manageable now than it was pre-covid, altho a quieter fan energy https://t.co/syUj04DyEL"
+	},
+	{
+		"created_at": "Sat Apr 24 19:15:54 +0000 2021",
+		"id": 1386036192903303200,
+		"id_str": "1386036192903303169",
+		"full_text": "5-0 lolol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386004045773561900,
+		"in_reply_to_status_id_str": "1386004045773561858",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "5-0 lolol"
+	},
+	{
+		"created_at": "Sat Apr 24 17:08:09 +0000 2021",
+		"id": 1386004045773561900,
+		"id_str": "1386004045773561858",
+		"full_text": "let's gooooooooo https://t.co/CPSV3QCJ9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386004043177382000,
+					"id_str": "1386004043177381896",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EzwTVXrX0Agwums.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzwTVXrX0Agwums.jpg",
+					"url": "https://t.co/CPSV3QCJ9u",
+					"display_url": "pic.twitter.com/CPSV3QCJ9u",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386004045773561858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386004043177382000,
+					"id_str": "1386004043177381896",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EzwTVXrX0Agwums.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzwTVXrX0Agwums.jpg",
+					"url": "https://t.co/CPSV3QCJ9u",
+					"display_url": "pic.twitter.com/CPSV3QCJ9u",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1386004045773561858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "let's gooooooooo https://t.co/CPSV3QCJ9u"
+	},
+	{
+		"created_at": "Sat Apr 24 16:56:16 +0000 2021",
+		"id": 1386001053792063500,
+		"id_str": "1386001053792063492",
+		"full_text": "@jotorresbarth @elizabethalsop Ohhh wow!!!",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jotorresbarth",
+					"name": "Putting the stan in Barbara Stanwyck",
+					"id": 2416325208,
+					"id_str": "2416325208",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "elizabethalsop",
+					"name": "Elizabeth Alsop",
+					"id": 380135452,
+					"id_str": "380135452",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385998053287596000,
+		"in_reply_to_status_id_str": "1385998053287596034",
+		"in_reply_to_user_id": 2416325208,
+		"in_reply_to_user_id_str": "2416325208",
+		"in_reply_to_screen_name": "jotorresbarth",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jotorresbarth @elizabethalsop Ohhh wow!!!"
+	},
+	{
+		"created_at": "Sat Apr 24 15:59:45 +0000 2021",
+		"id": 1385986831733436400,
+		"id_str": "1385986831733436421",
+		"full_text": "@elizabethalsop Always!!!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizabethalsop",
+					"name": "Elizabeth Alsop",
+					"id": 380135452,
+					"id_str": "380135452",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385984814772281300,
+		"in_reply_to_status_id_str": "1385984814772281346",
+		"in_reply_to_user_id": 380135452,
+		"in_reply_to_user_id_str": "380135452",
+		"in_reply_to_screen_name": "elizabethalsop",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@elizabethalsop Always!!!"
+	},
+	{
+		"created_at": "Sat Apr 24 15:47:44 +0000 2021",
+		"id": 1385983807745052700,
+		"id_str": "1385983807745052675",
+		"full_text": "@elizabethalsop Oooooh do I sell shit or buy shit",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizabethalsop",
+					"name": "Elizabeth Alsop",
+					"id": 380135452,
+					"id_str": "380135452",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385981734374740000,
+		"in_reply_to_status_id_str": "1385981734374739974",
+		"in_reply_to_user_id": 380135452,
+		"in_reply_to_user_id_str": "380135452",
+		"in_reply_to_screen_name": "elizabethalsop",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@elizabethalsop Oooooh do I sell shit or buy shit"
+	},
+	{
+		"created_at": "Sat Apr 24 15:27:39 +0000 2021",
+		"id": 1385978751566164000,
+		"id_str": "1385978751566163974",
+		"full_text": "@jotorresbarth @elizabethalsop wait... did you used to live in ditmas!?!",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jotorresbarth",
+					"name": "Putting the stan in Barbara Stanwyck",
+					"id": 2416325208,
+					"id_str": "2416325208",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "elizabethalsop",
+					"name": "Elizabeth Alsop",
+					"id": 380135452,
+					"id_str": "380135452",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385976882383016000,
+		"in_reply_to_status_id_str": "1385976882383015937",
+		"in_reply_to_user_id": 2416325208,
+		"in_reply_to_user_id_str": "2416325208",
+		"in_reply_to_screen_name": "jotorresbarth",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jotorresbarth @elizabethalsop wait... did you used to live in ditmas!?!"
+	},
+	{
+		"created_at": "Sat Apr 24 15:26:44 +0000 2021",
+		"id": 1385978521923817500,
+		"id_str": "1385978521923817475",
+		"full_text": "@elizabethalsop is that this weekend??!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizabethalsop",
+					"name": "Elizabeth Alsop",
+					"id": 380135452,
+					"id_str": "380135452",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385952533965856800,
+		"in_reply_to_status_id_str": "1385952533965856770",
+		"in_reply_to_user_id": 380135452,
+		"in_reply_to_user_id_str": "380135452",
+		"in_reply_to_screen_name": "elizabethalsop",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@elizabethalsop is that this weekend??!"
+	},
+	{
+		"created_at": "Sat Apr 24 14:46:59 +0000 2021",
+		"id": 1385968516403236900,
+		"id_str": "1385968516403236868",
+		"full_text": "LOLOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "LOLOL"
+	},
+	{
+		"created_at": "Sat Apr 24 14:43:04 +0000 2021",
+		"id": 1385967533036036000,
+		"id_str": "1385967533036036102",
+		"full_text": "@heather_muse @melisser3 that is incredible!!!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heather_muse",
+					"name": "Heather Muse",
+					"id": 38244174,
+					"id_str": "38244174",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, yr unfocused rowdy party dog",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1385966595768467500,
+		"in_reply_to_status_id_str": "1385966595768467458",
+		"in_reply_to_user_id": 38244174,
+		"in_reply_to_user_id_str": "38244174",
+		"in_reply_to_screen_name": "heather_muse",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heather_muse @melisser3 that is incredible!!!"
+	},
+	{
+		"created_at": "Sat Apr 24 14:37:26 +0000 2021",
+		"id": 1385966114207932400,
+		"id_str": "1385966114207932424",
+		"full_text": "@heather_muse @melisser3 I love it....!! \n\nI backed an acquaintance's kickstarter, but started learning with the MW.\nhttps://t.co/iXlVPz2YzU",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heather_muse",
+					"name": "Heather Muse",
+					"id": 38244174,
+					"id_str": "38244174",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, yr unfocused rowdy party dog",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iXlVPz2YzU",
+					"expanded_url": "http://www.outsidertarot.com/",
+					"display_url": "outsidertarot.com",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385964508821213200,
+		"in_reply_to_status_id_str": "1385964508821213184",
+		"in_reply_to_user_id": 38244174,
+		"in_reply_to_user_id_str": "38244174",
+		"in_reply_to_screen_name": "heather_muse",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@heather_muse @melisser3 I love it....!! \n\nI backed an acquaintance's kickstarter, but started learning with the MW.\nhttps://t.co/iXlVPz2YzU"
+	},
+	{
+		"created_at": "Sat Apr 24 14:28:37 +0000 2021",
+		"id": 1385963895530139600,
+		"id_str": "1385963895530139649",
+		"full_text": "@heather_muse @melisser3 Oh neat!\n\nI like how it's \"classic\" but modern for my first deck. but I also like lisser's more abstract drawings.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heather_muse",
+					"name": "Heather Muse",
+					"id": 38244174,
+					"id_str": "38244174",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, yr unfocused rowdy party dog",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385963257916240000,
+		"in_reply_to_status_id_str": "1385963257916239873",
+		"in_reply_to_user_id": 38244174,
+		"in_reply_to_user_id_str": "38244174",
+		"in_reply_to_screen_name": "heather_muse",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heather_muse @melisser3 Oh neat!\n\nI like how it's \"classic\" but modern for my first deck. but I also like lisser's more abstract drawings."
+	},
+	{
+		"created_at": "Sat Apr 24 14:18:00 +0000 2021",
+		"id": 1385961226581074000,
+		"id_str": "1385961226581073926",
+		"full_text": "@melisser3 https://t.co/UE3uZrlTW8",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, yr unfocused rowdy party dog",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385961220218499000,
+					"id_str": "1385961220218499078",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EzvsYvuXMAYvlbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzvsYvuXMAYvlbE.jpg",
+					"url": "https://t.co/UE3uZrlTW8",
+					"display_url": "pic.twitter.com/UE3uZrlTW8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1385961226581073926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385961220218499000,
+					"id_str": "1385961220218499078",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EzvsYvuXMAYvlbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzvsYvuXMAYvlbE.jpg",
+					"url": "https://t.co/UE3uZrlTW8",
+					"display_url": "pic.twitter.com/UE3uZrlTW8",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1385961226581073926/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EzvsYvuXMAYvlbE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385960584810729500,
+		"in_reply_to_status_id_str": "1385960584810729478",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@melisser3 https://t.co/UE3uZrlTW8"
+	},
+	{
+		"created_at": "Sat Apr 24 14:13:18 +0000 2021",
+		"id": 1385960043670016000,
+		"id_str": "1385960043670016003",
+		"full_text": "@melisser3 Yeah yeah! I agree! Also kinda depends on the question you ask (mine was about horniness)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, yr unfocused rowdy party dog",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385959401928990700,
+		"in_reply_to_status_id_str": "1385959401928990722",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 Yeah yeah! I agree! Also kinda depends on the question you ask (mine was about horniness)"
+	},
+	{
+		"created_at": "Sat Apr 24 14:05:55 +0000 2021",
+		"id": 1385958183525658600,
+		"id_str": "1385958183525658625",
+		"full_text": "https://t.co/3Bgomddudo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385958181323542500,
+					"id_str": "1385958181323542530",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezvpn29WEAI8wIX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezvpn29WEAI8wIX.jpg",
+					"url": "https://t.co/3Bgomddudo",
+					"display_url": "pic.twitter.com/3Bgomddudo",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1385958183525658625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385958181323542500,
+					"id_str": "1385958181323542530",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezvpn29WEAI8wIX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezvpn29WEAI8wIX.jpg",
+					"url": "https://t.co/3Bgomddudo",
+					"display_url": "pic.twitter.com/3Bgomddudo",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1385958183525658625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385958070640160800,
+		"in_reply_to_status_id_str": "1385958070640160771",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3Bgomddudo"
+	},
+	{
+		"created_at": "Sat Apr 24 14:05:28 +0000 2021",
+		"id": 1385958070640160800,
+		"id_str": "1385958070640160771",
+		"full_text": "https://t.co/77Fjb0ya1i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385958066886254600,
+					"id_str": "1385958066886254596",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzvphMpXoAQOhsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzvphMpXoAQOhsg.jpg",
+					"url": "https://t.co/77Fjb0ya1i",
+					"display_url": "pic.twitter.com/77Fjb0ya1i",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1385958070640160771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385958066886254600,
+					"id_str": "1385958066886254596",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EzvphMpXoAQOhsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzvphMpXoAQOhsg.jpg",
+					"url": "https://t.co/77Fjb0ya1i",
+					"display_url": "pic.twitter.com/77Fjb0ya1i",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1385958070640160771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/77Fjb0ya1i"
+	},
+	{
+		"created_at": "Sat Apr 24 14:04:14 +0000 2021",
+		"id": 1385957758097309700,
+		"id_str": "1385957758097309712",
+		"full_text": "@melisser3 that's a good one, I think?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, yr unfocused rowdy party dog",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385952275449979000,
+		"in_reply_to_status_id_str": "1385952275449978881",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, at his ugliest/best",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1284,
+			"friends_count": 544,
+			"listed_count": 47,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384865311833399299/BPbeduX2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 that's a good one, I think?"
+	},
+	{
+		"created_at": "Sat Apr 24 12:50:35 +0000 2021",
+		"id": 1385781169191485400,
+		"id_str": "1385939224847859713",
+		"full_text": "Be sure to check out @destrysibley new podcast about her grandmother’s experiences as one of the niños de Morelia. Such a heartening tale that Destry has been preserving through her work with the surviving niños.\n\nhttps://t.co/rPQJFoT5T8 via @NewYorker",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "destrysibley",
+					"name": "Destry Maria Sibley",
+					"id": 3373361147,
+					"id_str": "3373361147",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						242,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rPQJFoT5T8",
+					"expanded_url": "http://www.wnycstudios.org/story/children-morelia-seg/",
+					"display_url": "wnycstudios.org/story/children…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1294727257655632000,
+			"id_str": "1294727257655631872",
+			"name": "Kevan Antonio Aguilar",
+			"screen_name": "AguilarKevan",
+			"location": "San Diego / Inland Empire",
+			"description": "Ph.D. History Candidate at UC San Diego. Transnational radical movements between Mexicans and Spanish exiles. Mexico/US borderland internationalism. (He/Him)",
+			"url": "https://t.co/nf7gTENXGr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nf7gTENXGr",
+							"expanded_url": "https://tinyurl.com/yycss5zs",
+							"display_url": "tinyurl.com/yycss5zs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 229,
+			"friends_count": 239,
+			"listed_count": 1,
+			"created_at": "Sat Aug 15 20:06:52 +0000 2020",
+			"favourites_count": 1258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304412774462758914/zr2E8-Q-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304412774462758914/zr2E8-Q-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1294727257655631872/1597522566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be sure to check out @destrysibley new podcast about her grandmother’s experiences as one of the niños de Morelia. Such a heartening tale that Destry has been preserving through her work with the surviving niños.\n\nhttps://t.co/rPQJFoT5T8 via @NewYorker"
+	},
+	{
 		"created_at": "Sat Apr 24 03:23:58 +0000 2021",
 		"id": 1385796632378323000,
 		"id_str": "1385796632378322946",
