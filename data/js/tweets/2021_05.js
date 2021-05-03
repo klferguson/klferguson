@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 02 14:26:30 +0000 2021",
+		"id": 1388144967588135000,
+		"id_str": "1388862464872288257",
+		"full_text": "First day back in the office this year and exciting to find out what a five-month-old banana looks like https://t.co/pOCFQz1YG1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1388144959694549000,
+					"id_str": "1388144959694548992",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E0OufHNXsAATKG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0OufHNXsAATKG7.jpg",
+					"url": "https://t.co/pOCFQz1YG1",
+					"display_url": "pic.twitter.com/pOCFQz1YG1",
+					"expanded_url": "https://twitter.com/efbond/status/1388144967588134912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1880,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1388144959694549000,
+					"id_str": "1388144959694548992",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E0OufHNXsAATKG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0OufHNXsAATKG7.jpg",
+					"url": "https://t.co/pOCFQz1YG1",
+					"display_url": "pic.twitter.com/pOCFQz1YG1",
+					"expanded_url": "https://twitter.com/efbond/status/1388144967588134912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1880,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2903738788,
+			"id_str": "2903738788",
+			"name": "Emma Bond",
+			"screen_name": "efbond",
+			"location": "",
+			"description": "Working on migration, transnational studies & material culture @StAModLangs. Comp Lit Editor @ModLangOpen & Editor Transnational Italian Cultures @LivUniPress",
+			"url": "https://t.co/MTQ89M4pTg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MTQ89M4pTg",
+							"expanded_url": "https://www.st-andrews.ac.uk/modlangs/people/italian/bond/",
+							"display_url": "st-andrews.ac.uk/modlangs/peopl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1290,
+			"friends_count": 1314,
+			"listed_count": 8,
+			"created_at": "Wed Dec 03 12:49:03 +0000 2014",
+			"favourites_count": 4738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540128786914607105/VRfUlPZ6_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540128786914607105/VRfUlPZ6_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2903738788/1417881796",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 8629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First day back in the office this year and exciting to find out what a five-month-old banana looks like https://t.co/pOCFQz1YG1"
+	},
+	{
+		"created_at": "Sun May 02 14:19:38 +0000 2021",
+		"id": 1388565820867895300,
+		"id_str": "1388860739419615241",
+		"full_text": "Happy May Day https://t.co/dubtOcnqTa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1388565817915154400,
+					"id_str": "1388565817915154436",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/E0UtQSQVIAQWPLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0UtQSQVIAQWPLh.jpg",
+					"url": "https://t.co/dubtOcnqTa",
+					"display_url": "pic.twitter.com/dubtOcnqTa",
+					"expanded_url": "https://twitter.com/jdcmedlock/status/1388565820867895296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 496,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1388565817915154400,
+					"id_str": "1388565817915154436",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/E0UtQSQVIAQWPLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0UtQSQVIAQWPLh.jpg",
+					"url": "https://t.co/dubtOcnqTa",
+					"display_url": "pic.twitter.com/dubtOcnqTa",
+					"expanded_url": "https://twitter.com/jdcmedlock/status/1388565820867895296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 496,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2363460824,
+			"id_str": "2363460824",
+			"name": "James Medlock",
+			"screen_name": "jdcmedlock",
+			"location": "Northern California  |  He/Him",
+			"description": "Social democrat in the streets, market socialist in the sheets. Welfare, labor, and healthcare policy. VATman. 🧦 Support the California #BOFA package",
+			"url": "https://t.co/jBjBAaZfZe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBjBAaZfZe",
+							"expanded_url": "https://medium.com/@jdcmedlock",
+							"display_url": "medium.com/@jdcmedlock",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47281,
+			"friends_count": 2007,
+			"listed_count": 403,
+			"created_at": "Thu Feb 27 01:59:07 +0000 2014",
+			"favourites_count": 125946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343045735936245768/cRORtnYI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343045735936245768/cRORtnYI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2363460824/1558314456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2397,
+		"favorite_count": 18877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy May Day https://t.co/dubtOcnqTa"
+	},
+	{
+		"created_at": "Sun May 02 14:02:10 +0000 2021",
+		"id": 1388856344409739300,
+		"id_str": "1388856344409739268",
+		"full_text": "dishes: not pictured",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1388668928960999400,
+		"in_reply_to_status_id_str": "1388668928960999425",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, bigger than a breadbox",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1285,
+			"friends_count": 548,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 25490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387784268944916484/jGMXT22b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387784268944916484/jGMXT22b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "dishes: not pictured"
+	},
+	{
 		"created_at": "Sun May 02 03:49:06 +0000 2021",
 		"id": 1388702058283417600,
 		"id_str": "1388702058283417603",
@@ -4631,7 +5077,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Eduardo García-Molina",
 			"screen_name": "eduardo_garcmol",
 			"location": "Chicago",
-			"description": "Ancient History PhD at UChicago. Seleukid Empire | Epigraphy | Numismatics | Historiography | Classics in Latin America. Born in 🇵🇷 to 🇨🇺 parents. 🏳️‍🌈",
+			"description": "Ancient History PhD at UChicago. Seleukid Empire | Epigraphy | Numismatics | Historiography | Classics in Latin America. Born in 🇵🇷 to 🇨🇺 parents. 🏳️🌈",
 			"url": "https://t.co/oMbzXEsI8T",
 			"entities": {
 				"url": {
