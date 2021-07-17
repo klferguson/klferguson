@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 15:30:30 +0000 2021",
+		"id": 1416057662941372400,
+		"id_str": "1416057662941372418",
+		"full_text": "more typewriters in Censor, Prano Bailey-Bond, 2021 https://t.co/UPvKhw81h5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UPvKhw81h5",
+					"expanded_url": "https://tmblr.co/Z3Y6FqaTjBjfym00",
+					"display_url": "tmblr.co/Z3Y6FqaTjBjfym…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, mostly ghost notes",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies (and cats)",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1270,
+			"friends_count": 550,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "more typewriters in Censor, Prano Bailey-Bond, 2021 https://t.co/UPvKhw81h5"
+	},
+	{
+		"created_at": "Fri Jul 16 13:15:30 +0000 2021",
+		"id": 1415891869368668200,
+		"id_str": "1416023689598967811",
+		"full_text": "Every Jeopardy answer when you're tripping. https://t.co/5MJAgDBiUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5MJAgDBiUS",
+					"expanded_url": "https://twitter.com/postsilence/status/1415891501716967424",
+					"display_url": "twitter.com/postsilence/st…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34495867,
+			"id_str": "34495867",
+			"name": "Ted Hand",
+			"screen_name": "t3dy",
+			"location": "Sonoma, CA",
+			"description": "\"No honest game is entirely lacking in the capacity to instruct.\" -Cusanus. \nTeacher. Esoteric Beat. Tarot for the Soulless Materialist. Alchemy Coloring Book.",
+			"url": "https://t.co/7DhXk0aBew",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7DhXk0aBew",
+							"expanded_url": "https://wide-books.com/pkd-tarot-the-fools-journey-of-philip-k-dick.html",
+							"display_url": "wide-books.com/pkd-tarot-the-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5924,
+			"friends_count": 6300,
+			"listed_count": 303,
+			"created_at": "Thu Apr 23 02:19:04 +0000 2009",
+			"favourites_count": 38100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 169657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248510729394647043/bgX6uX6T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248510729394647043/bgX6uX6T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34495867/1567061672",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1415891501716967400,
+		"quoted_status_id_str": "1415891501716967424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5MJAgDBiUS",
+			"expanded": "https://twitter.com/postsilence/status/1415891501716967424",
+			"display": "twitter.com/postsilence/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 16 04:30:14 +0000 2021",
+			"id": 1415891501716967400,
+			"id_str": "1415891501716967424",
+			"full_text": "Made a meme. 🤫🤣 @la_meme_young https://t.co/rs3TlmTdVO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "la_meme_young",
+						"name": "🔊🔉🔊🔈",
+						"id": 4516493423,
+						"id_str": "4516493423",
+						"indices": [
+							16,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1415891499774926800,
+						"id_str": "1415891499774926848",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/E6ZB0TyUYAAIA6x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6ZB0TyUYAAIA6x.jpg",
+						"url": "https://t.co/rs3TlmTdVO",
+						"display_url": "pic.twitter.com/rs3TlmTdVO",
+						"expanded_url": "https://twitter.com/postsilence/status/1415891501716967424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1041,
+								"h": 1373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1415891499774926800,
+						"id_str": "1415891499774926848",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/E6ZB0TyUYAAIA6x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6ZB0TyUYAAIA6x.jpg",
+						"url": "https://t.co/rs3TlmTdVO",
+						"display_url": "pic.twitter.com/rs3TlmTdVO",
+						"expanded_url": "https://twitter.com/postsilence/status/1415891501716967424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1041,
+								"h": 1373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18758409,
+				"id_str": "18758409",
+				"name": "ilind",
+				"screen_name": "postsilence",
+				"location": "Denver, CO",
+				"description": "'Everything sounds free' - Thelonious Monk 🎹 Proud to have the Facebook handle of one of my idols: https://t.co/OnDbZg3LnX",
+				"url": "https://t.co/U1UBORHROy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U1UBORHROy",
+								"expanded_url": "http://awoa.co",
+								"display_url": "awoa.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OnDbZg3LnX",
+								"expanded_url": "http://facebook.com/geordilaforge",
+								"display_url": "facebook.com/geordilaforge",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1408,
+				"friends_count": 4969,
+				"listed_count": 58,
+				"created_at": "Thu Jan 08 08:45:25 +0000 2009",
+				"favourites_count": 18780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11849,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1252383779441659912/mXcCv0oz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252383779441659912/mXcCv0oz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18758409/1468028697",
+				"profile_link_color": "ED9BF5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FCF9F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b49b3053b5c25bf5",
+				"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+				"place_type": "city",
+				"name": "Denver",
+				"full_name": "Denver, CO",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-105.109815,
+								39.614151
+							],
+							[
+								-104.734372,
+								39.614151
+							],
+							[
+								-104.734372,
+								39.812975
+							],
+							[
+								-105.109815,
+								39.812975
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every Jeopardy answer when you're tripping. https://t.co/5MJAgDBiUS"
+	},
+	{
 		"created_at": "Thu Jul 15 15:30:41 +0000 2021",
 		"id": 1415695321984864300,
 		"id_str": "1415695321984864259",
