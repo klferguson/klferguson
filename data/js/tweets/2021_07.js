@@ -1,6 +1,810 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 18:05:42 +0000 2021",
+		"id": 1416457776776327200,
+		"id_str": "1416459108736249871",
+		"full_text": "Wow! When This Woman Couldn’t Afford Her Insulin, Her Whole Town Chipped in for Her Funeral: https://t.co/73rnGPxcL2 https://t.co/gFLrtQ2ByJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/73rnGPxcL2",
+					"expanded_url": "http://ow.ly/n5Mt50Fx0iA",
+					"display_url": "ow.ly/n5Mt50Fx0iA",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416457775283064800,
+					"id_str": "1416457775283064832",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E6hE14cWUAAuRtm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6hE14cWUAAuRtm.jpg",
+					"url": "https://t.co/gFLrtQ2ByJ",
+					"display_url": "pic.twitter.com/gFLrtQ2ByJ",
+					"expanded_url": "https://twitter.com/Reductress/status/1416457776776327168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416457775283064800,
+					"id_str": "1416457775283064832",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E6hE14cWUAAuRtm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6hE14cWUAAuRtm.jpg",
+					"url": "https://t.co/gFLrtQ2ByJ",
+					"display_url": "pic.twitter.com/gFLrtQ2ByJ",
+					"expanded_url": "https://twitter.com/Reductress/status/1416457776776327168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090026433,
+			"id_str": "1090026433",
+			"name": "Reductress",
+			"screen_name": "Reductress",
+			"location": "New York",
+			"description": "The one and only fake women's news magazine. Get our new card game and more at Shop Reductress: https://t.co/dm9eSTXMvO",
+			"url": "https://t.co/4xmExyg8nG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4xmExyg8nG",
+							"expanded_url": "http://www.reductress.com",
+							"display_url": "reductress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dm9eSTXMvO",
+							"expanded_url": "http://shop.reductress.com",
+							"display_url": "shop.reductress.com",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 270409,
+			"friends_count": 788,
+			"listed_count": 1285,
+			"created_at": "Mon Jan 14 20:04:31 +0000 2013",
+			"favourites_count": 1018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ED2024",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/413509753185128448/gvk-A4qp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/413509753185128448/gvk-A4qp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090026433/1584974717",
+			"profile_link_color": "ED2024",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 2634,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow! When This Woman Couldn’t Afford Her Insulin, Her Whole Town Chipped in for Her Funeral: https://t.co/73rnGPxcL2 https://t.co/gFLrtQ2ByJ"
+	},
+	{
+		"created_at": "Sat Jul 17 17:59:18 +0000 2021",
+		"id": 1416457495908950000,
+		"id_str": "1416457495908950020",
+		"full_text": "@rachsyme HBD fellow cancer, hope the frozen yogurt machine isn't broken...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachsyme",
+					"name": "rachel syme",
+					"id": 6931262,
+					"id_str": "6931262",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1416446911230398500,
+		"in_reply_to_status_id_str": "1416446911230398466",
+		"in_reply_to_user_id": 6931262,
+		"in_reply_to_user_id_str": "6931262",
+		"in_reply_to_screen_name": "rachsyme",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, mostly ghost notes",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies (and cats)",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1270,
+			"friends_count": 550,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rachsyme HBD fellow cancer, hope the frozen yogurt machine isn't broken..."
+	},
+	{
+		"created_at": "Sat Jul 17 17:56:49 +0000 2021",
+		"id": 1416424954967494700,
+		"id_str": "1416456870303256579",
+		"full_text": "There should be consequences for journalistic malpractice like this. Not only inverting the x-axis, but making it seem like this data is crime rates when it’s really public opinion. “Journalists” like Chris Cuomo are *directly* responsible for mass caging Black &amp; Brown people. https://t.co/J9IjzS81iL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J9IjzS81iL",
+					"expanded_url": "https://twitter.com/AlanRMacLeod/status/1416061926933676045",
+					"display_url": "twitter.com/AlanRMacLeod/s…",
+					"indices": [
+						282,
+						305
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38354090,
+			"id_str": "38354090",
+			"name": "Scott Hechinger",
+			"screen_name": "ScottHech",
+			"location": "Brooklyn, NY",
+			"description": "Supporting public defenders and the people & communities they serve to amplify perspective + story to end mass criminalization. Dad. Always public defender.",
+			"url": "https://t.co/lwI4udYlI6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lwI4udYlI6",
+							"expanded_url": "http://Zealo.us",
+							"display_url": "Zealo.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98123,
+			"friends_count": 4753,
+			"listed_count": 863,
+			"created_at": "Thu May 07 03:10:29 +0000 2009",
+			"favourites_count": 38274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354035628418207744/GxfZ5SwE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354035628418207744/GxfZ5SwE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38354090/1621025555",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1416061926933676000,
+		"quoted_status_id_str": "1416061926933676045",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J9IjzS81iL",
+			"expanded": "https://twitter.com/AlanRMacLeod/status/1416061926933676045",
+			"display": "twitter.com/AlanRMacLeod/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 16 15:47:27 +0000 2021",
+			"id": 1416061926933676000,
+			"id_str": "1416061926933676045",
+			"full_text": "By inverting the x-axis, CNN's Chris Cuomo manages to take a drop in crime and make it look like it is spiking. \n\nThis is a crime against journalism and absolutely blatant fearmongering. https://t.co/UALr8nmzjs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1416061816548040700,
+						"id_str": "1416061816548040708",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/E6bcuDNXIAQg3QO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6bcuDNXIAQg3QO.jpg",
+						"url": "https://t.co/UALr8nmzjs",
+						"display_url": "pic.twitter.com/UALr8nmzjs",
+						"expanded_url": "https://twitter.com/AlanRMacLeod/status/1416061926933676045/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1418,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1416061816548040700,
+						"id_str": "1416061816548040708",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/E6bcuDNXIAQg3QO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6bcuDNXIAQg3QO.jpg",
+						"url": "https://t.co/UALr8nmzjs",
+						"display_url": "pic.twitter.com/UALr8nmzjs",
+						"expanded_url": "https://twitter.com/AlanRMacLeod/status/1416061926933676045/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1418,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2365896248,
+				"id_str": "2365896248",
+				"name": "Alan MacLeod",
+				"screen_name": "AlanRMacLeod",
+				"location": "",
+				"description": "Senior Staff Writer/Podcast Producer: @MintPressNews.  I mostly tweet about US and Latin American politics + complain bitterly about corporate media.",
+				"url": "https://t.co/ybZimW6nkr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ybZimW6nkr",
+								"expanded_url": "https://www.mintpressnews.com/author/alan-macleod/",
+								"display_url": "mintpressnews.com/author/alan-ma…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26383,
+				"friends_count": 1011,
+				"listed_count": 292,
+				"created_at": "Fri Feb 28 17:16:46 +0000 2014",
+				"favourites_count": 13650,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10994,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1412117139071418386/3bmc9Vk7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412117139071418386/3bmc9Vk7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365896248/1616193268",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4035,
+			"favorite_count": 17327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 432,
+		"favorite_count": 1201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There should be consequences for journalistic malpractice like this. Not only inverting the x-axis, but making it seem like this data is crime rates when it’s really public opinion. “Journalists” like Chris Cuomo are *directly* responsible for mass caging Black &amp; Brown people. https://t.co/J9IjzS81iL"
+	},
+	{
+		"created_at": "Sat Jul 17 17:28:10 +0000 2021",
+		"id": 1416449661502730200,
+		"id_str": "1416449661502730244",
+		"full_text": "@StanleyRonin 😂",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StanleyRonin",
+					"name": "Mister Hardcase",
+					"id": 1244441308057473000,
+					"id_str": "1244441308057473024",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1416440116151791600,
+		"in_reply_to_status_id_str": "1416440116151791624",
+		"in_reply_to_user_id": 1244441308057473000,
+		"in_reply_to_user_id_str": "1244441308057473024",
+		"in_reply_to_screen_name": "StanleyRonin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, mostly ghost notes",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies (and cats)",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1270,
+			"friends_count": 550,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@StanleyRonin 😂"
+	},
+	{
+		"created_at": "Sat Jul 17 15:31:24 +0000 2021",
+		"id": 1416420276095565800,
+		"id_str": "1416420276095565826",
+		"full_text": "typewriter in The Hot Spot, Dennis Hopper, 1990 https://t.co/qQAeNzdi1k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qQAeNzdi1k",
+					"expanded_url": "https://tmblr.co/Z3Y6FqaU1ovJey00",
+					"display_url": "tmblr.co/Z3Y6FqaU1ovJey…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, mostly ghost notes",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "for want of a mother's love, he surrounded himself with women and hobbies (and cats)",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1270,
+			"friends_count": 550,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412549466817806344/WvsRSklY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "typewriter in The Hot Spot, Dennis Hopper, 1990 https://t.co/qQAeNzdi1k"
+	},
+	{
 		"created_at": "Fri Jul 16 15:30:30 +0000 2021",
 		"id": 1416057662941372400,
 		"id_str": "1416057662941372418",
