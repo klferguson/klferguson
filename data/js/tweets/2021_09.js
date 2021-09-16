@@ -1,6 +1,4322 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 03:10:36 +0000 2021",
+		"id": 1438339508060233700,
+		"id_str": "1438339508060233728",
+		"full_text": "https://t.co/BbnSyzFR5s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BbnSyzFR5s",
+					"expanded_url": "https://www.youtube.com/watch?v=7Nf8o-qhO2g",
+					"display_url": "youtube.com/watch?v=7Nf8o-…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BbnSyzFR5s"
+	},
+	{
+		"created_at": "Thu Sep 16 02:19:28 +0000 2021",
+		"id": 1438326639163752400,
+		"id_str": "1438326639163752455",
+		"full_text": "lol https://t.co/x3FhOMwdq2 https://t.co/HxbN1J6mBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x3FhOMwdq2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1382882258705600516",
+					"display_url": "twitter.com/KevinLFerguson…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438326244983165000,
+					"id_str": "1438326244983164928",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/E_X2GWdX0AAGFr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_X2GWdX0AAGFr0.jpg",
+					"url": "https://t.co/HxbN1J6mBX",
+					"display_url": "pic.twitter.com/HxbN1J6mBX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438326639163752455/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438326244983165000,
+					"id_str": "1438326244983164928",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/E_X2GWdX0AAGFr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_X2GWdX0AAGFr0.jpg",
+					"url": "https://t.co/HxbN1J6mBX",
+					"display_url": "pic.twitter.com/HxbN1J6mBX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438326639163752455/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382882258705600500,
+		"quoted_status_id_str": "1382882258705600516",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x3FhOMwdq2",
+			"expanded": "https://twitter.com/KevinLFerguson/status/1382882258705600516",
+			"display": "twitter.com/KevinLFerguson…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 16 02:23:17 +0000 2021",
+			"id": 1382882258705600500,
+			"id_str": "1382882258705600516",
+			"full_text": "https://t.co/C43cku1iTN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1382882248593137700,
+						"id_str": "1382882248593137668",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EzD8FAmWYAQ0ARA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzD8FAmWYAQ0ARA.jpg",
+						"url": "https://t.co/C43cku1iTN",
+						"display_url": "pic.twitter.com/C43cku1iTN",
+						"expanded_url": "https://twitter.com/KevinLFerguson/status/1382882258705600516/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 841,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382882248593137700,
+						"id_str": "1382882248593137668",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EzD8FAmWYAQ0ARA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzD8FAmWYAQ0ARA.jpg",
+						"url": "https://t.co/C43cku1iTN",
+						"display_url": "pic.twitter.com/C43cku1iTN",
+						"expanded_url": "https://twitter.com/KevinLFerguson/status/1382882258705600516/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 841,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1382882180364374000,
+			"in_reply_to_status_id_str": "1382882180364374017",
+			"in_reply_to_user_id": 359023788,
+			"in_reply_to_user_id_str": "359023788",
+			"in_reply_to_screen_name": "KevinLFerguson",
+			"user": {
+				"id": 359023788,
+				"id_str": "359023788",
+				"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+				"screen_name": "KevinLFerguson",
+				"location": "Brooklyn",
+				"description": "🫀",
+				"url": "https://t.co/ERHUQakxaf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ERHUQakxaf",
+								"expanded_url": "http://filmvis.tumblr.com",
+								"display_url": "filmvis.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 1271,
+				"friends_count": 557,
+				"listed_count": 46,
+				"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+				"favourites_count": 26708,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 84955,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "lol https://t.co/x3FhOMwdq2 https://t.co/HxbN1J6mBX"
+	},
+	{
+		"created_at": "Thu Sep 16 01:42:56 +0000 2021",
+		"id": 1438317445383590000,
+		"id_str": "1438317445383589894",
+		"full_text": "@frittersandclam yeah, so far pizza delivery girl down on her luck stumbles onto a satanic cult. Jerry O'Connell just showed up.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438317081657806800,
+		"in_reply_to_status_id_str": "1438317081657806852",
+		"in_reply_to_user_id": 117842180,
+		"in_reply_to_user_id_str": "117842180",
+		"in_reply_to_screen_name": "frittersandclam",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@frittersandclam yeah, so far pizza delivery girl down on her luck stumbles onto a satanic cult. Jerry O'Connell just showed up."
+	},
+	{
+		"created_at": "Thu Sep 16 01:22:01 +0000 2021",
+		"id": 1438312182551355400,
+		"id_str": "1438312182551355393",
+		"full_text": "watching: https://t.co/p7fwSKkwE0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438311197690974200,
+					"id_str": "1438311197690974208",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Xoae7WUAANLgm.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_Xoae7WUAANLgm.png",
+					"url": "https://t.co/p7fwSKkwE0",
+					"display_url": "pic.twitter.com/p7fwSKkwE0",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438312182551355393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438311197690974200,
+					"id_str": "1438311197690974208",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Xoae7WUAANLgm.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_Xoae7WUAANLgm.png",
+					"url": "https://t.co/p7fwSKkwE0",
+					"display_url": "pic.twitter.com/p7fwSKkwE0",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438312182551355393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "watching: https://t.co/p7fwSKkwE0"
+	},
+	{
+		"created_at": "Thu Sep 16 00:45:24 +0000 2021",
+		"id": 1438302965824168000,
+		"id_str": "1438302965824167936",
+		"full_text": "@melisser3 We've seen these movies you know how it works!!!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438302784349216800,
+		"in_reply_to_status_id_str": "1438302784349216772",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 We've seen these movies you know how it works!!!"
+	},
+	{
+		"created_at": "Thu Sep 16 00:43:56 +0000 2021",
+		"id": 1438302599502045200,
+		"id_str": "1438302599502045185",
+		"full_text": "@melisser3 🙌🏻🙌🏻\n\n*is instantly mauled by Josie*",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438300964906315800,
+		"in_reply_to_status_id_str": "1438300964906315781",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 🙌🏻🙌🏻\n\n*is instantly mauled by Josie*"
+	},
+	{
+		"created_at": "Thu Sep 16 00:18:18 +0000 2021",
+		"id": 1438296149065076700,
+		"id_str": "1438296149065076736",
+		"full_text": "@melisser3 https://t.co/aFiDspASVE",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438296142052200400,
+					"id_str": "1438296142052200450",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_XauITWEAI2k6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_XauITWEAI2k6T.jpg",
+					"url": "https://t.co/aFiDspASVE",
+					"display_url": "pic.twitter.com/aFiDspASVE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438296149065076736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438296142052200400,
+					"id_str": "1438296142052200450",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_XauITWEAI2k6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_XauITWEAI2k6T.jpg",
+					"url": "https://t.co/aFiDspASVE",
+					"display_url": "pic.twitter.com/aFiDspASVE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438296149065076736/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E_XauITWEAI2k6T.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438271603301834800,
+		"in_reply_to_status_id_str": "1438271603301834756",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@melisser3 https://t.co/aFiDspASVE"
+	},
+	{
+		"created_at": "Wed Sep 15 23:07:01 +0000 2021",
+		"id": 1438278208449822700,
+		"id_str": "1438278208449822723",
+		"full_text": "@medieninitiativ https://t.co/X5lAfrwMOT",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medieninitiativ",
+					"name": "Shane Denson",
+					"id": 331543096,
+					"id_str": "331543096",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438278202611339300,
+					"id_str": "1438278202611339264",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_XKZ6rWEAAnsRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_XKZ6rWEAAnsRi.jpg",
+					"url": "https://t.co/X5lAfrwMOT",
+					"display_url": "pic.twitter.com/X5lAfrwMOT",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438278208449822723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438278202611339300,
+					"id_str": "1438278202611339264",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_XKZ6rWEAAnsRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_XKZ6rWEAAnsRi.jpg",
+					"url": "https://t.co/X5lAfrwMOT",
+					"display_url": "pic.twitter.com/X5lAfrwMOT",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438278208449822723/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E_XKZ6rWEAAnsRi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438278022834966500,
+		"in_reply_to_status_id_str": "1438278022834966528",
+		"in_reply_to_user_id": 331543096,
+		"in_reply_to_user_id_str": "331543096",
+		"in_reply_to_screen_name": "medieninitiativ",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@medieninitiativ https://t.co/X5lAfrwMOT"
+	},
+	{
+		"created_at": "Wed Sep 15 22:26:20 +0000 2021",
+		"id": 1438267968270569500,
+		"id_str": "1438267968270569476",
+		"full_text": "@kristenwarner @mattboydsmith WORKING ON IT. running into challenges. but i have time!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of airplanes & 15 min presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mattboydsmith",
+					"name": "MBS",
+					"id": 1290398925476761600,
+					"id_str": "1290398925476761606",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438267755447345200,
+		"in_reply_to_status_id_str": "1438267755447345154",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristenwarner @mattboydsmith WORKING ON IT. running into challenges. but i have time!"
+	},
+	{
+		"created_at": "Wed Sep 15 22:24:44 +0000 2021",
+		"id": 1438267566896599000,
+		"id_str": "1438267566896599043",
+		"full_text": "@kristenwarner @mattboydsmith too close to your birthday, imma zip it",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of airplanes & 15 min presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mattboydsmith",
+					"name": "MBS",
+					"id": 1290398925476761600,
+					"id_str": "1290398925476761606",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438266118527979500,
+		"in_reply_to_status_id_str": "1438266118527979525",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristenwarner @mattboydsmith too close to your birthday, imma zip it"
+	},
+	{
+		"created_at": "Wed Sep 15 22:16:44 +0000 2021",
+		"id": 1438265555060994000,
+		"id_str": "1438265555060994049",
+		"full_text": "@kristenwarner @mattboydsmith ummmmm. well....",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of airplanes & 15 min presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mattboydsmith",
+					"name": "MBS",
+					"id": 1290398925476761600,
+					"id_str": "1290398925476761606",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438263714583564300,
+		"in_reply_to_status_id_str": "1438263714583564289",
+		"in_reply_to_user_id": 14246801,
+		"in_reply_to_user_id_str": "14246801",
+		"in_reply_to_screen_name": "kristenwarner",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristenwarner @mattboydsmith ummmmm. well...."
+	},
+	{
+		"created_at": "Wed Sep 15 22:09:39 +0000 2021",
+		"id": 1438263770724376600,
+		"id_str": "1438263770724376576",
+		"full_text": "@mattboydsmith @kristenwarner https://t.co/8ehqRuY6TE",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattboydsmith",
+					"name": "MBS",
+					"id": 1290398925476761600,
+					"id_str": "1290398925476761606",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kristenwarner",
+					"name": "Dr. KW, lover of airplanes & 15 min presentations",
+					"id": 14246801,
+					"id_str": "14246801",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438263764621668400,
+					"id_str": "1438263764621668357",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_W9Rg-XMAUYZ-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_W9Rg-XMAUYZ-z.jpg",
+					"url": "https://t.co/8ehqRuY6TE",
+					"display_url": "pic.twitter.com/8ehqRuY6TE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438263770724376576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438263764621668400,
+					"id_str": "1438263764621668357",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_W9Rg-XMAUYZ-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_W9Rg-XMAUYZ-z.jpg",
+					"url": "https://t.co/8ehqRuY6TE",
+					"display_url": "pic.twitter.com/8ehqRuY6TE",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438263770724376576/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							66
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E_W9Rg-XMAUYZ-z.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438262610231808000,
+		"in_reply_to_status_id_str": "1438262610231808000",
+		"in_reply_to_user_id": 1290398925476761600,
+		"in_reply_to_user_id_str": "1290398925476761606",
+		"in_reply_to_screen_name": "mattboydsmith",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mattboydsmith @kristenwarner https://t.co/8ehqRuY6TE"
+	},
+	{
+		"created_at": "Wed Sep 15 22:03:12 +0000 2021",
+		"id": 1438262147272913000,
+		"id_str": "1438262147272912896",
+		"full_text": "me dealing with my text messages https://t.co/LjR8jkyOR4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438261874043277300,
+					"id_str": "1438261874043277322",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438261874043277322/pr/img/Ts3Eq9etfYGUBl04.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438261874043277322/pr/img/Ts3Eq9etfYGUBl04.jpg",
+					"url": "https://t.co/LjR8jkyOR4",
+					"display_url": "pic.twitter.com/LjR8jkyOR4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438262147272912896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438261874043277300,
+					"id_str": "1438261874043277322",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438261874043277322/pr/img/Ts3Eq9etfYGUBl04.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438261874043277322/pr/img/Ts3Eq9etfYGUBl04.jpg",
+					"url": "https://t.co/LjR8jkyOR4",
+					"display_url": "pic.twitter.com/LjR8jkyOR4",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438262147272912896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 123377,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438261874043277322/pr/pl/iZUcsWdFheytDxaX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438261874043277322/pr/vid/640x360/5B_Cr_aZx7KnDYb1.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438261874043277322/pr/vid/480x270/tidKbwmxYZwFp7qW.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438261874043277322/pr/vid/960x540/9ll9K8QQrZ8AhIQi.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "me dealing with my text messages https://t.co/LjR8jkyOR4"
+	},
+	{
+		"created_at": "Wed Sep 15 22:01:54 +0000 2021",
+		"id": 1438261819441832000,
+		"id_str": "1438261819441831939",
+		"full_text": "@mattboydsmith \"OK, it's finally time to send Matt a very urgent but complicated request.\" *takes a big sip of coffee*",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattboydsmith",
+					"name": "MBS",
+					"id": 1290398925476761600,
+					"id_str": "1290398925476761606",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438261386551824400,
+		"in_reply_to_status_id_str": "1438261386551824384",
+		"in_reply_to_user_id": 1290398925476761600,
+		"in_reply_to_user_id_str": "1290398925476761606",
+		"in_reply_to_screen_name": "mattboydsmith",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattboydsmith \"OK, it's finally time to send Matt a very urgent but complicated request.\" *takes a big sip of coffee*"
+	},
+	{
+		"created_at": "Wed Sep 15 21:55:34 +0000 2021",
+		"id": 1438257507357667300,
+		"id_str": "1438260228089389075",
+		"full_text": "why don't we have this in new york city https://t.co/AzlwMyV0w4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AzlwMyV0w4",
+					"expanded_url": "https://twitter.com/MarketUrbanism/status/1438256012503371776",
+					"display_url": "twitter.com/MarketUrbanism…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253616306,
+			"id_str": "253616306",
+			"name": "Rebecca Baird-Remba",
+			"screen_name": "thecitywanderer",
+			"location": "Brooklyn, NY",
+			"description": "Commercial real estate reporter @commobserver. Development, architecture, infrastructure, transit, weird New York things. rbairdremba@commercialobserver.com",
+			"url": "https://t.co/NTbPhBgzz7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NTbPhBgzz7",
+							"expanded_url": "http://rbairdremba.tumblr.com/",
+							"display_url": "rbairdremba.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10225,
+			"friends_count": 1917,
+			"listed_count": 273,
+			"created_at": "Thu Feb 17 16:23:34 +0000 2011",
+			"favourites_count": 88134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3982DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277460066598346752/xdZGLz68_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277460066598346752/xdZGLz68_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253616306/1556936095",
+			"profile_link_color": "476CEF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7B7C94",
+			"profile_text_color": "8CAFB8",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438256012503371800,
+		"quoted_status_id_str": "1438256012503371776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AzlwMyV0w4",
+			"expanded": "https://twitter.com/MarketUrbanism/status/1438256012503371776",
+			"display": "twitter.com/MarketUrbanism…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 21:38:49 +0000 2021",
+			"id": 1438256012503371800,
+			"id_str": "1438256012503371776",
+			"full_text": "LA people...is this a thing you can do?? https://t.co/pAV1NHQVCB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1438256004253331500,
+						"id_str": "1438256004253331459",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/E_W2NzWXsAM407I.png",
+						"media_url_https": "https://pbs.twimg.com/media/E_W2NzWXsAM407I.png",
+						"url": "https://t.co/pAV1NHQVCB",
+						"display_url": "pic.twitter.com/pAV1NHQVCB",
+						"expanded_url": "https://twitter.com/MarketUrbanism/status/1438256012503371776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 464,
+								"h": 704,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 448,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 464,
+								"h": 704,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438256004253331500,
+						"id_str": "1438256004253331459",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/E_W2NzWXsAM407I.png",
+						"media_url_https": "https://pbs.twimg.com/media/E_W2NzWXsAM407I.png",
+						"url": "https://t.co/pAV1NHQVCB",
+						"display_url": "pic.twitter.com/pAV1NHQVCB",
+						"expanded_url": "https://twitter.com/MarketUrbanism/status/1438256012503371776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 464,
+								"h": 704,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 448,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 464,
+								"h": 704,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41742794,
+				"id_str": "41742794",
+				"name": "Market Urbanism",
+				"screen_name": "MarketUrbanism",
+				"location": "Wherever permits can be pulled",
+				"description": "Tweets by @smithsj / smithsj@gmail.com",
+				"url": "https://t.co/RYqVtCx5Lw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RYqVtCx5Lw",
+								"expanded_url": "http://marketurbanism.com",
+								"display_url": "marketurbanism.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38160,
+				"friends_count": 1015,
+				"listed_count": 1280,
+				"created_at": "Fri May 22 03:28:51 +0000 2009",
+				"favourites_count": 10477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 174416,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/579166343737421824/flBY3IXz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/579166343737421824/flBY3IXz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41742794/1496173998",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "why don't we have this in new york city https://t.co/AzlwMyV0w4"
+	},
+	{
+		"created_at": "Wed Sep 15 21:54:49 +0000 2021",
+		"id": 1438260037919690800,
+		"id_str": "1438260037919690758",
+		"full_text": "me dealing with my text messages https://t.co/H0BmSHs9h1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438258615748595700,
+					"id_str": "1438258615748595726",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438258615748595726/pr/img/QBcTnb-daZ95glmT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438258615748595726/pr/img/QBcTnb-daZ95glmT.jpg",
+					"url": "https://t.co/H0BmSHs9h1",
+					"display_url": "pic.twitter.com/H0BmSHs9h1",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438260037919690758/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438258615748595700,
+					"id_str": "1438258615748595726",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438258615748595726/pr/img/QBcTnb-daZ95glmT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438258615748595726/pr/img/QBcTnb-daZ95glmT.jpg",
+					"url": "https://t.co/H0BmSHs9h1",
+					"display_url": "pic.twitter.com/H0BmSHs9h1",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438260037919690758/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 123377,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438258615748595726/pr/pl/hmCUjfvJhWoGwSDV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438258615748595726/pr/vid/640x360/DwxtQTTb8lQSNrIu.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438258615748595726/pr/vid/1280x720/MYGrUf8s-I2CirTc.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438258615748595726/pr/vid/480x270/VWhSlhfpYj0vS8Nw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "me dealing with my text messages https://t.co/H0BmSHs9h1"
+	},
+	{
+		"created_at": "Wed Sep 15 21:40:30 +0000 2021",
+		"id": 1438256434878337000,
+		"id_str": "1438256434878337027",
+		"full_text": "when josh got fired from the band after a decade &amp; replaced by original guy he said smthg like “wish i could've done something that would have made it impossible to get rid of me.”  \n\ni used to think that was sad &amp; relatable. but ... maybe it's a them problem, not a you problem?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "when josh got fired from the band after a decade &amp; replaced by original guy he said smthg like “wish i could've done something that would have made it impossible to get rid of me.”  \n\ni used to think that was sad &amp; relatable. but ... maybe it's a them problem, not a you problem?"
+	},
+	{
+		"created_at": "Wed Sep 15 21:24:42 +0000 2021",
+		"id": 1438249795815084000,
+		"id_str": "1438252460108304388",
+		"full_text": "Michael Mann Facts https://t.co/uQ2RcTIeee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438249791201362000,
+					"id_str": "1438249791201361924",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E_WwkJ7WQAQJSss.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_WwkJ7WQAQJSss.jpg",
+					"url": "https://t.co/uQ2RcTIeee",
+					"display_url": "pic.twitter.com/uQ2RcTIeee",
+					"expanded_url": "https://twitter.com/MannFacts/status/1438249795815084033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438249791201362000,
+					"id_str": "1438249791201361924",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E_WwkJ7WQAQJSss.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_WwkJ7WQAQJSss.jpg",
+					"url": "https://t.co/uQ2RcTIeee",
+					"display_url": "pic.twitter.com/uQ2RcTIeee",
+					"expanded_url": "https://twitter.com/MannFacts/status/1438249795815084033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438249791419568000,
+					"id_str": "1438249791419568134",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E_WwkKvX0AYM1qc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_WwkKvX0AYM1qc.jpg",
+					"url": "https://t.co/uQ2RcTIeee",
+					"display_url": "pic.twitter.com/uQ2RcTIeee",
+					"expanded_url": "https://twitter.com/MannFacts/status/1438249795815084033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438249792010920000,
+					"id_str": "1438249792010919939",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E_WwkM8XIAMyJx8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_WwkM8XIAMyJx8.jpg",
+					"url": "https://t.co/uQ2RcTIeee",
+					"display_url": "pic.twitter.com/uQ2RcTIeee",
+					"expanded_url": "https://twitter.com/MannFacts/status/1438249795815084033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438249792228970500,
+					"id_str": "1438249792228970504",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E_WwkNwWUAgrVOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_WwkNwWUAgrVOJ.jpg",
+					"url": "https://t.co/uQ2RcTIeee",
+					"display_url": "pic.twitter.com/uQ2RcTIeee",
+					"expanded_url": "https://twitter.com/MannFacts/status/1438249795815084033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1361423360891224000,
+			"id_str": "1361423360891224066",
+			"name": "Michael Mann Facts",
+			"screen_name": "MannFacts",
+			"location": "NYC with Lowell Bergman",
+			"description": "#MichaelMannFacts",
+			"url": "https://t.co/asjnqFlxPX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/asjnqFlxPX",
+							"expanded_url": "https://letterboxd.com/MannFacts/",
+							"display_url": "letterboxd.com/MannFacts/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4309,
+			"friends_count": 789,
+			"listed_count": 8,
+			"created_at": "Mon Feb 15 21:13:29 +0000 2021",
+			"favourites_count": 23724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378735038947278849/YHHqYTUZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378735038947278849/YHHqYTUZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1361423360891224066/1623732665",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "Michael Mann Facts https://t.co/uQ2RcTIeee"
+	},
+	{
+		"created_at": "Wed Sep 15 17:49:34 +0000 2021",
+		"id": 1438198318547579000,
+		"id_str": "1438198318547578889",
+		"full_text": "who's taking me out for dinner tonight?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "who's taking me out for dinner tonight?"
+	},
+	{
+		"created_at": "Wed Sep 15 14:37:39 +0000 2021",
+		"id": 1438150023620014000,
+		"id_str": "1438150023620014081",
+		"full_text": "haven't been to Milk And Honey in about a year and a half, which might track with the fact that their playlist seems to just be jazz Christmas standards",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "haven't been to Milk And Honey in about a year and a half, which might track with the fact that their playlist seems to just be jazz Christmas standards"
+	},
+	{
+		"created_at": "Wed Sep 15 14:36:15 +0000 2021",
+		"id": 1438149670761603000,
+		"id_str": "1438149670761603075",
+		"full_text": "@StevenKrugerQ he couldn't remember who it was!! he thought it was me, but then remembered that the other person's bookshelves are oriented differently to the zoom camera. the mystery persists...",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StevenKrugerQ",
+					"name": "Steven Kruger",
+					"id": 766341842636042200,
+					"id_str": "766341842636042240",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438139874842906600,
+		"in_reply_to_status_id_str": "1438139874842906635",
+		"in_reply_to_user_id": 766341842636042200,
+		"in_reply_to_user_id_str": "766341842636042240",
+		"in_reply_to_screen_name": "StevenKrugerQ",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StevenKrugerQ he couldn't remember who it was!! he thought it was me, but then remembered that the other person's bookshelves are oriented differently to the zoom camera. the mystery persists..."
+	},
+	{
+		"created_at": "Wed Sep 15 13:15:01 +0000 2021",
+		"id": 1438129227086368800,
+		"id_str": "1438129227086368774",
+		"full_text": "@melisser3 😂🤣 oh man, I think it was YOUR advice to keep my watch on EST. chaos.\n\nand you know that ATL being in the same time zone is somehow going to make it exponentially worse",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438125994758611000,
+		"in_reply_to_status_id_str": "1438125994758610954",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 😂🤣 oh man, I think it was YOUR advice to keep my watch on EST. chaos.\n\nand you know that ATL being in the same time zone is somehow going to make it exponentially worse"
+	},
+	{
+		"created_at": "Wed Sep 15 13:10:53 +0000 2021",
+		"id": 1438128187981041700,
+		"id_str": "1438128187981041666",
+		"full_text": "@StevenKrugerQ killing me that I haven't met this person yet",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StevenKrugerQ",
+					"name": "Steven Kruger",
+					"id": 766341842636042200,
+					"id_str": "766341842636042240",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438122858492928000,
+		"in_reply_to_status_id_str": "1438122858492928004",
+		"in_reply_to_user_id": 766341842636042200,
+		"in_reply_to_user_id_str": "766341842636042240",
+		"in_reply_to_screen_name": "StevenKrugerQ",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StevenKrugerQ killing me that I haven't met this person yet"
+	},
+	{
+		"created_at": "Wed Sep 15 12:25:32 +0000 2021",
+		"id": 1438116772742324200,
+		"id_str": "1438116772742324232",
+		"full_text": "@melisser3 I think it was Chicago or Atlanta where I meticulously adjusted all the times and then was late/early to everything\n\n(Also! remembering later I learned that there is a setting to do time zones or not! So I could still lose the bet is you changed it...)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438112796349186000,
+		"in_reply_to_status_id_str": "1438112796349186048",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 I think it was Chicago or Atlanta where I meticulously adjusted all the times and then was late/early to everything\n\n(Also! remembering later I learned that there is a setting to do time zones or not! So I could still lose the bet is you changed it...)"
+	},
+	{
+		"created_at": "Wed Sep 15 11:07:32 +0000 2021",
+		"id": 1437471796588990500,
+		"id_str": "1438097142770503683",
+		"full_text": "I get that LC doesn't want the heading Concentration camps $z United States, but THAT SHIP SAILED ONCE WE BUILT CONCENTRATION CAMPS HERE.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [
+				{
+					"text": "z",
+					"indices": [
+						59,
+						61
+					]
+				}
+			],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437471366014386200,
+		"in_reply_to_status_id_str": "1437471366014386177",
+		"in_reply_to_user_id": 3337235254,
+		"in_reply_to_user_id_str": "3337235254",
+		"in_reply_to_screen_name": "marccold",
+		"user": {
+			"id": 3337235254,
+			"id_str": "3337235254",
+			"name": "MARC in a Cold Climate",
+			"screen_name": "marccold",
+			"location": "Michigan, USA",
+			"description": "Cataloging librarian with a mysterious past, an uncertain future, and a mansion full of brooding aristocrats and temperamental ghosts. She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6328,
+			"friends_count": 1351,
+			"listed_count": 183,
+			"created_at": "Sat Jun 20 16:21:20 +0000 2015",
+			"favourites_count": 120202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850079575044489216/jvLU994Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850079575044489216/jvLU994Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3337235254/1491965120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I get that LC doesn't want the heading Concentration camps $z United States, but THAT SHIP SAILED ONCE WE BUILT CONCENTRATION CAMPS HERE."
+	},
+	{
+		"created_at": "Wed Sep 15 10:53:02 +0000 2021",
+		"id": 1438093493801476000,
+		"id_str": "1438093493801476096",
+		"full_text": "@melisser3 I was excited I got the question correct!!! biggest win I've had all week. https://t.co/jK51jQxAVc",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438093487963000800,
+					"id_str": "1438093487963000836",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_UiaG_WUAQInph.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_UiaG_WUAQInph.jpg",
+					"url": "https://t.co/jK51jQxAVc",
+					"display_url": "pic.twitter.com/jK51jQxAVc",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438093493801476096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438093487963000800,
+					"id_str": "1438093487963000836",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_UiaG_WUAQInph.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_UiaG_WUAQInph.jpg",
+					"url": "https://t.co/jK51jQxAVc",
+					"display_url": "pic.twitter.com/jK51jQxAVc",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438093493801476096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E_UiaG_WUAQInph.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1437973679581941800,
+		"in_reply_to_status_id_str": "1437973679581941763",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 I was excited I got the question correct!!! biggest win I've had all week. https://t.co/jK51jQxAVc"
+	},
+	{
+		"created_at": "Wed Sep 15 10:48:39 +0000 2021",
+		"id": 1438092392435957800,
+		"id_str": "1438092392435957763",
+		"full_text": "@melisser3 Fuck/Marry/Kill also why is this so accurate https://t.co/pG0TWJlJ6G",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438092389311254500,
+					"id_str": "1438092389311254532",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UhaKMXEAQHW2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UhaKMXEAQHW2k.jpg",
+					"url": "https://t.co/pG0TWJlJ6G",
+					"display_url": "pic.twitter.com/pG0TWJlJ6G",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438092392435957763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438092389311254500,
+					"id_str": "1438092389311254532",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UhaKMXEAQHW2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UhaKMXEAQHW2k.jpg",
+					"url": "https://t.co/pG0TWJlJ6G",
+					"display_url": "pic.twitter.com/pG0TWJlJ6G",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438092392435957763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1437858749692186600,
+		"in_reply_to_status_id_str": "1437858749692186628",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 Fuck/Marry/Kill also why is this so accurate https://t.co/pG0TWJlJ6G"
+	},
+	{
+		"created_at": "Wed Sep 15 10:47:40 +0000 2021",
+		"id": 1438092145018163200,
+		"id_str": "1438092145018163205",
+		"full_text": "@StanleyRonin Yeah, that's an alarm clock for sure",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StanleyRonin",
+					"name": "Mister Hardcase",
+					"id": 1244441308057473000,
+					"id_str": "1244441308057473024",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438080026797396000,
+		"in_reply_to_status_id_str": "1438080026797395971",
+		"in_reply_to_user_id": 1244441308057473000,
+		"in_reply_to_user_id_str": "1244441308057473024",
+		"in_reply_to_screen_name": "StanleyRonin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, TRANSNATIONAL CAPITALISM EXISTS",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StanleyRonin Yeah, that's an alarm clock for sure"
+	},
+	{
 		"created_at": "Wed Sep 15 00:50:59 +0000 2021",
 		"id": 1437941984719773700,
 		"id_str": "1437941984719773698",
