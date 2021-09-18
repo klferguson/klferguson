@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 12:29:52 +0000 2021",
+		"id": 1438842640641007600,
+		"id_str": "1438842640641007624",
+		"full_text": "@melisser3 a card about anniversaries https://t.co/bENCfzx5w5",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (yr lil mama)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438842597829718000,
+					"id_str": "1438842597829718020",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fLuCtXMAQaE-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fLuCtXMAQaE-B.jpg",
+					"url": "https://t.co/bENCfzx5w5",
+					"display_url": "pic.twitter.com/bENCfzx5w5",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438842640641007624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438842597829718000,
+					"id_str": "1438842597829718020",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fLuCtXMAQaE-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fLuCtXMAQaE-B.jpg",
+					"url": "https://t.co/bENCfzx5w5",
+					"display_url": "pic.twitter.com/bENCfzx5w5",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1438842640641007624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438522002495574000,
+		"in_reply_to_status_id_str": "1438522002495574024",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, if i'm late can i thank you now?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1271,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432699836361543687/fhF85_31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 a card about anniversaries https://t.co/bENCfzx5w5"
+	},
+	{
 		"created_at": "Fri Sep 17 04:04:36 +0000 2021",
 		"id": 1438715487828037600,
 		"id_str": "1438715487828037633",
@@ -948,7 +1134,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Erik Anderson",
 			"screen_name": "awards_watch",
 			"location": "San Francisco, CA",
-			"description": "Founder/EIC of AwardsWatch | Tracking & predicting Oscars/Emmys/SAG and more | 🍅 -approved | Member: @DorianAwards @ICSfilm | 🏳️‍🌈 | #BLM | #StopAsianHate",
+			"description": "Founder/EIC of AwardsWatch | Tracking & predicting Oscars/Emmys/SAG and more | 🍅 -approved | Member: @DorianAwards @ICSfilm | 🏳️🌈 | #BLM | #StopAsianHate",
 			"url": "https://t.co/w4qxomSBcC",
 			"entities": {
 				"url": {
