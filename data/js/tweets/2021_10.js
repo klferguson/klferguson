@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 14:18:57 +0000 2021",
+		"id": 1449012379489120300,
+		"id_str": "1449016952568090624",
+		"full_text": "Excellent presentation at the Video Essay conference at Université de Paris by Amandine D'Azevedo of her and Térésa Faucon's brilliant web project Les Cartes de L'Analyse/Maps of Film Analysis https://t.co/itXY7ZysOT (@LarcaParis; @Univ_Paris; @CNRS). Check it out DH Film people!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LarcaParis",
+					"name": "LARCA",
+					"id": 836852981932953600,
+					"id_str": "836852981932953604",
+					"indices": [
+						218,
+						229
+					]
+				},
+				{
+					"screen_name": "Univ_Paris",
+					"name": "Université de Paris",
+					"id": 51400447,
+					"id_str": "51400447",
+					"indices": [
+						231,
+						242
+					]
+				},
+				{
+					"screen_name": "CNRS",
+					"name": "CNRS 🌍",
+					"id": 143909021,
+					"id_str": "143909021",
+					"indices": [
+						244,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/itXY7ZysOT",
+					"expanded_url": "https://lescartesdelanalyse.net",
+					"display_url": "lescartesdelanalyse.net",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63108261,
+			"id_str": "63108261",
+			"name": "Catherine Grant",
+			"screen_name": "filmstudiesff",
+			"location": "UK/the Cloud",
+			"description": "Sharing links, since 2008, to #OpenAccess film/media scholarship and online resources, and news/free events of note; aka @cageyrant/@audiovisualcy; she/they.",
+			"url": "https://t.co/7qWZpEyL3M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7qWZpEyL3M",
+							"expanded_url": "https://linktr.ee/filmstudiesff",
+							"display_url": "linktr.ee/filmstudiesff",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15566,
+			"friends_count": 9305,
+			"listed_count": 625,
+			"created_at": "Wed Aug 05 11:41:56 +0000 2009",
+			"favourites_count": 8043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929049043887706113/5_VXqoFK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929049043887706113/5_VXqoFK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63108261/1510336929",
+			"profile_link_color": "333399",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Excellent presentation at the Video Essay conference at Université de Paris by Amandine D'Azevedo of her and Térésa Faucon's brilliant web project Les Cartes de L'Analyse/Maps of Film Analysis https://t.co/itXY7ZysOT (@LarcaParis; @Univ_Paris; @CNRS). Check it out DH Film people!"
+	},
+	{
+		"created_at": "Fri Oct 15 13:39:19 +0000 2021",
+		"id": 1448705788785070000,
+		"id_str": "1449006976508338179",
+		"full_text": "Still the greatest TikTok of all time. If you haven’t seen it, just wait for it 😂😂😂😂😂😂😂😂😂😂😂😂😂 https://t.co/zpnVrVVdCA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448705490700193800,
+					"id_str": "1448705490700193797",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448705490700193797/pu/img/F5MBqs6zmH4NuYkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448705490700193797/pu/img/F5MBqs6zmH4NuYkY.jpg",
+					"url": "https://t.co/zpnVrVVdCA",
+					"display_url": "pic.twitter.com/zpnVrVVdCA",
+					"expanded_url": "https://twitter.com/SamIAm2021MD/status/1448705788785070081/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448705490700193800,
+					"id_str": "1448705490700193797",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448705490700193797/pu/img/F5MBqs6zmH4NuYkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448705490700193797/pu/img/F5MBqs6zmH4NuYkY.jpg",
+					"url": "https://t.co/zpnVrVVdCA",
+					"display_url": "pic.twitter.com/zpnVrVVdCA",
+					"expanded_url": "https://twitter.com/SamIAm2021MD/status/1448705788785070081/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							71
+						],
+						"duration_millis": 58793,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448705490700193797/pu/vid/640x568/oOKD-Gvh2dYgjH_E.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448705490700193797/pu/pl/M9dv4KarAMpHnSwt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448705490700193797/pu/vid/404x360/Kh7__HT2x09_BEuP.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448705490700193797/pu/vid/304x270/RLjoejAO66wndfEt.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1352065535417188400,
+			"id_str": "1352065535417188359",
+			"name": "Sam",
+			"screen_name": "SamIAm2021MD",
+			"location": "",
+			"description": "MD/MPH. Medicare for All. My tweets ≠ personal medical advice.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4299,
+			"friends_count": 1875,
+			"listed_count": 11,
+			"created_at": "Thu Jan 21 01:29:33 +0000 2021",
+			"favourites_count": 34381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1355121074615287815/pOloA0y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355121074615287815/pOloA0y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1352065535417188359/1629628777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15583,
+		"favorite_count": 67517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still the greatest TikTok of all time. If you haven’t seen it, just wait for it 😂😂😂😂😂😂😂😂😂😂😂😂😂 https://t.co/zpnVrVVdCA"
+	},
+	{
+		"created_at": "Fri Oct 15 13:33:21 +0000 2021",
+		"id": 1449005477430534100,
+		"id_str": "1449005477430534153",
+		"full_text": "https://t.co/GM321fuUoa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449005471340408800,
+					"id_str": "1449005471340408837",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FBvmzIzXsAUIeoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBvmzIzXsAUIeoj.jpg",
+					"url": "https://t.co/GM321fuUoa",
+					"display_url": "pic.twitter.com/GM321fuUoa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1449005477430534153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449005471340408800,
+					"id_str": "1449005471340408837",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FBvmzIzXsAUIeoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBvmzIzXsAUIeoj.jpg",
+					"url": "https://t.co/GM321fuUoa",
+					"display_url": "pic.twitter.com/GM321fuUoa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1449005477430534153/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FBvmzIzXsAUIeoj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, tattoo of a bee wearing a ghost costume 🐝 👻",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 557,
+			"listed_count": 46,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 26918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444387392237051936/MI9MdCbz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444387392237051936/MI9MdCbz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GM321fuUoa"
+	},
+	{
 		"created_at": "Thu Oct 14 21:20:07 +0000 2021",
 		"id": 1448760553074274300,
 		"id_str": "1448760553074274309",
