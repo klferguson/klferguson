@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 16:09:49 +0000 2021",
+		"id": 1459191367876452400,
+		"id_str": "1459191712732045328",
+		"full_text": "😍😍😍 https://t.co/e8m9XgJvhV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e8m9XgJvhV",
+					"expanded_url": "https://twitter.com/hering_david/status/1459067505281056796",
+					"display_url": "twitter.com/hering_david/s…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16191598,
+			"id_str": "16191598",
+			"name": "Dan Hassler-Forest",
+			"screen_name": "DanHF",
+			"location": "Utrecht",
+			"description": "Speaker. Author. Science fiction scholar. Janelle Monáe fandroid. Writer of “the stupidest article ever published by the WaPo” (Fox News). Utrecht University.",
+			"url": "https://t.co/mHLnA6RNtN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mHLnA6RNtN",
+							"expanded_url": "http://danhf.wordpress.com",
+							"display_url": "danhf.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5228,
+			"friends_count": 2717,
+			"listed_count": 128,
+			"created_at": "Mon Sep 08 20:31:50 +0000 2008",
+			"favourites_count": 33677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385587108388261891/AMblaD3k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385587108388261891/AMblaD3k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16191598/1626343832",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459067505281056800,
+		"quoted_status_id_str": "1459067505281056796",
+		"quoted_status_permalink": {
+			"url": "https://t.co/e8m9XgJvhV",
+			"expanded": "https://twitter.com/hering_david/status/1459067505281056796",
+			"display": "twitter.com/hering_david/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 07:56:16 +0000 2021",
+			"id": 1459067505281056800,
+			"id_str": "1459067505281056796",
+			"full_text": "On his birthday, here’s the young Roland Barthes rocking a tartan-trim robe like a matinee idol https://t.co/z4Owcr85rp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1459067427644395500,
+						"id_str": "1459067427644395521",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/FD-mGFAWUAEyNJm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD-mGFAWUAEyNJm.jpg",
+						"url": "https://t.co/z4Owcr85rp",
+						"display_url": "pic.twitter.com/z4Owcr85rp",
+						"expanded_url": "https://twitter.com/hering_david/status/1459067505281056796/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 654,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 700,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 728,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1459067427644395500,
+						"id_str": "1459067427644395521",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/FD-mGFAWUAEyNJm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD-mGFAWUAEyNJm.jpg",
+						"url": "https://t.co/z4Owcr85rp",
+						"display_url": "pic.twitter.com/z4Owcr85rp",
+						"expanded_url": "https://twitter.com/hering_david/status/1459067505281056796/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 654,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 700,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 728,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1214948395,
+				"id_str": "1214948395",
+				"name": "David Hering",
+				"screen_name": "hering_david",
+				"location": "The Wild Kindness",
+				"description": "Writer | Lecturer | 2019 @fitzcarraldoeds Novel Prize finalist | Post-45 literature, cinema, music, visual arts. Rep: @AEAkinwumi",
+				"url": "https://t.co/dyvkGcWT33",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dyvkGcWT33",
+								"expanded_url": "https://www.davidhering.com/",
+								"display_url": "davidhering.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4424,
+				"friends_count": 1842,
+				"listed_count": 32,
+				"created_at": "Sun Feb 24 09:01:06 +0000 2013",
+				"favourites_count": 16530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7169,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410677265873133568/iM0_isQ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410677265873133568/iM0_isQ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1214948395/1626125384",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 157,
+			"favorite_count": 1350,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😍😍😍 https://t.co/e8m9XgJvhV"
+	},
+	{
 		"created_at": "Fri Nov 12 03:03:21 +0000 2021",
 		"id": 1458993792317542400,
 		"id_str": "1458993792317542416",
