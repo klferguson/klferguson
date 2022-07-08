@@ -1,6 +1,6515 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 05:06:44 +0000 2022",
+		"id": 1545273154037325800,
+		"id_str": "1545273154037325826",
+		"full_text": "#🦀 https://t.co/1WvDTnz7Uo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545272977876521000,
+					"id_str": "1545272977876520960",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHplg9XEAALNd3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXHplg9XEAALNd3.png",
+					"url": "https://t.co/1WvDTnz7Uo",
+					"display_url": "pic.twitter.com/1WvDTnz7Uo",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545273154037325826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545272977876521000,
+					"id_str": "1545272977876520960",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHplg9XEAALNd3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXHplg9XEAALNd3.png",
+					"url": "https://t.co/1WvDTnz7Uo",
+					"display_url": "pic.twitter.com/1WvDTnz7Uo",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545273154037325826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#🦀 https://t.co/1WvDTnz7Uo"
+	},
+	{
+		"created_at": "Fri Jul 08 04:09:07 +0000 2022",
+		"id": 1545258653204287500,
+		"id_str": "1545258653204287489",
+		"full_text": "yessssss https://t.co/roUtI1DOfy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545258083424821200,
+					"id_str": "1545258083424821250",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHcCizWYAIBYbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHcCizWYAIBYbj.jpg",
+					"url": "https://t.co/roUtI1DOfy",
+					"display_url": "pic.twitter.com/roUtI1DOfy",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545258653204287489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545258083424821200,
+					"id_str": "1545258083424821250",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHcCizWYAIBYbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHcCizWYAIBYbj.jpg",
+					"url": "https://t.co/roUtI1DOfy",
+					"display_url": "pic.twitter.com/roUtI1DOfy",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545258653204287489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545256986723459000,
+		"in_reply_to_status_id_str": "1545256986723459073",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "yessssss https://t.co/roUtI1DOfy"
+	},
+	{
+		"created_at": "Fri Jul 08 04:02:29 +0000 2022",
+		"id": 1545256986723459000,
+		"id_str": "1545256986723459073",
+		"full_text": "shout to DULCIUS EX ASPERIS 🐝 https://t.co/RvHrYXiOWZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545256743353057300,
+					"id_str": "1545256743353057281",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHa0ipWAAEpXyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHa0ipWAAEpXyT.jpg",
+					"url": "https://t.co/RvHrYXiOWZ",
+					"display_url": "pic.twitter.com/RvHrYXiOWZ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545256986723459073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545256743353057300,
+					"id_str": "1545256743353057281",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHa0ipWAAEpXyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHa0ipWAAEpXyT.jpg",
+					"url": "https://t.co/RvHrYXiOWZ",
+					"display_url": "pic.twitter.com/RvHrYXiOWZ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545256986723459073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545256743575470000,
+					"id_str": "1545256743575470080",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHa0jeXwAACniX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHa0jeXwAACniX.jpg",
+					"url": "https://t.co/RvHrYXiOWZ",
+					"display_url": "pic.twitter.com/RvHrYXiOWZ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545256986723459073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "shout to DULCIUS EX ASPERIS 🐝 https://t.co/RvHrYXiOWZ"
+	},
+	{
+		"created_at": "Fri Jul 08 01:17:25 +0000 2022",
+		"id": 1545215446768550000,
+		"id_str": "1545215446768549893",
+		"full_text": "@cbkenkar solid work! my clan crest is way more complicated",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cbkenkar",
+					"name": "Colleen Kennedy-Karpat",
+					"id": 362114813,
+					"id_str": "362114813",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545211142250942500,
+		"in_reply_to_status_id_str": "1545211142250942466",
+		"in_reply_to_user_id": 362114813,
+		"in_reply_to_user_id_str": "362114813",
+		"in_reply_to_screen_name": "cbkenkar",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cbkenkar solid work! my clan crest is way more complicated"
+	},
+	{
+		"created_at": "Fri Jul 08 00:41:34 +0000 2022",
+		"id": 1545206423189131300,
+		"id_str": "1545206423189131267",
+		"full_text": "@cbkenkar !!!!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cbkenkar",
+					"name": "Colleen Kennedy-Karpat",
+					"id": 362114813,
+					"id_str": "362114813",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545195360800448500,
+		"in_reply_to_status_id_str": "1545195360800448513",
+		"in_reply_to_user_id": 362114813,
+		"in_reply_to_user_id_str": "362114813",
+		"in_reply_to_screen_name": "cbkenkar",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "qam",
+		"text": "@cbkenkar !!!!"
+	},
+	{
+		"created_at": "Thu Jul 07 23:30:39 +0000 2022",
+		"id": 1545188577017200600,
+		"id_str": "1545188577017200640",
+		"full_text": "summed frames of Dashcam, Rob Savage, 2021 https://t.co/Vq8OS2tyHx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vq8OS2tyHx",
+					"expanded_url": "https://tmblr.co/ZIn6FqcGPRFdKi00",
+					"display_url": "tmblr.co/ZIn6FqcGPRFdKi…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "summed frames of Dashcam, Rob Savage, 2021 https://t.co/Vq8OS2tyHx"
+	},
+	{
+		"created_at": "Thu Jul 07 22:33:55 +0000 2022",
+		"id": 1545174300650602500,
+		"id_str": "1545174300650602504",
+		"full_text": "https://t.co/kyJ4AonU0n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545174273513365500,
+					"id_str": "1545174273513365504",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGP0KjWIAAFbqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGP0KjWIAAFbqe.jpg",
+					"url": "https://t.co/kyJ4AonU0n",
+					"display_url": "pic.twitter.com/kyJ4AonU0n",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545174300650602504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545174273513365500,
+					"id_str": "1545174273513365504",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGP0KjWIAAFbqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGP0KjWIAAFbqe.jpg",
+					"url": "https://t.co/kyJ4AonU0n",
+					"display_url": "pic.twitter.com/kyJ4AonU0n",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545174300650602504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545172183068049400,
+		"in_reply_to_status_id_str": "1545172183068049409",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/kyJ4AonU0n"
+	},
+	{
+		"created_at": "Thu Jul 07 22:25:31 +0000 2022",
+		"id": 1545172183068049400,
+		"id_str": "1545172183068049409",
+		"full_text": "https://t.co/SxZ767PwvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545172146728616000,
+					"id_str": "1545172146728615937",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGN4XqWQAEClcT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGN4XqWQAEClcT.jpg",
+					"url": "https://t.co/SxZ767PwvC",
+					"display_url": "pic.twitter.com/SxZ767PwvC",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545172183068049409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545172146728616000,
+					"id_str": "1545172146728615937",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGN4XqWQAEClcT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGN4XqWQAEClcT.jpg",
+					"url": "https://t.co/SxZ767PwvC",
+					"display_url": "pic.twitter.com/SxZ767PwvC",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545172183068049409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545171265308205000,
+		"in_reply_to_status_id_str": "1545171265308205058",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/SxZ767PwvC"
+	},
+	{
+		"created_at": "Thu Jul 07 22:21:52 +0000 2022",
+		"id": 1545171265308205000,
+		"id_str": "1545171265308205058",
+		"full_text": "https://t.co/mOifIrZtzU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545171258274447400,
+					"id_str": "1545171258274447360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGNEp6XgAAH2zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGNEp6XgAAH2zE.jpg",
+					"url": "https://t.co/mOifIrZtzU",
+					"display_url": "pic.twitter.com/mOifIrZtzU",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545171265308205058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545171258274447400,
+					"id_str": "1545171258274447360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGNEp6XgAAH2zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGNEp6XgAAH2zE.jpg",
+					"url": "https://t.co/mOifIrZtzU",
+					"display_url": "pic.twitter.com/mOifIrZtzU",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545171265308205058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545171258270163000,
+					"id_str": "1545171258270162946",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGNEp5WIAIGzvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGNEp5WIAIGzvZ.jpg",
+					"url": "https://t.co/mOifIrZtzU",
+					"display_url": "pic.twitter.com/mOifIrZtzU",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545171265308205058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545159107681947600,
+		"in_reply_to_status_id_str": "1545159107681947650",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/mOifIrZtzU"
+	},
+	{
+		"created_at": "Thu Jul 07 21:33:33 +0000 2022",
+		"id": 1545159107681947600,
+		"id_str": "1545159107681947650",
+		"full_text": "(biscuit did you tell me about this one??)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545159061829832700,
+		"in_reply_to_status_id_str": "1545159061829832704",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "(biscuit did you tell me about this one??)"
+	},
+	{
+		"created_at": "Thu Jul 07 21:33:22 +0000 2022",
+		"id": 1545159061829832700,
+		"id_str": "1545159061829832704",
+		"full_text": "cinematography is my passion https://t.co/nddA9xYzzj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545159035154059300,
+					"id_str": "1545159035154059264",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGB9LPX0AAVRbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGB9LPX0AAVRbA.jpg",
+					"url": "https://t.co/nddA9xYzzj",
+					"display_url": "pic.twitter.com/nddA9xYzzj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545159061829832704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545159035154059300,
+					"id_str": "1545159035154059264",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FXGB9LPX0AAVRbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXGB9LPX0AAVRbA.jpg",
+					"url": "https://t.co/nddA9xYzzj",
+					"display_url": "pic.twitter.com/nddA9xYzzj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545159061829832704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545124401661853700,
+		"in_reply_to_status_id_str": "1545124401661853698",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "cinematography is my passion https://t.co/nddA9xYzzj"
+	},
+	{
+		"created_at": "Thu Jul 07 19:15:39 +0000 2022",
+		"id": 1545124401661853700,
+		"id_str": "1545124401661853698",
+		"full_text": "https://t.co/r57oSP7uZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545122491282120700,
+					"id_str": "1545122491282120708",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFguCtWYAQSEi3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFguCtWYAQSEi3.jpg",
+					"url": "https://t.co/r57oSP7uZa",
+					"display_url": "pic.twitter.com/r57oSP7uZa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545124401661853698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545122491282120700,
+					"id_str": "1545122491282120708",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFguCtWYAQSEi3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFguCtWYAQSEi3.jpg",
+					"url": "https://t.co/r57oSP7uZa",
+					"display_url": "pic.twitter.com/r57oSP7uZa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545124401661853698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545122491361857500,
+					"id_str": "1545122491361857541",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFguDAXEAUWe6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFguDAXEAUWe6f.jpg",
+					"url": "https://t.co/r57oSP7uZa",
+					"display_url": "pic.twitter.com/r57oSP7uZa",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545124401661853698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545122429487517700,
+		"in_reply_to_status_id_str": "1545122429487517703",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/r57oSP7uZa"
+	},
+	{
+		"created_at": "Thu Jul 07 19:07:48 +0000 2022",
+		"id": 1545122429487517700,
+		"id_str": "1545122429487517703",
+		"full_text": "https://t.co/IzXoGexS7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545122422541766700,
+					"id_str": "1545122422541766656",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFgqCoX0AAGf1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFgqCoX0AAGf1A.jpg",
+					"url": "https://t.co/IzXoGexS7y",
+					"display_url": "pic.twitter.com/IzXoGexS7y",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545122429487517703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545122422541766700,
+					"id_str": "1545122422541766656",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFgqCoX0AAGf1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFgqCoX0AAGf1A.jpg",
+					"url": "https://t.co/IzXoGexS7y",
+					"display_url": "pic.twitter.com/IzXoGexS7y",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545122429487517703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545122422550106000,
+					"id_str": "1545122422550106112",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFgqCqXEAAyMTO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXFgqCqXEAAyMTO.png",
+					"url": "https://t.co/IzXoGexS7y",
+					"display_url": "pic.twitter.com/IzXoGexS7y",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545122429487517703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/IzXoGexS7y"
+	},
+	{
+		"created_at": "Thu Jul 07 18:47:21 +0000 2022",
+		"id": 1545117281411367000,
+		"id_str": "1545117281411366924",
+		"full_text": "typewriter alert https://t.co/BneiqLbF9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BneiqLbF9t",
+					"expanded_url": "https://twitter.com/FANGORIA/status/1545115275091222530",
+					"display_url": "twitter.com/FANGORIA/statu…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545115275091222500,
+		"quoted_status_id_str": "1545115275091222530",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BneiqLbF9t",
+			"expanded": "https://twitter.com/FANGORIA/status/1545115275091222530",
+			"display": "twitter.com/FANGORIA/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 07 18:39:23 +0000 2022",
+			"id": 1545115275091222500,
+			"id_str": "1545115275091222530",
+			"full_text": "RIP to the iconic and beloved actor James Caan. The star of MISERY, ROLLERBALL (1975), THE GODFATHER, THIEF, and more. https://t.co/nFdY1BT2CF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1545115112322777000,
+						"id_str": "1545115112322777093",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/FXFaAh8WQAUx9jp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXFaAh8WQAUx9jp.jpg",
+						"url": "https://t.co/nFdY1BT2CF",
+						"display_url": "pic.twitter.com/nFdY1BT2CF",
+						"expanded_url": "https://twitter.com/FANGORIA/status/1545115275091222530/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 1100,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1545115112322777000,
+						"id_str": "1545115112322777093",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/FXFaAh8WQAUx9jp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXFaAh8WQAUx9jp.jpg",
+						"url": "https://t.co/nFdY1BT2CF",
+						"display_url": "pic.twitter.com/nFdY1BT2CF",
+						"expanded_url": "https://twitter.com/FANGORIA/status/1545115275091222530/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 1100,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123574362,
+				"id_str": "123574362",
+				"name": "FANGORIA",
+				"screen_name": "FANGORIA",
+				"location": "",
+				"description": "First in Fright since 1979, FANGORIA is a collectible magazine, a podcast network, and an entertainment studio.\nhttps://t.co/ThSuelEMYW",
+				"url": "https://t.co/8yqFTtyuBc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8yqFTtyuBc",
+								"expanded_url": "https://linktr.ee/FANGORIA",
+								"display_url": "linktr.ee/FANGORIA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ThSuelEMYW",
+								"expanded_url": "http://www.FANGORIA.com",
+								"display_url": "FANGORIA.com",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 243319,
+				"friends_count": 942,
+				"listed_count": 1963,
+				"created_at": "Tue Mar 16 14:29:18 +0000 2010",
+				"favourites_count": 66793,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510252166023458822/S7eYotJ-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510252166023458822/S7eYotJ-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123574362/1648907151",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 391,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "typewriter alert https://t.co/BneiqLbF9t"
+	},
+	{
+		"created_at": "Thu Jul 07 18:31:54 +0000 2022",
+		"id": 1545113392192622600,
+		"id_str": "1545113392192622593",
+		"full_text": "@EdwinJDavies in protools no less",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdwinJDavies",
+					"name": "Monkey Island 2: Lechonk's Revenge",
+					"id": 20334817,
+					"id_str": "20334817",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545109714773631000,
+		"in_reply_to_status_id_str": "1545109714773630981",
+		"in_reply_to_user_id": 20334817,
+		"in_reply_to_user_id_str": "20334817",
+		"in_reply_to_screen_name": "EdwinJDavies",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdwinJDavies in protools no less"
+	},
+	{
+		"created_at": "Thu Jul 07 18:13:08 +0000 2022",
+		"id": 1545108671394373600,
+		"id_str": "1545108671394373633",
+		"full_text": "oh graham https://t.co/sqxM11RPIo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sqxM11RPIo",
+					"expanded_url": "https://twitter.com/blurofficial/status/1545073015259529216",
+					"display_url": "twitter.com/blurofficial/s…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545073015259529200,
+		"quoted_status_id_str": "1545073015259529216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sqxM11RPIo",
+			"expanded": "https://twitter.com/blurofficial/status/1545073015259529216",
+			"display": "twitter.com/blurofficial/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 07 15:51:27 +0000 2022",
+			"id": 1545073015259529200,
+			"id_str": "1545073015259529216",
+			"full_text": "‘Crazy Beat’ was released on this day in 2003, taken from Blur’s seventh album ‘Think Tank’. https://t.co/TmR3vb0BMh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1545072891179503600,
+						"id_str": "1545072891179503616",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545072891179503616/pu/img/nIXebpQGdK7OjIU1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545072891179503616/pu/img/nIXebpQGdK7OjIU1.jpg",
+						"url": "https://t.co/TmR3vb0BMh",
+						"display_url": "pic.twitter.com/TmR3vb0BMh",
+						"expanded_url": "https://twitter.com/blurofficial/status/1545073015259529216/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1545072891179503600,
+						"id_str": "1545072891179503616",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545072891179503616/pu/img/nIXebpQGdK7OjIU1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545072891179503616/pu/img/nIXebpQGdK7OjIU1.jpg",
+						"url": "https://t.co/TmR3vb0BMh",
+						"display_url": "pic.twitter.com/TmR3vb0BMh",
+						"expanded_url": "https://twitter.com/blurofficial/status/1545073015259529216/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 14666,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1545072891179503616/pu/pl/wJZim1QIGxWdd76n.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545072891179503616/pu/vid/360x270/QWQiFsHrfJeuxo9-.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545072891179503616/pu/vid/640x480/SCgUsUfTCtR3ic1P.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545072891179503616/pu/vid/480x360/_MwkRkoZhr_xUVu4.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 365445243,
+				"id_str": "365445243",
+				"name": "blur",
+				"screen_name": "blurofficial",
+				"location": "London",
+				"description": "Celebrating 25 years of Blur, the album. #Blur25",
+				"url": "https://t.co/Hrfq2UWCud",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hrfq2UWCud",
+								"expanded_url": "https://blur.lnk.to/Blur25",
+								"display_url": "blur.lnk.to/Blur25",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 329117,
+				"friends_count": 163,
+				"listed_count": 2153,
+				"created_at": "Wed Aug 31 13:12:27 +0000 2011",
+				"favourites_count": 30,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 807,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1488920263093850127/IyodHLMG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488920263093850127/IyodHLMG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/365445243/1656335113",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 193,
+			"favorite_count": 1331,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "oh graham https://t.co/sqxM11RPIo"
+	},
+	{
+		"created_at": "Thu Jul 07 16:24:52 +0000 2022",
+		"id": 1545081425573077000,
+		"id_str": "1545081425573076993",
+		"full_text": "👂🏻👂🏻 https://t.co/4fqKh2kztb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4fqKh2kztb",
+					"expanded_url": "https://twitter.com/poetastrologers/status/1544976233837907968",
+					"display_url": "twitter.com/poetastrologer…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544976233837908000,
+		"quoted_status_id_str": "1544976233837907968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4fqKh2kztb",
+			"expanded": "https://twitter.com/poetastrologers/status/1544976233837907968",
+			"display": "twitter.com/poetastrologer…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 07 09:26:53 +0000 2022",
+			"id": 1544976233837908000,
+			"id_str": "1544976233837907968",
+			"full_text": "What’s the best thing about being in love with a Cancer?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 802646542779813900,
+				"id_str": "802646542779813889",
+				"name": "Astro Poets",
+				"screen_name": "poetastrologers",
+				"location": "The Universe",
+				"description": "Astrology by poets @DorotheaLasky & @alexdimitrov. Our book Astro Poets: Your Guides to the Zodiac is out now. Contact: astropoets@gmail.com",
+				"url": "https://t.co/Ve815b1jG6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ve815b1jG6",
+								"expanded_url": "https://astropoets.substack.com",
+								"display_url": "astropoets.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 707682,
+				"friends_count": 2655,
+				"listed_count": 1631,
+				"created_at": "Sat Nov 26 22:53:43 +0000 2016",
+				"favourites_count": 6279,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18041,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802651592814198784/gg-iBtXY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802651592814198784/gg-iBtXY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/802646542779813889/1561247255",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 851,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "art",
+		"text": "👂🏻👂🏻 https://t.co/4fqKh2kztb"
+	},
+	{
+		"created_at": "Thu Jul 07 16:23:24 +0000 2022",
+		"id": 1544978278817050600,
+		"id_str": "1545081055849418753",
+		"full_text": "No one:\nCancers: so let’s circle back to my feelings from 4 years ago, july 2018",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 802646542779813900,
+			"id_str": "802646542779813889",
+			"name": "Astro Poets",
+			"screen_name": "poetastrologers",
+			"location": "The Universe",
+			"description": "Astrology by poets @DorotheaLasky & @alexdimitrov. Our book Astro Poets: Your Guides to the Zodiac is out now. Contact: astropoets@gmail.com",
+			"url": "https://t.co/Ve815b1jG6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ve815b1jG6",
+							"expanded_url": "https://astropoets.substack.com",
+							"display_url": "astropoets.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 707682,
+			"friends_count": 2655,
+			"listed_count": 1631,
+			"created_at": "Sat Nov 26 22:53:43 +0000 2016",
+			"favourites_count": 6279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802651592814198784/gg-iBtXY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802651592814198784/gg-iBtXY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/802646542779813889/1561247255",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 447,
+		"favorite_count": 2915,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "No one:\nCancers: so let’s circle back to my feelings from 4 years ago, july 2018"
+	},
+	{
+		"created_at": "Thu Jul 07 16:14:31 +0000 2022",
+		"id": 1545078820566438000,
+		"id_str": "1545078820566437890",
+		"full_text": "what you call \"gaffing\" https://t.co/MB3QPHa1Y3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545078345242648600,
+					"id_str": "1545078345242648576",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FXE4kZ5WIAAVgf0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXE4kZ5WIAAVgf0.png",
+					"url": "https://t.co/MB3QPHa1Y3",
+					"display_url": "pic.twitter.com/MB3QPHa1Y3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545078820566437890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545078345242648600,
+					"id_str": "1545078345242648576",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FXE4kZ5WIAAVgf0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXE4kZ5WIAAVgf0.png",
+					"url": "https://t.co/MB3QPHa1Y3",
+					"display_url": "pic.twitter.com/MB3QPHa1Y3",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545078820566437890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545076024458748000,
+		"in_reply_to_status_id_str": "1545076024458747904",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "what you call \"gaffing\" https://t.co/MB3QPHa1Y3"
+	},
+	{
+		"created_at": "Thu Jul 07 16:03:25 +0000 2022",
+		"id": 1545076024458748000,
+		"id_str": "1545076024458747904",
+		"full_text": "also how i sex https://t.co/IsKJmQPr4i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545072984611750000,
+					"id_str": "1545072984611749890",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEzsX_WAAIUcD-.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEzsX_WAAIUcD-.png",
+					"url": "https://t.co/IsKJmQPr4i",
+					"display_url": "pic.twitter.com/IsKJmQPr4i",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545076024458747904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545072984611750000,
+					"id_str": "1545072984611749890",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEzsX_WAAIUcD-.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEzsX_WAAIUcD-.png",
+					"url": "https://t.co/IsKJmQPr4i",
+					"display_url": "pic.twitter.com/IsKJmQPr4i",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545076024458747904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545072677194457000,
+		"in_reply_to_status_id_str": "1545072677194457089",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "also how i sex https://t.co/IsKJmQPr4i"
+	},
+	{
+		"created_at": "Thu Jul 07 15:51:04 +0000 2022",
+		"id": 1545072917544947700,
+		"id_str": "1545072917544947714",
+		"full_text": "@heather_muse 😂🤣",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heather_muse",
+					"name": "Heather Muse",
+					"id": 38244174,
+					"id_str": "38244174",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545072629660409900,
+		"in_reply_to_status_id_str": "1545072629660409857",
+		"in_reply_to_user_id": 38244174,
+		"in_reply_to_user_id_str": "38244174",
+		"in_reply_to_screen_name": "heather_muse",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@heather_muse 😂🤣"
+	},
+	{
+		"created_at": "Thu Jul 07 15:50:06 +0000 2022",
+		"id": 1545072677194457000,
+		"id_str": "1545072677194457089",
+		"full_text": "cinematography is my passion https://t.co/GwfmOUECWs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545070827648974800,
+					"id_str": "1545070827648974850",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FXExu0rWAAIVVIH.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXExu0rWAAIVVIH.png",
+					"url": "https://t.co/GwfmOUECWs",
+					"display_url": "pic.twitter.com/GwfmOUECWs",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545072677194457089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545070827648974800,
+					"id_str": "1545070827648974850",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FXExu0rWAAIVVIH.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXExu0rWAAIVVIH.png",
+					"url": "https://t.co/GwfmOUECWs",
+					"display_url": "pic.twitter.com/GwfmOUECWs",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545072677194457089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545070610375737300,
+		"in_reply_to_status_id_str": "1545070610375737344",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "cinematography is my passion https://t.co/GwfmOUECWs"
+	},
+	{
+		"created_at": "Thu Jul 07 15:41:54 +0000 2022",
+		"id": 1545070610375737300,
+		"id_str": "1545070610375737344",
+		"full_text": "https://t.co/QIeuO6ICyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545066723732295700,
+					"id_str": "1545066723732295680",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEt_8ZXEAA-crn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEt_8ZXEAA-crn.png",
+					"url": "https://t.co/QIeuO6ICyO",
+					"display_url": "pic.twitter.com/QIeuO6ICyO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545070610375737344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545066723732295700,
+					"id_str": "1545066723732295680",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEt_8ZXEAA-crn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEt_8ZXEAA-crn.png",
+					"url": "https://t.co/QIeuO6ICyO",
+					"display_url": "pic.twitter.com/QIeuO6ICyO",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545070610375737344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545064896378900500,
+		"in_reply_to_status_id_str": "1545064896378900481",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/QIeuO6ICyO"
+	},
+	{
+		"created_at": "Thu Jul 07 15:19:11 +0000 2022",
+		"id": 1545064896378900500,
+		"id_str": "1545064896378900481",
+		"full_text": "SCOOTER!!!! https://t.co/LOAsrDyIwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545064884966244400,
+					"id_str": "1545064884966244352",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEsU6dXwAAuHnn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEsU6dXwAAuHnn.png",
+					"url": "https://t.co/LOAsrDyIwL",
+					"display_url": "pic.twitter.com/LOAsrDyIwL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545064896378900481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545064884966244400,
+					"id_str": "1545064884966244352",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEsU6dXwAAuHnn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEsU6dXwAAuHnn.png",
+					"url": "https://t.co/LOAsrDyIwL",
+					"display_url": "pic.twitter.com/LOAsrDyIwL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545064896378900481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545061550695800800,
+		"in_reply_to_status_id_str": "1545061550695800833",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SCOOTER!!!! https://t.co/LOAsrDyIwL"
+	},
+	{
+		"created_at": "Thu Jul 07 15:10:21 +0000 2022",
+		"id": 1545062671820722200,
+		"id_str": "1545062671820722176",
+		"full_text": "@poppycockltd i'm \"not supposed to open it\" so i can't quite tell you what's in it!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "poppycockltd",
+					"name": "Molly Pohlig",
+					"id": 230242884,
+					"id_str": "230242884",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545056857219207200,
+		"in_reply_to_status_id_str": "1545056857219207174",
+		"in_reply_to_user_id": 230242884,
+		"in_reply_to_user_id_str": "230242884",
+		"in_reply_to_screen_name": "poppycockltd",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@poppycockltd i'm \"not supposed to open it\" so i can't quite tell you what's in it!"
+	},
+	{
+		"created_at": "Thu Jul 07 15:09:20 +0000 2022",
+		"id": 1545062414424629200,
+		"id_str": "1545062414424629248",
+		"full_text": "@melisser3 wut\nhttps://t.co/ZKkDZWTACs",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (cont'd)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZKkDZWTACs",
+					"expanded_url": "https://twitter.com/AnnieHardy/status/1542966959586783234?s=20&t=Q6sEbjONLt6qzVNKU_GAMw",
+					"display_url": "twitter.com/AnnieHardy/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545062349299519500,
+		"in_reply_to_status_id_str": "1545062349299519495",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1542966959586783200,
+		"quoted_status_id_str": "1542966959586783234",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZKkDZWTACs",
+			"expanded": "https://twitter.com/AnnieHardy/status/1542966959586783234?s=20&t=Q6sEbjONLt6qzVNKU_GAMw",
+			"display": "twitter.com/AnnieHardy/sta…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@melisser3 wut\nhttps://t.co/ZKkDZWTACs"
+	},
+	{
+		"created_at": "Thu Jul 07 15:09:04 +0000 2022",
+		"id": 1545062349299519500,
+		"id_str": "1545062349299519495",
+		"full_text": "@melisser3 👀👀",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (cont'd)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545058347480539100,
+		"in_reply_to_status_id_str": "1545058347480539136",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@melisser3 👀👀"
+	},
+	{
+		"created_at": "Thu Jul 07 15:05:54 +0000 2022",
+		"id": 1545061550695800800,
+		"id_str": "1545061550695800833",
+		"full_text": "https://t.co/fFEkXQ9Smg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545057196546728000,
+					"id_str": "1545057196546727938",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXElVY3UIAIXJjD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXElVY3UIAIXJjD.png",
+					"url": "https://t.co/fFEkXQ9Smg",
+					"display_url": "pic.twitter.com/fFEkXQ9Smg",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545061550695800833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545057196546728000,
+					"id_str": "1545057196546727938",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXElVY3UIAIXJjD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXElVY3UIAIXJjD.png",
+					"url": "https://t.co/fFEkXQ9Smg",
+					"display_url": "pic.twitter.com/fFEkXQ9Smg",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545061550695800833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545056692194357200,
+		"in_reply_to_status_id_str": "1545056692194357248",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/fFEkXQ9Smg"
+	},
+	{
+		"created_at": "Thu Jul 07 14:46:35 +0000 2022",
+		"id": 1545056692194357200,
+		"id_str": "1545056692194357248",
+		"full_text": "i imagine this is what dating apps are like?? https://t.co/tmvlJPTpMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545054630496702500,
+					"id_str": "1545054630496702470",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEjABlUEAYc2eO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEjABlUEAYc2eO.png",
+					"url": "https://t.co/tmvlJPTpMj",
+					"display_url": "pic.twitter.com/tmvlJPTpMj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545056692194357248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545054630496702500,
+					"id_str": "1545054630496702470",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEjABlUEAYc2eO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEjABlUEAYc2eO.png",
+					"url": "https://t.co/tmvlJPTpMj",
+					"display_url": "pic.twitter.com/tmvlJPTpMj",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545056692194357248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545053246712033300,
+		"in_reply_to_status_id_str": "1545053246712033284",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i imagine this is what dating apps are like?? https://t.co/tmvlJPTpMj"
+	},
+	{
+		"created_at": "Thu Jul 07 14:32:54 +0000 2022",
+		"id": 1545053246712033300,
+		"id_str": "1545053246712033284",
+		"full_text": "lol cinematography https://t.co/gDvVCnLFcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545053190713839600,
+					"id_str": "1545053190713839617",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEhsN-VEAEUIf7.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEhsN-VEAEUIf7.png",
+					"url": "https://t.co/gDvVCnLFcv",
+					"display_url": "pic.twitter.com/gDvVCnLFcv",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545053246712033284/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545053190713839600,
+					"id_str": "1545053190713839617",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEhsN-VEAEUIf7.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEhsN-VEAEUIf7.png",
+					"url": "https://t.co/gDvVCnLFcv",
+					"display_url": "pic.twitter.com/gDvVCnLFcv",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545053246712033284/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545051521108234200,
+		"in_reply_to_status_id_str": "1545051521108234241",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lol cinematography https://t.co/gDvVCnLFcv"
+	},
+	{
+		"created_at": "Thu Jul 07 14:26:02 +0000 2022",
+		"id": 1545051521108234200,
+		"id_str": "1545051521108234241",
+		"full_text": "johns&amp;hookers beware \nwe note lic plates \ninform home&amp;job https://t.co/yDhTFMvkrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545051287846129700,
+					"id_str": "1545051287846129664",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEf9dPUEAA7jKl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEf9dPUEAA7jKl.png",
+					"url": "https://t.co/yDhTFMvkrZ",
+					"display_url": "pic.twitter.com/yDhTFMvkrZ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545051521108234241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545051287846129700,
+					"id_str": "1545051287846129664",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEf9dPUEAA7jKl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEf9dPUEAA7jKl.png",
+					"url": "https://t.co/yDhTFMvkrZ",
+					"display_url": "pic.twitter.com/yDhTFMvkrZ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545051521108234241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545050378923700200,
+		"in_reply_to_status_id_str": "1545050378923700224",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "johns&amp;hookers beware \nwe note lic plates \ninform home&amp;job https://t.co/yDhTFMvkrZ"
+	},
+	{
+		"created_at": "Thu Jul 07 14:21:30 +0000 2022",
+		"id": 1545050378923700200,
+		"id_str": "1545050378923700224",
+		"full_text": "coney https://t.co/lNCn61Wrpp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545048569459093500,
+					"id_str": "1545048569459093504",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEdfOdVsAAjygg.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEdfOdVsAAjygg.png",
+					"url": "https://t.co/lNCn61Wrpp",
+					"display_url": "pic.twitter.com/lNCn61Wrpp",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545050378923700224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545048569459093500,
+					"id_str": "1545048569459093504",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEdfOdVsAAjygg.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEdfOdVsAAjygg.png",
+					"url": "https://t.co/lNCn61Wrpp",
+					"display_url": "pic.twitter.com/lNCn61Wrpp",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545050378923700224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545046254593327000,
+		"in_reply_to_status_id_str": "1545046254593327105",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "coney https://t.co/lNCn61Wrpp"
+	},
+	{
+		"created_at": "Thu Jul 07 14:05:07 +0000 2022",
+		"id": 1545046254593327000,
+		"id_str": "1545046254593327105",
+		"full_text": "https://t.co/hombP17stY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545046240345264000,
+					"id_str": "1545046240345264129",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEbXp1VEAE9SgC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEbXp1VEAE9SgC.png",
+					"url": "https://t.co/hombP17stY",
+					"display_url": "pic.twitter.com/hombP17stY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545046254593327105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545046240345264000,
+					"id_str": "1545046240345264129",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEbXp1VEAE9SgC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEbXp1VEAE9SgC.png",
+					"url": "https://t.co/hombP17stY",
+					"display_url": "pic.twitter.com/hombP17stY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545046254593327105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1545046240567603200,
+					"id_str": "1545046240567603203",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEbXqqVsAMNLiK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEbXqqVsAMNLiK.png",
+					"url": "https://t.co/hombP17stY",
+					"display_url": "pic.twitter.com/hombP17stY",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545046254593327105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545044048523690000,
+		"in_reply_to_status_id_str": "1545044048523689984",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/hombP17stY"
+	},
+	{
+		"created_at": "Thu Jul 07 14:04:43 +0000 2022",
+		"id": 1545046155767136300,
+		"id_str": "1545046155767136257",
+		"full_text": "@StanleyRonin ding ding ding! https://t.co/UpBHyLirsi",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StanleyRonin",
+					"name": "driving to Barnes & Noble to buy a compact disc",
+					"id": 1244441308057473000,
+					"id_str": "1244441308057473024",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545046138486530000,
+					"id_str": "1545046138486530049",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEbRuYUIAE489Q.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEbRuYUIAE489Q.png",
+					"url": "https://t.co/UpBHyLirsi",
+					"display_url": "pic.twitter.com/UpBHyLirsi",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545046155767136257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545046138486530000,
+					"id_str": "1545046138486530049",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEbRuYUIAE489Q.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEbRuYUIAE489Q.png",
+					"url": "https://t.co/UpBHyLirsi",
+					"display_url": "pic.twitter.com/UpBHyLirsi",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545046155767136257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545045632586395600,
+		"in_reply_to_status_id_str": "1545045632586395649",
+		"in_reply_to_user_id": 1244441308057473000,
+		"in_reply_to_user_id_str": "1244441308057473024",
+		"in_reply_to_screen_name": "StanleyRonin",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@StanleyRonin ding ding ding! https://t.co/UpBHyLirsi"
+	},
+	{
+		"created_at": "Thu Jul 07 13:56:21 +0000 2022",
+		"id": 1545044048523690000,
+		"id_str": "1545044048523689984",
+		"full_text": "https://t.co/9FcUiN7pa2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545044028823113700,
+					"id_str": "1545044028823113729",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEZW7RXEAEnZV-.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEZW7RXEAEnZV-.png",
+					"url": "https://t.co/9FcUiN7pa2",
+					"display_url": "pic.twitter.com/9FcUiN7pa2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545044048523689984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545044028823113700,
+					"id_str": "1545044028823113729",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEZW7RXEAEnZV-.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEZW7RXEAEnZV-.png",
+					"url": "https://t.co/9FcUiN7pa2",
+					"display_url": "pic.twitter.com/9FcUiN7pa2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545044048523689984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545044029703827500,
+					"id_str": "1545044029703827459",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEZW-jVsAMLEIX.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEZW-jVsAMLEIX.png",
+					"url": "https://t.co/9FcUiN7pa2",
+					"display_url": "pic.twitter.com/9FcUiN7pa2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545044048523689984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545044028814663700,
+					"id_str": "1545044028814663680",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEZW7PWIAA3Vu7.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEZW7PWIAA3Vu7.png",
+					"url": "https://t.co/9FcUiN7pa2",
+					"display_url": "pic.twitter.com/9FcUiN7pa2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545044048523689984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545044029875794000,
+					"id_str": "1545044029875793921",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEZW_MVsAEm2I9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXEZW_MVsAEm2I9.png",
+					"url": "https://t.co/9FcUiN7pa2",
+					"display_url": "pic.twitter.com/9FcUiN7pa2",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545044048523689984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/9FcUiN7pa2"
+	},
+	{
+		"created_at": "Thu Jul 07 13:45:29 +0000 2022",
+		"id": 1545041313988575200,
+		"id_str": "1545041313988575232",
+		"full_text": "kiddo made me this to get better soon is she a witch https://t.co/w6X0ScDovq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545041311857868800,
+					"id_str": "1545041311857868800",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEW4xyXgAA3fie.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEW4xyXgAA3fie.jpg",
+					"url": "https://t.co/w6X0ScDovq",
+					"display_url": "pic.twitter.com/w6X0ScDovq",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545041313988575232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545041311857868800,
+					"id_str": "1545041311857868800",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEW4xyXgAA3fie.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEW4xyXgAA3fie.jpg",
+					"url": "https://t.co/w6X0ScDovq",
+					"display_url": "pic.twitter.com/w6X0ScDovq",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545041313988575232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "kiddo made me this to get better soon is she a witch https://t.co/w6X0ScDovq"
+	},
+	{
+		"created_at": "Thu Jul 07 13:20:54 +0000 2022",
+		"id": 1545035125926379500,
+		"id_str": "1545035125926379521",
+		"full_text": "@melisser3 (lil fishie!!)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (cont'd)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1545034402589278200,
+		"in_reply_to_status_id_str": "1545034402589278208",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 (lil fishie!!)"
+	},
+	{
+		"created_at": "Thu Jul 07 13:18:01 +0000 2022",
+		"id": 1545034402589278200,
+		"id_str": "1545034402589278208",
+		"full_text": "@melisser3 \"halp I feel terrible\" https://t.co/jiCqUz6erL",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (cont'd)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545034400026566700,
+					"id_str": "1545034400026566657",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEQmdNXoAEu_D0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEQmdNXoAEu_D0.jpg",
+					"url": "https://t.co/jiCqUz6erL",
+					"display_url": "pic.twitter.com/jiCqUz6erL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545034402589278208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545034400026566700,
+					"id_str": "1545034400026566657",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEQmdNXoAEu_D0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEQmdNXoAEu_D0.jpg",
+					"url": "https://t.co/jiCqUz6erL",
+					"display_url": "pic.twitter.com/jiCqUz6erL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1545034402589278208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1545032051522519000,
+		"in_reply_to_status_id_str": "1545032051522519045",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543665901953847298/nK1RZdWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 \"halp I feel terrible\" https://t.co/jiCqUz6erL"
+	},
+	{
 		"created_at": "Thu Jul 07 04:15:01 +0000 2022",
 		"id": 1544897751196045300,
 		"id_str": "1544897751196045312",
@@ -5008,7 +11517,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Wed Jul 06 18:10:27 +0000 2022",
 		"id": 1544651903518347300,
 		"id_str": "1544745606954078209",
-		"full_text": "Dos ya cabalgan juntos. Ethan y Pedro. @ysl ⁦@anthonyvacc⁩ https://t.co/drutdm8II9",
+		"full_text": "Dos ya cabalgan juntos. Ethan y Pedro. @ysl @anthonyvacc https://t.co/drutdm8II9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -5185,7 +11694,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "es",
-		"text": "Dos ya cabalgan juntos. Ethan y Pedro. @ysl ⁦@anthonyvacc⁩ https://t.co/drutdm8II9"
+		"text": "Dos ya cabalgan juntos. Ethan y Pedro. @ysl @anthonyvacc https://t.co/drutdm8II9"
 	},
 	{
 		"created_at": "Wed Jul 06 17:59:03 +0000 2022",
