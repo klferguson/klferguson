@@ -1,6 +1,2550 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 03:16:32 +0000 2022",
+		"id": 1549594077628403700,
+		"id_str": "1549594077628403713",
+		"full_text": "Today's Advice from a Recovering Cancer: *pinch pinch* #🦀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549384159587598300,
+		"in_reply_to_status_id_str": "1549384159587598338",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Today's Advice from a Recovering Cancer: *pinch pinch* #🦀"
+	},
+	{
+		"created_at": "Wed Jul 20 02:51:44 +0000 2022",
+		"id": 1549255687305400300,
+		"id_str": "1549587836306857984",
+		"full_text": "if you’re hot, they’re hot. bring them inside https://t.co/6pD4hm6RCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549255468698198000,
+					"id_str": "1549255468698198017",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FYAPo_YWYAE1zu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYAPo_YWYAE1zu6.jpg",
+					"url": "https://t.co/6pD4hm6RCQ",
+					"display_url": "pic.twitter.com/6pD4hm6RCQ",
+					"expanded_url": "https://twitter.com/alohacatss/status/1549255687305400322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549255468698198000,
+					"id_str": "1549255468698198017",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FYAPo_YWYAE1zu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYAPo_YWYAE1zu6.jpg",
+					"url": "https://t.co/6pD4hm6RCQ",
+					"display_url": "pic.twitter.com/6pD4hm6RCQ",
+					"expanded_url": "https://twitter.com/alohacatss/status/1549255687305400322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824545258549547000,
+			"id_str": "824545258549547008",
+			"name": "🌙 𝚗𝚘 𝚝𝚊𝚛𝚊𝚑 𝚘𝚗𝚕𝚢 𝚓𝚞𝚞𝚕",
+			"screen_name": "alohacatss",
+			"location": "𝓕𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓲𝓸𝓷 𝓢𝓽",
+			"description": "𝓬𝓪𝓽𝓼 • 𝓼𝓸𝓬𝓲𝓪𝓵𝓲𝓼𝓽 •𝓘 𝓹𝓪𝓲𝓷𝓽 𝓪𝓷𝓭 𝓶𝓪𝓴𝓮 𝓳𝓮𝔀𝓮𝓵𝓻𝔂 • 𝓼𝓱𝓮/𝓱𝓮𝓻 • 𝓣𝓻𝓪𝓷𝓼 𝓻𝓲𝓰𝓱𝓽𝓼🏳️‍⚧️ • 𝓑𝓵𝓶\n\n♡ @edsin954 ♡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2796,
+			"friends_count": 866,
+			"listed_count": 19,
+			"created_at": "Thu Jan 26 09:11:23 +0000 2017",
+			"favourites_count": 112257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1547182535049879553/bw_skHPY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1547182535049879553/bw_skHPY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824545258549547008/1656864116",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4390,
+		"favorite_count": 34467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "if you’re hot, they’re hot. bring them inside https://t.co/6pD4hm6RCQ"
+	},
+	{
+		"created_at": "Tue Jul 19 22:32:57 +0000 2022",
+		"id": 1549522708731502600,
+		"id_str": "1549522708731502593",
+		"full_text": "@cbkenkar FAIR POINT!!!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cbkenkar",
+					"name": "Colleen Kennedy-Karpat",
+					"id": 362114813,
+					"id_str": "362114813",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1549515156719370200,
+		"in_reply_to_status_id_str": "1549515156719370245",
+		"in_reply_to_user_id": 362114813,
+		"in_reply_to_user_id_str": "362114813",
+		"in_reply_to_screen_name": "cbkenkar",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cbkenkar FAIR POINT!!!"
+	},
+	{
+		"created_at": "Tue Jul 19 19:47:01 +0000 2022",
+		"id": 1549480952203776000,
+		"id_str": "1549480952203776003",
+		"full_text": "watched most of the Sandler basketball thing. so far it's a sports movie.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "watched most of the Sandler basketball thing. so far it's a sports movie."
+	},
+	{
+		"created_at": "Tue Jul 19 19:08:08 +0000 2022",
+		"id": 1549471166712144000,
+		"id_str": "1549471166712143872",
+		"full_text": "squeeeeeeeeeeeeeeeeeeeeeeeeeee∞ https://t.co/GSScihD72a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549197920070680600,
+					"id_str": "1549197920070680576",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_bTOCWQAAeuou.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_bTOCWQAAeuou.jpg",
+					"url": "https://t.co/GSScihD72a",
+					"display_url": "pic.twitter.com/GSScihD72a",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1549471166712143872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549197920070680600,
+					"id_str": "1549197920070680576",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_bTOCWQAAeuou.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_bTOCWQAAeuou.jpg",
+					"url": "https://t.co/GSScihD72a",
+					"display_url": "pic.twitter.com/GSScihD72a",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1549471166712143872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549197920053887000,
+					"id_str": "1549197920053886976",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_bTN-WAAAqlxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_bTN-WAAAqlxl.jpg",
+					"url": "https://t.co/GSScihD72a",
+					"display_url": "pic.twitter.com/GSScihD72a",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1549471166712143872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1548040598161985500,
+		"in_reply_to_status_id_str": "1548040598161985539",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "squeeeeeeeeeeeeeeeeeeeeeeeeeee∞ https://t.co/GSScihD72a"
+	},
+	{
+		"created_at": "Tue Jul 19 18:19:43 +0000 2022",
+		"id": 1549115334887702500,
+		"id_str": "1549458981877436418",
+		"full_text": "Emmanuel, you’re my best friend! https://t.co/vqBIHst1FB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549115128007823400,
+					"id_str": "1549115128007823360",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549115128007823360/pu/img/E8hHUDteHIbeEowD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549115128007823360/pu/img/E8hHUDteHIbeEowD.jpg",
+					"url": "https://t.co/vqBIHst1FB",
+					"display_url": "pic.twitter.com/vqBIHst1FB",
+					"expanded_url": "https://twitter.com/hiitaylorblake/status/1549115334887702531/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549115128007823400,
+					"id_str": "1549115128007823360",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549115128007823360/pu/img/E8hHUDteHIbeEowD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549115128007823360/pu/img/E8hHUDteHIbeEowD.jpg",
+					"url": "https://t.co/vqBIHst1FB",
+					"display_url": "pic.twitter.com/vqBIHst1FB",
+					"expanded_url": "https://twitter.com/hiitaylorblake/status/1549115334887702531/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 36300,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549115128007823360/pu/vid/320x568/oJh113LUVqbOflH0.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549115128007823360/pu/vid/480x852/C8UJdaAqUSPaIrb4.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549115128007823360/pu/vid/720x1280/6pf3h1WTZ3W4sbwG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1549115128007823360/pu/pl/KmmjaSk9IOsuFW6j.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2832807293,
+			"id_str": "2832807293",
+			"name": "eco sister",
+			"screen_name": "hiitaylorblake",
+			"location": "",
+			"description": "#BLACKLIVESMATTER // Knuckle Bump Farms //Instagram: @knucklebumpfarms & @hiitaylorblake",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 504258,
+			"friends_count": 547,
+			"listed_count": 440,
+			"created_at": "Wed Oct 15 22:19:01 +0000 2014",
+			"favourites_count": 19084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549526813453475840/DNMXxZab_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549526813453475840/DNMXxZab_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2832807293/1658001944",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30969,
+		"favorite_count": 331857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Emmanuel, you’re my best friend! https://t.co/vqBIHst1FB"
+	},
+	{
+		"created_at": "Tue Jul 19 14:51:24 +0000 2022",
+		"id": 1549406558601334800,
+		"id_str": "1549406558601334786",
+		"full_text": "youngest's elementary school is losing nearly 900K.\noldest's middle school is losing nearly 1.8M\n\nwhat the hell are you doing @NYCMayor???\n\n@CMAriKagan47 @CMCrystalHudson https://t.co/izJqFovu4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYCMayor",
+					"name": "Mayor Eric Adams",
+					"id": 19834403,
+					"id_str": "19834403",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"screen_name": "CMAriKagan47",
+					"name": "Council Member Ari Kagan",
+					"id": 1478037632156377000,
+					"id_str": "1478037632156377089",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "CMCrystalHudson",
+					"name": "Council Member Crystal Hudson",
+					"id": 1478129186636243000,
+					"id_str": "1478129186636242945",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/izJqFovu4u",
+					"expanded_url": "https://twitter.com/MOREcaucusUFT/status/1549395775863545857",
+					"display_url": "twitter.com/MOREcaucusUFT/…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549395775863545900,
+		"quoted_status_id_str": "1549395775863545857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/izJqFovu4u",
+			"expanded": "https://twitter.com/MOREcaucusUFT/status/1549395775863545857",
+			"display": "twitter.com/MOREcaucusUFT/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 19 14:08:34 +0000 2022",
+			"id": 1549395775863545900,
+			"id_str": "1549395775863545857",
+			"full_text": "We’ve heard of schools losing “thousands,” but that could mean a few grand or nearly $1M.\n\nQ: How much did @NYCMayor &amp; @DOEChancellor defund YOUR school?\n\nIf you’re not sure, find your answer according to the latest figures here 👇 \nhttps://t.co/W9xO767HtZ #RestoreTheCuts",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RestoreTheCuts",
+						"indices": [
+							260,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYCMayor",
+						"name": "Mayor Eric Adams",
+						"id": 19834403,
+						"id_str": "19834403",
+						"indices": [
+							107,
+							116
+						]
+					},
+					{
+						"screen_name": "DOEChancellor",
+						"name": "Chancellor David C. Banks",
+						"id": 766325395708870700,
+						"id_str": "766325395708870656",
+						"indices": [
+							123,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/W9xO767HtZ",
+						"expanded_url": "https://classsizematters.org/total-galaxy-school-cuts-as-of-july-14-now-at-1-42-billion/",
+						"display_url": "classsizematters.org/total-galaxy-s…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 573210043,
+				"id_str": "573210043",
+				"name": "MORE-UFT",
+				"screen_name": "MOREcaucusUFT",
+				"location": "New York",
+				"description": "The Movement of Rank and File Educators is an @uft caucus fighting for empowered workers in schools, a democratic union, + social justice.",
+				"url": "https://t.co/pDkauunEMk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pDkauunEMk",
+								"expanded_url": "http://www.morecaucusnyc.org",
+								"display_url": "morecaucusnyc.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15020,
+				"friends_count": 2758,
+				"listed_count": 149,
+				"created_at": "Mon May 07 02:06:15 +0000 2012",
+				"favourites_count": 23318,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30291,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410630813343961092/SOMest7w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410630813343961092/SOMest7w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/573210043/1527992553",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "youngest's elementary school is losing nearly 900K.\noldest's middle school is losing nearly 1.8M\n\nwhat the hell are you doing @NYCMayor???\n\n@CMAriKagan47 @CMCrystalHudson https://t.co/izJqFovu4u"
+	},
+	{
+		"created_at": "Tue Jul 19 14:45:38 +0000 2022",
+		"id": 1549400001272488000,
+		"id_str": "1549405108043137025",
+		"full_text": "My school is losing $2M. My district that houses 46 schools is losing $29M overall. Make no mistake @NYCMayor @DOEChancellor @NYCSpeakerAdams ...this is what DEFUNDING actually looks like https://t.co/AgVM63X6v9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYCMayor",
+					"name": "Mayor Eric Adams",
+					"id": 19834403,
+					"id_str": "19834403",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"screen_name": "DOEChancellor",
+					"name": "Chancellor David C. Banks",
+					"id": 766325395708870700,
+					"id_str": "766325395708870656",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "NYCSpeakerAdams",
+					"name": "Adrienne Adams",
+					"id": 1355923854615588900,
+					"id_str": "1355923854615588866",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AgVM63X6v9",
+					"expanded_url": "https://twitter.com/MOREcaucusUFT/status/1549395775863545857",
+					"display_url": "twitter.com/MOREcaucusUFT/…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171791151,
+			"id_str": "171791151",
+			"name": "Paullette Healy",
+			"screen_name": "superha74",
+			"location": "Brooklyn",
+			"description": "PRESS NYC\n1st VP Citywide Council for Special Education\nDistrict 75 advocate\nDistrict 20 ass kicker\nFully vaxxed since 5/19",
+			"url": "https://t.co/Na7Il9cGaI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Na7Il9cGaI",
+							"expanded_url": "http://PRESSNYC.org",
+							"display_url": "PRESSNYC.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 699,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Wed Jul 28 04:57:32 +0000 2010",
+			"favourites_count": 21398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421149319902679045/3T1KpMlc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421149319902679045/3T1KpMlc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549395775863545900,
+		"quoted_status_id_str": "1549395775863545857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AgVM63X6v9",
+			"expanded": "https://twitter.com/MOREcaucusUFT/status/1549395775863545857",
+			"display": "twitter.com/MOREcaucusUFT/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 19 14:08:34 +0000 2022",
+			"id": 1549395775863545900,
+			"id_str": "1549395775863545857",
+			"full_text": "We’ve heard of schools losing “thousands,” but that could mean a few grand or nearly $1M.\n\nQ: How much did @NYCMayor &amp; @DOEChancellor defund YOUR school?\n\nIf you’re not sure, find your answer according to the latest figures here 👇 \nhttps://t.co/W9xO767HtZ #RestoreTheCuts",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RestoreTheCuts",
+						"indices": [
+							260,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYCMayor",
+						"name": "Mayor Eric Adams",
+						"id": 19834403,
+						"id_str": "19834403",
+						"indices": [
+							107,
+							116
+						]
+					},
+					{
+						"screen_name": "DOEChancellor",
+						"name": "Chancellor David C. Banks",
+						"id": 766325395708870700,
+						"id_str": "766325395708870656",
+						"indices": [
+							123,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/W9xO767HtZ",
+						"expanded_url": "https://classsizematters.org/total-galaxy-school-cuts-as-of-july-14-now-at-1-42-billion/",
+						"display_url": "classsizematters.org/total-galaxy-s…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 573210043,
+				"id_str": "573210043",
+				"name": "MORE-UFT",
+				"screen_name": "MOREcaucusUFT",
+				"location": "New York",
+				"description": "The Movement of Rank and File Educators is an @uft caucus fighting for empowered workers in schools, a democratic union, + social justice.",
+				"url": "https://t.co/pDkauunEMk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pDkauunEMk",
+								"expanded_url": "http://www.morecaucusnyc.org",
+								"display_url": "morecaucusnyc.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15020,
+				"friends_count": 2758,
+				"listed_count": 149,
+				"created_at": "Mon May 07 02:06:15 +0000 2012",
+				"favourites_count": 23318,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30291,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410630813343961092/SOMest7w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410630813343961092/SOMest7w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/573210043/1527992553",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My school is losing $2M. My district that houses 46 schools is losing $29M overall. Make no mistake @NYCMayor @DOEChancellor @NYCSpeakerAdams ...this is what DEFUNDING actually looks like https://t.co/AgVM63X6v9"
+	},
+	{
+		"created_at": "Tue Jul 19 14:25:33 +0000 2022",
+		"id": 1549132618892845000,
+		"id_str": "1549400051646169088",
+		"full_text": "It’s called soccer now and there’s nothing you can do about it. https://t.co/e3CmHeKrcb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549132615218647000,
+					"id_str": "1549132615218647040",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FX-f5-gUUAAUXUK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX-f5-gUUAAUXUK.jpg",
+					"url": "https://t.co/e3CmHeKrcb",
+					"display_url": "pic.twitter.com/e3CmHeKrcb",
+					"expanded_url": "https://twitter.com/Mr_Cuddlez88/status/1549132618892845056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 994,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549132615218647000,
+					"id_str": "1549132615218647040",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FX-f5-gUUAAUXUK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX-f5-gUUAAUXUK.jpg",
+					"url": "https://t.co/e3CmHeKrcb",
+					"display_url": "pic.twitter.com/e3CmHeKrcb",
+					"expanded_url": "https://twitter.com/Mr_Cuddlez88/status/1549132618892845056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 994,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198771814,
+			"id_str": "1198771814",
+			"name": "Mr_Cuddlez (33.3%)《TYR》⭐️",
+			"screen_name": "Mr_Cuddlez88",
+			"location": "San Diego, CA",
+			"description": "@Nippies_ for life. I commit felonies with my friends. I pee sitting down so I can spend more time on Twitter. @DeGodsNFT / @TaiyoRobotics / @The_Sol_Army",
+			"url": "https://t.co/Nq0KEjYCgA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Nq0KEjYCgA",
+							"expanded_url": "http://nhentai.net",
+							"display_url": "nhentai.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5299,
+			"friends_count": 4322,
+			"listed_count": 18,
+			"created_at": "Tue Feb 19 21:56:17 +0000 2013",
+			"favourites_count": 20884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549185519099097089/4ar30PVb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549185519099097089/4ar30PVb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198771814/1658177465",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34915,
+		"favorite_count": 344489,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s called soccer now and there’s nothing you can do about it. https://t.co/e3CmHeKrcb"
+	},
+	{
+		"created_at": "Tue Jul 19 13:52:59 +0000 2022",
+		"id": 1548734194712453000,
+		"id_str": "1549391857326735365",
+		"full_text": "Need it https://t.co/yuUXx6cyT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548734187129143300,
+					"id_str": "1548734187129143301",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FX41iaNWAAUZIwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX41iaNWAAUZIwM.jpg",
+					"url": "https://t.co/yuUXx6cyT1",
+					"display_url": "pic.twitter.com/yuUXx6cyT1",
+					"expanded_url": "https://twitter.com/primarycatdad/status/1548734194712453120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548734187129143300,
+					"id_str": "1548734187129143301",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FX41iaNWAAUZIwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX41iaNWAAUZIwM.jpg",
+					"url": "https://t.co/yuUXx6cyT1",
+					"display_url": "pic.twitter.com/yuUXx6cyT1",
+					"expanded_url": "https://twitter.com/primarycatdad/status/1548734194712453120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1458631701899448300,
+			"id_str": "1458631701899448327",
+			"name": "Khaver Katsfoter, Burger Stalinist🔻",
+			"screen_name": "primarycatdad",
+			"location": "occupied Quinnipiac territory",
+			"description": "he/him. eydisher komunist. public defender. author of sf/f trash. ML-MZT. Editorial Board, https://t.co/6LPOIuIrnY",
+			"url": "https://t.co/ZQnWjzAY6e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZQnWjzAY6e",
+							"expanded_url": "http://www.unity-struggle-unity.org",
+							"display_url": "unity-struggle-unity.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6LPOIuIrnY",
+							"expanded_url": "http://unity-struggle-unity.org",
+							"display_url": "unity-struggle-unity.org",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7409,
+			"friends_count": 1757,
+			"listed_count": 57,
+			"created_at": "Thu Nov 11 03:04:36 +0000 2021",
+			"favourites_count": 35070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549117017491374081/5kUYHeCq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549117017491374081/5kUYHeCq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1458631701899448327/1657921905",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29396,
+		"favorite_count": 176233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need it https://t.co/yuUXx6cyT1"
+	},
+	{
+		"created_at": "Tue Jul 19 13:26:09 +0000 2022",
+		"id": 1549385102240661500,
+		"id_str": "1549385102240661506",
+		"full_text": "shoulda had this in three\n\nWordle 395 4/6*\n\n⬜⬜🟨⬜⬜\n🟨🟨⬜⬜🟩\n⬜🟨🟩⬜🟩\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "shoulda had this in three\n\nWordle 395 4/6*\n\n⬜⬜🟨⬜⬜\n🟨🟨⬜⬜🟩\n⬜🟨🟩⬜🟩\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Tue Jul 19 13:22:24 +0000 2022",
+		"id": 1549384159587598300,
+		"id_str": "1549384159587598338",
+		"full_text": "Today's Advice from a Recovering Cancer: let people freeze whatever dead things they want #🦀 https://t.co/Fl3CvW2PQX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549383859921424400,
+					"id_str": "1549383859921424386",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCEaV9XEAIEIBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCEaV9XEAIEIBj.jpg",
+					"url": "https://t.co/Fl3CvW2PQX",
+					"display_url": "pic.twitter.com/Fl3CvW2PQX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1549384159587598338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549383859921424400,
+					"id_str": "1549383859921424386",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCEaV9XEAIEIBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCEaV9XEAIEIBj.jpg",
+					"url": "https://t.co/Fl3CvW2PQX",
+					"display_url": "pic.twitter.com/Fl3CvW2PQX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1549384159587598338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549100534963048400,
+		"in_reply_to_status_id_str": "1549100534963048448",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's Advice from a Recovering Cancer: let people freeze whatever dead things they want #🦀 https://t.co/Fl3CvW2PQX"
+	},
+	{
+		"created_at": "Tue Jul 19 13:17:23 +0000 2022",
+		"id": 1549380163615563800,
+		"id_str": "1549382895152017415",
+		"full_text": "Nothing like a daddy-daughter duo 🔥 // 📹: blackwithnochaser via Instagram https://t.co/0CDHUkooXt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549380103364378600,
+					"id_str": "1549380103364378624",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCBC5kWAAEfNYL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCBC5kWAAEfNYL.jpg",
+					"url": "https://t.co/0CDHUkooXt",
+					"display_url": "pic.twitter.com/0CDHUkooXt",
+					"expanded_url": "https://twitter.com/Blavity/status/1549380163615563777/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549380103364378600,
+					"id_str": "1549380103364378624",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCBC5kWAAEfNYL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCBC5kWAAEfNYL.jpg",
+					"url": "https://t.co/0CDHUkooXt",
+					"display_url": "pic.twitter.com/0CDHUkooXt",
+					"expanded_url": "https://twitter.com/Blavity/status/1549380163615563777/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 28700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1549380103364378624/pl/1YAcNAZiEBugu_t0.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1549380103364378624/vid/320x568/xQWQc1fIzmL4855W.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1549380103364378624/vid/720x1280/A-Q7WINhzLzPqsMv.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1549380103364378624/vid/480x852/Sq6ULm1mKnBbkgVc.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "This daddy-daughter duo 🔥",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2466899838,
+			"id_str": "2466899838",
+			"name": "Blavity News",
+			"screen_name": "Blavity",
+			"location": "Los Angeles, CA",
+			"description": "News about culture for the millennials who drive it. Instagram: @blavity",
+			"url": "https://t.co/CUmFmynfet",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CUmFmynfet",
+							"expanded_url": "http://blavity.com",
+							"display_url": "blavity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223469,
+			"friends_count": 27537,
+			"listed_count": 1923,
+			"created_at": "Sun Apr 27 23:44:19 +0000 2014",
+			"favourites_count": 23710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113141228168548352/tX5oj5V1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113141228168548352/tX5oj5V1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2466899838/1484150851",
+			"profile_link_color": "C49B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nothing like a daddy-daughter duo 🔥 // 📹: blackwithnochaser via Instagram https://t.co/0CDHUkooXt"
+	},
+	{
+		"created_at": "Tue Jul 19 13:15:36 +0000 2022",
+		"id": 1549382450207400000,
+		"id_str": "1549382450207399937",
+		"full_text": "@melisser3 \"Will fridge repair happen today?\" https://t.co/TJYLGPqa3M",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (fierce & fighting w/ a brook trout mind)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549382447753842700,
+					"id_str": "1549382447753842688",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCDIJOX0AA2Zyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCDIJOX0AA2Zyr.jpg",
+					"url": "https://t.co/TJYLGPqa3M",
+					"display_url": "pic.twitter.com/TJYLGPqa3M",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1549382450207399937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549382447753842700,
+					"id_str": "1549382447753842688",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCDIJOX0AA2Zyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCDIJOX0AA2Zyr.jpg",
+					"url": "https://t.co/TJYLGPqa3M",
+					"display_url": "pic.twitter.com/TJYLGPqa3M",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1549382450207399937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1549376426498982000,
+		"in_reply_to_status_id_str": "1549376426498981888",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, it's cancer season DEAL WITH IT",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1302,
+			"friends_count": 580,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545565043906977792/6yD8N7gE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 \"Will fridge repair happen today?\" https://t.co/TJYLGPqa3M"
+	},
+	{
+		"created_at": "Tue Jul 19 13:12:47 +0000 2022",
+		"id": 1549381011540250600,
+		"id_str": "1549381738216001537",
+		"full_text": "Morning Zodiac\n\n♈️: It’s a new day!\n♉️: Last night…\n♊️: 5 more min\n♋️: Another hour\n♌️: The world is mine \n♍️: So much to do!\n♎️: I prefer the sunset\n♏️: Anybody feel like an important conversation?\n♐️: Same\n♑️: I love this \n♒️: I’m ready \n♓️: What day is it?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 802646542779813900,
+			"id_str": "802646542779813889",
+			"name": "Astro Poets",
+			"screen_name": "poetastrologers",
+			"location": "The Universe",
+			"description": "Astrology by poets @DorotheaLasky & @alexdimitrov. Our book Astro Poets: Your Guides to the Zodiac is out now. Contact: astropoets@gmail.com",
+			"url": "https://t.co/Ve815b1jG6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ve815b1jG6",
+							"expanded_url": "https://astropoets.substack.com",
+							"display_url": "astropoets.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 707968,
+			"friends_count": 2660,
+			"listed_count": 1639,
+			"created_at": "Sat Nov 26 22:53:43 +0000 2016",
+			"favourites_count": 6378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802651592814198784/gg-iBtXY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802651592814198784/gg-iBtXY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/802646542779813889/1561247255",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 1091,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Morning Zodiac\n\n♈️: It’s a new day!\n♉️: Last night…\n♊️: 5 more min\n♋️: Another hour\n♌️: The world is mine \n♍️: So much to do!\n♎️: I prefer the sunset\n♏️: Anybody feel like an important conversation?\n♐️: Same\n♑️: I love this \n♒️: I’m ready \n♓️: What day is it?"
+	},
+	{
 		"created_at": "Tue Jul 19 03:44:27 +0000 2022",
 		"id": 1549235847815278600,
 		"id_str": "1549238712579620864",
