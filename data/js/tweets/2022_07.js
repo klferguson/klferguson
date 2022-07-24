@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 23 20:50:28 +0000 2022",
+		"id": 1550834928480407600,
+		"id_str": "1550946468911104000",
+		"full_text": "Parahawking is an interactive experience of gliding with birds of prey, combining paragliding with falconry\n\nTrained birds of prey fly with paragliders, leading them to thermals\nhttps://t.co/3BcBzfjK1s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533567710327718000,
+					"id_str": "1533567710327717890",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533567710327717890/pu/img/xKRNXKVgAf6xCmr-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533567710327717890/pu/img/xKRNXKVgAf6xCmr-.jpg",
+					"url": "https://t.co/3BcBzfjK1s",
+					"display_url": "pic.twitter.com/3BcBzfjK1s",
+					"expanded_url": "https://twitter.com/batsy09/status/1533567930335645701/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1533567930335645700,
+					"source_status_id_str": "1533567930335645701",
+					"source_user_id": 270478799,
+					"source_user_id_str": "270478799"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533567710327718000,
+					"id_str": "1533567710327717890",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533567710327717890/pu/img/xKRNXKVgAf6xCmr-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533567710327717890/pu/img/xKRNXKVgAf6xCmr-.jpg",
+					"url": "https://t.co/3BcBzfjK1s",
+					"display_url": "pic.twitter.com/3BcBzfjK1s",
+					"expanded_url": "https://twitter.com/batsy09/status/1533567930335645701/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1533567930335645700,
+					"source_status_id_str": "1533567930335645701",
+					"source_user_id": 270478799,
+					"source_user_id_str": "270478799",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 37182,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533567710327717890/pu/vid/576x720/5gH63td4dHJeyCpx.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533567710327717890/pu/vid/480x600/E2ZwJOscWiiab1wk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1533567710327717890/pu/pl/XD_fTkV5xhMAwS9N.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533567710327717890/pu/vid/320x400/U11bmNQRst9tIVEt.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 270478799,
+							"id_str": "270478799",
+							"name": "Paul.Nelson",
+							"screen_name": "batsy09",
+							"location": "North Down, N Ireland",
+							"description": "From a unionist family #Think32  Humanist. Interested in politics, sport, travel... #FBPE ポーちゃん",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6113,
+							"friends_count": 5044,
+							"listed_count": 17,
+							"created_at": "Tue Mar 22 18:00:39 +0000 2011",
+							"favourites_count": 41483,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 13163,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1166785674030305280/KpcWO9ge_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166785674030305280/KpcWO9ge_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/270478799/1586985218",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1179892477714718700,
+			"id_str": "1179892477714718721",
+			"name": "Science girl",
+			"screen_name": "gunsnrosesgirl3",
+			"location": "Support and tips ",
+			"description": "banner art by @AurelieBeatley",
+			"url": "https://t.co/nYhni9jaol",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nYhni9jaol",
+							"expanded_url": "http://paypal.me/SRose126",
+							"display_url": "paypal.me/SRose126",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 432004,
+			"friends_count": 5953,
+			"listed_count": 2304,
+			"created_at": "Thu Oct 03 22:54:31 +0000 2019",
+			"favourites_count": 138688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504867101923762178/gfZgsqoL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504867101923762178/gfZgsqoL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1179892477714718721/1589400385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10256,
+		"favorite_count": 84674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Parahawking is an interactive experience of gliding with birds of prey, combining paragliding with falconry\n\nTrained birds of prey fly with paragliders, leading them to thermals\nhttps://t.co/3BcBzfjK1s"
+	},
+	{
 		"created_at": "Sat Jul 23 04:33:34 +0000 2022",
 		"id": 1550700627981770800,
 		"id_str": "1550700627981770752",
@@ -179,7 +442,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Fri Jul 22 21:51:42 +0000 2022",
 		"id": 1550599491337613300,
 		"id_str": "1550599491337613312",
-		"full_text": "Wizard room: escaped. 🧙🏻‍♂️🐱🐉",
+		"full_text": "Wizard room: escaped. 🧙🏻♂️🐱🐉",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -269,7 +532,7 @@ Grailbird.data.tweets_2022_07 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "Wizard room: escaped. 🧙🏻‍♂️🐱🐉"
+		"text": "Wizard room: escaped. 🧙🏻♂️🐱🐉"
 	},
 	{
 		"created_at": "Fri Jul 22 17:46:22 +0000 2022",
