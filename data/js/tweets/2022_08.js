@@ -1,6 +1,3249 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 20:01:54 +0000 2022",
+		"id": 1555282901213888500,
+		"id_str": "1555282901213888514",
+		"full_text": "@frittersandclam oh shit i didn't realize that was him. liked In Bruges. Seven Psychopaths not for me, but hey",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555281131808989200,
+		"in_reply_to_status_id_str": "1555281131808989186",
+		"in_reply_to_user_id": 117842180,
+		"in_reply_to_user_id_str": "117842180",
+		"in_reply_to_screen_name": "frittersandclam",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@frittersandclam oh shit i didn't realize that was him. liked In Bruges. Seven Psychopaths not for me, but hey"
+	},
+	{
+		"created_at": "Thu Aug 04 19:53:07 +0000 2022",
+		"id": 1555280693307101200,
+		"id_str": "1555280693307101185",
+		"full_text": "@frittersandclam i only really know him from Three Billboards, so maybe i should be more open-minded.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555280270177321000,
+		"in_reply_to_status_id_str": "1555280270177320961",
+		"in_reply_to_user_id": 117842180,
+		"in_reply_to_user_id_str": "117842180",
+		"in_reply_to_screen_name": "frittersandclam",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@frittersandclam i only really know him from Three Billboards, so maybe i should be more open-minded."
+	},
+	{
+		"created_at": "Thu Aug 04 19:49:50 +0000 2022",
+		"id": 1555279865636585500,
+		"id_str": "1555279865636585472",
+		"full_text": "@frittersandclam they look good in it! idk mcdonagh, but immediately thought of you",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555279609226305500,
+		"in_reply_to_status_id_str": "1555279609226305537",
+		"in_reply_to_user_id": 117842180,
+		"in_reply_to_user_id_str": "117842180",
+		"in_reply_to_screen_name": "frittersandclam",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@frittersandclam they look good in it! idk mcdonagh, but immediately thought of you"
+	},
+	{
+		"created_at": "Thu Aug 04 19:24:54 +0000 2022",
+		"id": 1555271554912596000,
+		"id_str": "1555273590379106304",
+		"full_text": "@stephencass nailed it, it's exactly the color of a Neuromancer sky https://t.co/BRaRSk0nhZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephencass",
+					"name": "stephencass",
+					"id": 14601208,
+					"id_str": "14601208",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BRaRSk0nhZ",
+					"expanded_url": "https://twitter.com/mediarchaeology/status/1555271195179769857?s=20&t=-7wjltEeqelbRH-bD3Af6g",
+					"display_url": "twitter.com/mediarchaeolog…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555264097658085400,
+		"in_reply_to_status_id_str": "1555264097658085376",
+		"in_reply_to_user_id": 1599089623,
+		"in_reply_to_user_id_str": "1599089623",
+		"in_reply_to_screen_name": "mediarchaeology",
+		"user": {
+			"id": 1599089623,
+			"id_str": "1599089623",
+			"name": "Media Archaeology Lab",
+			"screen_name": "mediarchaeology",
+			"location": "1320 Grandview Ave, Boulder CO",
+			"description": "past solutions for present problems since 2009 // on traditional territories of the Arapaho, Cheyenne, & Ute Nations\n\n✉️: mediaarchaeology @ colorado dot edu",
+			"url": "https://t.co/7LBKsAvcXa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LBKsAvcXa",
+							"expanded_url": "https://linktr.ee/mediaarchaeologylab",
+							"display_url": "linktr.ee/mediaarchaeolo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10270,
+			"friends_count": 7182,
+			"listed_count": 155,
+			"created_at": "Tue Jul 16 19:05:56 +0000 2013",
+			"favourites_count": 7956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356326204677087232/Gh3UBkMD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356326204677087232/Gh3UBkMD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1599089623/1613166213",
+			"profile_link_color": "CE7834",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "5E412F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555271195179769900,
+		"quoted_status_id_str": "1555271195179769857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BRaRSk0nhZ",
+			"expanded": "https://twitter.com/mediarchaeology/status/1555271195179769857?s=20&t=-7wjltEeqelbRH-bD3Af6g",
+			"display": "twitter.com/mediarchaeolog…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 04 19:15:23 +0000 2022",
+			"id": 1555271195179769900,
+			"id_str": "1555271195179769857",
+			"full_text": "@stephencass ooh, you are so correct on that - look how well it matches a tv receiving our station when it's broadcasting nothing https://t.co/Pcu4XXxyeM",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stephencass",
+						"name": "stephencass",
+						"id": 14601208,
+						"id_str": "14601208",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1555271122056257500,
+						"id_str": "1555271122056257536",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/FZVu2GeWIAAQYxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZVu2GeWIAAQYxn.jpg",
+						"url": "https://t.co/Pcu4XXxyeM",
+						"display_url": "pic.twitter.com/Pcu4XXxyeM",
+						"expanded_url": "https://twitter.com/mediarchaeology/status/1555271195179769857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1555271122056257500,
+						"id_str": "1555271122056257536",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/FZVu2GeWIAAQYxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZVu2GeWIAAQYxn.jpg",
+						"url": "https://t.co/Pcu4XXxyeM",
+						"display_url": "pic.twitter.com/Pcu4XXxyeM",
+						"expanded_url": "https://twitter.com/mediarchaeology/status/1555271195179769857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1555269926159630300,
+			"in_reply_to_status_id_str": "1555269926159630337",
+			"in_reply_to_user_id": 14601208,
+			"in_reply_to_user_id_str": "14601208",
+			"in_reply_to_screen_name": "stephencass",
+			"user": {
+				"id": 1599089623,
+				"id_str": "1599089623",
+				"name": "Media Archaeology Lab",
+				"screen_name": "mediarchaeology",
+				"location": "1320 Grandview Ave, Boulder CO",
+				"description": "past solutions for present problems since 2009 // on traditional territories of the Arapaho, Cheyenne, & Ute Nations\n\n✉️: mediaarchaeology @ colorado dot edu",
+				"url": "https://t.co/7LBKsAvcXa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LBKsAvcXa",
+								"expanded_url": "https://linktr.ee/mediaarchaeologylab",
+								"display_url": "linktr.ee/mediaarchaeolo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10270,
+				"friends_count": 7182,
+				"listed_count": 155,
+				"created_at": "Tue Jul 16 19:05:56 +0000 2013",
+				"favourites_count": 7956,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5301,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1356326204677087232/Gh3UBkMD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356326204677087232/Gh3UBkMD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1599089623/1613166213",
+				"profile_link_color": "CE7834",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stephencass nailed it, it's exactly the color of a Neuromancer sky https://t.co/BRaRSk0nhZ"
+	},
+	{
+		"created_at": "Thu Aug 04 19:18:27 +0000 2022",
+		"id": 1555271969486020600,
+		"id_str": "1555271969486020613",
+		"full_text": "did the four scary things i needed to do today! it wasn't that bad! time for a little movie and a nap.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "did the four scary things i needed to do today! it wasn't that bad! time for a little movie and a nap."
+	},
+	{
+		"created_at": "Thu Aug 04 18:47:25 +0000 2022",
+		"id": 1555264159155212300,
+		"id_str": "1555264159155212288",
+		"full_text": "@loriemerson dude I can't wait! also shout to being productive during *waves hands around in air frantically*",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loriemerson",
+					"name": "Lori Emerson",
+					"id": 30923760,
+					"id_str": "30923760",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1555263930641141800,
+		"in_reply_to_status_id_str": "1555263930641141761",
+		"in_reply_to_user_id": 30923760,
+		"in_reply_to_user_id_str": "30923760",
+		"in_reply_to_screen_name": "loriemerson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@loriemerson dude I can't wait! also shout to being productive during *waves hands around in air frantically*"
+	},
+	{
+		"created_at": "Thu Aug 04 18:45:15 +0000 2022",
+		"id": 1555263612452847600,
+		"id_str": "1555263612452847616",
+		"full_text": "@loriemerson so excited about this research",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loriemerson",
+					"name": "Lori Emerson",
+					"id": 30923760,
+					"id_str": "30923760",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1555262997613912000,
+		"in_reply_to_status_id_str": "1555262997613912066",
+		"in_reply_to_user_id": 30923760,
+		"in_reply_to_user_id_str": "30923760",
+		"in_reply_to_screen_name": "loriemerson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@loriemerson so excited about this research"
+	},
+	{
+		"created_at": "Thu Aug 04 18:20:37 +0000 2022",
+		"id": 1554731839486582800,
+		"id_str": "1555257412181016577",
+		"full_text": "Plant dyes - all the colours achievable from leaf, flower and root within around a five mile radius. The red hot poker root was a gift from a friend on Skye but that’s only several miles across the water… https://t.co/kefXh6eKFP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554731832352149500,
+					"id_str": "1554731832352149506",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOEXTxXkAIic7v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOEXTxXkAIic7v.jpg",
+					"url": "https://t.co/kefXh6eKFP",
+					"display_url": "pic.twitter.com/kefXh6eKFP",
+					"expanded_url": "https://twitter.com/redrubyrose_/status/1554731839486582785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554731832352149500,
+					"id_str": "1554731832352149506",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOEXTxXkAIic7v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOEXTxXkAIic7v.jpg",
+					"url": "https://t.co/kefXh6eKFP",
+					"display_url": "pic.twitter.com/kefXh6eKFP",
+					"expanded_url": "https://twitter.com/redrubyrose_/status/1554731839486582785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19421409,
+			"id_str": "19421409",
+			"name": "Rowena Dugdale",
+			"screen_name": "redrubyrose_",
+			"location": "Gairloch, Scotland",
+			"description": "Flora inspired small-batch textiles, plant-dyeing and landscape wanderings",
+			"url": "https://t.co/WgT6Gi2hfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WgT6Gi2hfJ",
+							"expanded_url": "http://www.redrubyrose.com",
+							"display_url": "redrubyrose.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1385,
+			"friends_count": 30,
+			"listed_count": 7,
+			"created_at": "Fri Jan 23 23:16:41 +0000 2009",
+			"favourites_count": 204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1552624817660219392/dmz2cMnO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1552624817660219392/dmz2cMnO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19421409/1659008300",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1570,
+		"favorite_count": 11466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Plant dyes - all the colours achievable from leaf, flower and root within around a five mile radius. The red hot poker root was a gift from a friend on Skye but that’s only several miles across the water… https://t.co/kefXh6eKFP"
+	},
+	{
+		"created_at": "Thu Aug 04 17:09:41 +0000 2022",
+		"id": 1555239563508981800,
+		"id_str": "1555239563508981761",
+		"full_text": "@HilarieAshton https://t.co/hQFA6WKHuN",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HilarieAshton",
+					"name": "Hilarie Ashton",
+					"id": 395394840,
+					"id_str": "395394840",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555239557976793000,
+					"id_str": "1555239557976793088",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZVSI1HXoAAYMPt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZVSI1HXoAAYMPt.jpg",
+					"url": "https://t.co/hQFA6WKHuN",
+					"display_url": "pic.twitter.com/hQFA6WKHuN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555239563508981761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555239557976793000,
+					"id_str": "1555239557976793088",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZVSI1HXoAAYMPt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZVSI1HXoAAYMPt.jpg",
+					"url": "https://t.co/hQFA6WKHuN",
+					"display_url": "pic.twitter.com/hQFA6WKHuN",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555239563508981761/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							6,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZVSI1HXoAAYMPt.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555236555584950300,
+		"in_reply_to_status_id_str": "1555236555584950272",
+		"in_reply_to_user_id": 395394840,
+		"in_reply_to_user_id_str": "395394840",
+		"in_reply_to_screen_name": "HilarieAshton",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@HilarieAshton https://t.co/hQFA6WKHuN"
+	},
+	{
+		"created_at": "Thu Aug 04 16:14:35 +0000 2022",
+		"id": 1555225698251464700,
+		"id_str": "1555225698251464706",
+		"full_text": "@frittersandclam you looking forward to the new McDonagh?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frittersandclam",
+					"name": "D(oc) Oc(k)",
+					"id": 117842180,
+					"id_str": "117842180",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 117842180,
+		"in_reply_to_user_id_str": "117842180",
+		"in_reply_to_screen_name": "frittersandclam",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@frittersandclam you looking forward to the new McDonagh?"
+	},
+	{
+		"created_at": "Thu Aug 04 16:12:21 +0000 2022",
+		"id": 1555216609534288000,
+		"id_str": "1555225134872629248",
+		"full_text": "Looks like a pretty rad show to me. More interesting than much of what I've seen from Tik Tok. https://t.co/0loyUZlgel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0loyUZlgel",
+					"expanded_url": "https://twitter.com/legit_scumbag/status/1554588985057415168",
+					"display_url": "twitter.com/legit_scumbag/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34495867,
+			"id_str": "34495867",
+			"name": "Ted Hand",
+			"screen_name": "t3dy",
+			"location": "Seattle, WA",
+			"description": "No honest game is entirely lacking in the capacity to instruct. -Cusanus. \nTeacher. Esoteric Beat. Tarot for the Soulless Materialist. Alchemy Coloring Book.",
+			"url": "https://t.co/wYrQS1tRFt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wYrQS1tRFt",
+							"expanded_url": "https://wide-books.com/pkd-tarot-the-fools-journey-of-philip-k-dick.html",
+							"display_url": "wide-books.com/pkd-tarot-the-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5913,
+			"friends_count": 6498,
+			"listed_count": 291,
+			"created_at": "Thu Apr 23 02:19:04 +0000 2009",
+			"favourites_count": 41100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 173920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248510729394647043/bgX6uX6T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248510729394647043/bgX6uX6T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34495867/1567061672",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1554588985057415200,
+		"quoted_status_id_str": "1554588985057415168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0loyUZlgel",
+			"expanded": "https://twitter.com/legit_scumbag/status/1554588985057415168",
+			"display": "twitter.com/legit_scumbag/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 02 22:04:31 +0000 2022",
+			"id": 1554588985057415200,
+			"id_str": "1554588985057415168",
+			"full_text": "This is the worst TikTok I’ve ever seen https://t.co/t7xxywRmxW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1554588881986748400,
+						"id_str": "1554588881986748416",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554588881986748416/pu/img/YvpYjsjfl7c2zwah.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554588881986748416/pu/img/YvpYjsjfl7c2zwah.jpg",
+						"url": "https://t.co/t7xxywRmxW",
+						"display_url": "pic.twitter.com/t7xxywRmxW",
+						"expanded_url": "https://twitter.com/legit_scumbag/status/1554588985057415168/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1554588881986748400,
+						"id_str": "1554588881986748416",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554588881986748416/pu/img/YvpYjsjfl7c2zwah.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554588881986748416/pu/img/YvpYjsjfl7c2zwah.jpg",
+						"url": "https://t.co/t7xxywRmxW",
+						"display_url": "pic.twitter.com/t7xxywRmxW",
+						"expanded_url": "https://twitter.com/legit_scumbag/status/1554588985057415168/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 33066,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1554588881986748416/pu/vid/480x852/CzmOfkiU_FmYkgVE.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1554588881986748416/pu/pl/0UxWo7913qhRv5Iy.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1554588881986748416/pu/vid/576x1024/lid9267BxTVj6ykF.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1554588881986748416/pu/vid/320x568/VdlFRXlet-W2NX32.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 946646573701742600,
+				"id_str": "946646573701742592",
+				"name": "Based Brando",
+				"screen_name": "legit_scumbag",
+				"location": "30",
+				"description": "ex con tryna figure it out. mice live inside my walls",
+				"url": "https://t.co/Mj7joQq2pg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mj7joQq2pg",
+								"expanded_url": "https://twitter.com/search?q=from:legit_scumbag%20-filter:replies",
+								"display_url": "twitter.com/search?q=from:…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3875,
+				"friends_count": 1708,
+				"listed_count": 12,
+				"created_at": "Fri Dec 29 07:38:25 +0000 2017",
+				"favourites_count": 89358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23445,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1541669023649333248/tX2OtBCl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541669023649333248/tX2OtBCl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/946646573701742592/1656567147",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2075,
+			"favorite_count": 24432,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like a pretty rad show to me. More interesting than much of what I've seen from Tik Tok. https://t.co/0loyUZlgel"
+	},
+	{
+		"created_at": "Thu Aug 04 16:08:30 +0000 2022",
+		"id": 1555224164218331100,
+		"id_str": "1555224164218331136",
+		"full_text": "@HilarieAshton https://t.co/16HxEs699i",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HilarieAshton",
+					"name": "Hilarie Ashton",
+					"id": 395394840,
+					"id_str": "395394840",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555224158719582200,
+					"id_str": "1555224158719582209",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZVEIeaWIAE9FG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZVEIeaWIAE9FG0.jpg",
+					"url": "https://t.co/16HxEs699i",
+					"display_url": "pic.twitter.com/16HxEs699i",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555224164218331136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 284,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555224158719582200,
+					"id_str": "1555224158719582209",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZVEIeaWIAE9FG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZVEIeaWIAE9FG0.jpg",
+					"url": "https://t.co/16HxEs699i",
+					"display_url": "pic.twitter.com/16HxEs699i",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555224164218331136/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 284,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							95,
+							71
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZVEIeaWIAE9FG0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555222509125001200,
+		"in_reply_to_status_id_str": "1555222509125001216",
+		"in_reply_to_user_id": 395394840,
+		"in_reply_to_user_id_str": "395394840",
+		"in_reply_to_screen_name": "HilarieAshton",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@HilarieAshton https://t.co/16HxEs699i"
+	},
+	{
+		"created_at": "Thu Aug 04 15:35:57 +0000 2022",
+		"id": 1555215972486758400,
+		"id_str": "1555215972486758400",
+		"full_text": "@melisser3 😂🤣",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (has thoughts about helpless dude things)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555215614259499000,
+		"in_reply_to_status_id_str": "1555215614259499008",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@melisser3 😂🤣"
+	},
+	{
+		"created_at": "Thu Aug 04 15:32:49 +0000 2022",
+		"id": 1555215185027235800,
+		"id_str": "1555215185027235840",
+		"full_text": "also lol https://t.co/yM03XfXkqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555215178131726300,
+					"id_str": "1555215178131726338",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FZU79vHWYAIz8Ho.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZU79vHWYAIz8Ho.jpg",
+					"url": "https://t.co/yM03XfXkqL",
+					"display_url": "pic.twitter.com/yM03XfXkqL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555215185027235840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 492,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555215178131726300,
+					"id_str": "1555215178131726338",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FZU79vHWYAIz8Ho.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZU79vHWYAIz8Ho.jpg",
+					"url": "https://t.co/yM03XfXkqL",
+					"display_url": "pic.twitter.com/yM03XfXkqL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555215185027235840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 492,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555214076384612400,
+		"in_reply_to_status_id_str": "1555214076384612353",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "also lol https://t.co/yM03XfXkqL"
+	},
+	{
+		"created_at": "Thu Aug 04 15:28:24 +0000 2022",
+		"id": 1555214076384612400,
+		"id_str": "1555214076384612353",
+		"full_text": "@melisser3 still obsessed with this. getting a copy for the new place. https://t.co/Egkuvl0WA9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (has thoughts about helpless dude things)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555214030444404700,
+					"id_str": "1555214030444404741",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FZU667pXoAUvExJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZU667pXoAUvExJ.jpg",
+					"url": "https://t.co/Egkuvl0WA9",
+					"display_url": "pic.twitter.com/Egkuvl0WA9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555214076384612353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 564,
+							"h": 553,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555214030444404700,
+					"id_str": "1555214030444404741",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FZU667pXoAUvExJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZU667pXoAUvExJ.jpg",
+					"url": "https://t.co/Egkuvl0WA9",
+					"display_url": "pic.twitter.com/Egkuvl0WA9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555214076384612353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 564,
+							"h": 553,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555214030486241300,
+					"id_str": "1555214030486241282",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FZU667zWAAIr7v1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZU667zWAAIr7v1.jpg",
+					"url": "https://t.co/Egkuvl0WA9",
+					"display_url": "pic.twitter.com/Egkuvl0WA9",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555214076384612353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 982,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 982,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 still obsessed with this. getting a copy for the new place. https://t.co/Egkuvl0WA9"
+	},
+	{
+		"created_at": "Thu Aug 04 15:22:15 +0000 2022",
+		"id": 1554180430420537300,
+		"id_str": "1555212526626947072",
+		"full_text": "Therapist: 8-bit Cat isn't real, it can't hurt you.\n\n8-bit Cat: https://t.co/EOgK9fifKy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554180429015437300,
+					"id_str": "1554180429015437314",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FZGO3aRUUAIqkIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZGO3aRUUAIqkIg.jpg",
+					"url": "https://t.co/EOgK9fifKy",
+					"display_url": "pic.twitter.com/EOgK9fifKy",
+					"expanded_url": "https://twitter.com/CATBRAINCELL/status/1554180430420537345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554180429015437300,
+					"id_str": "1554180429015437314",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FZGO3aRUUAIqkIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZGO3aRUUAIqkIg.jpg",
+					"url": "https://t.co/EOgK9fifKy",
+					"display_url": "pic.twitter.com/EOgK9fifKy",
+					"expanded_url": "https://twitter.com/CATBRAINCELL/status/1554180430420537345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 889697780737769500,
+			"id_str": "889697780737769474",
+			"name": "cats who share one braincell",
+			"screen_name": "CATBRAINCELL",
+			"location": "the hivemind",
+			"description": "Political account. All cats here share the same braincell. BLM/Trans rights!!🌈🏳️‍⚧️🖤\nDM for submissions!\n\nProfile pic from @bigfootjinx\n\nStore & cool stuff:",
+			"url": "https://t.co/ij62rylu4j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ij62rylu4j",
+							"expanded_url": "https://linktr.ee/thecathive",
+							"display_url": "linktr.ee/thecathive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127127,
+			"friends_count": 2339,
+			"listed_count": 418,
+			"created_at": "Tue Jul 25 04:04:15 +0000 2017",
+			"favourites_count": 11096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524647498584784896/Xcoqk0D9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524647498584784896/Xcoqk0D9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/889697780737769474/1648319353",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 3416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Therapist: 8-bit Cat isn't real, it can't hurt you.\n\n8-bit Cat: https://t.co/EOgK9fifKy"
+	},
+	{
+		"created_at": "Thu Aug 04 15:08:57 +0000 2022",
+		"id": 1555206954179600400,
+		"id_str": "1555209179459108869",
+		"full_text": "Looking for a 4th #SCMS23 panelist for a panel tentatively titled Popular Music Stardom in Transition (w/@ericdharvey, @maggierossman). If you’re working on something about pop stars working within key moments in industries/platforms lmk https://t.co/ZAZVrC0U95",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCMS23",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericdharvey",
+					"name": "Eric Harvey",
+					"id": 80460905,
+					"id_str": "80460905",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"screen_name": "maggierossman",
+					"name": "Maggie Rossman",
+					"id": 327418830,
+					"id_str": "327418830",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZAZVrC0U95",
+					"expanded_url": "https://twitter.com/landonapalmer/status/1551597556014235648",
+					"display_url": "twitter.com/landonapalmer/…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47515813,
+			"id_str": "47515813",
+			"name": "Landon Palmer",
+			"screen_name": "landonapalmer",
+			"location": "Northport, AL",
+			"description": "historian of film, media, popular music | assistant prof @ua_jcm | author of Rock Star/Movie Star @OUPAcademic | he/him",
+			"url": "https://t.co/6uH6HrHPJ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6uH6HrHPJ0",
+							"expanded_url": "https://lapalmer.people.ua.edu",
+							"display_url": "lapalmer.people.ua.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1003,
+			"friends_count": 634,
+			"listed_count": 43,
+			"created_at": "Tue Jun 16 02:20:02 +0000 2009",
+			"favourites_count": 1975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330599306110316554/pylnfdcU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330599306110316554/pylnfdcU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47515813/1403651896",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1551597556014235600,
+		"quoted_status_id_str": "1551597556014235648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZAZVrC0U95",
+			"expanded": "https://twitter.com/landonapalmer/status/1551597556014235648",
+			"display": "twitter.com/landonapalmer/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 25 15:57:39 +0000 2022",
+			"id": 1551597556014235600,
+			"id_str": "1551597556014235648",
+			"full_text": "Hi #SCMS twitter: I'm planning on a few research projects this year and wondering if anyone wants to use some threads to form a panel. Topics could have to do with popular music + film, adaptation, nostalgia/anachronism, media industry history, stars (playing stars), etc... (1/3)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SCMS",
+						"indices": [
+							3,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47515813,
+				"id_str": "47515813",
+				"name": "Landon Palmer",
+				"screen_name": "landonapalmer",
+				"location": "Northport, AL",
+				"description": "historian of film, media, popular music | assistant prof @ua_jcm | author of Rock Star/Movie Star @OUPAcademic | he/him",
+				"url": "https://t.co/6uH6HrHPJ0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6uH6HrHPJ0",
+								"expanded_url": "https://lapalmer.people.ua.edu",
+								"display_url": "lapalmer.people.ua.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1003,
+				"friends_count": 634,
+				"listed_count": 43,
+				"created_at": "Tue Jun 16 02:20:02 +0000 2009",
+				"favourites_count": 1975,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8991,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330599306110316554/pylnfdcU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330599306110316554/pylnfdcU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47515813/1403651896",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for a 4th #SCMS23 panelist for a panel tentatively titled Popular Music Stardom in Transition (w/@ericdharvey, @maggierossman). If you’re working on something about pop stars working within key moments in industries/platforms lmk https://t.co/ZAZVrC0U95"
+	},
+	{
+		"created_at": "Thu Aug 04 13:36:00 +0000 2022",
+		"id": 1555185787230118000,
+		"id_str": "1555185787230117889",
+		"full_text": "new quasi album when",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "new quasi album when"
+	},
+	{
+		"created_at": "Thu Aug 04 13:06:04 +0000 2022",
+		"id": 1555178256177012700,
+		"id_str": "1555178256177012742",
+		"full_text": "Wordle 411 4/6*\n\n⬜🟨⬜⬜⬜\n⬜🟨⬜⬜🟩\n🟩⬜⬜🟨🟩\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 411 4/6*\n\n⬜🟨⬜⬜⬜\n⬜🟨⬜⬜🟩\n🟩⬜⬜🟨🟩\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Thu Aug 04 13:01:36 +0000 2022",
+		"id": 1555177130870427600,
+		"id_str": "1555177130870427648",
+		"full_text": "@melisser3 good one for the all the stuff I have to do today. https://t.co/YczWuVyCSC",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (has thoughts about helpless dude things)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555177076772200400,
+					"id_str": "1555177076772200449",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUZT8fWYAEQfb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUZT8fWYAEQfb2.jpg",
+					"url": "https://t.co/YczWuVyCSC",
+					"display_url": "pic.twitter.com/YczWuVyCSC",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555177130870427648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555177076772200400,
+					"id_str": "1555177076772200449",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUZT8fWYAEQfb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUZT8fWYAEQfb2.jpg",
+					"url": "https://t.co/YczWuVyCSC",
+					"display_url": "pic.twitter.com/YczWuVyCSC",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1555177130870427648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555176837596254200,
+		"in_reply_to_status_id_str": "1555176837596254208",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, what ya readin' fer?",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1299,
+			"friends_count": 581,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555220037572624389/db4qN-Up_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 good one for the all the stuff I have to do today. https://t.co/YczWuVyCSC"
+	},
+	{
 		"created_at": "Thu Aug 04 03:49:44 +0000 2022",
 		"id": 1555038251324407800,
 		"id_str": "1555038251324407808",
@@ -546,7 +3789,7 @@ Grailbird.data.tweets_2022_08 =
 			"user_mentions": [
 				{
 					"screen_name": "paulduanefilm",
-					"name": "Paul Duane 🏳️‍⚧️",
+					"name": "Paul Duane 🏳️⚧️",
 					"id": 1279512071873409000,
 					"id_str": "1279512071873409024",
 					"indices": [
