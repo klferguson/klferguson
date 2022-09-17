@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 12:47:32 +0000 2022",
+		"id": 1570756269878939600,
+		"id_str": "1570756269878939649",
+		"full_text": "@elizabethalsop this. fucking. guy.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizabethalsop",
+					"name": "Elizabeth Alsop",
+					"id": 380135452,
+					"id_str": "380135452",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570755862821744600,
+		"in_reply_to_status_id_str": "1570755862821744646",
+		"in_reply_to_user_id": 380135452,
+		"in_reply_to_user_id_str": "380135452",
+		"in_reply_to_screen_name": "elizabethalsop",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, grinding away at the match factory",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1293,
+			"friends_count": 584,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562890800798863361/J77TmCV7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562890800798863361/J77TmCV7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@elizabethalsop this. fucking. guy."
+	},
+	{
 		"created_at": "Fri Sep 16 02:29:26 +0000 2022",
 		"id": 1570600718431826000,
 		"id_str": "1570600718431825921",
