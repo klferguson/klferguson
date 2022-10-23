@@ -1,6 +1,1202 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 02:10:21 +0000 2022",
+		"id": 1583562256788631600,
+		"id_str": "1584004267018375168",
+		"full_text": "It's that time again...BOO-lean operators 👻 https://t.co/tyfyUqtXb6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583562252904534000,
+					"id_str": "1583562252904534019",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnxepwXkAMyEE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnxepwXkAMyEE4.jpg",
+					"url": "https://t.co/tyfyUqtXb6",
+					"display_url": "pic.twitter.com/tyfyUqtXb6",
+					"expanded_url": "https://twitter.com/DarkLiterata/status/1583562256788631552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583562252904534000,
+					"id_str": "1583562252904534019",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnxepwXkAMyEE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnxepwXkAMyEE4.jpg",
+					"url": "https://t.co/tyfyUqtXb6",
+					"display_url": "pic.twitter.com/tyfyUqtXb6",
+					"expanded_url": "https://twitter.com/DarkLiterata/status/1583562256788631552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4153643229,
+			"id_str": "4153643229",
+			"name": "Stacy's Flag Means Horror👁️",
+			"screen_name": "DarkLiterata",
+			"location": "she/they",
+			"description": "i read slowly & often. queer black librarian. anti-oppression educator. youth lit scholar & reviewer. \n#critlib | #kidlit | #spectrumscholar | #trekkie🖖🏾",
+			"url": "https://t.co/eSRXPGt2ln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSRXPGt2ln",
+							"expanded_url": "https://medalonmymind.com/",
+							"display_url": "medalonmymind.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7959,
+			"friends_count": 4039,
+			"listed_count": 102,
+			"created_at": "Tue Nov 10 03:27:45 +0000 2015",
+			"favourites_count": 60430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9C9D5B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060269176533671936/e1Iqc8O4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060269176533671936/e1Iqc8O4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4153643229/1664835192",
+			"profile_link_color": "5C5B9D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1364,
+		"favorite_count": 4809,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's that time again...BOO-lean operators 👻 https://t.co/tyfyUqtXb6"
+	},
+	{
+		"created_at": "Sat Oct 22 20:44:19 +0000 2022",
+		"id": 1583922218680995800,
+		"id_str": "1583922218680995840",
+		"full_text": "am admirer brought me flowers? https://t.co/7aNCeQABhV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583922214784704500,
+					"id_str": "1583922214784704512",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffs43MQXoAAPTVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffs43MQXoAAPTVM.jpg",
+					"url": "https://t.co/7aNCeQABhV",
+					"display_url": "pic.twitter.com/7aNCeQABhV",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1583922218680995840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583922214784704500,
+					"id_str": "1583922214784704512",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffs43MQXoAAPTVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffs43MQXoAAPTVM.jpg",
+					"url": "https://t.co/7aNCeQABhV",
+					"display_url": "pic.twitter.com/7aNCeQABhV",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1583922218680995840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1297,
+			"friends_count": 590,
+			"listed_count": 0,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "am admirer brought me flowers? https://t.co/7aNCeQABhV"
+	},
+	{
+		"created_at": "Sat Oct 22 19:23:03 +0000 2022",
+		"id": 1583901769045680000,
+		"id_str": "1583901769045680128",
+		"full_text": "impromptu block party, tried some french on the haitians, pas mal.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1297,
+			"friends_count": 590,
+			"listed_count": 0,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "impromptu block party, tried some french on the haitians, pas mal."
+	},
+	{
+		"created_at": "Sat Oct 22 18:10:39 +0000 2022",
+		"id": 1583877658819301400,
+		"id_str": "1583883546695200770",
+		"full_text": "An ancient Wisconsin folk dance https://t.co/uB37jmf3jM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uB37jmf3jM",
+					"expanded_url": "https://twitter.com/optometristdan/status/1583876898668523520",
+					"display_url": "twitter.com/optometristdan…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754895888850354200,
+			"id_str": "754895888850354176",
+			"name": "Help! I’m in Hell!",
+			"screen_name": "TokyoDilf",
+			"location": "Chicago, IL",
+			"description": "Still in Hell",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3950,
+			"friends_count": 743,
+			"listed_count": 27,
+			"created_at": "Mon Jul 18 04:29:40 +0000 2016",
+			"favourites_count": 148745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578419938854928384/DOe7CFMs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578419938854928384/DOe7CFMs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754895888850354176/1664237673",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583876898668523500,
+		"quoted_status_id_str": "1583876898668523520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uB37jmf3jM",
+			"expanded": "https://twitter.com/optometristdan/status/1583876898668523520",
+			"display": "twitter.com/optometristdan…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 22 17:44:14 +0000 2022",
+			"id": 1583876898668523500,
+			"id_str": "1583876898668523520",
+			"full_text": "Field sobriety test? No officer your bout to see a performance https://t.co/gtCTo8Vkuy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1583876811116748800,
+						"id_str": "1583876811116748802",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583876811116748802/pu/img/vV6CaeRJpbMqaRyC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583876811116748802/pu/img/vV6CaeRJpbMqaRyC.jpg",
+						"url": "https://t.co/gtCTo8Vkuy",
+						"display_url": "pic.twitter.com/gtCTo8Vkuy",
+						"expanded_url": "https://twitter.com/OptometristDan/status/1583876898668523520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 822,
+								"h": 832,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 672,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 822,
+								"h": 832,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1583876811116748800,
+						"id_str": "1583876811116748802",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583876811116748802/pu/img/vV6CaeRJpbMqaRyC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583876811116748802/pu/img/vV6CaeRJpbMqaRyC.jpg",
+						"url": "https://t.co/gtCTo8Vkuy",
+						"display_url": "pic.twitter.com/gtCTo8Vkuy",
+						"expanded_url": "https://twitter.com/OptometristDan/status/1583876898668523520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 822,
+								"h": 832,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 672,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 822,
+								"h": 832,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								411,
+								416
+							],
+							"duration_millis": 13183,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1583876811116748802/pu/pl/g3D_5dZRL30BAG6H.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1583876811116748802/pu/vid/320x322/4RAk-6bCmVo3mbGb.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1583876811116748802/pu/vid/720x728/bRbR_twUaF85kHPH.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1583876811116748802/pu/vid/480x484/5I-rqsOYzP5AHsRX.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1271160730667057200,
+				"id_str": "1271160730667057154",
+				"name": "Stan Denshaw burner",
+				"screen_name": "OptometristDan",
+				"location": "Phoenix, AZ",
+				"description": "friends with Nick Stav and Adam🙏 not affiliated with Dan Crenshaw. Forklift certified. DNR/DNI",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11664,
+				"friends_count": 3881,
+				"listed_count": 13,
+				"created_at": "Thu Jun 11 19:21:59 +0000 2020",
+				"favourites_count": 43622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8266,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1426182667167571970/kXwEiWMK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1426182667167571970/kXwEiWMK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1271160730667057154/1656104448",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 834,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An ancient Wisconsin folk dance https://t.co/uB37jmf3jM"
+	},
+	{
+		"created_at": "Sat Oct 22 12:20:56 +0000 2022",
+		"id": 1583795540407382000,
+		"id_str": "1583795540407382018",
+		"full_text": "@melisser3 \"papers!\" https://t.co/UtfFv9HQZV",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa, rough & ready",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583795512884531200,
+					"id_str": "1583795512884531200",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FfrFoK5XEAArznh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfrFoK5XEAArznh.jpg",
+					"url": "https://t.co/UtfFv9HQZV",
+					"display_url": "pic.twitter.com/UtfFv9HQZV",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1583795540407382018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583795512884531200,
+					"id_str": "1583795512884531200",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FfrFoK5XEAArznh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfrFoK5XEAArznh.jpg",
+					"url": "https://t.co/UtfFv9HQZV",
+					"display_url": "pic.twitter.com/UtfFv9HQZV",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1583795540407382018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1583432356584575000,
+		"in_reply_to_status_id_str": "1583432356584574976",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1297,
+			"friends_count": 590,
+			"listed_count": 0,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@melisser3 \"papers!\" https://t.co/UtfFv9HQZV"
+	},
+	{
+		"created_at": "Sat Oct 22 12:01:39 +0000 2022",
+		"id": 1583790684460327000,
+		"id_str": "1583790684460326912",
+		"full_text": "Wordle 490 3/6*\n\n🟨🟨⬜🟨⬜\n🟩🟨⬜🟩🟨\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 91/99\nLuck 80/99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1297,
+			"friends_count": 590,
+			"listed_count": 0,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582426325779972098/SoyFjvaT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 490 3/6*\n\n🟨🟨⬜🟨⬜\n🟩🟨⬜🟩🟨\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 91/99\nLuck 80/99"
+	},
+	{
+		"created_at": "Sat Oct 22 11:57:19 +0000 2022",
+		"id": 1583514319853334500,
+		"id_str": "1583789595992678401",
+		"full_text": "This pic of Kim Gordon shredding at the Louvre is one of my favorite music photos of all time. https://t.co/OgmUtxBJuj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583514314316648400,
+					"id_str": "1583514314316648458",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnF4QmXEAoKV14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnF4QmXEAoKV14.jpg",
+					"url": "https://t.co/OgmUtxBJuj",
+					"display_url": "pic.twitter.com/OgmUtxBJuj",
+					"expanded_url": "https://twitter.com/_motherslug/status/1583514319853334530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583514314316648400,
+					"id_str": "1583514314316648458",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnF4QmXEAoKV14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnF4QmXEAoKV14.jpg",
+					"url": "https://t.co/OgmUtxBJuj",
+					"display_url": "pic.twitter.com/OgmUtxBJuj",
+					"expanded_url": "https://twitter.com/_motherslug/status/1583514319853334530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1327131583,
+			"id_str": "1327131583",
+			"name": "Ana",
+			"screen_name": "_motherslug",
+			"location": "Detroit, MI",
+			"description": "Midwest writer, lover of records, books, jazz, the '70s | bylines at Maggot Brain from @thirdmanrecords @aquadrunkard @vintageking @metrotimes",
+			"url": "https://t.co/la2DqGz4Hs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/la2DqGz4Hs",
+							"expanded_url": "http://motherslug.substack.com/welcome",
+							"display_url": "motherslug.substack.com/welcome",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4540,
+			"friends_count": 1080,
+			"listed_count": 33,
+			"created_at": "Thu Apr 04 14:56:53 +0000 2013",
+			"favourites_count": 13496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F2F3D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542377647916843009/IC501ONu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542377647916843009/IC501ONu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1327131583/1425701617",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1081,
+		"favorite_count": 8014,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This pic of Kim Gordon shredding at the Louvre is one of my favorite music photos of all time. https://t.co/OgmUtxBJuj"
+	},
+	{
 		"created_at": "Sat Oct 22 00:56:41 +0000 2022",
 		"id": 1583623339930636300,
 		"id_str": "1583623339930636290",
