@@ -1,6 +1,2785 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 02:38:05 +0000 2022",
+		"id": 1584657751103656000,
+		"id_str": "1584736021501333504",
+		"full_text": "Nothing can prepare you for the second paragraph here https://t.co/PZHhBFjhPa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PZHhBFjhPa",
+					"expanded_url": "https://twitter.com/Lucas_Shaw/status/1584583804857241600",
+					"display_url": "twitter.com/Lucas_Shaw/sta…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815632077706186800,
+			"id_str": "815632077706186752",
+			"name": "Claire Penis",
+			"screen_name": "ZeroSuitCamus",
+			"location": "Sodom Today Gomorrah The World",
+			"description": "My name is Hesse I play The Girl on Seeking Derangements",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66606,
+			"friends_count": 5468,
+			"listed_count": 98,
+			"created_at": "Sun Jan 01 18:53:35 +0000 2017",
+			"favourites_count": 212402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582167807915089924/s-RRTKXa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582167807915089924/s-RRTKXa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815632077706186752/1611614348",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584583804857241600,
+		"quoted_status_id_str": "1584583804857241600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PZHhBFjhPa",
+			"expanded": "https://twitter.com/Lucas_Shaw/status/1584583804857241600",
+			"display": "twitter.com/Lucas_Shaw/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 24 16:33:13 +0000 2022",
+			"id": 1584583804857241600,
+			"id_str": "1584583804857241600",
+			"full_text": "Hollywood financier/producer MRC says it won't proceed with a Kanye West documentary. https://t.co/cR0FiLDOmT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1584583719133663200,
+						"id_str": "1584583719133663233",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff2Sfz_UUAEcblT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff2Sfz_UUAEcblT.jpg",
+						"url": "https://t.co/cR0FiLDOmT",
+						"display_url": "pic.twitter.com/cR0FiLDOmT",
+						"expanded_url": "https://twitter.com/Lucas_Shaw/status/1584583804857241600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 789,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1424,
+								"h": 936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584583719133663200,
+						"id_str": "1584583719133663233",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff2Sfz_UUAEcblT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff2Sfz_UUAEcblT.jpg",
+						"url": "https://t.co/cR0FiLDOmT",
+						"display_url": "pic.twitter.com/cR0FiLDOmT",
+						"expanded_url": "https://twitter.com/Lucas_Shaw/status/1584583804857241600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 789,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1424,
+								"h": 936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 318218261,
+				"id_str": "318218261",
+				"name": "Lucas Shaw",
+				"screen_name": "Lucas_Shaw",
+				"location": "",
+				"description": "Reporter for Bloomberg, but views my own. I write a newsletter about Hollywood https://t.co/nHkaimUTQX. Send Tips to lshaw31@bloomberg.net. Ask for Signal.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nHkaimUTQX",
+								"expanded_url": "http://bloom.bg/35ztKwg",
+								"display_url": "bloom.bg/35ztKwg",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23699,
+				"friends_count": 2240,
+				"listed_count": 653,
+				"created_at": "Thu Jun 16 04:17:49 +0000 2011",
+				"favourites_count": 16625,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3810,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1556036551892602880/oimt8mLx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556036551892602880/oimt8mLx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/318218261/1583344124",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2745,
+			"favorite_count": 14782,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2231,
+		"favorite_count": 21463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nothing can prepare you for the second paragraph here https://t.co/PZHhBFjhPa"
+	},
+	{
+		"created_at": "Mon Oct 24 23:25:44 +0000 2022",
+		"id": 1584687617207332900,
+		"id_str": "1584687617207332864",
+		"full_text": "lmao Super Hot pumpkin challenge https://t.co/Kk5hPJYudU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584687614933737500,
+					"id_str": "1584687614933737473",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3w_WAWIAEe-tW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3w_WAWIAEe-tW.jpg",
+					"url": "https://t.co/Kk5hPJYudU",
+					"display_url": "pic.twitter.com/Kk5hPJYudU",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584687617207332864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584687614933737500,
+					"id_str": "1584687614933737473",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3w_WAWIAEe-tW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3w_WAWIAEe-tW.jpg",
+					"url": "https://t.co/Kk5hPJYudU",
+					"display_url": "pic.twitter.com/Kk5hPJYudU",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584687617207332864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lmao Super Hot pumpkin challenge https://t.co/Kk5hPJYudU"
+	},
+	{
+		"created_at": "Mon Oct 24 22:26:20 +0000 2022",
+		"id": 1584672669685158000,
+		"id_str": "1584672669685157888",
+		"full_text": "imposter syndrome? never. https://t.co/Ao0QGhPT3W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584672667155812400,
+					"id_str": "1584672667155812352",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3jZRMX0AAVRF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3jZRMX0AAVRF-.jpg",
+					"url": "https://t.co/Ao0QGhPT3W",
+					"display_url": "pic.twitter.com/Ao0QGhPT3W",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584672669685157888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584672667155812400,
+					"id_str": "1584672667155812352",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3jZRMX0AAVRF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3jZRMX0AAVRF-.jpg",
+					"url": "https://t.co/Ao0QGhPT3W",
+					"display_url": "pic.twitter.com/Ao0QGhPT3W",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584672669685157888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "imposter syndrome? never. https://t.co/Ao0QGhPT3W"
+	},
+	{
+		"created_at": "Mon Oct 24 21:58:26 +0000 2022",
+		"id": 1584665645056422000,
+		"id_str": "1584665645056421888",
+		"full_text": "@poppycockltd do I get this for you from the library or https://t.co/HJVNrQWZ4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "poppycockltd",
+					"name": "Molly Pohlig",
+					"id": 230242884,
+					"id_str": "230242884",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584665641944060000,
+					"id_str": "1584665641944059904",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3dAWPXkAA-RZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3dAWPXkAA-RZm.jpg",
+					"url": "https://t.co/HJVNrQWZ4X",
+					"display_url": "pic.twitter.com/HJVNrQWZ4X",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584665645056421888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584665641944060000,
+					"id_str": "1584665641944059904",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3dAWPXkAA-RZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3dAWPXkAA-RZm.jpg",
+					"url": "https://t.co/HJVNrQWZ4X",
+					"display_url": "pic.twitter.com/HJVNrQWZ4X",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584665645056421888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 230242884,
+		"in_reply_to_user_id_str": "230242884",
+		"in_reply_to_screen_name": "poppycockltd",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@poppycockltd do I get this for you from the library or https://t.co/HJVNrQWZ4X"
+	},
+	{
+		"created_at": "Mon Oct 24 18:28:49 +0000 2022",
+		"id": 1584612895513407500,
+		"id_str": "1584612895513407488",
+		"full_text": "*when a Gemini texts* 😆 https://t.co/zQuZVc5oAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584612893185740800,
+					"id_str": "1584612893185740810",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2tB9zXEAoANgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2tB9zXEAoANgy.jpg",
+					"url": "https://t.co/zQuZVc5oAB",
+					"display_url": "pic.twitter.com/zQuZVc5oAB",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584612895513407488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 234,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 449,
+							"h": 234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584612893185740800,
+					"id_str": "1584612893185740810",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2tB9zXEAoANgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2tB9zXEAoANgy.jpg",
+					"url": "https://t.co/zQuZVc5oAB",
+					"display_url": "pic.twitter.com/zQuZVc5oAB",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584612895513407488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 449,
+							"h": 234,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 449,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 449,
+							"h": 234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*when a Gemini texts* 😆 https://t.co/zQuZVc5oAB"
+	},
+	{
+		"created_at": "Mon Oct 24 17:35:27 +0000 2022",
+		"id": 1584599464337379300,
+		"id_str": "1584599464337379328",
+		"full_text": "https://t.co/6PA23xv0dD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584599457517256700,
+					"id_str": "1584599457517256705",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2gz6CXwAEB1ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2gz6CXwAEB1ul.jpg",
+					"url": "https://t.co/6PA23xv0dD",
+					"display_url": "pic.twitter.com/6PA23xv0dD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584599464337379328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584599457517256700,
+					"id_str": "1584599457517256705",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2gz6CXwAEB1ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2gz6CXwAEB1ul.jpg",
+					"url": "https://t.co/6PA23xv0dD",
+					"display_url": "pic.twitter.com/6PA23xv0dD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584599464337379328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584599457307443200,
+					"id_str": "1584599457307443200",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2gz5QWQAA8ccB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2gz5QWQAA8ccB.jpg",
+					"url": "https://t.co/6PA23xv0dD",
+					"display_url": "pic.twitter.com/6PA23xv0dD",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584599464337379328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/6PA23xv0dD"
+	},
+	{
+		"created_at": "Mon Oct 24 16:57:05 +0000 2022",
+		"id": 1584589810077151200,
+		"id_str": "1584589810077151232",
+		"full_text": "(loves this thing) https://t.co/7mSFEyVmzL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584589807199584300,
+					"id_str": "1584589807199584267",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2YCLzWAAsgT6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2YCLzWAAsgT6e.jpg",
+					"url": "https://t.co/7mSFEyVmzL",
+					"display_url": "pic.twitter.com/7mSFEyVmzL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584589810077151232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584589807199584300,
+					"id_str": "1584589807199584267",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2YCLzWAAsgT6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2YCLzWAAsgT6e.jpg",
+					"url": "https://t.co/7mSFEyVmzL",
+					"display_url": "pic.twitter.com/7mSFEyVmzL",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584589810077151232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(loves this thing) https://t.co/7mSFEyVmzL"
+	},
+	{
+		"created_at": "Mon Oct 24 16:20:58 +0000 2022",
+		"id": 1584579532841156600,
+		"id_str": "1584580719556591616",
+		"full_text": "We’re a little partial to @clint_dempsey’s “Don’t Tread” but imagine it may tough to keep up with Deuce’s bars 🇺🇸\n\n https://t.co/gzBnWu16Ts https://t.co/CsswRdPSoO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clint_dempsey",
+					"name": "Clint Dempsey",
+					"id": 431429137,
+					"id_str": "431429137",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CsswRdPSoO",
+					"expanded_url": "https://twitter.com/ishaantharoor/status/1584558792775151617",
+					"display_url": "twitter.com/ishaantharoor/…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501585360236822500,
+					"id_str": "1501585360236822531",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1501585360236822531/img/AaM816aZwz6xMgz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1501585360236822531/img/AaM816aZwz6xMgz0.jpg",
+					"url": "https://t.co/gzBnWu16Ts",
+					"display_url": "pic.twitter.com/gzBnWu16Ts",
+					"expanded_url": "https://twitter.com/USMNT/status/1501585770351665171/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 352,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 352,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 352,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1501585770351665200,
+					"source_status_id_str": "1501585770351665171",
+					"source_user_id": 7563792,
+					"source_user_id_str": "7563792"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501585360236822500,
+					"id_str": "1501585360236822531",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1501585360236822531/img/AaM816aZwz6xMgz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1501585360236822531/img/AaM816aZwz6xMgz0.jpg",
+					"url": "https://t.co/gzBnWu16Ts",
+					"display_url": "pic.twitter.com/gzBnWu16Ts",
+					"expanded_url": "https://twitter.com/USMNT/status/1501585770351665171/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 352,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 352,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 352,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1501585770351665200,
+					"source_status_id_str": "1501585770351665171",
+					"source_user_id": 7563792,
+					"source_user_id_str": "7563792",
+					"video_info": {
+						"aspect_ratio": [
+							176,
+							131
+						],
+						"duration_millis": 284421,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1501585360236822531/vid/352x262/QMeimZwi9zlmtsLL.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1501585360236822531/pl/EKHWP7vLpx9A5_4c.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 7563792,
+							"id_str": "7563792",
+							"name": "U.S. Men's National Soccer Team",
+							"screen_name": "USMNT",
+							"location": "United States",
+							"description": "#Qatar2022 Bound 🇺🇸 ⚽️ #USMNT #OnlyForward #SoloPalante",
+							"url": "https://t.co/eHBcJldnQx",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/eHBcJldnQx",
+											"expanded_url": "https://ussoc.cr/usmnt",
+											"display_url": "ussoc.cr/usmnt",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2223619,
+							"friends_count": 344,
+							"listed_count": 12947,
+							"created_at": "Wed Jul 18 16:32:18 +0000 2007",
+							"favourites_count": 6788,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 51109,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1542867166269247490/760FJHTT_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542867166269247490/760FJHTT_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/7563792/1654452329",
+							"profile_link_color": "1D16E3",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7563792,
+			"id_str": "7563792",
+			"name": "U.S. Men's National Soccer Team",
+			"screen_name": "USMNT",
+			"location": "United States",
+			"description": "#Qatar2022 Bound 🇺🇸 ⚽️ #USMNT #OnlyForward #SoloPalante",
+			"url": "https://t.co/eHBcJldnQx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eHBcJldnQx",
+							"expanded_url": "https://ussoc.cr/usmnt",
+							"display_url": "ussoc.cr/usmnt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2223619,
+			"friends_count": 344,
+			"listed_count": 12947,
+			"created_at": "Wed Jul 18 16:32:18 +0000 2007",
+			"favourites_count": 6788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542867166269247490/760FJHTT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542867166269247490/760FJHTT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7563792/1654452329",
+			"profile_link_color": "1D16E3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584558792775151600,
+		"quoted_status_id_str": "1584558792775151617",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CsswRdPSoO",
+			"expanded": "https://twitter.com/ishaantharoor/status/1584558792775151617",
+			"display": "twitter.com/ishaantharoor/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 24 14:53:50 +0000 2022",
+			"id": 1584558792775151600,
+			"id_str": "1584558792775151617",
+			"full_text": "Hey supporters of the @USMNT, what do you think of the song culture behind the team? It strikes me that there's no really emblematic song or chant — nothing that rises to that of a household phenomenon. If there was one, what would it be? What would it say?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "USMNT",
+						"name": "U.S. Men's National Soccer Team",
+						"id": 7563792,
+						"id_str": "7563792",
+						"indices": [
+							22,
+							28
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44317593,
+				"id_str": "44317593",
+				"name": "Ishaan Tharoor",
+				"screen_name": "ishaantharoor",
+				"location": "DC",
+				"description": "Foreign affairs columnist @WashingtonPost, anchor of Today’s WorldView column and newsletter. Dad. New Yorker. Victoria concordia crescit.",
+				"url": "https://t.co/m5qNeKXnH9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m5qNeKXnH9",
+								"expanded_url": "https://subscribe.washingtonpost.com/newsletters/#/bundle/todaysworldview?method=SURL&location=ART",
+								"display_url": "subscribe.washingtonpost.com/newsletters/#/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96226,
+				"friends_count": 4685,
+				"listed_count": 1688,
+				"created_at": "Wed Jun 03 07:53:43 +0000 2009",
+				"favourites_count": 67083,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963801661465681920/YXiPTxCP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963801661465681920/YXiPTxCP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44317593/1586878320",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 45,
+		"favorite_count": 444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re a little partial to @clint_dempsey’s “Don’t Tread” but imagine it may tough to keep up with Deuce’s bars 🇺🇸\n\n https://t.co/gzBnWu16Ts https://t.co/CsswRdPSoO"
+	},
+	{
+		"created_at": "Mon Oct 24 16:13:46 +0000 2022",
+		"id": 1584578908393205800,
+		"id_str": "1584578908393205765",
+		"full_text": "@Courtney_BD yooooo",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Courtney_BD",
+					"name": "Courtney Brannon Donoghue",
+					"id": 124883574,
+					"id_str": "124883574",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584576231986827300,
+		"in_reply_to_status_id_str": "1584576231986827264",
+		"in_reply_to_user_id": 124883574,
+		"in_reply_to_user_id_str": "124883574",
+		"in_reply_to_screen_name": "Courtney_BD",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Courtney_BD yooooo"
+	},
+	{
+		"created_at": "Mon Oct 24 16:10:16 +0000 2022",
+		"id": 1584578028633325600,
+		"id_str": "1584578028633325568",
+		"full_text": "taking a moment to appreciate all the people I don't have drama with. especially all the people out there I don't even know.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "taking a moment to appreciate all the people I don't have drama with. especially all the people out there I don't even know."
+	},
+	{
+		"created_at": "Mon Oct 24 14:59:55 +0000 2022",
+		"id": 1584560323096621000,
+		"id_str": "1584560323096621058",
+		"full_text": "oh snap diwali, no alternate side parking",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "oh snap diwali, no alternate side parking"
+	},
+	{
+		"created_at": "Mon Oct 24 13:32:25 +0000 2022",
+		"id": 1584538302962466800,
+		"id_str": "1584538302962466816",
+		"full_text": "no i don't need your VIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "no i don't need your VIN"
+	},
+	{
+		"created_at": "Mon Oct 24 13:29:44 +0000 2022",
+		"id": 1584537629789298700,
+		"id_str": "1584537629789298688",
+		"full_text": "@savasavasava @AmandaAnnKlein @Exhaust_Fumes oooh double birthday party! 🎂🎂",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "savasavasava",
+					"name": "sava",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "The Texas Kleinsaw Massacre",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "Exhaust_Fumes",
+					"name": "Vimpire, Ph.Die",
+					"id": 479673005,
+					"id_str": "479673005",
+					"indices": [
+						30,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584535981075857400,
+		"in_reply_to_status_id_str": "1584535981075857408",
+		"in_reply_to_user_id": 16699990,
+		"in_reply_to_user_id_str": "16699990",
+		"in_reply_to_screen_name": "savasavasava",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@savasavasava @AmandaAnnKlein @Exhaust_Fumes oooh double birthday party! 🎂🎂"
+	},
+	{
+		"created_at": "Mon Oct 24 12:45:21 +0000 2022",
+		"id": 1584526460395540500,
+		"id_str": "1584526460395540480",
+		"full_text": "birthday shout to @AmandaAnnKlein!!! 🥳🥳😘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaAnnKlein",
+					"name": "The Texas Kleinsaw Massacre",
+					"id": 24113960,
+					"id_str": "24113960",
+					"indices": [
+						18,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "birthday shout to @AmandaAnnKlein!!! 🥳🥳😘"
+	},
+	{
+		"created_at": "Mon Oct 24 12:01:27 +0000 2022",
+		"id": 1584515409524318200,
+		"id_str": "1584515409524318209",
+		"full_text": "@melisser3 https://t.co/j6Pc6eg6Zw",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (your marrow, your ride home)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584515377433907200,
+					"id_str": "1584515377433907200",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1UVzUXkAALoSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1UVzUXkAALoSI.jpg",
+					"url": "https://t.co/j6Pc6eg6Zw",
+					"display_url": "pic.twitter.com/j6Pc6eg6Zw",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584515409524318209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584515377433907200,
+					"id_str": "1584515377433907200",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1UVzUXkAALoSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1UVzUXkAALoSI.jpg",
+					"url": "https://t.co/j6Pc6eg6Zw",
+					"display_url": "pic.twitter.com/j6Pc6eg6Zw",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1584515409524318209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584512660728488000,
+		"in_reply_to_status_id_str": "1584512660728487937",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@melisser3 https://t.co/j6Pc6eg6Zw"
+	},
+	{
+		"created_at": "Mon Oct 24 11:53:44 +0000 2022",
+		"id": 1584513467914260500,
+		"id_str": "1584513467914260480",
+		"full_text": "tf is this \"add status\" button",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "tf is this \"add status\" button"
+	},
+	{
+		"created_at": "Mon Oct 24 11:51:14 +0000 2022",
+		"id": 1584512841323008000,
+		"id_str": "1584512841323008004",
+		"full_text": "Wordle 492 3/6*\n\n🟨⬜🟨⬜🟩\n🟨🟨⬜🟨🟩\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 99/99\nLuck 73/99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, a spectre is haunting brooklyn",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 590,
+			"listed_count": 44,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584336871408238592/A63IzN0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 492 3/6*\n\n🟨⬜🟨⬜🟩\n🟨🟨⬜🟨🟩\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 99/99\nLuck 73/99"
+	},
+	{
 		"created_at": "Mon Oct 24 00:31:49 +0000 2022",
 		"id": 1584341859048259600,
 		"id_str": "1584341859048259584",
