@@ -1,6 +1,988 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 02:53:34 +0000 2022",
+		"id": 1609019904862359600,
+		"id_str": "1609019904862359552",
+		"full_text": "yes to a and b? https://t.co/JadCviIQix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JadCviIQix",
+					"expanded_url": "https://twitter.com/timminglab/status/1608704428785430532",
+					"display_url": "twitter.com/timminglab/sta…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, goo goo barabajagal",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1256,
+			"friends_count": 573,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1608704428785430500,
+		"quoted_status_id_str": "1608704428785430532",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JadCviIQix",
+			"expanded": "https://twitter.com/timminglab/status/1608704428785430532",
+			"display": "twitter.com/timminglab/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 30 05:59:58 +0000 2022",
+			"id": 1608704428785430500,
+			"id_str": "1608704428785430532",
+			"full_text": "Andrew Tate is obnoxious and a poor role model for young men. But Greta is not innocent here. She's a role model for millions of girls. Do we want high school girls tweeting this to teenage boys because they think: (a) they deserve it and (b) it's funny? https://t.co/F5KWG4MI62",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F5KWG4MI62",
+						"expanded_url": "https://twitter.com/timminglab/status/1608401633813352448",
+						"display_url": "twitter.com/timminglab/sta…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 908226487928594400,
+				"id_str": "908226487928594432",
+				"name": "Prof. Andrew R. Timming",
+				"screen_name": "timminglab",
+				"location": "Melbourne, Australia",
+				"description": "Professor of Management. Libertarian. Make Academia Great Again! Views are mine and not those of my employer.",
+				"url": "https://t.co/H4EFEP4gTt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H4EFEP4gTt",
+								"expanded_url": "http://www.timminglab.com",
+								"display_url": "timminglab.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19778,
+				"friends_count": 11793,
+				"listed_count": 102,
+				"created_at": "Thu Sep 14 07:10:43 +0000 2017",
+				"favourites_count": 6206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3269,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908236768809381888/ZhxvF8Cc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908236768809381888/ZhxvF8Cc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/908226487928594432/1658910019",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1608401633813352400,
+			"quoted_status_id_str": "1608401633813352448",
+			"quoted_status_permalink": {
+				"url": "https://t.co/F5KWG4MI62",
+				"expanded": "https://twitter.com/timminglab/status/1608401633813352448",
+				"display": "twitter.com/timminglab/sta…"
+			},
+			"retweet_count": 28,
+			"favorite_count": 237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yes to a and b? https://t.co/JadCviIQix"
+	},
+	{
+		"created_at": "Sat Dec 31 01:50:59 +0000 2022",
+		"id": 1609004156693381000,
+		"id_str": "1609004156693381120",
+		"full_text": "@jshelat1 💙💙💙",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jshelat1",
+					"name": "Jay Shelat",
+					"id": 361901781,
+					"id_str": "361901781",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1609003791390580700,
+		"in_reply_to_status_id_str": "1609003791390580739",
+		"in_reply_to_user_id": 361901781,
+		"in_reply_to_user_id_str": "361901781",
+		"in_reply_to_screen_name": "jshelat1",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, goo goo barabajagal",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1256,
+			"friends_count": 573,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@jshelat1 💙💙💙"
+	},
+	{
+		"created_at": "Sat Dec 31 01:38:08 +0000 2022",
+		"id": 1607068621947158500,
+		"id_str": "1609000922016890885",
+		"full_text": "This sign is the litmus test for who has lived in St. Louis and who hasn't. \n\nThose who haven't will find themselves in Illinois without fail. https://t.co/RU140eUUtH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RU140eUUtH",
+					"expanded_url": "https://twitter.com/rice_rust_belt/status/1606500038707912706",
+					"display_url": "twitter.com/rice_rust_belt…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 956412914814128100,
+			"id_str": "956412914814128128",
+			"name": "Second City St. Louisan, Esq.",
+			"screen_name": "M_McDaniel2012",
+			"location": "Chicago, IL",
+			"description": "Mark. Lawyer from the “Boston of the Midwest.” If you or a loved one has suffered watching Everton Football Club, you may be entitled to financial compensation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 348,
+			"friends_count": 1227,
+			"listed_count": 0,
+			"created_at": "Thu Jan 25 06:26:22 +0000 2018",
+			"favourites_count": 5639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554465920097075205/fIPlOxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554465920097075205/fIPlOxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/956412914814128128/1630519737",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1606500038707912700,
+		"quoted_status_id_str": "1606500038707912706",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RU140eUUtH",
+			"expanded": "https://twitter.com/rice_rust_belt/status/1606500038707912706",
+			"display": "twitter.com/rice_rust_belt…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 24 04:00:31 +0000 2022",
+			"id": 1606500038707912700,
+			"id_str": "1606500038707912706",
+			"full_text": "If anyone ever calls the Chicago L or New York City Subway confusing just show them this sign. https://t.co/CsJKrsfrec",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1606500036849836000,
+						"id_str": "1606500036849836033",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/FktvRZwWIAEEwQ_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FktvRZwWIAEEwQ_.jpg",
+						"url": "https://t.co/CsJKrsfrec",
+						"display_url": "pic.twitter.com/CsJKrsfrec",
+						"expanded_url": "https://twitter.com/rice_rust_belt/status/1606500038707912706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 662,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 833,
+								"h": 811,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 833,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1606500036849836000,
+						"id_str": "1606500036849836033",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/FktvRZwWIAEEwQ_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FktvRZwWIAEEwQ_.jpg",
+						"url": "https://t.co/CsJKrsfrec",
+						"display_url": "pic.twitter.com/CsJKrsfrec",
+						"expanded_url": "https://twitter.com/rice_rust_belt/status/1606500038707912706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 662,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 833,
+								"h": 811,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 833,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759464461807738900,
+				"id_str": "759464461807738881",
+				"name": "rust belt city enjoyer",
+				"screen_name": "rice_rust_belt",
+				"location": "St. Louis ",
+				"description": "St. Louis Metro East. Recovering suburbanite. Infrastructure and memes. St. Louis Metrolink stan. I ♥ rust belt cities. Co-host of @car_brain_L | He/Him | 23",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1736,
+				"friends_count": 634,
+				"listed_count": 5,
+				"created_at": "Sat Jul 30 19:03:32 +0000 2016",
+				"favourites_count": 42476,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1519181088446423042/n3m3fqn-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519181088446423042/n3m3fqn-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759464461807738881/1667238977",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 513,
+			"favorite_count": 6955,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 118,
+		"favorite_count": 1053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This sign is the litmus test for who has lived in St. Louis and who hasn't. \n\nThose who haven't will find themselves in Illinois without fail. https://t.co/RU140eUUtH"
+	},
+	{
+		"created_at": "Sat Dec 31 00:00:04 +0000 2022",
+		"id": 1608976243021729800,
+		"id_str": "1608976243021729793",
+		"full_text": "also this guy on my neighbor's grill, who I just interrupted sleeping under my porch https://t.co/F7F8fZz5jJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608976240530030600,
+					"id_str": "1608976240530030595",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FlQ7XbTWAAMb8kx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlQ7XbTWAAMb8kx.jpg",
+					"url": "https://t.co/F7F8fZz5jJ",
+					"display_url": "pic.twitter.com/F7F8fZz5jJ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1608976243021729793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608976240530030600,
+					"id_str": "1608976240530030595",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FlQ7XbTWAAMb8kx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlQ7XbTWAAMb8kx.jpg",
+					"url": "https://t.co/F7F8fZz5jJ",
+					"display_url": "pic.twitter.com/F7F8fZz5jJ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1608976243021729793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1608974678533734400,
+		"in_reply_to_status_id_str": "1608974678533734402",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, goo goo barabajagal",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1256,
+			"friends_count": 573,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "also this guy on my neighbor's grill, who I just interrupted sleeping under my porch https://t.co/F7F8fZz5jJ"
+	},
+	{
+		"created_at": "Fri Dec 30 23:53:51 +0000 2022",
+		"id": 1608974678533734400,
+		"id_str": "1608974678533734402",
+		"full_text": "today in cat https://t.co/74UHPnlLhX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608974607263961000,
+					"id_str": "1608974607263961088",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FlQ54W6XkAAChG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlQ54W6XkAAChG8.jpg",
+					"url": "https://t.co/74UHPnlLhX",
+					"display_url": "pic.twitter.com/74UHPnlLhX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1608974678533734402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608974607263961000,
+					"id_str": "1608974607263961088",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FlQ54W6XkAAChG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlQ54W6XkAAChG8.jpg",
+					"url": "https://t.co/74UHPnlLhX",
+					"display_url": "pic.twitter.com/74UHPnlLhX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1608974678533734402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1608974675039625200,
+					"id_str": "1608974675039625216",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FlQ58TZWIAAfpGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlQ58TZWIAAfpGs.jpg",
+					"url": "https://t.co/74UHPnlLhX",
+					"display_url": "pic.twitter.com/74UHPnlLhX",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1608974678533734402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, goo goo barabajagal",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/ERHUQakxaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERHUQakxaf",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1256,
+			"friends_count": 573,
+			"listed_count": 45,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 29941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608110845141172229/O3Rl6I3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "today in cat https://t.co/74UHPnlLhX"
+	},
+	{
 		"created_at": "Fri Dec 30 03:27:30 +0000 2022",
 		"id": 1608666059036582000,
 		"id_str": "1608666059036581889",
@@ -740,7 +1722,7 @@ Grailbird.data.tweets_2022_12 =
 				"name": "Ayana Harry Dudley",
 				"screen_name": "AyanaHarry",
 				"location": "NYC",
-				"description": "📺 @PIX11News Reporter 🎥 Documentary filmmaker ⚖️ Covering criminal justice + politics 🙋🏾‍♀️ Born in Brooklyn 📚Educated @Princeton #ThePeoplesReporter",
+				"description": "📺 @PIX11News Reporter 🎥 Documentary filmmaker ⚖️ Covering criminal justice + politics 🙋🏾♀️ Born in Brooklyn 📚Educated @Princeton #ThePeoplesReporter",
 				"url": "https://t.co/DSw3XcSmRF",
 				"entities": {
 					"url": {
