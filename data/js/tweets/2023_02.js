@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 18 21:41:39 +0000 2023",
+		"id": 1626853672276705300,
+		"id_str": "1627060805085822989",
+		"full_text": "@evelyn_kreutzer and I are very proud to present the second and final part of “Once Upon a Screen” vol. 2, our collaborative video essay project tackling formative screen memories, now published as a special issue of @inTransitionCMS; enjoy!\nhttps://t.co/30qBQIcqLl https://t.co/30eCuydVPv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evelyn_kreutzer",
+					"name": "Evelyn Kreutzer",
+					"id": 734507283317686300,
+					"id_str": "734507283317686272",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "inTransitionCMS",
+					"name": "inTransition",
+					"id": 2413071554,
+					"id_str": "2413071554",
+					"indices": [
+						217,
+						233
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/30qBQIcqLl",
+					"expanded_url": "http://tinyurl.com/43fz49s9",
+					"display_url": "tinyurl.com/43fz49s9",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1626696625757343700,
+					"id_str": "1626696625757343747",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FpMv9meX0AMs_9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpMv9meX0AMs_9x.jpg",
+					"url": "https://t.co/30eCuydVPv",
+					"display_url": "pic.twitter.com/30eCuydVPv",
+					"expanded_url": "https://twitter.com/ariel_avissar/status/1626853672276705281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1626696625757343700,
+					"id_str": "1626696625757343747",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FpMv9meX0AMs_9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpMv9meX0AMs_9x.jpg",
+					"url": "https://t.co/30eCuydVPv",
+					"display_url": "pic.twitter.com/30eCuydVPv",
+					"expanded_url": "https://twitter.com/ariel_avissar/status/1626853672276705281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 734507283317686300,
+		"in_reply_to_user_id_str": "734507283317686272",
+		"in_reply_to_screen_name": "evelyn_kreutzer",
+		"user": {
+			"id": 1398590028016767000,
+			"id_str": "1398590028016766984",
+			"name": "Ariel Avissar",
+			"screen_name": "ariel_avissar",
+			"location": "Israel",
+			"description": "Media scholar, video maker and PhD student at Tel Aviv University. TV studies, popular culture and videographic criticism.",
+			"url": "https://t.co/t2kLtriD9f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t2kLtriD9f",
+							"expanded_url": "http://tinyurl.com/Ariel-Avissar",
+							"display_url": "tinyurl.com/Ariel-Avissar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400,
+			"friends_count": 361,
+			"listed_count": 3,
+			"created_at": "Sat May 29 10:40:29 +0000 2021",
+			"favourites_count": 1122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398593444520542209/T6RUfHdb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398593444520542209/T6RUfHdb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1398590028016766984/1649856329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@evelyn_kreutzer and I are very proud to present the second and final part of “Once Upon a Screen” vol. 2, our collaborative video essay project tackling formative screen memories, now published as a special issue of @inTransitionCMS; enjoy!\nhttps://t.co/30qBQIcqLl https://t.co/30eCuydVPv"
+	},
+	{
 		"created_at": "Sat Feb 18 02:54:03 +0000 2023",
 		"id": 1626777034708947000,
 		"id_str": "1626777034708946946",
