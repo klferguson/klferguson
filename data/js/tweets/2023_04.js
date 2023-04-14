@@ -1,6 +1,1632 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 02:22:36 +0000 2023",
+		"id": 1646700452862623700,
+		"id_str": "1646700452862623744",
+		"full_text": "can we get a @SCMStudies board role for #SCMSInfluencer because I wanna run https://t.co/BUrYIHCYB3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCMSInfluencer",
+					"indices": [
+						40,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCMStudies",
+					"name": "SCMS",
+					"id": 594313440,
+					"id_str": "594313440",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BUrYIHCYB3",
+					"expanded_url": "https://twitter.com/melisser3/status/1646683256375627776",
+					"display_url": "twitter.com/melisser3/stat…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, #SCMSInfluencer",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 583,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1646683256375627800,
+		"quoted_status_id_str": "1646683256375627776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BUrYIHCYB3",
+			"expanded": "https://twitter.com/melisser3/status/1646683256375627776",
+			"display": "twitter.com/melisser3/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 14 01:14:16 +0000 2023",
+			"id": 1646683256375627800,
+			"id_str": "1646683256375627776",
+			"full_text": "@KevinLFerguson #SCMS23 #SCMSInfluencer #BigToteEnergy #ZipperEnthusiasts #DonateToday #Hashtag",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				95
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SCMS23",
+						"indices": [
+							16,
+							23
+						]
+					},
+					{
+						"text": "SCMSInfluencer",
+						"indices": [
+							24,
+							39
+						]
+					},
+					{
+						"text": "BigToteEnergy",
+						"indices": [
+							40,
+							54
+						]
+					},
+					{
+						"text": "ZipperEnthusiasts",
+						"indices": [
+							55,
+							73
+						]
+					},
+					{
+						"text": "DonateToday",
+						"indices": [
+							74,
+							86
+						]
+					},
+					{
+						"text": "Hashtag",
+						"indices": [
+							87,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KevinLFerguson",
+						"name": "kev, corazón, is in Denver, say ''hi''",
+						"id": 359023788,
+						"id_str": "359023788",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1646682402495029200,
+			"in_reply_to_status_id_str": "1646682402495029250",
+			"in_reply_to_user_id": 359023788,
+			"in_reply_to_user_id_str": "359023788",
+			"in_reply_to_screen_name": "KevinLFerguson",
+			"user": {
+				"id": 14823019,
+				"id_str": "14823019",
+				"name": "melissa, mountain daylight edition",
+				"screen_name": "melisser3",
+				"location": "",
+				"description": "Professora 24 hora",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 242,
+				"friends_count": 498,
+				"listed_count": 6,
+				"created_at": "Sun May 18 18:23:21 +0000 2008",
+				"favourites_count": 37480,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36198,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1645542462704738310/6vfyT7xf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645542462704738310/6vfyT7xf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14823019/1676513156",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "qme"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "can we get a @SCMStudies board role for #SCMSInfluencer because I wanna run https://t.co/BUrYIHCYB3"
+	},
+	{
+		"created_at": "Fri Apr 14 01:10:53 +0000 2023",
+		"id": 1646682402495029200,
+		"id_str": "1646682402495029250",
+		"full_text": "yooo #SCMS23 I just donated to the general fund and got this sweet tote bag (it has a zipper! and an inside pocket! maybe I should go back for the lip balm!) Donate if you can.\n\nhttps://t.co/sJwR5vqEqA https://t.co/Qd3vhJVFBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCMS23",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sJwR5vqEqA",
+					"expanded_url": "http://bit.ly/SCMS23Donation",
+					"display_url": "bit.ly/SCMS23Donation",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646682388162814000,
+					"id_str": "1646682388162813953",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftow6FRWIAESzNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftow6FRWIAESzNS.jpg",
+					"url": "https://t.co/Qd3vhJVFBd",
+					"display_url": "pic.twitter.com/Qd3vhJVFBd",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1646682402495029250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646682388162814000,
+					"id_str": "1646682388162813953",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftow6FRWIAESzNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftow6FRWIAESzNS.jpg",
+					"url": "https://t.co/Qd3vhJVFBd",
+					"display_url": "pic.twitter.com/Qd3vhJVFBd",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1646682402495029250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646682395737718800,
+					"id_str": "1646682395737718785",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftow6hfWAAE1nxJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftow6hfWAAE1nxJ.jpg",
+					"url": "https://t.co/Qd3vhJVFBd",
+					"display_url": "pic.twitter.com/Qd3vhJVFBd",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1646682402495029250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, #SCMSInfluencer",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 583,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yooo #SCMS23 I just donated to the general fund and got this sweet tote bag (it has a zipper! and an inside pocket! maybe I should go back for the lip balm!) Donate if you can.\n\nhttps://t.co/sJwR5vqEqA https://t.co/Qd3vhJVFBd"
+	},
+	{
+		"created_at": "Thu Apr 13 22:34:30 +0000 2023",
+		"id": 1646621419420221400,
+		"id_str": "1646643047827132416",
+		"full_text": "this is some classy shit y'all #SCMS23 https://t.co/n6v3CTcspQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCMS23",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646621417499250700,
+					"id_str": "1646621417499250689",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftn5dH2X0AEXQet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftn5dH2X0AEXQet.jpg",
+					"url": "https://t.co/n6v3CTcspQ",
+					"display_url": "pic.twitter.com/n6v3CTcspQ",
+					"expanded_url": "https://twitter.com/melisser3/status/1646621419420221443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646621417499250700,
+					"id_str": "1646621417499250689",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftn5dH2X0AEXQet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftn5dH2X0AEXQet.jpg",
+					"url": "https://t.co/n6v3CTcspQ",
+					"display_url": "pic.twitter.com/n6v3CTcspQ",
+					"expanded_url": "https://twitter.com/melisser3/status/1646621419420221443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14823019,
+			"id_str": "14823019",
+			"name": "melissa, mountain daylight edition",
+			"screen_name": "melisser3",
+			"location": "",
+			"description": "Professora 24 hora",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 498,
+			"listed_count": 6,
+			"created_at": "Sun May 18 18:23:21 +0000 2008",
+			"favourites_count": 37480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645542462704738310/6vfyT7xf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645542462704738310/6vfyT7xf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14823019/1676513156",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is some classy shit y'all #SCMS23 https://t.co/n6v3CTcspQ"
+	},
+	{
+		"created_at": "Thu Apr 13 22:11:44 +0000 2023",
+		"id": 1646637317413810200,
+		"id_str": "1646637317413810177",
+		"full_text": "@MarthaPShearer @RutgersUPress @aaron_m_hunter w00t!! 🥳",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarthaPShearer",
+					"name": "martha",
+					"id": 126720579,
+					"id_str": "126720579",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "RutgersUPress",
+					"name": "Rutgers University Press",
+					"id": 621047794,
+					"id_str": "621047794",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "aaron_m_hunter",
+					"name": "Aaron Hunter",
+					"id": 369387086,
+					"id_str": "369387086",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1646631380418465800,
+		"in_reply_to_status_id_str": "1646631380418465792",
+		"in_reply_to_user_id": 126720579,
+		"in_reply_to_user_id_str": "126720579",
+		"in_reply_to_screen_name": "MarthaPShearer",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, #SCMSInfluencer",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 583,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@MarthaPShearer @RutgersUPress @aaron_m_hunter w00t!! 🥳"
+	},
+	{
+		"created_at": "Thu Apr 13 22:10:37 +0000 2023",
+		"id": 1646637039042048000,
+		"id_str": "1646637039042048001",
+		"full_text": "@dr_vee_zee @ButNoCigar!!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dr_vee_zee",
+					"name": "dr_vee_zee",
+					"id": 16445753,
+					"id_str": "16445753",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ButNoCigar",
+					"name": "Samantha Close",
+					"id": 981065630,
+					"id_str": "981065630",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1646632962904174600,
+		"in_reply_to_status_id_str": "1646632962904174593",
+		"in_reply_to_user_id": 16445753,
+		"in_reply_to_user_id_str": "16445753",
+		"in_reply_to_screen_name": "dr_vee_zee",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, #SCMSInfluencer",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 583,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "qam",
+		"text": "@dr_vee_zee @ButNoCigar!!"
+	},
+	{
+		"created_at": "Thu Apr 13 20:49:20 +0000 2023",
+		"id": 1646616584180613000,
+		"id_str": "1646616584180613120",
+		"full_text": "snuck out of the conference for a bit to hang from plastic rocks https://t.co/XuCymc8hsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646616541729812500,
+					"id_str": "1646616541729812481",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1646616541729812481/pu/img/s8nZHHJIYodfkQDm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1646616541729812481/pu/img/s8nZHHJIYodfkQDm.jpg",
+					"url": "https://t.co/XuCymc8hsS",
+					"display_url": "pic.twitter.com/XuCymc8hsS",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1646616584180613120/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 476,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 476,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646616541729812500,
+					"id_str": "1646616541729812481",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1646616541729812481/pu/img/s8nZHHJIYodfkQDm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1646616541729812481/pu/img/s8nZHHJIYodfkQDm.jpg",
+					"url": "https://t.co/XuCymc8hsS",
+					"display_url": "pic.twitter.com/XuCymc8hsS",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1646616584180613120/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 476,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 476,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							119,
+							213
+						],
+						"duration_millis": 14119,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1646616541729812481/pu/pl/Z7BEVBcfIXUNJeD2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646616541729812481/pu/vid/320x572/1KSY37715n5UNcbL.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646616541729812481/pu/vid/476x852/6nammixs-AmZuyfJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, #SCMSInfluencer",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 583,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "snuck out of the conference for a bit to hang from plastic rocks https://t.co/XuCymc8hsS"
+	},
+	{
+		"created_at": "Thu Apr 13 18:38:27 +0000 2023",
+		"id": 1646574090873090000,
+		"id_str": "1646583645258518528",
+		"full_text": "Need a little #SCMS23 swag to take home in your carry-on bag? Make a donation at the link below before picking up at the registration desk! https://t.co/QyojX0Zb3j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCMS23",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QyojX0Zb3j",
+					"expanded_url": "https://twitter.com/SCMStudies/status/1646560511209635844",
+					"display_url": "twitter.com/SCMStudies/sta…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1257777534642643000,
+			"id_str": "1257777534642642944",
+			"name": "Joseph Roskos",
+			"screen_name": "JosephRoskos",
+			"location": "",
+			"description": "a humble phd candidate @IUMediaSchool | researcher of AR & race | @SCMStudies GSO Rep | assistant editor @BlackCamJournal | part-time plant person",
+			"url": "https://t.co/njEFmj4cts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/njEFmj4cts",
+							"expanded_url": "https://www.linkedin.com/in/joseph-roskos-10712596/",
+							"display_url": "linkedin.com/in/joseph-rosk…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 336,
+			"listed_count": 1,
+			"created_at": "Tue May 05 21:01:53 +0000 2020",
+			"favourites_count": 1411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343740877580230656/W0GCWSFW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343740877580230656/W0GCWSFW_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1646560511209635800,
+		"quoted_status_id_str": "1646560511209635844",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QyojX0Zb3j",
+			"expanded": "https://twitter.com/SCMStudies/status/1646560511209635844",
+			"display": "twitter.com/SCMStudies/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 13 17:06:32 +0000 2023",
+			"id": 1646560511209635800,
+			"id_str": "1646560511209635844",
+			"full_text": "We've got #SCMS23 merch! All donation based. Please make your donation online before visiting the registration desk to pick up your item of choice!\nhttps://t.co/JbQ0oiAhZv https://t.co/TYGtPwSdOv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SCMS23",
+						"indices": [
+							10,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JbQ0oiAhZv",
+						"expanded_url": "http://cmstudies.org/donations/",
+						"display_url": "cmstudies.org/donations/",
+						"indices": [
+							148,
+							171
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1646560500765819000,
+						"id_str": "1646560500765818901",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FtnCDTVWABUm_-v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtnCDTVWABUm_-v.jpg",
+						"url": "https://t.co/TYGtPwSdOv",
+						"display_url": "pic.twitter.com/TYGtPwSdOv",
+						"expanded_url": "https://twitter.com/SCMStudies/status/1646560511209635844/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1646560500765819000,
+						"id_str": "1646560500765818901",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FtnCDTVWABUm_-v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtnCDTVWABUm_-v.jpg",
+						"url": "https://t.co/TYGtPwSdOv",
+						"display_url": "pic.twitter.com/TYGtPwSdOv",
+						"expanded_url": "https://twitter.com/SCMStudies/status/1646560511209635844/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 594313440,
+				"id_str": "594313440",
+				"name": "SCMS",
+				"screen_name": "SCMStudies",
+				"location": "",
+				"description": "The Society for Cinema and Media Studies is the leading scholarly organization in the United States dedicated to the scholarly study of film and media.",
+				"url": "https://t.co/FBbcOZZXfT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FBbcOZZXfT",
+								"expanded_url": "http://www.cmstudies.org/",
+								"display_url": "cmstudies.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8595,
+				"friends_count": 318,
+				"listed_count": 153,
+				"created_at": "Wed May 30 02:39:20 +0000 2012",
+				"favourites_count": 338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1550,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1374086847731789829/XLSYEI40_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374086847731789829/XLSYEI40_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/594313440/1655241368",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need a little #SCMS23 swag to take home in your carry-on bag? Make a donation at the link below before picking up at the registration desk! https://t.co/QyojX0Zb3j"
+	},
+	{
+		"created_at": "Thu Apr 13 18:19:21 +0000 2023",
+		"id": 1646578836908437500,
+		"id_str": "1646578836908437504",
+		"full_text": "someone asked my question for me woohoo #SCMS23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCMS23",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, #SCMSInfluencer",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 583,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "someone asked my question for me woohoo #SCMS23"
+	},
+	{
+		"created_at": "Thu Apr 13 17:52:29 +0000 2023",
+		"id": 1646572076793479200,
+		"id_str": "1646572076793479169",
+		"full_text": "TIL I learned the first live escape room was built in 2007, likely based on video games from the late 90s.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1646571240239530000,
+		"in_reply_to_status_id_str": "1646571240239529985",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, #SCMSInfluencer",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiWhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiWhg",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 583,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645824948819333121/Ttf2vpSE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "TIL I learned the first live escape room was built in 2007, likely based on video games from the late 90s."
+	},
+	{
 		"created_at": "Thu Apr 13 01:29:04 +0000 2023",
 		"id": 1646324591558635500,
 		"id_str": "1646324591558635522",
@@ -1535,7 +3161,7 @@ Grailbird.data.tweets_2023_04 =
 		"created_at": "Wed Apr 12 14:19:26 +0000 2023",
 		"id": 1645966220406198300,
 		"id_str": "1646156072372109319",
-		"full_text": "**all apologies for any aggressively shortened panel titles in our tweets, working with the characters we've got #SCMS23 🤦‍♀️",
+		"full_text": "**all apologies for any aggressively shortened panel titles in our tweets, working with the characters we've got #SCMS23 🤦♀️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1633,7 +3259,7 @@ Grailbird.data.tweets_2023_04 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "**all apologies for any aggressively shortened panel titles in our tweets, working with the characters we've got #SCMS23 🤦‍♀️"
+		"text": "**all apologies for any aggressively shortened panel titles in our tweets, working with the characters we've got #SCMS23 🤦♀️"
 	},
 	{
 		"created_at": "Wed Apr 12 03:37:53 +0000 2023",
