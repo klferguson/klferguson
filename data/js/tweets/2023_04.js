@@ -1,6 +1,2030 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 01:44:22 +0000 2023",
+		"id": 1648502767634509800,
+		"id_str": "1648502767634509824",
+		"full_text": "@bad_garrett oh I just reported them lost in the mail",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bad_garrett",
+					"name": "Caleb 'Dorcas the cat' Garrett",
+					"id": 1063750279,
+					"id_str": "1063750279",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1648502221682925600,
+		"in_reply_to_status_id_str": "1648502221682925574",
+		"in_reply_to_user_id": 1063750279,
+		"in_reply_to_user_id_str": "1063750279",
+		"in_reply_to_screen_name": "bad_garrett",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, like a dragonfruit",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bad_garrett oh I just reported them lost in the mail"
+	},
+	{
+		"created_at": "Wed Apr 19 00:59:02 +0000 2023",
+		"id": 1648491362625650700,
+		"id_str": "1648491362625650688",
+		"full_text": "I'm 153% gender https://t.co/Eqloo2GyJm https://t.co/KXdEyFdBkT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eqloo2GyJm",
+					"expanded_url": "https://twitter.com/redroomrantings/status/1648481629059571717",
+					"display_url": "twitter.com/redroomranting…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648491360599568400,
+					"id_str": "1648491360599568384",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FuCeKIvWcAAcdpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuCeKIvWcAAcdpH.jpg",
+					"url": "https://t.co/KXdEyFdBkT",
+					"display_url": "pic.twitter.com/KXdEyFdBkT",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1648491362625650688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648491360599568400,
+					"id_str": "1648491360599568384",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FuCeKIvWcAAcdpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuCeKIvWcAAcdpH.jpg",
+					"url": "https://t.co/KXdEyFdBkT",
+					"display_url": "pic.twitter.com/KXdEyFdBkT",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1648491362625650688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, like a dragonfruit",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1648481629059571700,
+		"quoted_status_id_str": "1648481629059571717",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Eqloo2GyJm",
+			"expanded": "https://twitter.com/redroomrantings/status/1648481629059571717",
+			"display": "twitter.com/redroomranting…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 19 00:20:22 +0000 2023",
+			"id": 1648481629059571700,
+			"id_str": "1648481629059571717",
+			"full_text": "Casual about gender https://t.co/FoJyr0Qc5I https://t.co/2r1pWLYCgG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FoJyr0Qc5I",
+						"expanded_url": "https://twitter.com/nickyhasnohalo/status/1648166520906760192",
+						"display_url": "twitter.com/nickyhasnohalo…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1648481624831545300,
+						"id_str": "1648481624831545347",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/FuCVTcLX0AM-4qS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuCVTcLX0AM-4qS.jpg",
+						"url": "https://t.co/2r1pWLYCgG",
+						"display_url": "pic.twitter.com/2r1pWLYCgG",
+						"expanded_url": "https://twitter.com/redroomrantings/status/1648481629059571717/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1170,
+								"h": 1622,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 866,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1648481624831545300,
+						"id_str": "1648481624831545347",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/FuCVTcLX0AM-4qS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuCVTcLX0AM-4qS.jpg",
+						"url": "https://t.co/2r1pWLYCgG",
+						"display_url": "pic.twitter.com/2r1pWLYCgG",
+						"expanded_url": "https://twitter.com/redroomrantings/status/1648481629059571717/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1170,
+								"h": 1622,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 866,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78740665,
+				"id_str": "78740665",
+				"name": "Justine Peres Smith",
+				"screen_name": "redroomrantings",
+				"location": "tiohtiá:ke-montreal",
+				"description": "Screen Editor at Cult MTL. Contributor at LWLies, Hyperallergic, Roger Ebert and More! Programmer @FantasiaFest + Cinéma Moderne. smith.justinea@gmail.com",
+				"url": "https://t.co/UQGzVay9Us",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UQGzVay9Us",
+								"expanded_url": "https://paypal.me/JustineAsmith?country.x=CA&locale.x=en_US",
+								"display_url": "paypal.me/JustineAsmith?…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14897,
+				"friends_count": 4897,
+				"listed_count": 293,
+				"created_at": "Wed Sep 30 23:34:41 +0000 2009",
+				"favourites_count": 137658,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 99723,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1446253448761069568/QpwjHUlS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446253448761069568/QpwjHUlS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78740665/1669314791",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1648166520906760200,
+			"quoted_status_id_str": "1648166520906760192",
+			"quoted_status_permalink": {
+				"url": "https://t.co/FoJyr0Qc5I",
+				"expanded": "https://twitter.com/nickyhasnohalo/status/1648166520906760192",
+				"display": "twitter.com/nickyhasnohalo…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm 153% gender https://t.co/Eqloo2GyJm https://t.co/KXdEyFdBkT"
+	},
+	{
+		"created_at": "Tue Apr 18 21:52:52 +0000 2023",
+		"id": 1648444512019284000,
+		"id_str": "1648444512019283969",
+		"full_text": "youngest asked to borrow a book to take to school tomorrow for downtime and she picked Queneau's EXERCISES IN STYLE.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, like a dragonfruit",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "youngest asked to borrow a book to take to school tomorrow for downtime and she picked Queneau's EXERCISES IN STYLE."
+	},
+	{
+		"created_at": "Tue Apr 18 20:52:07 +0000 2023",
+		"id": 1648423681134325800,
+		"id_str": "1648429220606152705",
+		"full_text": "Fisher Stevens caught a stray!! https://t.co/6uJDHMdpM9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6uJDHMdpM9",
+					"expanded_url": "https://twitter.com/uniondrip/status/1648417736551456768",
+					"display_url": "twitter.com/uniondrip/stat…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366417741,
+			"id_str": "366417741",
+			"name": "FilmBart",
+			"screen_name": "FilmBart",
+			"location": "Los Angeles",
+			"description": "“He's a bit of a court-holder.\"—@sales_off_film.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4369,
+			"friends_count": 1711,
+			"listed_count": 54,
+			"created_at": "Fri Sep 02 04:13:13 +0000 2011",
+			"favourites_count": 145432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1610849912832524288/ZAteR6el_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1610849912832524288/ZAteR6el_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366417741/1672889696",
+			"profile_link_color": "2911DB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1648417736551456800,
+		"quoted_status_id_str": "1648417736551456768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6uJDHMdpM9",
+			"expanded": "https://twitter.com/uniondrip/status/1648417736551456768",
+			"display": "twitter.com/uniondrip/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 18 20:06:29 +0000 2023",
+			"id": 1648417736551456800,
+			"id_str": "1648417736551456768",
+			"full_text": "Marisa Tomei and John Leguizamo at the SAG &amp; AFTRA joint Commercial Strike, 2000\n\n📸 credit: Andrew Savulich https://t.co/HLUBa1ERzq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1648417730905903000,
+						"id_str": "1648417730905903104",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/FuBbMUwaEAAIey5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuBbMUwaEAAIey5.jpg",
+						"url": "https://t.co/HLUBa1ERzq",
+						"display_url": "pic.twitter.com/HLUBa1ERzq",
+						"expanded_url": "https://twitter.com/UnionDrip/status/1648417736551456768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 612,
+								"h": 437,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 437,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 437,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1648417730905903000,
+						"id_str": "1648417730905903104",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/FuBbMUwaEAAIey5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuBbMUwaEAAIey5.jpg",
+						"url": "https://t.co/HLUBa1ERzq",
+						"display_url": "pic.twitter.com/HLUBa1ERzq",
+						"expanded_url": "https://twitter.com/UnionDrip/status/1648417736551456768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 612,
+								"h": 437,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 437,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 437,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1511372757933572000,
+				"id_str": "1511372757933572101",
+				"name": "Dripped Out Trade Unionists",
+				"screen_name": "UnionDrip",
+				"location": "",
+				"description": "Unions for all - DM for submissions",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63438,
+				"friends_count": 469,
+				"listed_count": 159,
+				"created_at": "Tue Apr 05 15:59:08 +0000 2022",
+				"favourites_count": 31531,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7165,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1643062048551763970/Uo80lW4R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1643062048551763970/Uo80lW4R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1511372757933572101/1651063125",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 858,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fisher Stevens caught a stray!! https://t.co/6uJDHMdpM9"
+	},
+	{
+		"created_at": "Tue Apr 18 16:49:32 +0000 2023",
+		"id": 1648366159966748700,
+		"id_str": "1648368175480815629",
+		"full_text": "https://t.co/VUClr4y3Lp https://t.co/QRJNCCVqTy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUClr4y3Lp",
+					"expanded_url": "https://twitter.com/ladygaga/status/266036172122365952",
+					"display_url": "twitter.com/ladygaga/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648366134956114000,
+					"id_str": "1648366134956113946",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FuAsRC3XwBo94p8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuAsRC3XwBo94p8.jpg",
+					"url": "https://t.co/QRJNCCVqTy",
+					"display_url": "pic.twitter.com/QRJNCCVqTy",
+					"expanded_url": "https://twitter.com/FANGORIA/status/1648366159966748674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648366134956114000,
+					"id_str": "1648366134956113946",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FuAsRC3XwBo94p8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuAsRC3XwBo94p8.jpg",
+					"url": "https://t.co/QRJNCCVqTy",
+					"display_url": "pic.twitter.com/QRJNCCVqTy",
+					"expanded_url": "https://twitter.com/FANGORIA/status/1648366159966748674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123574362,
+			"id_str": "123574362",
+			"name": "FANGORIA",
+			"screen_name": "FANGORIA",
+			"location": "",
+			"description": "First in Fright since 1979, FANGORIA is a collectible magazine, a podcast network, and an entertainment studio. https://t.co/naueanGeYm",
+			"url": "https://t.co/naueanGeYm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/naueanGeYm",
+							"expanded_url": "http://FANGORIA.com",
+							"display_url": "FANGORIA.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/naueanGeYm",
+							"expanded_url": "http://FANGORIA.com",
+							"display_url": "FANGORIA.com",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 272429,
+			"friends_count": 999,
+			"listed_count": 2017,
+			"created_at": "Tue Mar 16 14:29:18 +0000 2010",
+			"favourites_count": 65260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582030159636578306/5KF6rVLE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582030159636578306/5KF6rVLE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123574362/1648907151",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 266036172122365950,
+		"quoted_status_id_str": "266036172122365952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VUClr4y3Lp",
+			"expanded": "https://twitter.com/ladygaga/status/266036172122365952",
+			"display": "twitter.com/ladygaga/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 07 04:35:40 +0000 2012",
+			"id": 266036172122365950,
+			"id_str": "266036172122365952",
+			"full_text": "AAAAAAAAAAAAAHHHHHRHRGRGRGRRRGURBHJB EORWPSOJWPJORGWOIRGWSGODEWPGOHEPW09GJEDPOKSD!!!!!!!!!!!!!!!0924QU8T63095JRGHWPE09UJ0PWHRGW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14230524,
+				"id_str": "14230524",
+				"name": "Lady Gaga",
+				"screen_name": "ladygaga",
+				"location": "",
+				"description": "THE CHROMATICA BALL ⚔️💓 | Hold My Hand ✈️ Out Now | HAUS LABS 💄 @hauslabs | Love For Sale 🎺 Out Now https://t.co/CO0n8zLh7T",
+				"url": "https://t.co/BaPZcMQV2f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BaPZcMQV2f",
+								"expanded_url": "https://ladygaga.lnk.to/HoldMyHand",
+								"display_url": "ladygaga.lnk.to/HoldMyHand",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CO0n8zLh7T",
+								"expanded_url": "https://TonyGaga.lnk.to/LoveForSale",
+								"display_url": "TonyGaga.lnk.to/LoveForSale",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 84674627,
+				"friends_count": 115651,
+				"listed_count": 200286,
+				"created_at": "Wed Mar 26 22:37:48 +0000 2008",
+				"favourites_count": 2990,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9943,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0A090A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1548557958564364289/6ewE00_O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1548557958564364289/6ewE00_O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230524/1658039973",
+				"profile_link_color": "050505",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 283191,
+			"favorite_count": 597732,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "in"
+		},
+		"retweet_count": 104,
+		"favorite_count": 801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/VUClr4y3Lp https://t.co/QRJNCCVqTy"
+	},
+	{
+		"created_at": "Tue Apr 18 15:49:29 +0000 2023",
+		"id": 1648350996198838300,
+		"id_str": "1648353063835410434",
+		"full_text": "Why hire a rerecording mixer when you have audiences do the work for free? https://t.co/EpxPfCP64n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EpxPfCP64n",
+					"expanded_url": "https://twitter.com/FilmUpdates/status/1648328256729280512",
+					"display_url": "twitter.com/FilmUpdates/st…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1030586529691979800,
+			"id_str": "1030586529691979776",
+			"name": "Eric Dienstfrey",
+			"screen_name": "SignalsToNoises",
+			"location": "Philadelphia, PA",
+			"description": "VAP at @UrsinusCollege. MAKING STEREO FIT (@UCPress)\n\"The cinema has not yet been invented!\" - Benjamin Franklin",
+			"url": "https://t.co/Vh28eyslDR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh28eyslDR",
+							"expanded_url": "http://tinyurl.com/5c3f3kud",
+							"display_url": "tinyurl.com/5c3f3kud",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938,
+			"friends_count": 1276,
+			"listed_count": 8,
+			"created_at": "Fri Aug 17 22:45:50 +0000 2018",
+			"favourites_count": 14733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262891277479227397/YSUzpfX8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262891277479227397/YSUzpfX8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1030586529691979776/1534776851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1648328256729280500,
+		"quoted_status_id_str": "1648328256729280512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EpxPfCP64n",
+			"expanded": "https://twitter.com/FilmUpdates/status/1648328256729280512",
+			"display": "twitter.com/FilmUpdates/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 18 14:10:55 +0000 2023",
+			"id": 1648328256729280500,
+			"id_str": "1648328256729280512",
+			"full_text": "Prime Video has debuted a new feature called Dialogue Boost, which lets viewers increase the volume of dialogue relative to background music and effects. https://t.co/TTEa3jpz6X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1648328251285074000,
+						"id_str": "1648328251285073921",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FuAJz7MWcAE3FC2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuAJz7MWcAE3FC2.jpg",
+						"url": "https://t.co/TTEa3jpz6X",
+						"display_url": "pic.twitter.com/TTEa3jpz6X",
+						"expanded_url": "https://twitter.com/FilmUpdates/status/1648328256729280512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1648328251285074000,
+						"id_str": "1648328251285073921",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FuAJz7MWcAE3FC2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuAJz7MWcAE3FC2.jpg",
+						"url": "https://t.co/TTEa3jpz6X",
+						"display_url": "pic.twitter.com/TTEa3jpz6X",
+						"expanded_url": "https://twitter.com/FilmUpdates/status/1648328256729280512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1339619325578240000,
+				"id_str": "1339619325578240000",
+				"name": "Film Updates",
+				"screen_name": "FilmUpdates",
+				"location": "",
+				"description": "All the latest news, reviews and interviews on films, actors and TV shows | Backup: @TheFilmUpdates",
+				"url": "https://t.co/aaXEnilFrK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aaXEnilFrK",
+								"expanded_url": "http://filmupdates.net",
+								"display_url": "filmupdates.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 542303,
+				"friends_count": 59,
+				"listed_count": 2002,
+				"created_at": "Thu Dec 17 17:12:06 +0000 2020",
+				"favourites_count": 244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25659,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1339620577523462147/8Sb_cCzd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339620577523462147/8Sb_cCzd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1339619325578240000/1608309069",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 508,
+			"favorite_count": 9575,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why hire a rerecording mixer when you have audiences do the work for free? https://t.co/EpxPfCP64n"
+	},
+	{
+		"created_at": "Tue Apr 18 13:30:05 +0000 2023",
+		"id": 1648317981624000500,
+		"id_str": "1648317981624000513",
+		"full_text": "@melisser3 wait what?!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "meli (erroneous, harmonious, hardly sanctimonious)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1648281744553005000,
+		"in_reply_to_status_id_str": "1648281744553005056",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, like a dragonfruit",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 wait what?!"
+	},
+	{
+		"created_at": "Tue Apr 18 13:07:21 +0000 2023",
+		"id": 1648105518471291000,
+		"id_str": "1648312261167964165",
+		"full_text": "when i say “bring back traditional masculinity” i’m specifically referring to this 1760 portrait of a boy wearing traditional 1700s boy’s clothes while holding his pet squirrel on a chain leash https://t.co/4KxzUSz0cv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1648105511676412000,
+					"id_str": "1648105511676411904",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft8_OxfWAAAxnvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft8_OxfWAAAxnvC.jpg",
+					"url": "https://t.co/4KxzUSz0cv",
+					"display_url": "pic.twitter.com/4KxzUSz0cv",
+					"expanded_url": "https://twitter.com/mattxiv/status/1648105518471290887/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 997,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 565,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648105511676412000,
+					"id_str": "1648105511676411904",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft8_OxfWAAAxnvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft8_OxfWAAAxnvC.jpg",
+					"url": "https://t.co/4KxzUSz0cv",
+					"display_url": "pic.twitter.com/4KxzUSz0cv",
+					"expanded_url": "https://twitter.com/mattxiv/status/1648105518471290887/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 997,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 565,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2785011443,
+			"id_str": "2785011443",
+			"name": "matt",
+			"screen_name": "mattxiv",
+			"location": "nyc",
+			"description": "friendly queer jew w very long nails — he/they",
+			"url": "https://t.co/rR5w9LOYBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rR5w9LOYBN",
+							"expanded_url": "http://instagram.com/mattxiv",
+							"display_url": "instagram.com/mattxiv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372562,
+			"friends_count": 144,
+			"listed_count": 675,
+			"created_at": "Fri Sep 26 05:57:12 +0000 2014",
+			"favourites_count": 38074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491892762945409029/wvXhdrvx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491892762945409029/wvXhdrvx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2785011443/1668222030",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1701,
+		"favorite_count": 20536,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "when i say “bring back traditional masculinity” i’m specifically referring to this 1760 portrait of a boy wearing traditional 1700s boy’s clothes while holding his pet squirrel on a chain leash https://t.co/4KxzUSz0cv"
+	},
+	{
+		"created_at": "Tue Apr 18 13:02:32 +0000 2023",
+		"id": 1648311049383231500,
+		"id_str": "1648311049383231488",
+		"full_text": "@melisser3 i thought it was my internet this morning, but i can see it now.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "meli (erroneous, harmonious, hardly sanctimonious)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1648310768969080800,
+		"in_reply_to_status_id_str": "1648310768969080832",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, like a dragonfruit",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 i thought it was my internet this morning, but i can see it now."
+	},
+	{
+		"created_at": "Tue Apr 18 12:42:00 +0000 2023",
+		"id": 1648305881572843500,
+		"id_str": "1648305881572843528",
+		"full_text": "*making his lunch*\n\ngee, i wonder what time it is?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, like a dragonfruit",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "*making his lunch*\n\ngee, i wonder what time it is?"
+	},
+	{
+		"created_at": "Tue Apr 18 11:04:57 +0000 2023",
+		"id": 1648281457016680400,
+		"id_str": "1648281457016680449",
+		"full_text": "got Uncle Remus on the spotify blend, nice.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, like a dragonfruit",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647493027466997760/TyY-M7Ye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "got Uncle Remus on the spotify blend, nice."
+	},
+	{
 		"created_at": "Tue Apr 18 02:30:04 +0000 2023",
 		"id": 1648149605987631000,
 		"id_str": "1648151883070988288",
