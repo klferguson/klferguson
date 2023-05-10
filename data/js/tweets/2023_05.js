@@ -1,6 +1,803 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 10 02:48:37 +0000 2023",
+		"id": 1656129084869451800,
+		"id_str": "1656129084869451777",
+		"full_text": "@savasavasava gorgeous",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "savasavasava",
+					"name": "rom comrade",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1656107107794448400,
+		"in_reply_to_status_id_str": "1656107107794448385",
+		"in_reply_to_user_id": 16699990,
+		"in_reply_to_user_id_str": "16699990",
+		"in_reply_to_screen_name": "savasavasava",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, bring it on home to me",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@savasavasava gorgeous"
+	},
+	{
+		"created_at": "Tue May 09 20:37:03 +0000 2023",
+		"id": 1655934973042659300,
+		"id_str": "1656035576431230976",
+		"full_text": "Amazing. No notes.\n\nActually, two notes:\n\n1. The people who announced that cops found a \"Molotov\" were: (1) the NYPD chief of department, who was just found guilty of ordering a sergeant to void the arrest of a retired officer who chased kids with a gun, saying it was the kids... https://t.co/yG7ELNVPUO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yG7ELNVPUO",
+					"expanded_url": "https://twitter.com/NYPDnews/status/1655797302567526402",
+					"display_url": "twitter.com/NYPDnews/statu…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244152226,
+			"id_str": "1244152226",
+			"name": "Chris Gelardi",
+			"screen_name": "chrisgelardi",
+			"location": "Queens, NY",
+			"description": "Investigating the criminal-legal system for @nysfocus. Also @thenation, @theintercept, @theappeal, more. He/him. Bad at irony. chris(@)nysfocus(.)com",
+			"url": "https://t.co/soqmJjQgch",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/soqmJjQgch",
+							"expanded_url": "http://chris-gelardi.com",
+							"display_url": "chris-gelardi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2249,
+			"friends_count": 1250,
+			"listed_count": 44,
+			"created_at": "Tue Mar 05 16:46:48 +0000 2013",
+			"favourites_count": 24370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399553008132841472/4H1y1Rsc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399553008132841472/4H1y1Rsc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244152226/1620936281",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1655797302567526400,
+		"quoted_status_id_str": "1655797302567526402",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yG7ELNVPUO",
+			"expanded": "https://twitter.com/NYPDnews/status/1655797302567526402",
+			"display": "twitter.com/NYPDnews/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 09 04:50:14 +0000 2023",
+			"id": 1655797302567526400,
+			"id_str": "1655797302567526402",
+			"full_text": "This is a Molotov Cocktail that was found at tonight’s protest. We are committed to ensuring everyone’s right to protest. Violence has no place in civic demonstration. These actions will never be tolerated &amp; anyone bringing weapons or dangerous substances will be arrested. https://t.co/5eS5A525SQ https://t.co/VMh14FQQSD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				301
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5eS5A525SQ",
+						"expanded_url": "https://twitter.com/nypdnews/status/1655766853619429384",
+						"display_url": "twitter.com/nypdnews/statu…",
+						"indices": [
+							278,
+							301
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1655797133197312000,
+						"id_str": "1655797133197312001",
+						"indices": [
+							302,
+							325
+						],
+						"media_url": "http://pbs.twimg.com/media/FvqSuEhWAAECgeZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FvqSuEhWAAECgeZ.jpg",
+						"url": "https://t.co/VMh14FQQSD",
+						"display_url": "pic.twitter.com/VMh14FQQSD",
+						"expanded_url": "https://twitter.com/NYPDnews/status/1655797302567526402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1512,
+								"h": 2016,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1655797133197312000,
+						"id_str": "1655797133197312001",
+						"indices": [
+							302,
+							325
+						],
+						"media_url": "http://pbs.twimg.com/media/FvqSuEhWAAECgeZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FvqSuEhWAAECgeZ.jpg",
+						"url": "https://t.co/VMh14FQQSD",
+						"display_url": "pic.twitter.com/VMh14FQQSD",
+						"expanded_url": "https://twitter.com/NYPDnews/status/1655797302567526402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1512,
+								"h": 2016,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17393196,
+				"id_str": "17393196",
+				"name": "NYPD NEWS",
+				"screen_name": "NYPDnews",
+				"location": "New York City",
+				"description": "The official Twitter of the New York City Police Dept. Call 911 for emergencies, 311 for non-emergencies. Account not monitored 24/7. https://t.co/dbME9x6GVv",
+				"url": "https://t.co/4vxwFtB3FL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4vxwFtB3FL",
+								"expanded_url": "https://linktr.ee/nypdnews",
+								"display_url": "linktr.ee/nypdnews",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dbME9x6GVv",
+								"expanded_url": "http://on.nyc.gov/2FDGya2",
+								"display_url": "on.nyc.gov/2FDGya2",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 794149,
+				"friends_count": 414,
+				"listed_count": 4755,
+				"created_at": "Fri Nov 14 19:00:10 +0000 2008",
+				"favourites_count": 13301,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "005CB9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1608965621030469632/CFmJLIKi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608965621030469632/CFmJLIKi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17393196/1675362923",
+				"profile_link_color": "005CB9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "252CC1",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1655766853619429400,
+			"quoted_status_id_str": "1655766853619429384",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5eS5A525SQ",
+				"expanded": "https://twitter.com/nypdnews/status/1655766853619429384",
+				"display": "twitter.com/nypdnews/statu…"
+			},
+			"retweet_count": 360,
+			"favorite_count": 1227,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2335,
+		"favorite_count": 16141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing. No notes.\n\nActually, two notes:\n\n1. The people who announced that cops found a \"Molotov\" were: (1) the NYPD chief of department, who was just found guilty of ordering a sergeant to void the arrest of a retired officer who chased kids with a gun, saying it was the kids... https://t.co/yG7ELNVPUO"
+	},
+	{
+		"created_at": "Tue May 09 16:56:33 +0000 2023",
+		"id": 1655980084652540000,
+		"id_str": "1655980084652539904",
+		"full_text": "🤨🤨🤔🧐 https://t.co/XCXr2QW7Jb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1655965209172013000,
+					"id_str": "1655965209172013057",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/FvsrlYUacAEkBes.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvsrlYUacAEkBes.jpg",
+					"url": "https://t.co/XCXr2QW7Jb",
+					"display_url": "pic.twitter.com/XCXr2QW7Jb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1655980084652539904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1655965209172013000,
+					"id_str": "1655965209172013057",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/FvsrlYUacAEkBes.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvsrlYUacAEkBes.jpg",
+					"url": "https://t.co/XCXr2QW7Jb",
+					"display_url": "pic.twitter.com/XCXr2QW7Jb",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1655980084652539904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, bring it on home to me",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "🤨🤨🤔🧐 https://t.co/XCXr2QW7Jb"
+	},
+	{
+		"created_at": "Tue May 09 16:35:48 +0000 2023",
+		"id": 1655724153683550200,
+		"id_str": "1655974862458961921",
+		"full_text": "As 100 million NYPD swarm any place there is a single protestor let me remind you that just last year they let a mass shooter escape a subway platform he later called them to turn himself in they ignored the call &amp; he was apprehended by a guy working at a store nearby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37760311,
+			"id_str": "37760311",
+			"name": "daniel",
+			"screen_name": "escargotpro_",
+			"location": "peoples republic of queens, ny",
+			"description": "leninist electoralist; @queensdsa @dsasocmaj bootleg perfume expert; I invented *midtown magic*; he/him https://t.co/5yAP0DmDZT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5yAP0DmDZT",
+							"expanded_url": "http://dsausa.us/bigslate-tw",
+							"display_url": "dsausa.us/bigslate-tw",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5493,
+			"friends_count": 4892,
+			"listed_count": 29,
+			"created_at": "Mon May 04 21:07:33 +0000 2009",
+			"favourites_count": 216080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1514748536088322052/IGI38e4d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514748536088322052/IGI38e4d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37760311/1625365205",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1709,
+		"favorite_count": 8571,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As 100 million NYPD swarm any place there is a single protestor let me remind you that just last year they let a mass shooter escape a subway platform he later called them to turn himself in they ignored the call &amp; he was apprehended by a guy working at a store nearby"
+	},
+	{
+		"created_at": "Tue May 09 15:40:57 +0000 2023",
+		"id": 1655961057943515100,
+		"id_str": "1655961057943515137",
+		"full_text": "@melisser3 i like that album! also I did dominate last week. (idk why it's so insistent on the j version of Fade into You)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melisser3",
+					"name": "melissa (aka Ophelia Balls)",
+					"id": 14823019,
+					"id_str": "14823019",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1655943410413621200,
+		"in_reply_to_status_id_str": "1655943410413621249",
+		"in_reply_to_user_id": 14823019,
+		"in_reply_to_user_id_str": "14823019",
+		"in_reply_to_screen_name": "melisser3",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, bring it on home to me",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melisser3 i like that album! also I did dominate last week. (idk why it's so insistent on the j version of Fade into You)"
+	},
+	{
 		"created_at": "Tue May 09 02:54:31 +0000 2023",
 		"id": 1655753323054760000,
 		"id_str": "1655768182236360707",
