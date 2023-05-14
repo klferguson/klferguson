@@ -1,6 +1,1162 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 13 23:54:54 +0000 2023",
+		"id": 1657534918770000000,
+		"id_str": "1657534918769999873",
+		"full_text": "we doin SLEEP NO MORE. already a million questions.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, you pick the place and I'll choose the time",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "we doin SLEEP NO MORE. already a million questions."
+	},
+	{
+		"created_at": "Sat May 13 17:35:53 +0000 2023",
+		"id": 195884504345362430,
+		"id_str": "1657439535725150208",
+		"full_text": "@ProfFerguson We will not rest until you have enough followers to start your own religion. Mass weddings, the works!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfFerguson",
+					"name": "Andrew G. Ferguson",
+					"id": 1206557256,
+					"id_str": "1206557256",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 195882592984244220,
+		"in_reply_to_status_id_str": "195882592984244224",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 470625671,
+			"id_str": "470625671",
+			"name": "Jim Gabriel",
+			"screen_name": "flipyourface",
+			"location": "Chicagoland",
+			"description": "ENTER THE VOID... no, really, come on in, glad you made it, lemme hang up that coat for you",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3593,
+			"friends_count": 2218,
+			"listed_count": 49,
+			"created_at": "Sat Jan 21 23:55:08 +0000 2012",
+			"favourites_count": 245110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000440791554/0ba32dbc82d985f6dfb698801991545e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000440791554/0ba32dbc82d985f6dfb698801991545e_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/470625671/1401375850",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ProfFerguson We will not rest until you have enough followers to start your own religion. Mass weddings, the works!"
+	},
+	{
+		"created_at": "Sat May 13 17:18:33 +0000 2023",
+		"id": 1657435173539963000,
+		"id_str": "1657435173539962881",
+		"full_text": "just me texting with the fridge repair guy on a Saturday afternoon https://t.co/hxX6oU8ipC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1657435171166081000,
+					"id_str": "1657435171166081027",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FwBkgbeX0AM3r-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwBkgbeX0AM3r-5.jpg",
+					"url": "https://t.co/hxX6oU8ipC",
+					"display_url": "pic.twitter.com/hxX6oU8ipC",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1657435173539962881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 349,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 616,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657435171166081000,
+					"id_str": "1657435171166081027",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FwBkgbeX0AM3r-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwBkgbeX0AM3r-5.jpg",
+					"url": "https://t.co/hxX6oU8ipC",
+					"display_url": "pic.twitter.com/hxX6oU8ipC",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1657435173539962881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 349,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 616,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, you pick the place and I'll choose the time",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "just me texting with the fridge repair guy on a Saturday afternoon https://t.co/hxX6oU8ipC"
+	},
+	{
+		"created_at": "Sat May 13 16:30:28 +0000 2023",
+		"id": 1648702107355168800,
+		"id_str": "1657423073535049730",
+		"full_text": "I'm a failure. Untreated mental illness killed my talent, I wasn't nearly the father &amp; husband I hoped I'd be, never a good enough friend, and I may die homeless. But you know what? If the subject ever arises, I can hold my head high and say, at least I wasn't a fucking LANDLORD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 470625671,
+			"id_str": "470625671",
+			"name": "Jim Gabriel",
+			"screen_name": "flipyourface",
+			"location": "Chicagoland",
+			"description": "ENTER THE VOID... no, really, come on in, glad you made it, lemme hang up that coat for you",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3593,
+			"friends_count": 2218,
+			"listed_count": 49,
+			"created_at": "Sat Jan 21 23:55:08 +0000 2012",
+			"favourites_count": 245110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000440791554/0ba32dbc82d985f6dfb698801991545e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000440791554/0ba32dbc82d985f6dfb698801991545e_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/470625671/1401375850",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm a failure. Untreated mental illness killed my talent, I wasn't nearly the father &amp; husband I hoped I'd be, never a good enough friend, and I may die homeless. But you know what? If the subject ever arises, I can hold my head high and say, at least I wasn't a fucking LANDLORD"
+	},
+	{
+		"created_at": "Sat May 13 16:29:58 +0000 2023",
+		"id": 648924671778287600,
+		"id_str": "1657422944316866567",
+		"full_text": "\"I said out into the night: We’ll get our dignity back; whether alive or dead, we shall all be as we used to be.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 470625671,
+			"id_str": "470625671",
+			"name": "Jim Gabriel",
+			"screen_name": "flipyourface",
+			"location": "Chicagoland",
+			"description": "ENTER THE VOID... no, really, come on in, glad you made it, lemme hang up that coat for you",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3593,
+			"friends_count": 2218,
+			"listed_count": 49,
+			"created_at": "Sat Jan 21 23:55:08 +0000 2012",
+			"favourites_count": 245110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000440791554/0ba32dbc82d985f6dfb698801991545e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000440791554/0ba32dbc82d985f6dfb698801991545e_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/470625671/1401375850",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"I said out into the night: We’ll get our dignity back; whether alive or dead, we shall all be as we used to be.\""
+	},
+	{
+		"created_at": "Sat May 13 16:22:02 +0000 2023",
+		"id": 1657420950319538200,
+		"id_str": "1657420950319538176",
+		"full_text": "♥️♥️♥️ https://t.co/2WWGp9Vnn4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2WWGp9Vnn4",
+					"expanded_url": "https://twitter.com/brendanowicz/status/1657388095401082882",
+					"display_url": "twitter.com/brendanowicz/s…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, you pick the place and I'll choose the time",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1657388095401083000,
+		"quoted_status_id_str": "1657388095401082882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2WWGp9Vnn4",
+			"expanded": "https://twitter.com/brendanowicz/status/1657388095401082882",
+			"display": "twitter.com/brendanowicz/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 13 14:11:29 +0000 2023",
+			"id": 1657388095401083000,
+			"id_str": "1657388095401082882",
+			"full_text": "We learned yesterday that our friend Jim Gabriel (@flipyourface) passed away unexpectedly on April 29. It appears to have been natural causes. I spoke with his daughter and she will be making decisions about arrangements. We'll keep everyone updated.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "flipyourface",
+						"name": "Jim Gabriel",
+						"id": 470625671,
+						"id_str": "470625671",
+						"indices": [
+							50,
+							63
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 313458732,
+				"id_str": "313458732",
+				"name": "overall deal inker",
+				"screen_name": "brendanowicz",
+				"location": "chicago",
+				"description": "criticism @cinemascopemag // podcast @_theflyguys // sometimes substack // brendanowicz on letterboxd & goodreads // DMs open",
+				"url": "https://t.co/Q8xetBx6kV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q8xetBx6kV",
+								"expanded_url": "http://brendanowicz.substack.com",
+								"display_url": "brendanowicz.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4009,
+				"friends_count": 1260,
+				"listed_count": 26,
+				"created_at": "Wed Jun 08 17:52:04 +0000 2011",
+				"favourites_count": 50773,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51293,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1169091311795937280/xiIA4phv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169091311795937280/xiIA4phv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/313458732/1666023146",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 97,
+			"favorite_count": 677,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "art",
+		"text": "♥️♥️♥️ https://t.co/2WWGp9Vnn4"
+	},
+	{
+		"created_at": "Sat May 13 16:21:55 +0000 2023",
+		"id": 1657397035954307000,
+		"id_str": "1657420919617335297",
+		"full_text": "Jim was one of my favorite people in all the world. Just a terrific, genuine guy. I'm gutted. https://t.co/m0Q10pLvlD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m0Q10pLvlD",
+					"expanded_url": "https://twitter.com/brendanowicz/status/1657388095401082882",
+					"display_url": "twitter.com/brendanowicz/s…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10698972,
+			"id_str": "10698972",
+			"name": "Steve Carlson",
+			"screen_name": "LCosgrove",
+			"location": "",
+			"description": "The lonely Magellan of disreputable exploitation cinema. Death merchant and amateur onion peeler. I like things that look like mistakes. He/him.",
+			"url": "https://t.co/gJn1gbeIxn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJn1gbeIxn",
+							"expanded_url": "https://www.patreon.com/lcosgrove",
+							"display_url": "patreon.com/lcosgrove",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 576,
+			"listed_count": 43,
+			"created_at": "Thu Nov 29 05:30:42 +0000 2007",
+			"favourites_count": 2387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541240964487987200/sNNz12LL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541240964487987200/sNNz12LL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10698972/1425012486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1657388095401083000,
+		"quoted_status_id_str": "1657388095401082882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m0Q10pLvlD",
+			"expanded": "https://twitter.com/brendanowicz/status/1657388095401082882",
+			"display": "twitter.com/brendanowicz/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 13 14:11:29 +0000 2023",
+			"id": 1657388095401083000,
+			"id_str": "1657388095401082882",
+			"full_text": "We learned yesterday that our friend Jim Gabriel (@flipyourface) passed away unexpectedly on April 29. It appears to have been natural causes. I spoke with his daughter and she will be making decisions about arrangements. We'll keep everyone updated.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "flipyourface",
+						"name": "Jim Gabriel",
+						"id": 470625671,
+						"id_str": "470625671",
+						"indices": [
+							50,
+							63
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 313458732,
+				"id_str": "313458732",
+				"name": "overall deal inker",
+				"screen_name": "brendanowicz",
+				"location": "chicago",
+				"description": "criticism @cinemascopemag // podcast @_theflyguys // sometimes substack // brendanowicz on letterboxd & goodreads // DMs open",
+				"url": "https://t.co/Q8xetBx6kV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q8xetBx6kV",
+								"expanded_url": "http://brendanowicz.substack.com",
+								"display_url": "brendanowicz.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4009,
+				"friends_count": 1260,
+				"listed_count": 26,
+				"created_at": "Wed Jun 08 17:52:04 +0000 2011",
+				"favourites_count": 50773,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51293,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1169091311795937280/xiIA4phv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169091311795937280/xiIA4phv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/313458732/1666023146",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 97,
+			"favorite_count": 677,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jim was one of my favorite people in all the world. Just a terrific, genuine guy. I'm gutted. https://t.co/m0Q10pLvlD"
+	},
+	{
+		"created_at": "Sat May 13 16:20:45 +0000 2023",
+		"id": 1657420625407881200,
+		"id_str": "1657420625407881217",
+		"full_text": "https://t.co/GJxc9RkFvw https://t.co/0hJqUsu6AZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJxc9RkFvw",
+					"expanded_url": "https://twitter.com/i/web/status/1657420625407881217",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1657420616893431800,
+					"id_str": "1657420616893431809",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FwBXRQlXgAEQXNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwBXRQlXgAEQXNI.jpg",
+					"url": "https://t.co/0hJqUsu6AZ",
+					"display_url": "pic.twitter.com/0hJqUsu6AZ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1657420625407881217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657420616893431800,
+					"id_str": "1657420616893431809",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FwBXRQlXgAEQXNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwBXRQlXgAEQXNI.jpg",
+					"url": "https://t.co/0hJqUsu6AZ",
+					"display_url": "pic.twitter.com/0hJqUsu6AZ",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1657420625407881217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, you pick the place and I'll choose the time",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 591,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654579948508655618/xGlCI_j6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/GJxc9RkFvw https://t.co/0hJqUsu6AZ"
+	},
+	{
 		"created_at": "Fri May 12 20:33:13 +0000 2023",
 		"id": 1657121774654443500,
 		"id_str": "1657121774654443548",
