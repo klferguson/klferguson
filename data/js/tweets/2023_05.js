@@ -1,6 +1,1921 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 20 02:06:04 +0000 2023",
+		"id": 1659739121919619000,
+		"id_str": "1659742252657266689",
+		"full_text": "I'm seeing on Twitter that Marlene Clark has died. Her performance in GANJA &amp; HESS is nothing less than incandescent. I spoke to her by phone in 2014 when I was researching my book and was totally starstruck. A criminally underused actor and stunning screen presence #ganjaandhess https://t.co/uDIYFFEbNu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ganjaandhess",
+					"indices": [
+						271,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1659736163807027200,
+					"id_str": "1659736163807027200",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FwiRP1CWYAAHeC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwiRP1CWYAAHeC4.jpg",
+					"url": "https://t.co/uDIYFFEbNu",
+					"display_url": "pic.twitter.com/uDIYFFEbNu",
+					"expanded_url": "https://twitter.com/soulburger26/status/1659739121919619073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1143,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1143,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659736163807027200,
+					"id_str": "1659736163807027200",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FwiRP1CWYAAHeC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwiRP1CWYAAHeC4.jpg",
+					"url": "https://t.co/uDIYFFEbNu",
+					"display_url": "pic.twitter.com/uDIYFFEbNu",
+					"expanded_url": "https://twitter.com/soulburger26/status/1659739121919619073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1143,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1143,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1486942273317310500,
+			"id_str": "1486942273317310465",
+			"name": "Christopher Sieving",
+			"screen_name": "soulburger26",
+			"location": "Athens, GA",
+			"description": "Film Studies professor, author of Pleading the Blood: Bill Gunn's Ganja & Hess (Indiana University Press, 2022), impostor.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131,
+			"friends_count": 553,
+			"listed_count": 0,
+			"created_at": "Fri Jan 28 06:01:01 +0000 2022",
+			"favourites_count": 2007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1508094746102837250/NkkM_wma_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508094746102837250/NkkM_wma_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1486942273317310465/1666754987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm seeing on Twitter that Marlene Clark has died. Her performance in GANJA &amp; HESS is nothing less than incandescent. I spoke to her by phone in 2014 when I was researching my book and was totally starstruck. A criminally underused actor and stunning screen presence #ganjaandhess https://t.co/uDIYFFEbNu"
+	},
+	{
+		"created_at": "Sat May 20 02:05:46 +0000 2023",
+		"id": 1659739308197044200,
+		"id_str": "1659742176488701953",
+		"full_text": "Great clip of Frank Zappa fighting the good fight against censorship during his testimony at the PMRC Senate hearings in 1985. Discussed on our latest episode with @danpullenbooks:  https://t.co/OOiMCev9Uw https://t.co/fdghS7U9bb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danpullenbooks",
+					"name": "Dan Pullen",
+					"id": 3303362225,
+					"id_str": "3303362225",
+					"indices": [
+						164,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OOiMCev9Uw",
+					"expanded_url": "https://bit.ly/3IsHCf4",
+					"display_url": "bit.ly/3IsHCf4",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1659737452465082400,
+					"id_str": "1659737452465082373",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1659737452465082373/pu/img/f8mDlX2Ap4JdXbjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1659737452465082373/pu/img/f8mDlX2Ap4JdXbjN.jpg",
+					"url": "https://t.co/fdghS7U9bb",
+					"display_url": "pic.twitter.com/fdghS7U9bb",
+					"expanded_url": "https://twitter.com/WrongReel/status/1659739308197044224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659737452465082400,
+					"id_str": "1659737452465082373",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1659737452465082373/pu/img/f8mDlX2Ap4JdXbjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1659737452465082373/pu/img/f8mDlX2Ap4JdXbjN.jpg",
+					"url": "https://t.co/fdghS7U9bb",
+					"display_url": "pic.twitter.com/fdghS7U9bb",
+					"expanded_url": "https://twitter.com/WrongReel/status/1659739308197044224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 109200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1659737452465082373/pu/vid/640x360/ncOSokrgjUbaXSLx.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1659737452465082373/pu/vid/480x270/3RsSmMPeKjsLDNPl.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1659737452465082373/pu/vid/1280x720/29RzJFxfAAP1CFe0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1659737452465082373/pu/pl/RqhIBY3rQNdoxSbL.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2955865089,
+			"id_str": "2955865089",
+			"name": "Wrong Reel",
+			"screen_name": "WrongReel",
+			"location": "New York City",
+			"description": "https://t.co/T2I4AOLywg Podcast for hardcore cinephiles that tackles everything from Jean-Luc Godard to Jean-Luc Picard. Hosted by @colebrax aka @gknout.",
+			"url": "https://t.co/NwJaRVIrcd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NwJaRVIrcd",
+							"expanded_url": "https://wrongreel.com/",
+							"display_url": "wrongreel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/T2I4AOLywg",
+							"expanded_url": "http://wrongreel.com",
+							"display_url": "wrongreel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20186,
+			"friends_count": 8109,
+			"listed_count": 600,
+			"created_at": "Fri Jan 02 02:02:22 +0000 2015",
+			"favourites_count": 143500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 131001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/550834663409725442/zzCGG2t-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/550834663409725442/zzCGG2t-_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2955865089/1501089473",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great clip of Frank Zappa fighting the good fight against censorship during his testimony at the PMRC Senate hearings in 1985. Discussed on our latest episode with @danpullenbooks:  https://t.co/OOiMCev9Uw https://t.co/fdghS7U9bb"
+	},
+	{
+		"created_at": "Fri May 19 22:47:55 +0000 2023",
+		"id": 1659692387248271400,
+		"id_str": "1659692387248271360",
+		"full_text": "showing kiddos THE OTHERS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, kid mutterin 'the power of pizza compels you'",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 590,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "showing kiddos THE OTHERS"
+	},
+	{
+		"created_at": "Fri May 19 20:44:26 +0000 2023",
+		"id": 1659329488071676000,
+		"id_str": "1659661313398779904",
+		"full_text": "He WALKED OUT OF THAT CAR? https://t.co/7LaDskoCEV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1659329445277098000,
+					"id_str": "1659329445277097988",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1659329445277097988/pu/img/cTTjztF8iq2TIw8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1659329445277097988/pu/img/cTTjztF8iq2TIw8w.jpg",
+					"url": "https://t.co/7LaDskoCEV",
+					"display_url": "pic.twitter.com/7LaDskoCEV",
+					"expanded_url": "https://twitter.com/AKBrews/status/1659329488071675904/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 262,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 262,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 262,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659329445277098000,
+					"id_str": "1659329445277097988",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1659329445277097988/pu/img/cTTjztF8iq2TIw8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1659329445277097988/pu/img/cTTjztF8iq2TIw8w.jpg",
+					"url": "https://t.co/7LaDskoCEV",
+					"display_url": "pic.twitter.com/7LaDskoCEV",
+					"expanded_url": "https://twitter.com/AKBrews/status/1659329488071675904/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 262,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 262,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 262,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							131,
+							240
+						],
+						"duration_millis": 26600,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1659329445277097988/pu/vid/262x480/4EwlD_Hc1EazYYZU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1659329445277097988/pu/pl/w8CQb5iESLa_y1Ls.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2282543041,
+			"id_str": "2282543041",
+			"name": "QENNY Electrified ⚡⚡⚡",
+			"screen_name": "AKBrews",
+			"location": "Chicago",
+			"description": "Trial Attorney. #LawTwitter. Lawyer. White Sox. Bears. Bulls. Chicago. Hip Hop. Meat. Curator of spooky and weird things.",
+			"url": "https://t.co/kKRSgep3w8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kKRSgep3w8",
+							"expanded_url": "https://saveshoebill.org/",
+							"display_url": "saveshoebill.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19308,
+			"friends_count": 13912,
+			"listed_count": 83,
+			"created_at": "Wed Jan 08 19:16:34 +0000 2014",
+			"favourites_count": 258816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 133545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1600645244869124097/ocAGmKwE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1600645244869124097/ocAGmKwE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2282543041/1682216368",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 797,
+		"favorite_count": 5083,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He WALKED OUT OF THAT CAR? https://t.co/7LaDskoCEV"
+	},
+	{
+		"created_at": "Fri May 19 17:30:29 +0000 2023",
+		"id": 1659612502492319700,
+		"id_str": "1659612502492319744",
+		"full_text": "@Memles does this track or https://t.co/rpVexzhn0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Memles",
+					"name": "Myles McNutt",
+					"id": 14826211,
+					"id_str": "14826211",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rpVexzhn0R",
+					"expanded_url": "https://twitter.com/CraigBaird/status/1658609474641489927",
+					"display_url": "twitter.com/CraigBaird/sta…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14826211,
+		"in_reply_to_user_id_str": "14826211",
+		"in_reply_to_screen_name": "Memles",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, kid mutterin 'the power of pizza compels you'",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 590,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1658609474641490000,
+		"quoted_status_id_str": "1658609474641489927",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rpVexzhn0R",
+			"expanded": "https://twitter.com/CraigBaird/status/1658609474641489927",
+			"display": "twitter.com/CraigBaird/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 16 23:04:48 +0000 2023",
+			"id": 1658609474641490000,
+			"id_str": "1658609474641489927",
+			"full_text": "Each province and territory in Canada, represented by a Muppet who lives there. Generated by AI.\n\n1. British Columbia https://t.co/YRJCYCLbY5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1658608850029924400,
+						"id_str": "1658608850029924354",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/FwSP9h9aUAI_CSA.png",
+						"media_url_https": "https://pbs.twimg.com/media/FwSP9h9aUAI_CSA.png",
+						"url": "https://t.co/YRJCYCLbY5",
+						"display_url": "pic.twitter.com/YRJCYCLbY5",
+						"expanded_url": "https://twitter.com/CraigBaird/status/1658609474641489927/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 595,
+								"h": 595,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 595,
+								"h": 595,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 595,
+								"h": 595,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1658608850029924400,
+						"id_str": "1658608850029924354",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/FwSP9h9aUAI_CSA.png",
+						"media_url_https": "https://pbs.twimg.com/media/FwSP9h9aUAI_CSA.png",
+						"url": "https://t.co/YRJCYCLbY5",
+						"display_url": "pic.twitter.com/YRJCYCLbY5",
+						"expanded_url": "https://twitter.com/CraigBaird/status/1658609474641489927/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 595,
+								"h": 595,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 595,
+								"h": 595,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 595,
+								"h": 595,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85598254,
+				"id_str": "85598254",
+				"name": "Craig Baird - Canadian History Ehx",
+				"screen_name": "CraigBaird",
+				"location": "Canada",
+				"description": "Settler living on Treaty 6 land. Host of Canadian History Ehx, From John to Justin & Canada A Yearly Journey. All part of the Curiouscast Network",
+				"url": "https://t.co/2yNI1yQJUS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2yNI1yQJUS",
+								"expanded_url": "http://www.canadaehx.com",
+								"display_url": "canadaehx.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16475,
+				"friends_count": 2742,
+				"listed_count": 135,
+				"created_at": "Tue Oct 27 15:57:58 +0000 2009",
+				"favourites_count": 31205,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1601264498366717957/vblwkm7x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1601264498366717957/vblwkm7x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85598254/1629511951",
+				"profile_link_color": "4FA1BF",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1616,
+			"favorite_count": 6896,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Memles does this track or https://t.co/rpVexzhn0R"
+	},
+	{
+		"created_at": "Fri May 19 17:13:40 +0000 2023",
+		"id": 1659608271760638000,
+		"id_str": "1659608271760637973",
+		"full_text": "never noticed the pedal steel all over \"the drugs don't work\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, kid mutterin 'the power of pizza compels you'",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 590,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "never noticed the pedal steel all over \"the drugs don't work\""
+	},
+	{
+		"created_at": "Fri May 19 16:18:57 +0000 2023",
+		"id": 1659594502451994600,
+		"id_str": "1659594502451994624",
+		"full_text": "he seen some shit https://t.co/2ALeZ57q9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1659594456843055000,
+					"id_str": "1659594456843055104",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FwgQXZdWcAAKoO0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwgQXZdWcAAKoO0.jpg",
+					"url": "https://t.co/2ALeZ57q9v",
+					"display_url": "pic.twitter.com/2ALeZ57q9v",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1659594502451994624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659594456843055000,
+					"id_str": "1659594456843055104",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FwgQXZdWcAAKoO0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwgQXZdWcAAKoO0.jpg",
+					"url": "https://t.co/2ALeZ57q9v",
+					"display_url": "pic.twitter.com/2ALeZ57q9v",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1659594502451994624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1658975818024906800,
+		"in_reply_to_status_id_str": "1658975818024906754",
+		"in_reply_to_user_id": 359023788,
+		"in_reply_to_user_id_str": "359023788",
+		"in_reply_to_screen_name": "KevinLFerguson",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, kid mutterin 'the power of pizza compels you'",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 590,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "he seen some shit https://t.co/2ALeZ57q9v"
+	},
+	{
+		"created_at": "Fri May 19 14:48:19 +0000 2023",
+		"id": 1659571692719489000,
+		"id_str": "1659571692719489025",
+		"full_text": "first off, everybody gets a nickname",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, kid mutterin 'the power of pizza compels you'",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 590,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "first off, everybody gets a nickname"
+	},
+	{
+		"created_at": "Fri May 19 13:14:19 +0000 2023",
+		"id": 1659548038333886500,
+		"id_str": "1659548038333886471",
+		"full_text": "@paulduanefilm Fleurs du mold",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulduanefilm",
+					"name": "Paul Duane 🏳️‍⚧️",
+					"id": 1279512071873409000,
+					"id_str": "1279512071873409024",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1659547231505068000,
+		"in_reply_to_status_id_str": "1659547231505068034",
+		"in_reply_to_user_id": 1279512071873409000,
+		"in_reply_to_user_id_str": "1279512071873409024",
+		"in_reply_to_screen_name": "paulduanefilm",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, kid mutterin 'the power of pizza compels you'",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 590,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@paulduanefilm Fleurs du mold"
+	},
+	{
+		"created_at": "Fri May 19 12:46:05 +0000 2023",
+		"id": 1659540826869964800,
+		"id_str": "1659540932549591048",
+		"full_text": "NEW: Cine-Excess e-journal, edited by Dr Alexandra Heller-Nicholas (Deakin University) and Dr Alison Peirse (University of Leeds): 'Bodies as Battlegrounds: Disruptive Sexualities in Cult Cinema': https://t.co/YsL6MCILB7 https://t.co/Aq1Tjzq8iW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YsL6MCILB7",
+					"expanded_url": "https://bit.ly/cine-excess-issue-5",
+					"display_url": "bit.ly/cine-excess-is…",
+					"indices": [
+						197,
+						220
+					]
+				},
+				{
+					"url": "https://t.co/Aq1Tjzq8iW",
+					"expanded_url": "https://twitter.com/cine_excess/status/1659498954789208065",
+					"display_url": "twitter.com/cine_excess/st…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63108261,
+			"id_str": "63108261",
+			"name": "Catherine Grant",
+			"screen_name": "filmstudiesff",
+			"location": "UK/the Cloud",
+			"description": "Sharing links, since 2008, to #OpenAccess film/AV media scholarship and online resources, and news/free events of note; aka @cageyrant/@audiovisualcy; she/their",
+			"url": "https://t.co/nCbKhBhHOI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nCbKhBhHOI",
+							"expanded_url": "https://filmstudiesforfree.blogspot.com",
+							"display_url": "filmstudiesforfree.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15967,
+			"friends_count": 9644,
+			"listed_count": 624,
+			"created_at": "Wed Aug 05 11:41:56 +0000 2009",
+			"favourites_count": 9017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469276306475040777/vzJyB3Io_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469276306475040777/vzJyB3Io_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63108261/1510336929",
+			"profile_link_color": "333399",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1659498954789208000,
+		"quoted_status_id_str": "1659498954789208065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Aq1Tjzq8iW",
+			"expanded": "https://twitter.com/cine_excess/status/1659498954789208065",
+			"display": "twitter.com/cine_excess/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 19 09:59:17 +0000 2023",
+			"id": 1659498954789208000,
+			"id_str": "1659498954789208065",
+			"full_text": "Cine-Excess Issue 5 | Bodies As Battlefields: Disruptive Sexualities In Cult Cinema is now available online. Visit https://t.co/WogXW0aKNG to read our latest collection of scholarly essays, interviews and roundtables #CineExcess #CultFilm #BodiesAsBattlefields #OnlineJournal https://t.co/SVeCRZHryp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CineExcess",
+						"indices": [
+							217,
+							228
+						]
+					},
+					{
+						"text": "CultFilm",
+						"indices": [
+							229,
+							238
+						]
+					},
+					{
+						"text": "BodiesAsBattlefields",
+						"indices": [
+							239,
+							260
+						]
+					},
+					{
+						"text": "OnlineJournal",
+						"indices": [
+							261,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WogXW0aKNG",
+						"expanded_url": "https://bit.ly/cine-excess-issue-5",
+						"display_url": "bit.ly/cine-excess-is…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1659497303235866600,
+						"id_str": "1659497303235866624",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/Fwe4AUEXsAA6Fe-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fwe4AUEXsAA6Fe-.jpg",
+						"url": "https://t.co/SVeCRZHryp",
+						"display_url": "pic.twitter.com/SVeCRZHryp",
+						"expanded_url": "https://twitter.com/cine_excess/status/1659498954789208065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1659497303235866600,
+						"id_str": "1659497303235866624",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/Fwe4AUEXsAA6Fe-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fwe4AUEXsAA6Fe-.jpg",
+						"url": "https://t.co/SVeCRZHryp",
+						"display_url": "pic.twitter.com/SVeCRZHryp",
+						"expanded_url": "https://twitter.com/cine_excess/status/1659498954789208065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24146625,
+				"id_str": "24146625",
+				"name": "Cine-Excess",
+				"screen_name": "cine_excess",
+				"location": "",
+				"description": "Cine-Excess is an annual international film festival and conference. We also publish an online cult film studies journal.",
+				"url": "https://t.co/BbF5AOURLp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BbF5AOURLp",
+								"expanded_url": "http://www.cine-excess.co.uk",
+								"display_url": "cine-excess.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 986,
+				"friends_count": 304,
+				"listed_count": 24,
+				"created_at": "Fri Mar 13 08:34:58 +0000 2009",
+				"favourites_count": 859,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/94724823/screencapture1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/94724823/screencapture1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24146625/1665520605",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: Cine-Excess e-journal, edited by Dr Alexandra Heller-Nicholas (Deakin University) and Dr Alison Peirse (University of Leeds): 'Bodies as Battlegrounds: Disruptive Sexualities in Cult Cinema': https://t.co/YsL6MCILB7 https://t.co/Aq1Tjzq8iW"
+	},
+	{
+		"created_at": "Fri May 19 12:04:06 +0000 2023",
+		"id": 1659530366137376800,
+		"id_str": "1659530366137376770",
+		"full_text": "@leilathebrave ❤️❤️🥰💐",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leilathebrave",
+					"name": "Dr. Leila Henry Walker",
+					"id": 1813991,
+					"id_str": "1813991",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1659521955043721200,
+		"in_reply_to_status_id_str": "1659521955043721216",
+		"in_reply_to_user_id": 1813991,
+		"in_reply_to_user_id_str": "1813991",
+		"in_reply_to_screen_name": "leilathebrave",
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, kid mutterin 'the power of pizza compels you'",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 590,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "qme",
+		"text": "@leilathebrave ❤️❤️🥰💐"
+	},
+	{
 		"created_at": "Thu May 18 22:09:17 +0000 2023",
 		"id": 1659320277241667600,
 		"id_str": "1659320277241667588",
