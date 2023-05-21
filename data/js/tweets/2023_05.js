@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 20 20:00:16 +0000 2023",
+		"id": 1660012583217135600,
+		"id_str": "1660012583217135622",
+		"full_text": "showing kiddos THE SIXTH SENSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, here. comes. your bedtime story",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1267,
+			"friends_count": 588,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "showing kiddos THE SIXTH SENSE"
+	},
+	{
+		"created_at": "Sat May 20 19:49:07 +0000 2023",
+		"id": 1659965932352012300,
+		"id_str": "1660009777143992321",
+		"full_text": "BREAKING: Late last night, a judge ruled that Harrison County Schools can bar our client, a trans girl, from attending her high school graduation unless she wears boy’s clothes - socks, dress shoes, pants, a button down shirt and tie.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44719544,
+			"id_str": "44719544",
+			"name": "ACLU of Mississippi",
+			"screen_name": "ACLU_MS",
+			"location": "Mississippi",
+			"description": "The ACLU of Mississippi is a nonprofit, nonpartisan organization dedicated to promoting, defending and extending civil liberties to all Mississippians.",
+			"url": "https://t.co/0Poz3Et8Fr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Poz3Et8Fr",
+							"expanded_url": "http://www.aclu-ms.org",
+							"display_url": "aclu-ms.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6106,
+			"friends_count": 1076,
+			"listed_count": 169,
+			"created_at": "Thu Jun 04 20:59:42 +0000 2009",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465523861160665096/qO8gW1is_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465523861160665096/qO8gW1is_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44719544/1507558611",
+			"profile_link_color": "0D4A76",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2645,
+		"favorite_count": 10227,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: Late last night, a judge ruled that Harrison County Schools can bar our client, a trans girl, from attending her high school graduation unless she wears boy’s clothes - socks, dress shoes, pants, a button down shirt and tie."
+	},
+	{
+		"created_at": "Sat May 20 18:31:35 +0000 2023",
+		"id": 1659990267829657600,
+		"id_str": "1659990267829657602",
+		"full_text": "practice SHSAT on a saturday like a bunch of nerds https://t.co/vbTimOddpH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1659990231683137500,
+					"id_str": "1659990231683137536",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwl4UhoXgAA1ZWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwl4UhoXgAA1ZWm.jpg",
+					"url": "https://t.co/vbTimOddpH",
+					"display_url": "pic.twitter.com/vbTimOddpH",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1659990267829657602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659990231683137500,
+					"id_str": "1659990231683137536",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwl4UhoXgAA1ZWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwl4UhoXgAA1ZWm.jpg",
+					"url": "https://t.co/vbTimOddpH",
+					"display_url": "pic.twitter.com/vbTimOddpH",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1659990267829657602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1659990231670485000,
+					"id_str": "1659990231670484993",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwl4UhlWcAEH40f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwl4UhlWcAEH40f.jpg",
+					"url": "https://t.co/vbTimOddpH",
+					"display_url": "pic.twitter.com/vbTimOddpH",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1659990267829657602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1659990256488263700,
+					"id_str": "1659990256488263688",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwl4V-CXsAg05P5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwl4V-CXsAg05P5.jpg",
+					"url": "https://t.co/vbTimOddpH",
+					"display_url": "pic.twitter.com/vbTimOddpH",
+					"expanded_url": "https://twitter.com/KevinLFerguson/status/1659990267829657602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359023788,
+			"id_str": "359023788",
+			"name": "kev, here. comes. your bedtime story",
+			"screen_name": "KevinLFerguson",
+			"location": "Brooklyn",
+			"description": "🫀",
+			"url": "https://t.co/CZSN5IiorI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZSN5IiorI",
+							"expanded_url": "http://filmvis.tumblr.com",
+							"display_url": "filmvis.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1267,
+			"friends_count": 588,
+			"listed_count": 43,
+			"created_at": "Sat Aug 20 22:13:23 +0000 2011",
+			"favourites_count": 30458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658172646566002689/fMCTRxw9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359023788/1462625620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "practice SHSAT on a saturday like a bunch of nerds https://t.co/vbTimOddpH"
+	},
+	{
+		"created_at": "Sat May 20 15:23:21 +0000 2023",
+		"id": 1659923970374738000,
+		"id_str": "1659942898220126209",
+		"full_text": "https://t.co/eAADP2wMtz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1659923966788530200,
+					"id_str": "1659923966788530177",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwk8DZqWcAEwZEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwk8DZqWcAEwZEc.jpg",
+					"url": "https://t.co/eAADP2wMtz",
+					"display_url": "pic.twitter.com/eAADP2wMtz",
+					"expanded_url": "https://twitter.com/solomonmissouri/status/1659923970374737922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659923966788530200,
+					"id_str": "1659923966788530177",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwk8DZqWcAEwZEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwk8DZqWcAEwZEc.jpg",
+					"url": "https://t.co/eAADP2wMtz",
+					"display_url": "pic.twitter.com/eAADP2wMtz",
+					"expanded_url": "https://twitter.com/solomonmissouri/status/1659923970374737922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1659923601590567000,
+		"in_reply_to_status_id_str": "1659923601590566916",
+		"in_reply_to_user_id": 21063822,
+		"in_reply_to_user_id_str": "21063822",
+		"in_reply_to_screen_name": "solomonmissouri",
+		"user": {
+			"id": 21063822,
+			"id_str": "21063822",
+			"name": "Hi I’m Solomon",
+			"screen_name": "solomonmissouri",
+			"location": "Durham, NC",
+			"description": "Dragon Slayer,bandit,play cousin,not✌🏿good✌🏿, necessary, leader faith community, Beautiful Mess, problem, $smissouri",
+			"url": "https://t.co/A4h4QEzc7g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A4h4QEzc7g",
+							"expanded_url": "https://www.solomonmissouri.com/",
+							"display_url": "solomonmissouri.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57671,
+			"friends_count": 5570,
+			"listed_count": 347,
+			"created_at": "Tue Feb 17 04:25:41 +0000 2009",
+			"favourites_count": 39567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 596205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1493440915062595589/yxva1L8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1493440915062595589/yxva1L8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21063822/1348104282",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/eAADP2wMtz"
+	},
+	{
 		"created_at": "Sat May 20 02:06:04 +0000 2023",
 		"id": 1659739121919619000,
 		"id_str": "1659742252657266689",
@@ -1381,7 +1995,7 @@ Grailbird.data.tweets_2023_05 =
 			"user_mentions": [
 				{
 					"screen_name": "paulduanefilm",
-					"name": "Paul Duane 🏳️‍⚧️",
+					"name": "Paul Duane 🏳️⚧️",
 					"id": 1279512071873409000,
 					"id_str": "1279512071873409024",
 					"indices": [
